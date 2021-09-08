@@ -1,0 +1,65 @@
+---
+title: Platzierung an ein Paket anhängen
+description: Erfahren Sie, wie Sie eine Platzierung an ein Paket anhängen.
+feature: Packages
+exl-id: 443aa1a3-c8b9-4949-87be-5a37e67f00a8
+source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+workflow-type: tm+mt
+source-wordcount: '197'
+ht-degree: 1%
+
+---
+
+# Platzierung an ein Paket anhängen
+
+## Eine neue Platzierung aus der [!UICONTROL Placements]-Ansicht anhängen
+
+1. Klicken Sie im Hauptmenü auf **[!UICONTROL Campaigns]**.
+
+1. Klicken Sie auf den Namen der Kampagne, in der Sie das Paket erstellen möchten, und klicken Sie dann auf den Paketnamen.
+
+1. Klicken Sie oben rechts auf **[!UICONTROL Create]** und wählen Sie den Platzierungstyp aus.
+
+   Das ausgewählte Paket wird automatisch in den Platzierungseinstellungen ausgewählt.
+
+1. Geben Sie die verbleibenden [Platzierungseinstellungen](/help/dsp/campaign-management/placements/placement-settings.md) ein und klicken Sie dann auf **[!UICONTROL Create Placement]**.
+
+## Eine neue oder vorhandene Platzierung aus der [!UICONTROL Packages]-Ansicht anhängen
+
+1. Klicken Sie im Hauptmenü auf **[!UICONTROL Campaigns]**.
+
+1. Klicken Sie auf den Namen der Kampagne, um die Ansicht [!UICONTROL Packages] zu öffnen.
+
+1. Klicken Sie neben dem Paketnamen auf **[!UICONTROL ...]> [!UICONTROL Attach a Placement].**.
+
+1. Führen Sie einen der folgenden Schritte aus:
+
+   * So erstellen Sie eine neue Platzierung:
+
+      1. Klicken **[!UICONTROL Create New Placement]**.
+
+      1. Wählen Sie den Anzeigentyp für die Platzierung aus und klicken Sie auf **[!UICONTROL Build this placement]**.
+
+      1. Geben Sie die [Platzierungseinstellungen](/help/dsp/campaign-management/placements/placement-settings.md) ein und klicken Sie dann auf **[!UICONTROL Create Placement]**.
+   * So fügen Sie eine vorhandene Platzierung in die Kampagne hinzu:
+
+      >[!NOTE]
+      >
+      >Jede Platzierung kann in nur einem Paket enthalten sein. Es werden nur Platzierungen aufgelistet, die noch nicht in einem Paket enthalten sind.
+
+      1. Klicken **[!UICONTROL Select a Placement].**
+
+      1. Klicken Sie neben dem Platzierungsnamen auf **[!UICONTROL Select].**.
+
+      1. (Optional) Klicken Sie für jede zusätzliche Platzierung, die Sie anhängen möchten, auf **[!UICONTROL Attach Another Placement]** und wiederholen Sie dann die Schritte 1-2.
+
+      1. Klicken **[!UICONTROL I'm done for now]**.
+
+
+>[!MORELIKETHIS]
+>
+>* [Über Package Management](package-about.md)
+>* [Erstellen eines Pakets](package-create.md)
+>* [Paketeinstellungen](package-settings.md)
+>* [Platzierungseinstellungen](/help/dsp/campaign-management/placements/placement-settings.md)
+
