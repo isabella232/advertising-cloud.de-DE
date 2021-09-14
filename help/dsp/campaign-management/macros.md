@@ -3,9 +3,9 @@ title: Advertising Cloud DSP Makros
 description: Referenzieren Sie die verfügbaren Makros für das allgemeine Tracking und zur Verfolgung von Klicks auf Display-Anzeigen von Drittanbietern.
 feature: Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
-source-git-commit: 185fc7d79798a0a3a9ad5829b701aeb53a4a47c1
+source-git-commit: e0166dbad4fec41fdc64a65cb3a8ac97496c681f
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,9 @@ Wenn beim Erstellen einer Display-Anzeige ein Klickmakro fehlt, zeigt DSP eine W
 >[!MORELIKETHIS]
 >
 >* [Audio-Anzeigeneinstellungen](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [Audio-Anzeigeneinstellungen](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [Audio-Anzeigeneinstellungen](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [Audio-Anzeigeneinstellungen](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [Audio-Anzeigeneinstellungen](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [Audio-Anzeigeneinstellungen](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [Einstellungen für Connected TV-Anzeigen](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [Anzeigeeinstellungen](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [Einstellungen für mobile Anzeigen](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [Native Anzeigeneinstellungen](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [Pre-Roll-Anzeigeneinstellungen](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
 
