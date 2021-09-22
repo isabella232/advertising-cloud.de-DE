@@ -1,9 +1,9 @@
 ---
 title: Benutzerspezifischen Bericht duplizieren
 description: Erfahren Sie, wie Sie einen benutzerspezifischen Bericht erstellen, indem Sie einen vorhandenen Bericht duplizieren.
-feature: Custom Reports
+feature: DSP Custom Reports
 exl-id: null
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 1%
