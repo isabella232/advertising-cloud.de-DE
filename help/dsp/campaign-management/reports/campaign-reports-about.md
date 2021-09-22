@@ -3,9 +3,9 @@ title: Über In-Platform-Berichte
 description: Erfahren Sie mehr über die Berichtsdaten in den Kampagnenverwaltungsansichten.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: c1441fb6fddf56a0f0346a967da49efa0fb602ff
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -62,6 +62,24 @@ Für jede Platzierung können Sie [eine (Detailansicht [!UICONTROL Inspector])](
    * die geschätzte eindeutige Anzahl von Geräten/Browsern oder Personen (abhängig von der angegebenen [!UICONTROL Cross Device Level] für die Platzierung), die Impressionen auf der angegebenen Frequenzebene erhalten haben
    * die geschätzte Anzahl von Impressionen auf der angegebenen Frequenzebene
    * die geschätzte Durchschnittshäufigkeit für das angegebene Frequenzniveau. Dieser Wert ist gleich (Geschätzte Impressionen)/(Geschätzte Individuen).
+
+* **[!UICONTROL Inventory]:** Informationen zu allen Angeboten, die von der Platzierung in einer einzigen Ansicht angesprochen werden.
+
+Die Registerkarte &quot;Bestand&quot;enthält Such- und Filterfunktionen, dieselben standardmäßigen und benutzerdefinierten Spaltenansichtsoptionen, die auf der Hauptseite verfügbar sind, und Schnellaktionsschaltflächen in jeder Zeile, z. B. Bericht bearbeiten und anzeigen. Die Registerkarte Bestand hilft bei der schnellen Fehlerbehebung, indem Leistungsstatistiken wie Auktionen, Angebote, Win Rate usw. angezeigt werden.
+
+# Fehlerbehebung beim Inventar
+
+| Problem | Mögliche Ursache | Maßnahmen |
+| -----------| ---------- | ---------- |
+| [!UICONTROL Zero Auctions] | Publisher hat noch nicht begonnen, Angebotsanfragen zu senden | Wenden Sie sich an den Herausgeber, um den Deal zu aktivieren. |
+|  | Probleme bei der Deal-Einrichtung, wie die Eingabe einer falschen externen Deal-ID usw. | Bestätigen Sie die Geschäftsdetails und bearbeiten Sie den Deal. |
+| [!UICONTROL Non-zero Auctions but no Bids] | Das Platzierungs-Targeting stimmt nicht mit den eingehenden Angebotsanfragen aus dem Deal überein. <br><br> Beispielsweise könnte die Platzierung auf ein anderes geografisches Ziel ausgerichtet sein, als laut Deal erforderlich ist | Bearbeiten Sie die Platzierungseinstellungen entsprechend, um Targeting-Inkongruenzen bei Angeboten zu vermeiden. |
+|  | Die Platzierung verfügt nicht über eine aktive Anzeige oder einen korrekten Medientyp, wie er für das Geschäft erforderlich ist | Erstellen/Anhängen einer Anzeige mit dem richtigen Medientyp an die Platzierung |
+|  | Die Platzierung verfügt über kein angemessenes Budget | Bearbeiten Sie das Platzierungsbudget entsprechend, um ein Angebot für eingehende Anforderungen zu ermöglichen |
+|  | Platzierungsflugdaten überschneiden sich nicht mit den Impressions-Sendedaten gemäß Deal | Bearbeiten der Flugdaten für die Platzierung |
+| [!UICONTROL Low Win Rate] | Das maximale Angebot an Platzierung wird unter dem für den Deal erforderlichen Minimum (Untergrenze oder festes Untergrenze) gesetzt. | Max. Angebot bei Platzierung passend bearbeiten |
+|  | Die Platzierung verwendet Filter vor dem Angebot, die | Verringern Sie die Schwellenwerte für Filter vor dem Angebot, um mehr Gebote zu ermöglichen. |
+|  | Zielgruppen-Targeting bei Platzierung ist zu restriktiv | Überprüfen Sie, ob die angegebenen Zielgruppen genügend aktive Benutzer haben, und erweitern Sie die Zielgruppe nach Möglichkeit |
 
 ![Platzierungsinspektor](/help/dsp/assets/placement-inspector-sites.png)
 
