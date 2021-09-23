@@ -3,9 +3,9 @@ title: Informationen zur Platzierungsverwaltung in Advertising Cloud DSP
 description: Erfahren Sie mehr über die Platzierungsverwaltung.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: 9d35b366122cab460e8d563b36597926ed71b6b0
+source-git-commit: 4a30463e9cb5783beab0ea3fa6989089e7f90457
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Das Dashboard enthält ein übergeordnetes, anpassbares Trenddiagramm mit drei M
 
 Im Dashboard werden standardmäßig auch Geschwindigkeit- und Versandmetriken nach Platzierung angezeigt. Sie können optional Leistungsmetriken für die Platzierungen anzeigen und benutzerdefinierte Spaltensätze erstellen. Sie können die gesamte Datentabelle als Bericht in den standardmäßigen Download-Ordner Ihres Browsers im XLSM-Format (Excel-Tabelle mit Makros) herunterladen.
 
-Für jede Platzierung können Sie eine detaillierte Ansicht ([the [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md)) öffnen, die Leistungsmetriken, Geschwindigkeit- und Bereitstellungsmetriken sowie benutzerdefinierte Spaltensätze nach Site, Anzeige und Bestand enthält. und Frequenzmetriken. Sie können auch Schnellaktionen für die eingeschlossenen Sites, Anzeigen und Inventare durchführen, z. B. eine Site ausschließen, eine Anzeige aussetzen oder ein Geschäft bearbeiten. Um den Inspektor zu öffnen, halten Sie den Cursor über die Platzierungszeile, klicken Sie auf **[!UICONTROL More]** und klicken Sie dann auf **[!UICONTROL Sites]**, **[!UICONTROL Ads]**, **[!UICONTROL Frequency]** oder **[!UICONTROL Inventory]**. Sie können die Daten auf den Registerkarten [!UICONTROL Sites], [!UICONTROL Ads], [!UICONTROL Frequency] oder [!UICONTROL Inventory] als Bericht im XLSM-Format in den standardmäßigen Download-Ordner Ihres Browsers exportieren.
+Für jede Platzierung können Sie eine Detailansicht ([the [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md)) öffnen, die Leistungsmetriken, Geschwindigkeit- und Bereitstellungsmetriken sowie benutzerdefinierte Spaltensätze nach Site und Anzeige enthält. und Frequenzmetriken. Sie können auch Schnellaktionen für die eingeschlossenen Sites und Anzeigen durchführen, z. B. das Ausschließen einer Site oder das Anhalten einer Anzeige. Um den Inspektor zu öffnen, halten Sie den Cursor über die Platzierungszeile, klicken Sie auf **[!UICONTROL More]** und klicken Sie dann auf **[!UICONTROL Sites]**, **[!UICONTROL Ads]** oder **[!UICONTROL Frequency]**. Sie können die Daten auf den Registerkarten [!UICONTROL Sites], [!UICONTROL Ads] oder [!UICONTROL Frequency] als Bericht im XLSM-Format in den standardmäßigen Download-Ordner Ihres Browsers exportieren.
 
 >[!NOTE]
 >
