@@ -3,16 +3,16 @@ title: Anzeigen von Sites, Anzeigen und Frequenzdetails für eine Platzierung
 description: Erfahren Sie, wie Sie die zielgerichteten Sites, Anzeigen und Häufigkeitsdaten für eine Platzierung anzeigen.
 feature: DSP Placements
 exl-id: 99bb4a4e-dc52-4130-87c4-5458e25bbc1e
-source-git-commit: b91255255d2718b56f41aabd8c1babe52aa32abc
+source-git-commit: 14c484de177a6c5e3d4976076ecdbc4fa9086606
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-# Anzeigen von Sites, Anzeigen, Häufigkeit und Inventardetails für eine Platzierung
+# Anzeigen von Sites, Anzeigen und Frequenzdetails für eine Platzierung
 
-Die Platzierung [!UICONTROL Inspector] listet alle Targeting-Sites, Anzeigen und Angebote in einer Platzierung auf. Sie enthält auch Frequenzdaten für die Platzierung.
+Die Platzierung [!UICONTROL Inspector] listet alle Targeting-Sites und alle Anzeigen in einer Platzierung auf. Sie enthält auch Frequenzdaten für die Platzierung.
 
 1. Öffnen Sie die Platzierungsansicht für die übergeordnete Kampagne oder das übergeordnete Paket:
 
@@ -31,7 +31,6 @@ Die Platzierung [!UICONTROL Inspector] listet alle Targeting-Sites, Anzeigen und
    * Um alle Sites anzuzeigen, auf die die Platzierung ausgerichtet ist, klicken Sie auf **[!UICONTROL Sites]**.
    * Um alle Anzeigen in der Platzierung anzuzeigen, klicken Sie auf **[!UICONTROL Ads]**.
    * Um die Frequenzdaten für die Platzierung anzuzeigen, klicken Sie auf **[!UICONTROL Frequency]**.
-   * Klicken Sie auf **[!UICONTROL Inventory]**, um alle Angebote anzuzeigen, auf die die Platzierung ausgerichtet ist.
 
 1. (Optional) [Ändern Sie die Spaltenansicht](column-view-change.md) nach Bedarf, um die erforderlichen Metriken anzuzeigen.
 
