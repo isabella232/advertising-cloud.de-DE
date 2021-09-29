@@ -3,9 +3,9 @@ title: Markensicherheit und Medienqualität
 description: Erfahren Sie mehr über Markensicherheit und Medienqualitätsmerkmale.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 3cc617092f38d20bd01e487c985bb1d05c167506
+source-git-commit: cebe80fa8ed4f6410a7ea3ee7be6e0bf03631a49
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1266'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Neben dem zentralen Qualitätsmanagement möchten wir Werbetreibende in die Lage
 
 ### Lagerbestandsüberprüfung mit [!DNL Ads.txt] Unterstützung
 
-[[!DNL Ads.txt]], was für [!DNL Authorized Digital Sellers](https://iabtechlab.com/ads-txt) steht, ist eine Initiative, die von der [!DNL Interactive Advertising Bureau] ([!DNL IAB]) im Juni 2017 eingeleitet wurde, um die ordnungsgemäße Darstellung des Bestands auf dem offenen Markt zu erleichtern und damit illegale Quellen des Traffics und der Domain-Spoofing zu bekämpfen. Beteiligte Herausgeber und Distributoren erklären öffentlich die Unternehmen, die zum Verkauf ihres digitalen Bestands berechtigt sind, sowie die Art dieser Beziehungen, indem sie eine `ads.txt` -Seite auf oberster Ebene der Domain verwalten (z. B. `example.com/ads.txt`).
+[[!DNL Ads.txt], which stands for [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) ist eine Initiative, die von  [!DNL Interactive Advertising Bureau] ([!DNL IAB]) im Juni 2017 eingeleitet wurde, um die ordnungsgemäße Darstellung des Bestands auf dem offenen Markt zu erleichtern und damit illegale Quellen des Verkehrs und der Domain-Spoofing zu bekämpfen. Beteiligte Herausgeber und Distributoren erklären öffentlich die Unternehmen, die zum Verkauf ihres digitalen Bestands berechtigt sind, sowie die Art dieser Beziehungen, indem sie eine `ads.txt` -Seite auf oberster Ebene der Domain verwalten (z. B. `example.com/ads.txt`).
 
 DSP unterstützt [!DNL ads.txt], indem die `ads.txt`-Datei jedes Herausgebers gelesen wird und Sie die Möglichkeit erhalten, nur bei verifizierten [!DNL ads.txt]-Verkäufern zu kaufen. Wenn wir beispielsweise die Verkäufer, auf die wir zugreifen können, mit der Datei `nytimes.com` der New York Times `ads.txt` abgleichen, können wir ermitteln, welche rechtmäßig sind und welche nicht, und wir blockieren die Täter, wenn die Platzierung so konfiguriert ist, dass sie nur bei verifizierten Verkäufern gekauft wird. <!-- can we actually mention NY Times? -->
 
