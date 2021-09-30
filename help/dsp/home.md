@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 61a5739a4f208cd0e9106015347570d66225c9bd
+source-git-commit: 4a70d7f8514531618dec257a1c0d32beabc03b51
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,11 @@ Die folgenden Funktionen sind neu oder kürzlich geändert worden.
 
 | Datum | Funktion | Beschreibung | Weitere Informationen |
 | ---- | ------- | ----------- | -------------------- |
+| 30. September 2021 | Markensicherheit | (Version vom 22. September) [!DNL DoubleVerify] Produkte zur Markensicherheit vor dem Angebot wurden auf [!DNL Brand Suitability Tiers] aktualisiert, sodass Werbetreibende zwischen drei Risikostufen (niedrig, mittel und hoch) für bestimmte Segmente wählen können, ohne alle Instanzen eines bestimmten Themas zu vermeiden. Bisher waren in den Segmenten keine Toleranzwerte enthalten. | — |
+|  | Optimierung | Die folgenden Optimierungsziele und Filter vor dem Angebot wurden eingestellt:<ul><li>Optimierungsziele:<ul><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – GroupM)]</li><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – MRC)]</li></ul><li>Ziele von Vorab-Angebotsfiltern:<ul><li>[!UICONTROL Viewability IAS]</li><li>[!UICONTROL Viewability Moat]</li></ul></ul> | Siehe &quot;[Optimierungsziele und deren Verwendung](/help/dsp/optimization/optimization-goals.md)&quot;und &quot;[Vorab-Angebotsfilter auf Platzierungsebene und deren Verwendung](/help/dsp/optimization/optimization-pre-bid-filters.md)&quot;. |
 | 28. September 2021 | Ansichten der Kampagnenverwaltung | Eine Spalte &quot;[!UICONTROL Creation date]&quot;ist jetzt in benutzerdefinierten Spaltensätzen für die Ansichten [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements] und [!UICONTROL Ads] verfügbar. Sie können die Ansichten [!UICONTROL Placements] und [!UICONTROL Ads] auch nach [!UICONTROL Creation date] filtern. | Siehe &quot;[Benutzerdefinierte Spaltenansicht erstellen](/help/dsp/campaign-management/reports/column-view-create.md)&quot;und &quot;[Kampagnendaten filtern](/help/dsp/campaign-management/reports/campaign-data-filter.md)&quot;. |
-|  | Programmgarantierte Vereinbarungen | Sie können jetzt [!UICONTROL Max Bid] für die Standardplatzierung für einen programmgesteuerten garantierten (PG) Deal bearbeiten. Da jedoch PG-Geschäfte immer einen festen CPM haben, sollten nur internationale Kunden den [!UICONTROL Max Bid] bearbeiten, um Währungswechselgebühren zu berücksichtigen. | — |
-|  |  | Benutzer mit der Berechtigung &quot;[!DNL FreeWheel Programmatic Guaranteed]&quot;können jetzt eine Anzeige von der [!UICONTROL Ads]-Ansicht oder der [!UICONTROL Placements]-Ansicht an [!DNL FreeWheel Programmatic Creative API] senden. Sie können eine Anzeige weiterhin über die [!UICONTROL Deals] -Ansicht senden. | —<!-- Add link to page on submitting ads to Freewheel once it's edited. --> |
+|  | Programmgarantierte Vereinbarungen | (Version vom 8. September) Sie können jetzt den [!UICONTROL Max Bid] für die Standardplatzierung für einen programmgesteuerten garantierten (PG) Deal bearbeiten. Da jedoch PG-Geschäfte immer einen festen CPM haben, sollten nur internationale Kunden den [!UICONTROL Max Bid] bearbeiten, um Währungswechselgebühren zu berücksichtigen. | — |
+|  |  | (Version vom 8. September) Benutzer mit der Berechtigung &quot;[!DNL FreeWheel Programmatic Guaranteed]&quot;können jetzt eine Anzeige an [!DNL FreeWheel Programmatic Creative API] von der [!UICONTROL Ads]-Ansicht oder der [!UICONTROL Placements]-Ansicht aus senden. Sie können eine Anzeige weiterhin über die [!UICONTROL Deals] -Ansicht senden. | —<!-- Add link to page on submitting ads to Freewheel once it's edited. --> |
 | 11. August 2021 | Sichtbarkeit vor Gebot | Für Ihre Platzierungen sind jetzt Pre-Gebot-Sichtbarkeitsfilter aus [!DNL Oracle Advertising (Moat)] verfügbar. | Weitere Informationen zu [Drittanbieterintegrationen für die Sichtbarkeit vor dem Gebot](/help/dsp/introduction/features/brand-safety-media-quality.md#pre-bid-viewability) und &quot;[Vorangebotsfilter auf Platzierungsebene und deren Verwendung](/help/dsp/optimization/optimization-pre-bid-filters.md)&quot;. |
 | 15. Juli | Hilfe | Es wurden Details darüber hinzugefügt, wie Advertising Cloud DSP Kundenkonten für den Kauf von Medien und Dienstleistungen finanziert. | Siehe &quot;[Kontofinanzierung](/help/dsp/introduction/billing/account-funding.md)&quot;. |
 | 12. Juni 2021 | Hilfe | Die Anzeigenrichtlinien wurden aktualisiert. | Siehe &quot;[Adobe Advertising Cloud Ad Requirements Policy](/help/policies/ad-requirements-policy.md)&quot;. |
