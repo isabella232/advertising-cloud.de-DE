@@ -2,7 +2,7 @@
 title: Verfügbar [!DNL Advanced Measurement Solutions]
 description: Sehen Sie sich eine Liste der verfügbaren Lösungen für erweiterte Messungen an.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: 216d316abe7fcc5bc04ae7cca211e2f11cc1e589
+source-git-commit: 209dfce05228be879d9ba744590ff52ce572a807
 workflow-type: tm+mt
 source-wordcount: '508'
 ht-degree: 0%
@@ -35,8 +35,7 @@ Die folgenden Lösungspakete für Messungen sind verfügbar, um den Erfolg Ihrer
 * Personenbezogene Reichweite
 Erfahren Sie, wie sich Zielgruppen und Taktiken auf der Ebene von Personen überschneiden, einschließlich der Belichtung über mehrere digitale Umgebungen hinweg, z. B. Desktop, Mobilgeräte, native und Audio.
 
-* ・	[!DNL Dynata] Panel-basierte Umfragen
-Führen Sie Kontroll-/exponierte Umfragen durch, um die Auswirkungen der Anzeigenbelichtung auf Metriken wie Bewusstsein, Vertrautheit und Absicht zu ermitteln.
+* [!DNL Dynata] Panel-basierte Umfragen führen Kontroll-/exponierte Umfragen durch, um die Auswirkungen der Anzeigenbelichtung auf Metriken wie Bewusstsein, Vertrautheit und Absicht zu ermitteln.
 
 * Fußdatenverkehr
 
@@ -55,6 +54,7 @@ Vergleichen Sie das Verhalten und Sentiment randomisierter, sich gegenseitig aus
 ## So finden Sie die perfekte Messgröße: Lösungen nach Vertikal
 
 ### Alle Vertikalen
+
 * Experiment-Designer (Placebo und A/B-Tests)
 * Personenbezogene Reichweite
 Jede Organisation, die mehrere digitale Taktiken messen möchte; Organisationen, die den Wert von Audio präsentieren möchten
@@ -66,10 +66,12 @@ Jeder Kunde, der die Reichweite/inkrementelle Reichweite und kostenbasierte Effi
 Jeder Kunde, der das Markenbewusstsein und die Wahrnehmung seiner Marke auf mehreren Bildschirmen messen möchte; am besten für Nischenzielgruppen geeignet
 
 ### QSR, Einzelhandel (Brick und Mortar)
+
 * Transaktionsmessung
 * Foot Traffic Measurement
 
 ### QSR, Einzelhandel, Reisen
+
 * Transaction Insights
 Jeder Kunde, der einen bestimmten Typ von Käufer erreichen möchte, um In-Store- und Online-Verkäufe zu führen
 
