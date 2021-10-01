@@ -4,11 +4,11 @@ role: User, Admin
 cloud: Experience Cloud
 solution: Advertising Cloud
 product: advertising cloud
-user-guide-title: Advertising Cloud DSP-Anleitung
+user-guide-title: Handbuch zu Advertising Cloud DSP
 user-guide-description: Erfahren Sie mehr über die wichtigsten Funktionen, Aufgaben, Einstellungen und anderen Ressourcen, die für die Verwaltung, Optimierung und Berichterstellung Ihrer Display-Anzeigenstrategien mit Advertising Cloud DSP erforderlich sind.
-breadcrumb-title: DSP-Handbuch
+breadcrumb-title: Handbuch zu DSP
 index: true
-source-git-commit: acc5b7bb719b655d8b019eee3b5783fec49af0b9
+source-git-commit: e41938befafe54da1466e8faab08f1d7a263f4e0
 workflow-type: tm+mt
 source-wordcount: '738'
 ht-degree: 3%
@@ -16,7 +16,7 @@ ht-degree: 3%
 ---
 
 
-# Advertising Cloud DSP-Anleitung {#dsp}
+# Handbuch zu Advertising Cloud DSP {#dsp}
 
 + [Neue Funktionen](/help/dsp/home.md)
 + Einführung {#introduction}
@@ -35,7 +35,7 @@ ht-degree: 3%
       + [Richtlinie zu Anzeigenanforderungen](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
       + [Richtlinien für zulässige Gesundheitssegmente](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] Richtlinien zur Datennutzung](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
-   + [Verfügbar [!DNL Advanced Measurement Services]](/help/dsp/introduction/advanced-measurement-services.md)
+   + [Verfügbar [!DNL Advanced Measurement Solutions]](/help/dsp/introduction/advanced-measurement-services.md)
 + Kampagnenverwaltung {#campaign-management}
    + [Übersicht über die Struktur der Kampagnenverwaltung](/help/dsp/campaign-management/campaign-management-overview.md)
    + Kampagnen {#campaigns}

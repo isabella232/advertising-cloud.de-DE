@@ -3,7 +3,7 @@ title: Erstellen einer Platzierung
 description: Erfahren Sie, wie Sie eine Platzierung erstellen.
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 608774723f865c22bfdd5c911ac818600a495114
 workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 1%
@@ -29,7 +29,8 @@ ht-degree: 1%
    1. Geben Sie die Einstellungen für [!UICONTROL Basics] an.
 
    1. Geben Sie im Abschnitt [!UICONTROL Goals] die [!UICONTROL Gross Budget] und optional zusätzliche Platzierungsziele an.
-Einige Felder verfügen über Standardwerte, die Sie überschreiben können.
+
+      Einige Felder verfügen über Standardwerte, die Sie überschreiben können.
 
       Wenn das Paket, dem die Platzierung zugewiesen wird, über Geschwindigkeit auf Paketebene verfügt, spiegeln Ihre Ziele und Schritteinstellungen die Paketeinstellungen wider.
 
