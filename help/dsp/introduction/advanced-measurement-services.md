@@ -2,9 +2,9 @@
 title: Verfügbar [!DNL Advanced Measurement Solutions]
 description: Sehen Sie sich eine Liste der verfügbaren Lösungen für erweiterte Messungen an.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: 209dfce05228be879d9ba744590ff52ce572a807
+source-git-commit: d25e768fe5d277ef8d1c9ae7531b7a7d3c563622
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -77,4 +77,4 @@ Jeder Kunde, der einen bestimmten Typ von Käufer erreichen möchte, um In-Store
 
 ## Weitere Informationen
 
-Um mehr über die Nutzung erweiterter Messungsdienste zu erfahren, um eine benutzerdefinierte Lernagenda für Ihre Kampagne zu erstellen, einschließlich regionaler Einschränkungen und Preisgestaltung, wenden Sie sich an das [!DNL Adobe Strategic Advertising Consultants]-Team unter [!DNL asg@adobe.com].
+Um mehr über die Nutzung erweiterter Messlösungen zu erfahren, um eine benutzerdefinierte Lernagenda für Ihre Kampagne zu erstellen, einschließlich der messbaren Formate, regionalen Einschränkungen und der Preise für jedes Paket, wenden Sie sich an das [!DNL Adobe Strategic Advertising Consultants]-Team unter [!DNL asg@adobe.com].
