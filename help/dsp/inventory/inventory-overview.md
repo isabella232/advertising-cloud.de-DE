@@ -3,9 +3,9 @@ title: Übersicht über die Lagerbestandsfunktionen in Advertising Cloud DSP
 description: Erfahren Sie mehr über die verfügbaren Inventarfunktionen.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 582823095b8d41876676f3f06489030d9950173f
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Erkunden Sie vorverhandelte, nicht garantierte Angebote, die die Adobe mit unser
 
 ### Privates Inventar
 
-Richten Sie private Marketplace-Angebote (PMPs) ein und verwalten Sie diese. Dabei handelt es sich um Angebote, die Sie direkt mit dem Herausgeber ausgehandelt haben, sodass ein oder mehrere Advertiser in Ihrem Konto auf sie abzielen können. Führen Sie diese Geschäfte über Deal-IDs oder VAST (Video Ad Serving Template)-Tags aus. Sie können nicht garantierte PMPs einrichten oder programmatisch garantierte (PG) IDs mit ausgewählten SSPs einrichten.
+Richten Sie private Marketplace-Angebote (PMPs) ein und verwalten Sie diese. Dabei handelt es sich um Angebote, die Sie direkt mit dem Herausgeber ausgehandelt haben, sodass ein oder mehrere Advertiser in Ihrem Konto auf sie abzielen können. Führen Sie diese Geschäfte über Deal-IDs aus. Sie können nicht garantierte PMPs einrichten oder programmatisch garantierte (PG) IDs mit ausgewählten SSPs einrichten.
 
 ### Einfaches Ad Serving
 
-[!DNL Simple Ad Serving] ist eine optimierte Technologie für garantierte, nicht entschlossene Anzeigenbereitstellung und -berichterstellung. Verwenden Sie [!DNL Simple Ad Serving] , wenn Ihr Herausgeber Ihr Geschäft nicht über Deal-IDs ausführen kann. Das Targeting, die Budgetplatzierung und -begrenzung sowie die Frequenzlimitierung werden vom Herausgeber verarbeitet. Führen Sie diese Angebote über Anzeigen-Tags oder Ereignispixel aus.
+[!DNL Simple Ad Serving] ist eine optimierte Technologie für garantierte, nicht entschlossene Anzeigenbereitstellung und -berichterstellung. Verwenden Sie [!DNL Simple Ad Serving] , wenn Ihr Herausgeber Ihr Geschäft nicht über Deal-IDs ausführen kann. Das Targeting, die Budgetplatzierung und -begrenzung sowie die Frequenzlimitierung werden vom Herausgeber verarbeitet. Führen Sie diese Geschäfte über Ereignisverfolgungspixel aus.
 
 >[!MORELIKETHIS]
 >
