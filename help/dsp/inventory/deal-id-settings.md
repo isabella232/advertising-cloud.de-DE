@@ -3,9 +3,9 @@ title: Manuelle Deal-ID-Einstellungen
 description: Siehe Beschreibungen der Einstellungen für manuell eingegebene Angebots-IDs.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 0cd5e9e8-2b13-4b1e-a2e0-b8b492f75acf
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: c3d0783078adc8afafb55d6b6e7e48cdc875ce7c
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 |  | [!UICONTROL External deal ID] | Die ID, die von Ihrem Herausgeber und der SSP zur Identifizierung dieses Geschäfts verwendet wird. | Ja | Nein |
 |  | [!UICONTROL Publisher] | Der Name des Herausgebers, der diesen Bestand verkauft. | Ja | Nein |
 |  | [!UICONTROL SSP] | Die angebotsseitige Plattform (Supply Side Platform, SSP), über die diese Vereinbarung durchgeführt wird. | Ja | Nein |
-|  | [!UICONTROL Media type] | Die Art der Medien, die durch diesen Deal gekauft werden: [!UICONTROL Desktop video], [!UICONTROL Mobile video], [!UICONTROL Connected TV], [!UICONTROL Display] oder [!UICONTROL Audio]. Die Optionen variieren je nach SSP. | Ja | Nein |
+|  | [!UICONTROL Media type] | Die Art der Medien, die durch diesen Deal gekauft werden: [!UICONTROL Desktop video], [!UICONTROL Mobile video], [!UICONTROL Connected TV], [!UICONTROL Display] oder [!UICONTROL Audio]. Die Optionen variieren je nach SSP.<br><br> Wenn das Geschäft mehrere Medientypen zulässt, wählen Sie beim Erstellen des Geschäfts den Medientyp für die Standardplatzierung aus. Später können Sie einen anderen Medientyp auswählen, um eine neue Platzierung mit dem zusätzlichen Medientyp zu erstellen.<!-- It would be ideal if this field was multi-select rather than a radio button, so you don't have to "change" the value later. --> | Ja | Nein |
 |  | [!UICONTROL Deal type] | Die Deal-Zusage und die Preisstruktur:<br><ul><li>*[!UICONTROL Non guaranteed (floor)]*: Sie und der Herausgeber haben keine feste Anzahl von Impressions-Sendungen durchgeführt. In der Vereinbarung wird der Mindestpreis für das Inventar festgelegt, obwohl der CPM je nach Marktbedingungen schwanken und steigen kann.</li><li>*[!UICONTROL Non guaranteed (fixed)]*: Sie und der Herausgeber haben keine feste Anzahl von Impressions-Sendungen durchgeführt. Die Preisfestsetzung erfolgt zu einem vereinbarten Festpreis.</li><li>*[!UICONTROL Guaranteed (fixed)]*: Sie und der Herausgeber haben eine vordefinierte Anzahl von Impressionen, Targeting, Flugdaten und Festpreisen vereinbart.<br><br><b>Hinweis:</b> Für garantierte Angebote sind Flugdaten und eine bestimmte Anzahl von Impressionen im  [!UICONTROL Tracking] Abschnitt erforderlich. Sie müssen außerdem eine standardmäßige programmgarantierte Platzierung (PG) für das Angebot erstellen und optional das Angebot für andere Platzierungen verwenden.</li></ul> | Ja | Nein |
 |  | [!UICONTROL CPM] | Die ausgehandelten Kosten pro Tausend Impressionen (CPM). | Ja | Ja |
 |  | [Währung] | Die Währung für das Geschäft.<br><br>Alle SSPs akzeptieren Angebote in USD. Wenn der SSP die Währung für Ihr DSP-Konto akzeptiert, ist diese Währung ebenfalls verfügbar. | Ja | Nein |
