@@ -3,9 +3,9 @@ title: Kontofinanzierung
 description: Erfahren Sie mehr über die Kontofinanzierung für DSP.
 feature: DSP Introduction
 exl-id: c90e88a7-78dd-402c-baba-9bac360093a4
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 4d3020701caae4218aff2ecb7e7c063afebac4d5
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -26,3 +26,8 @@ Die Finanzierung von Kundenkonten wird nahezu in Echtzeit in [!DNL DSP] aktualis
 ![Verwendbare Mittel für ein Konto](/help/dsp/assets/account-usable-funds.png)
 
 Adobe behält sich das Recht vor, Ihr Konto aus Gründen, die einen Verstoß gegen die DSP [Richtlinie zu Anzeigenanforderungen](/help/policies/ad-requirements-policy.md) oder Datenschutzbestimmungen beinhalten, von DSP zu sperren. Wenn Adobe Ihr Konto blockiert, enthalten Ihre Kontoeinstellungen einen Hinweis zu einer Sperrung. Arbeiten Sie mit Ihrem Advertising Cloud [!DNL Client Services]-Support-Mitarbeiter zusammen, um den Grund für den Baustein zu ermitteln und zu erfahren, wie Sie den Fehler beheben können.
+
+>[!MORELIKETHIS]
+>
+>* [Unterstützte Währungen](/help/dsp/currency.md)
+

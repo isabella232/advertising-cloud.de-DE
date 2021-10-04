@@ -8,9 +8,9 @@ user-guide-title: Handbuch zu Advertising Cloud DSP
 user-guide-description: Erfahren Sie mehr über die wichtigsten Funktionen, Aufgaben, Einstellungen und anderen Ressourcen, die für die Verwaltung, Optimierung und Berichterstellung Ihrer Display-Anzeigenstrategien mit Advertising Cloud DSP erforderlich sind.
 breadcrumb-title: Handbuch zu DSP
 index: true
-source-git-commit: e41938befafe54da1466e8faab08f1d7a263f4e0
+source-git-commit: ba80cbe9d44694c75f2cf46b448130d7bd29e419
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '740'
 ht-degree: 3%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 3%
       + [Markensicherheit und Medienqualität](/help/dsp/introduction/features/brand-safety-media-quality.md)
       + [Geräteübergreifende Lösungen](/help/dsp/introduction/features/cross-device-solutions.md)
    + [Kontofinanzierung](/help/dsp/introduction/billing/account-funding.md)
+   + [Unterstützte Währungen](/help/dsp/currency.md)
    + Unterstützung für den Kundendatenschutz {#privacy}
       + [Unterstützung der Datenschutz-Grundverordnung](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-gdpr.html)
       + Unterstützung für CCPA {#ccpa}
