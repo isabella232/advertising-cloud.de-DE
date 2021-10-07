@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: afdfaed21410fdd1808964d637b5210255af7d81
+source-git-commit: 30521ed6daf38235125acc1f99115bf9f94d6975
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1066'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Die folgenden Funktionen sind neu oder kürzlich geändert worden.
 
 | Datum | Funktion | Beschreibung | Weitere Informationen |
 | ---- | ------- | ----------- | -------------------- |
+| 7. Oktober 2021 | Hilfe | Alle [DSP und andere Advertising Cloud-Dokumentationen](https://experienceleague.adobe.com/docs/advertising-cloud.html) auf [!DNL Experience League] werden jetzt maschinell in alle verfügbaren Sprachen übersetzt. Um die angezeigte Sprache zu ändern, verwenden Sie das Menü &quot;Sprache ändern&quot; unten links auf jeder Seite.<br>![Sprache ändern](/help/dsp/assets/change-language.png) |
 | 30. September 2021 | Markensicherheit | (Version vom 22. September) [!DNL DoubleVerify] Produkte zur Markensicherheit vor dem Angebot wurden auf [!DNL Brand Suitability Tiers] aktualisiert, sodass Werbetreibende zwischen drei Risikostufen (niedrig, mittel und hoch) für bestimmte Segmente wählen können, ohne alle Instanzen eines bestimmten Themas zu vermeiden. Bisher waren in den Segmenten keine Toleranzwerte enthalten.<br><br>DSP migrierte Ihre bestehenden Segmente zur Markensicherheit in das neue, empfohlene Segment auf  [!DNL DoubleVerify] mittlerer ** Ebene, um sie an die neue Segmentstruktur anzupassen. Sie können die Segmentstufe optional auf *low* oder *high* einstellen.<br><br>**Hinweis:** Eine kleine Liste von Segmenten hat keine Ebenen, aber neue Namen wie &quot;Nuisance/Spyware/Malware,Warez&quot;> &quot;Incentivized/Malware/Clutter&quot;. | — |
 |  | Optimierung | Die folgenden Optimierungsziele und Filter vor dem Angebot wurden eingestellt:<ul><li>Optimierungsziele:<ul><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – GroupM)]</li><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – MRC)]</li></ul><li>Ziele von Vorab-Angebotsfiltern:<ul><li>[!UICONTROL Viewability IAS]</li><li>[!UICONTROL Viewability Moat]</li></ul></ul> | Siehe &quot;[Optimierungsziele und deren Verwendung](/help/dsp/optimization/optimization-goals.md)&quot;und &quot;[Vorab-Angebotsfilter auf Platzierungsebene und deren Verwendung](/help/dsp/optimization/optimization-pre-bid-filters.md)&quot;. |
 | 28. September 2021 | Ansichten der Kampagnenverwaltung | Eine Spalte &quot;[!UICONTROL Creation date]&quot;ist jetzt in benutzerdefinierten Spaltensätzen für die Ansichten [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements] und [!UICONTROL Ads] verfügbar. Sie können die Ansichten [!UICONTROL Placements] und [!UICONTROL Ads] auch nach [!UICONTROL Creation date] filtern. | Siehe &quot;[Benutzerdefinierte Spaltenansicht erstellen](/help/dsp/campaign-management/reports/column-view-create.md)&quot;und &quot;[Kampagnendaten filtern](/help/dsp/campaign-management/reports/campaign-data-filter.md)&quot;. |
