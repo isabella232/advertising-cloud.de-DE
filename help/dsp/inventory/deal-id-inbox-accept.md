@@ -1,11 +1,11 @@
 ---
 title: Akzeptieren eines Angebots im [!UICONTROL Deal ID Inbox]
-description: 'Erfahren Sie, wie Sie mit einem Herausgeber über den Posteingang der Angebots-ID einen privaten Deal akzeptieren, den Sie bereits mit einem Herausgeber ausgehandelt haben. [!DNL Google Authorized Buyers], [!DNL FreeWheel], or [!DNL Rubicon] '
+description: Erfahren Sie, wie Sie mit einem Herausgeber über [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (früher [!DNL Rubicon]) einen privaten Deal akzeptieren, den Sie bereits mit dem Posteingang der Angebots-ID ausgehandelt haben.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 55e8ca50-05f5-4f38-9fd5-afaed71315dc
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Benutzer in DSP Konten, die nur SSP-Konten zugeordnet sind*
 
-Verwenden Sie [!UICONTROL Deal ID inbox], um schnell ein privates Geschäft zu akzeptieren, das Sie bereits mit einem Herausgeber über [!DNL Google Authorized Buyers], [!DNL FreeWheel] oder [!DNL Rubicon] ausgehandelt haben.
+Verwenden Sie [!UICONTROL Deal ID inbox], um schnell einen privaten Deal zu akzeptieren, den Sie bereits mit einem Herausgeber über [!DNL FreeWheel], [!DNL Google Authorized Buyers] (ehemals [!DNL AdX]) und [!DNL Magnite DV+] (ehemals [!DNL Rubicon]) ausgehandelt haben.
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Verwenden Sie [!UICONTROL Deal ID inbox], um schnell ein privates Geschäft zu a
 
 1. (Optional) Klicken Sie auf **[!UICONTROL Refresh]**, um die Details des Angebots zu aktualisieren.
 
-   DSP aktualisiert automatisch täglich um 4:30 Uhr EST alle Details des Angebots. Außerdem werden alle [!DNL FreeWheel]-Angebote aktualisiert und vorhandene Angebote von [!DNL Google] und [!DNL Rubicon] stündlich aktualisiert.
+   DSP aktualisiert automatisch täglich um 4:30 Uhr EST alle Details des Angebots. Außerdem werden alle [!DNL FreeWheel]-Angebote aktualisiert und vorhandene Angebote von [!DNL Google] und [!DNL Magnite DV+] stündlich aktualisiert.
 
 1. (Wenn Sie den Deal zuvor ignoriert haben) Klicken Sie auf die Registerkarte **[!UICONTROL Ignored Deals]** .
 

@@ -3,9 +3,9 @@ title: SSP-Partner
 description: Sehen Sie sich eine Liste der verf√ºgbaren angebotsseitigen Plattformen (SSP) und offenen Austauschpartner an.
 feature: DSP Private Inventory
 exl-id: 8487f4ce-0232-4145-ad8b-b0631fd0ab7f,None
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Eine angebotsseitige Plattform (Supply-Side Platform, SSP) ist eine Plattform f√
 | [!DNL MoPub] | [!DNL Twitter] | [!DNL TubeMogul] | Nein | Global | USD |  | x |  |  |  |  |  |
 | [!DNL OpenX] | [!DNL OpenX] | [!DNL TubeMogul] oder Adobe Advertising Cloud | Ja | Global | USD | x |  |  | x | x |  |  |
 | [!DNL PubMatic New ortb2.2] | [!DNL Pubmatic] | [!DNL TubeMogul] oder Adobe Advertising Cloud | Nein | Global | USD | x | x | x | x | x |  |  |
-| [!DNL Rubicon] | [!DNL Magnite] | [!DNL TubeMogul] oder Adobe Advertising Cloud | Ja | Global | USD | x | x | x | x | x |  | x |
+| [!DNL Rubicon] | [!DNL Magnite DV+] | [!DNL TubeMogul] oder Adobe Advertising Cloud | Ja | Global | USD | x | x | x | x | x |  | x |
 | [!DNL ShareThrough] |  | [!DNL TubeMogul] oder Adobe Advertising Cloud | Nein | Global | USD | x | x |  | x | x | x |  |
 | [!DNL Smart Ad Server] |  | [!DNL TubeMogul] oder Adobe Advertising Cloud | Nein | Global | USD, EUR | x | x |  | x | x |  |  |
 | [!DNL SmartClip] |  | Adobe Advertising Cloud | Nein | EMEA | Alle W√§hrungen | x | x | x | x | x |  |  |
@@ -47,7 +47,7 @@ Eine angebotsseitige Plattform (Supply-Side Platform, SSP) ist eine Plattform f√
 | [!DNL Stroer] |  | Adobe Advertising Cloud | Nein | EMEA | USD | x | x |  | x | x |  |  |
 | [!DNL Taboola] |  | Adobe Advertising Cloud | Nein | US/CA | USD | x | x |  |  |  |  |  |
 | [!DNL Teads] |  | [!DNL TubeMogul] oder Adobe Advertising Cloud | Nein | Outputvideo = Global<br>Anzeige = NA + EMEA | USD | x | x |  | x | x |  |  |
-| [!DNL Tremor] | [!DNL Magnite] ([!DNL Telaria]) | [!DNL TubeMogul] oder Adobe Advertising Cloud | Ja | Global | AUD, USD | x | x | x |  |  |  |  |
+| [!DNL Tremor] | [!DNL Magnite CTV] (fr√ºher  [!DNL Telaria]) | [!DNL TubeMogul] oder Adobe Advertising Cloud | Ja | Global | AUD, USD | x | x | x |  |  |  |  |
 | [!DNL TripleLift] |  | [!DNL TubeMogul] oder Adobe Advertising Cloud | Nein | Global | USD |  |  |  |  |  | x |  |
 | [!DNL TripleLift Display & Outstream] |  | [!DNL TubeMogul] oder Adobe Advertising Cloud | Nein | Global | USD | x | x |  | x | x |  |  |
 | [!DNL Triton] |  | Adobe Advertising Cloud | Nein | Global | USD |  |  |  |  |  |  | x |
