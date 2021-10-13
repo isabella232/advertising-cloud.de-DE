@@ -3,9 +3,9 @@ title: Über Zielgruppen-Management in Advertising Cloud DSP
 description: Erfahren Sie mehr über die Funktionen des Zielgruppen-Managements.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 578651a458ffd505573df0e9a61e26bd2176ad17
 workflow-type: tm+mt
-source-wordcount: '1026'
+source-wordcount: '1024'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ Sie können Ihre Platzierungen auf alle der folgenden Arten von Zielgruppen ausr
 
    >[!NOTE]
    >
-   >Informationen zum Einrichten und Erfassen von Daten für Segmente in diesen Lösungen finden Sie in der Dokumentation für [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics/landing/home.html) und [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) .
+   >Informationen zum Einrichten und Erfassen von Daten für Segmente in diesen Lösungen finden Sie in der Dokumentation für [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html) und [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) .
 
 ## Zielgruppengrößendaten
 
