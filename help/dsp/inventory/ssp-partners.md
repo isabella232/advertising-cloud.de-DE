@@ -3,9 +3,9 @@ title: SSP-Partner
 description: Sehen Sie sich eine Liste der verfügbaren angebotsseitigen Plattformen (SSP) und offenen Austauschpartner an.
 feature: DSP Private Inventory
 exl-id: 8487f4ce-0232-4145-ad8b-b0631fd0ab7f,None
-source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
+source-git-commit: 13b060a15d7661e8e65893fff0df01bf01f75a0a
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Eine angebotsseitige Plattform (Supply-Side Platform, SSP) ist eine Plattform f�
 | [!DNL Stroer] |  | Adobe Advertising Cloud | Nein | EMEA | USD | x | x |  | x | x |  |  |
 | [!DNL Taboola] |  | Adobe Advertising Cloud | Nein | US/CA | USD | x | x |  |  |  |  |  |
 | [!DNL Teads] |  | [!DNL TubeMogul] oder Adobe Advertising Cloud | Nein | Outputvideo = Global<br>Anzeige = NA + EMEA | USD | x | x |  | x | x |  |  |
-| [!DNL Tremor] | [!DNL Magnite CTV] (früher  [!DNL Telaria]) | [!DNL TubeMogul] oder Adobe Advertising Cloud | Ja | Global | AUD, USD | x | x | x |  |  |  |  |
+| [!DNL Magnite CTV] | [!DNL Magnite CTV] (früher  [!DNL Telaria] und  [!DNL Tremor]) | [!DNL TubeMogul] oder Adobe Advertising Cloud | Ja | Global | AUD, USD | x | x | x |  |  |  |  |
 | [!DNL TripleLift] |  | [!DNL TubeMogul] oder Adobe Advertising Cloud | Nein | Global | USD |  |  |  |  |  | x |  |
 | [!DNL TripleLift Display & Outstream] |  | [!DNL TubeMogul] oder Adobe Advertising Cloud | Nein | Global | USD | x | x |  | x | x |  |  |
 | [!DNL Triton] |  | Adobe Advertising Cloud | Nein | Global | USD |  |  |  |  |  |  | x |
