@@ -2,9 +2,9 @@
 title: Erweiterte Messlösungen
 description: Sehen Sie sich eine Liste der verfügbaren Lösungen für erweiterte Messungen an.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: 851b3e5ebb6f6e8dcd6ea672c7220ed28f52dba4
+source-git-commit: b4976cdce6b4d5870c5cc3a1a09c1b5545cd3200
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -59,37 +59,37 @@ Die folgenden Lösungspakete für Messungen sind verfügbar, um den Erfolg Ihrer
 
 ## So finden Sie die perfekte Messgröße: Lösungen nach Vertikal
 
-### Alle Vertikalen
+* **Beliebig vertikal:**
 
-* Experiment-Designer (Placebo und A/B-Tests)
+   * Experiment-Designer (Placebo und A/B-Tests)
 
-* Personenbezogene Reichweite
+   * Personenbezogene Reichweite
 
-   Jede Organisation, die mehrere digitale Taktiken messen möchte; Organisationen, die den Wert von Audio präsentieren möchten
+      Jede Organisation, die mehrere digitale Taktiken messen möchte; Organisationen, die den Wert von Audio präsentieren möchten
 
-* Messung der Reichweite, Häufigkeit und Konversion im Haushalt
+   * Messung der Reichweite, Häufigkeit und Konversion im Haushalt
 
-   Jeder Kunde, der die Reichweite/inkrementelle Reichweite und kostenbasierte Effizienz- und/oder Konversionsmetriken über mehrere digitale Taktiken hinweg verstehen möchte
+      Jeder Kunde, der die Reichweite/inkrementelle Reichweite und kostenbasierte Effizienz- und/oder Konversionsmetriken über mehrere digitale Taktiken hinweg verstehen möchte
 
-* Bildschirmweite, Häufigkeit und Konversionsmessung
+   * Bildschirmweite, Häufigkeit und Konversionsmessung
 
-   Jeder Kunde, der die Reichweite/inkrementelle Reichweite und kostenbasierte Effizienz- und/oder Konversionsmetriken über mehrere digitale Taktiken im Vergleich zu linearen TV-Investitionen verstehen möchte
+      Jeder Kunde, der die Reichweite/inkrementelle Reichweite und kostenbasierte Effizienz- und/oder Konversionsmetriken über mehrere digitale Taktiken im Vergleich zu linearen TV-Investitionen verstehen möchte
 
-* Dynata Panel-basierte Umfragen
+   * Dynata Panel-basierte Umfragen
 
-   Jeder Kunde, der das Markenbewusstsein und die Wahrnehmung seiner Marke auf mehreren Bildschirmen messen möchte; am besten für Nischenzielgruppen geeignet
+      Jeder Kunde, der das Markenbewusstsein und die Wahrnehmung seiner Marke auf mehreren Bildschirmen messen möchte; am besten für Nischenzielgruppen geeignet
 
-### QSR, Einzelhandel (Brick und Mortar)
+* **QSR, Einzelhandel (Brick und Mortar):**
 
-* Transaktionsmessung
+   * Transaktionsmessung
 
-* Foot Traffic Measurement
+   * Foot Traffic Measurement
 
-### QSR, Einzelhandel, Reisen
+* **QSR, Einzelhandel, Reisen:**
 
-* Transaction Insights
+   * Transaction Insights
 
-   Jeder Kunde, der einen bestimmten Typ von Käufer erreichen möchte, um In-Store- und Online-Verkäufe zu führen
+      Jeder Kunde, der einen bestimmten Typ von Käufer erreichen möchte, um In-Store- und Online-Verkäufe zu führen
 
 ## Weitere Informationen
 
