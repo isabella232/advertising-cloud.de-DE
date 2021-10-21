@@ -3,9 +3,9 @@ title: Abruf von Kundenabmeldeberichten
 description: Erfahren Sie, wie Sie Berichte zu IDs abrufen, die für Opt-out-Kaufanfragen gesendet wurden.
 feature: CCPA, DSP Segments
 exl-id: 8ada787a-6dcf-455b-88f4-701743e68292
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Sie können monatliche Berichte zu IDs abrufen, die Kunden für Opt-out-Kaufanfr
 
 >[!NOTE]
 >
->Sie können optional Verbraucherabmeldeberichte mit dem Advertising Cloud [!DNL Trafficking API] abrufen. Anweisungen finden Sie in der Dokumentation für [!DNL Trafficking API]. Wenn Ihr Unternehmen die [!DNL Trafficking API] nicht verwendet, aber an weiteren Informationen interessiert ist, wenden Sie sich an Ihren Kundenbetreuer von Adobe.
+>Sie können optional Verbraucherabmeldeberichte mit der Advertising Cloud abrufen [!DNL Trafficking API]. Anweisungen finden Sie in der Dokumentation für [!DNL Trafficking API]. Wenn Ihr Unternehmen die [!DNL Trafficking API] aber an weiteren Informationen interessiert ist, kontaktieren Sie bitte Ihre [!DNL Adobe] Kundenbetreuer.
 
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
 1. Klicken Sie über der Segmentliste auf **[!UICONTROL Access CCPA Reports]**.
@@ -25,7 +25,7 @@ Sie können monatliche Berichte zu IDs abrufen, die Kunden für Opt-out-Kaufanfr
 >[!MORELIKETHIS]
 >
 >* [Adobe Advertising Cloud-Unterstützung für den California Consumer Privacy Act: Opt-out-Support für Verbraucher](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
->* [Über  [!UICONTROL CCPA Opt-out-of-Sale] Segmente und Berichte](ccpa-opt-out-about.md)
->* [Erstellen und Implementieren eines  [!UICONTROL CCPA Opt-Out-of-Sale] Segments](ccpa-opt-out-segment-create.md)
+>* [Info [!UICONTROL CCPA Opt-out-of-Sale] Segmente und Berichte](ccpa-opt-out-about.md)
+>* [Erstellen und Implementieren eines [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Über Zielgruppen-Management](audience-about.md)
 

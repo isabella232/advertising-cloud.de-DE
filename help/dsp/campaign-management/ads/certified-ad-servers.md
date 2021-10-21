@@ -3,9 +3,9 @@ title: Zertifizierte Ad Serving-Partner
 description: Alle zertifizierten Adserver und Anzeigeneinheiten anzeigen.
 feature: DSP Ads
 exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -35,13 +35,13 @@ ht-degree: 0%
 | [!DNL Flashtalking] | X | X |  | X |  |
 | [!DNL Frequency] | X |  |  |  |  |
 | [!DNL Gum Gum] |  |  | X |  |  |
-| [!DNL HUMAN] (Zuvor  [!DNL White Ops]) | X | X |  | X |  |
+| [!DNL HUMAN] (Zuvor [!DNL White Ops]) | X | X |  | X |  |
 | [!DNL IAS] | X | X |  | X |  |
 | [!DNL IBM] |  | X |  | X |  |
 | [!DNL Innovid] | X | X |  | X |  |
 | [!DNL InSkin] |  |  | X |  | Von einer 180 x 150 Display-Deal-ID mit hoher Auswirkung auf die Haut muss im Inventarnetzwerk von Inhaut eine ID bereitgestellt werden. |
 | [!DNL Jivox] |  | X |  |  |  |
-| [!DNL Kargo] |  | X |  |  | 320 x 50 Anker, BYOC, Hover, Breakout und Sidekick; 300x250 Outstream </br></br>Wenden Sie sich an Ihren Adobe Account Manager, um Unterstützung bei der Einrichtung von Werbeeinheiten zu erhalten. |
+| [!DNL Kargo] |  | X |  |  | 320 x 50 Anker, BYOC, Hover, Breakout und Sidekick; 300x250 Outstream </br></br>Wenden Sie sich an [!DNL Adobe] -Kundenbetreuer für Unterstützung bei der Einrichtung von Anzeigeneinheiten. |
 | [!DNL Linkstorm] |  |  | X |  |  |
 | [!DNL mCanvas] |  |  | X |  |  |
 | [!DNL Medialets] |  | X |  |  |  |
@@ -50,13 +50,13 @@ ht-degree: 0%
 | [!DNL Pubmatic] |  |  |  | X | Nur VAST |
 | [!DNL RevJet] |  |  |  | X | Nur VAST |
 | [!DNL Seedtag] |  | X |  |  |  |
-| [!DNL Sizmek] |  | X |  |  | Damit die Tags in der Benutzeroberfläche gerendert werden, schließen Sie das Tag mit `<a>` -Tags ein (am Anfang und am Ende). Siehe Beispieltag unten:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
+| [!DNL Sizmek] |  | X |  |  | Damit die Tags in der Benutzeroberfläche gerendert werden, umbrechen Sie das Tag mit `<a>` -Tags (am Anfang und am Ende). Siehe Beispiel-Tag unten:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
 | [!DNL Spaceback] |  | X |  |  |  |
 | [!DNL Spirable] |  | X |  |  |  |
 | [!DNL SUBLIME] |  |  | X |  |  |
 | [!DNL SundaySky] |  |  |  | X |  |
 | [!DNL Trueffect] |  | X |  |  |  |
-| [!DNL Undertone] |  |  | X |  | Benutzerdefinierte Seitengriffe, die als 180x150 in Advertising Cloud DSP hochgeladen wurden</br></br>Wenn Index Exchange eine 180x150-Auktion und DSP Gebote auf der Auktion übergibt und eine Impression liefert, erweitert sich die Kreativität auf eine ganzseitige Display-Anzeige.</br></br>Ursprünglich für die Anzeigeneinheiten &quot;Seitenübersicht&quot;, &quot;Erweiterbarer Zusammenhalt&quot;und &quot;Bildschirmverschiebung&quot;zertifiziert. Dies muss neu zertifiziert werden, wobei die Schritte für Prozesse markiert sind. |
+| [!DNL Undertone] |  |  | X |  | Benutzerdefinierte Seitengänger-Anzeigeneinheit, die in Advertising Cloud DSP als 180 x 150 hochgeladen wurde</br></br>Wenn Index Exchange eine 180x150-Auktion durchläuft und DSP Gebote auf der Auktion abgibt und einen Impression liefert, wird der Kreativschaffende auf eine ganzseitige Display-Anzeige erweitert.</br></br>Ursprünglich für die Anzeigeneinheiten &quot;Seitenübersicht&quot;, &quot;Erweiterbarer Zusammenhalt&quot;und &quot;Bildschirmverschiebung&quot;zertifiziert. Dies muss neu zertifiziert werden, wobei die Schritte für Prozesse markiert sind. |
 | [!DNL Vox] |  |  | X |  | [!DNL Athena] Anzeigeneinheiten |
 | [!DNL Wunderkind] |  | X |  |  |  |
 

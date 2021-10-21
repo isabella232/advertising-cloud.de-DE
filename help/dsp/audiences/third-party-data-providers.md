@@ -3,9 +3,9 @@ title: Verfügbare Drittanbieter-Datenanbieter in Advertising Cloud DSP
 description: Sehen Sie sich eine Liste aller verfügbaren Datenanbieter von Drittanbietern an.
 feature: DSP Audiences
 exl-id: f67d81a0-bd31-48d8-9bcf-1888afd43894
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Verfügbare Drittanbieter-Datenanbieter in Advertising Cloud DSP
 
-Datenkategorien und Segmente für die folgenden Drittanbieter sind als Platzierungsziele in [!DNL DSP] verfügbar. Diese Segmente sind in erster Linie für US-Zielgruppen verfügbar.
+Datenkategorien und Segmente für die folgenden Drittanbieter sind als Platzierungsziele in verfügbar. [!DNL DSP]. Diese Segmente sind in erster Linie für US-Zielgruppen verfügbar.
 
 Die Gebühr für die Verwendung der einzelnen Segmente wird neben dem Segmentnamen in den Platzierungseinstellungen und den gespeicherten Zielgruppeneinstellungen angezeigt.
 
@@ -51,7 +51,7 @@ Die Gebühr für die Verwendung der einzelnen Segmente wird neben dem Segmentnam
 * [!DNL TruSignal]
 * [!DNL Weborama]
 
-Weitere Informationen zum Importieren von benutzerdefinierten Drittanbietersegmenten für Ihr Adobe-Konto erhalten Sie von Ihrem Kundenbetreuer.
+Weitere Informationen zum Importieren von benutzerdefinierten Drittanbietersegmenten für Ihr Konto erhalten Sie von Ihrem [!DNL Adobe] Kundenbetreuer.
 
 >[!MORELIKETHIS]
 >

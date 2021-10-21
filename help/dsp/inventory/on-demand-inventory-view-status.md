@@ -1,11 +1,11 @@
 ---
-title: Status Ihrer  [!DNL On Demand] Angebote und Abonnements anzeigen
-description: Erfahren Sie, wie Sie den Status Ihrer  [!DNL On Demand] Transaktionsanfragen und -abonnements sehen.
+title: Anzeigen des Status Ihrer [!DNL On Demand] Angebote und Abonnements
+description: Erfahren Sie, wie Sie den Status Ihrer [!DNL On Demand] Angebote und Abonnements bearbeiten.
 feature: DSP On Demand Inventory
 exl-id: 8dd6d922-c4a3-4ddb-bca9-f6f782da1320
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -17,31 +17,31 @@ Nachdem Sie ein individuelles Angebot angefordert oder alle Angebote eines Herau
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Inventory]>[!UICONTROL On Demand]**.
 1. Filtern Sie die verfügbaren Angebote, um Angebote einzuschließen, die Sie angefordert oder abonniert haben (**[!UICONTROL Currently subscribed to]**)**.
 1. Führen Sie einen der folgenden Schritte aus:
-   * Um die Angebote in der [!UICONTROL Deal]-Ansicht anzuzeigen, klicken Sie auf **[!UICONTROL Deal view]**.
-   * So zeigen Sie die Angebote in der Ansicht [!UICONTROL Subscription] an:
+   * So zeigen Sie die Angebote im [!UICONTROL Deal] Ansicht, klicken Sie auf **[!UICONTROL Deal view]**.
+   * So zeigen Sie die Angebote im [!UICONTROL Subscription] Ansicht:
       1. Klicken **[!UICONTROL Subscription view]**.
-      1. Halten Sie den Cursor über das Publisher-Logo und klicken Sie dann auf **[!UICONTROL See Deals]**.
-1. Suchen Sie die Spalte [!UICONTROL Status] , um den Genehmigungsstatus anzuzeigen.
+      1. Halten Sie den Cursor über das Publisher-Logo und klicken Sie auf **[!UICONTROL See Deals]**.
+1. Suchen Sie die [!UICONTROL Status] zum Anzeigen des Genehmigungsstatus.
 
 ## Verkaufsstatus
 
 Die Genehmigung oder Ablehnung eines Herausgebers kann auf dem Kontotyp und der Kampagnenkategorie des Kontos, der Advertiser-Kategorie und der Blockierungsliste des Herausgebers basieren.
 
-* ![vollständig ](/help/dsp/assets/approved.png) für Geschäftsanforderungen genehmigt, die für alle Advertiser im Konto genehmigt wurden
+* ![vollständig genehmigt](/help/dsp/assets/approved.png) für Kaufanfragen, die für alle Advertiser im Konto genehmigt wurden
 
-* ![teilweise ](/help/dsp/assets/partly-approved.png) für Geschäftsanforderungen genehmigt, die für einige, aber nicht alle Advertiser im Konto genehmigt wurden
+* ![teilweise genehmigt](/help/dsp/assets/partly-approved.png) für Kaufanfragen, die für einige, aber nicht alle Advertiser im Konto genehmigt wurden
 
    Um zu sehen, warum eine Anfrage für einen Advertiser abgelehnt wurde, klicken Sie auf ![teilweise genehmigt](/help/dsp/assets/partly-approved.png).
 
-* ![](/help/dsp/assets/denied.png) abgelehnt für Geschäftsanfragen, die für alle Advertiser im Konto abgelehnt wurden
+* ![Abgelehnt](/help/dsp/assets/denied.png) für Kaufanfragen, die für alle Advertiser im Konto abgelehnt wurden
 
-   Um zu sehen, warum eine Anfrage für jeden Advertiser abgelehnt wurde, klicken Sie auf ![denied](/help/dsp/assets/denied.png). Wenn der Grund für die Ablehnung einer Lösung ist, können Sie [den Deal erneut anfordern](/help/dsp/inventory/on-demand-inventory-rerequest.md).
+   Um zu sehen, warum eine Anfrage für jeden Advertiser abgelehnt wurde, klicken Sie auf ![Abgelehnt](/help/dsp/assets/denied.png). Wenn der Grund für die Ablehnung eine Lösung ist, können Sie [erneut die Vereinbarung anfordern](/help/dsp/inventory/on-demand-inventory-rerequest.md).
 
-Wenden Sie sich bei Fragen zum Validierungsprozess an Ihren Kundenbetreuer von Adobe.
+Wenden Sie sich bei Fragen zum Validierungsprozess an Ihren [!DNL Adobe] Kundenbetreuer.
 
 >[!MORELIKETHIS]
 >
->* [Abonnieren und Anfordern des Zugriffs  [!DNL On Demand] auf Premium Inventory Deals](on-demand-inventory-subscribe.md)
+>* [Abonnieren und Zugriff anfordern für [!DNL On Demand] Premium-Inventarangebote](on-demand-inventory-subscribe.md)
 >* [Lagerergänzungen für On-Demand Premium erneut anfordern](on-demand-inventory-rerequest.md)
 >* [[!DNL On Demand] Premium Inventory Publishers in Asien/Pazifik](on-demand-inventory-publishers-apac.md)
 >* [[!DNL On Demand] Premium Inventory Publishers in Australien und Neuseeland](on-demand-inventory-publishers-anz.md)

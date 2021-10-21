@@ -3,9 +3,9 @@ title: Checkliste für den Kampagnenstart
 description: Erfahren Sie, was Sie vor dem Start einer Kampagne tun müssen.
 feature: DSP Placements, DSP Ads
 exl-id: bf0147d0-0b58-435d-a2de-5b98e0d3488c
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Kontofinanzierung
 
-Stellen Sie sicher, dass Ihr Konto genügend Guthaben besitzt, um die gesamte Kampagne auszuführen. Sie können Kontoguthaben in [!UICONTROL Settings] > [!UICONTROL Account] überprüfen und neu ausfüllen oder sich an Ihren Adobe Account Manager wenden.
+Stellen Sie sicher, dass Ihr Konto genügend Guthaben besitzt, um die gesamte Kampagne auszuführen. Sie können Kontoguthaben überprüfen und erneut ausfüllen in [!UICONTROL Settings] > [!UICONTROL Account] oder wenden Sie sich an [!DNL Adobe] Kundenbetreuer.
 
 ## Kampagnenstatus
 
@@ -22,7 +22,7 @@ Vergewissern Sie sich, dass die Kampagnendaten und das Budget korrekt festgelegt
 
 ## Platzierungsstatus
 
-Stellen Sie sicher, dass der Platzierungsstatus &quot;[!UICONTROL Active]&quot;oder &quot;[!UICONTROL Scheduled]&quot;lautet. Überprüfen Sie außerdem, ob die anderen Platzierungsparameter (z. B. Site-Liste, Budget, Ziel, Flugdatum und Häufigkeit) korrekt sind.
+Stellen Sie sicher, dass der Platzierungsstatus &quot;[!UICONTROL Active]&quot; oder &quot;[!UICONTROL Scheduled].&quot; Überprüfen Sie außerdem, ob die anderen Platzierungsparameter (z. B. Site-Liste, Budget, Ziel, Flugdatum und Häufigkeit) korrekt sind.
 
 ## Anzeigenstatus
 
