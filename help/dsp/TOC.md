@@ -8,9 +8,9 @@ user-guide-title: Handbuch zu Advertising Cloud DSP
 user-guide-description: Erfahren Sie mehr über die wichtigsten Funktionen, Aufgaben, Einstellungen und anderen Ressourcen, die für die Verwaltung, Optimierung und Berichterstellung Ihrer Display-Anzeigenstrategien mit Advertising Cloud DSP erforderlich sind.
 breadcrumb-title: Handbuch zu DSP
 index: true
-source-git-commit: ba80cbe9d44694c75f2cf46b448130d7bd29e419
+source-git-commit: 851b3e5ebb6f6e8dcd6ea672c7220ed28f52dba4
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '742'
 ht-degree: 3%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 3%
 + [Neue Funktionen](/help/dsp/home.md)
 + Einführung {#introduction}
    + [Einführung in Adobe Advertising Cloud DSP](/help/dsp/introduction/dsp-about.md)
-   + Schlüsselfunktionen {#features}
+   + Wichtigste Funktionen {#features}
       + [Optimierung](/help/dsp/introduction/features/optimization.md)
       + [Markensicherheit und Medienqualität](/help/dsp/introduction/features/brand-safety-media-quality.md)
       + [Geräteübergreifende Lösungen](/help/dsp/introduction/features/cross-device-solutions.md)
@@ -36,7 +36,7 @@ ht-degree: 3%
       + [Richtlinie zu Anzeigenanforderungen](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
       + [Richtlinien für zulässige Gesundheitssegmente](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] Richtlinien zur Datennutzung](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
-   + [Verfügbar [!DNL Advanced Measurement Solutions]](/help/dsp/introduction/advanced-measurement-services.md)
+   + [Erweiterte Messlösungen](/help/dsp/introduction/advanced-measurement-services.md)
 + Kampagnenverwaltung {#campaign-management}
    + [Übersicht über die Struktur der Kampagnenverwaltung](/help/dsp/campaign-management/campaign-management-overview.md)
    + Kampagnen {#campaigns}
@@ -56,7 +56,7 @@ ht-degree: 3%
       + [Platzierung an ein Paket anhängen](/help/dsp/campaign-management/packages/package-attach-placement.md)
       + [Archivieren oder Archivieren eines Pakets aufheben](/help/dsp/campaign-management/packages/package-archive-unarchive.md)
       + [Paketeinstellungen](/help/dsp/campaign-management/packages/package-settings.md)
-   + Platzierungen {#placements}
+   + Praktika {#placements}
       + [Über die Platzierungsverwaltung](/help/dsp/campaign-management/placements/placement-about.md)
       + [Erstellen einer Platzierung](/help/dsp/campaign-management/placements/placement-create.md)
       + [Eine Platzierung bearbeiten](/help/dsp/campaign-management/placements/placement-edit.md)
@@ -105,7 +105,7 @@ ht-degree: 3%
          + [Filtern von Kampagnendaten](/help/dsp/campaign-management/reports/campaign-data-filter.md)
          + [Sortieren einer Spalte](/help/dsp/campaign-management/reports/campaign-data-sort.md)
       + [Datenvisualisierungen verwalten](/help/dsp/campaign-management/reports/campaign-data-visualization-manage.md)
-   + Korrekte Platzierungseinstellungen für eine Kampagne mit Tabellen {#qa-spreadsheet}
+   + Korrekte Platzierungseinstellungen für eine Kampagne mithilfe von Tabellen {#qa-spreadsheet}
       + [Informationen zum Korrigieren der Platzierungseinstellungen für eine Kampagne mithilfe von Tabellen](/help/dsp/campaign-management/qa/qa-about.md)
       + [Platzierungseinstellungen für eine Kampagne herunterladen](/help/dsp/campaign-management/qa/qa-sheet-download.md)
       + [Platzierungseinstellungen für eine Kampagne hochladen](/help/dsp/campaign-management/qa/qa-sheet-upload.md)
@@ -114,7 +114,7 @@ ht-degree: 3%
    + [Tastaturbefehle](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
    + [Häufig gestellte Fragen zur Kampagnenverwaltung](/help/dsp/campaign-management/campaign-management-faq.md)
 + Optimierung {#optimization}
-   + [Wie [!DNL DSP] Ihre Kampagnen optimiert](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
+   + [How [!DNL DSP] Optimiert Ihre Kampagnen](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
    + [Optimierungsziele und Verwendung](/help/dsp/optimization/optimization-goals.md)
    + [Filter und deren Verwendung auf Platzierungsebene vor dem Angebot](/help/dsp/optimization/optimization-pre-bid-filters.md)
    + Benutzerdefinierte Ziele {#custom-goals}
@@ -127,10 +127,10 @@ ht-degree: 3%
    + [Über Zielgruppen-Management](/help/dsp/audiences/audience-about.md)
    + Segmente verwalten {#segments}
       + [Erstellen und Implementieren eines benutzerdefinierten Segments](/help/dsp/audiences/custom-segment-create.md)
-      + [!UICONTROL CCPA Opt-out-of-Sale] Segmente  {#ccpa-opt-out-of-sale-segments}
-         + [Über [!UICONTROL CCPA Opt-out-of-Sale] Segmente](/help/dsp/audiences/ccpa-opt-out-about.md)
-         + [Erstellen und Implementieren eines [!UICONTROL CCPA Opt-out-of-Sale]-Segments](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
-         + [[!UICONTROL Consumer Opt-Out-of-Sale]-Berichte abrufen](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
+      + [!UICONTROL CCPA Opt-out-of-Sale] Segmente {#ccpa-opt-out-of-sale-segments}
+         + [Info [!UICONTROL CCPA Opt-out-of-Sale] Segmente](/help/dsp/audiences/ccpa-opt-out-about.md)
+         + [Erstellen und Implementieren eines [!UICONTROL CCPA Opt-out-of-Sale] Segment](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
+         + [Abrufen [!UICONTROL Consumer Opt-Out-of-Sale] Berichte](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
    + Verwalten von Audiences {#reusable-audiences}
       + [Wiederverwendbare Zielgruppe erstellen](/help/dsp/audiences/reusable-audience-create.md)
       + [Zielgruppeneinstellungen](/help/dsp/audiences/audience-settings.md)
@@ -138,34 +138,34 @@ ht-degree: 3%
    + [Verfügbare Drittanbieter von Daten](/help/dsp/audiences/third-party-data-providers.md)
 + Bestand {#inventory}
    + [Übersicht über die Funktionen des Bestands](/help/dsp/inventory/inventory-overview.md)
-   + [Verwenden von [!DNL Roku Inventory]](/help/dsp/inventory/roku-inventory.md)
+   + [Verwenden [!DNL Roku Inventory]](/help/dsp/inventory/roku-inventory.md)
    + [SSP-Partner](/help/dsp/inventory/ssp-partners.md)
-   + [!DNL On Demand] Bestand  {#on-demand}
-      + [Info [!DNL On Demand] Premium Inventory](/help/dsp/inventory/on-demand-inventory-about.md)
+   + [!DNL On Demand] Bestand {#on-demand}
+      + [Info [!DNL On Demand] Premium-Lagerbestand](/help/dsp/inventory/on-demand-inventory-about.md)
       + Verfügbar [!DNL On Demand] Premium Inventory Publishers {#publishers}
          + [[!DNL On Demand] Premium Inventory Publishers in Asien/Pazifik](/help/dsp/inventory/on-demand-inventory-publishers-apac.md)
          + [[!DNL On Demand] Premium Inventory Publishers in Australien und Neuseeland](/help/dsp/inventory/on-demand-inventory-publishers-anz.md)
          + [[!DNL On Demand] Premium Inventory Publishers in Europa, dem Nahen Osten und Afrika](/help/dsp/inventory/on-demand-inventory-publishers-emea.md)
          + [[!DNL On Demand] Premium Inventory Publishers in Nordamerika](/help/dsp/inventory/on-demand-inventory-publishers-na.md)
-      + [Abonnieren und Anfordern des Zugriffs auf [!DNL On Demand] Premium Inventory Deals](/help/dsp/inventory/on-demand-inventory-subscribe.md)
-      + [Neu anfordern [!DNL On Demand] Premium Inventory Deals](/help/dsp/inventory/on-demand-inventory-rerequest.md)
-      + [Status Ihrer  [!DNL On Demand] Angebote und Abonnements anzeigen](/help/dsp/inventory/on-demand-inventory-view-status.md)
-   + Privater Bestand {#private-inventory}
-      + Deal IDs {#deal-ids}
+      + [Abonnieren und Zugriff anfordern für [!DNL On Demand] Premium-Inventarangebote](/help/dsp/inventory/on-demand-inventory-subscribe.md)
+      + [Erneute Anforderung [!DNL On Demand] Premium-Inventarangebote](/help/dsp/inventory/on-demand-inventory-rerequest.md)
+      + [Anzeigen des Status Ihrer [!DNL On Demand] Angebote und Abonnements](/help/dsp/inventory/on-demand-inventory-view-status.md)
+   + Privates Inventar {#private-inventory}
+      + Deal-IDs {#deal-ids}
          + [!UICONTROL Deal ID Inbox] {#inbox}
             + [Über die [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
             + [Akzeptieren eines Angebots im [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-accept.md)
          + Manuell eingegebene Deal-IDs {#manual}
-            + [[!UICONTROL Deal ID] Details manuell erstellen](/help/dsp/inventory/deal-id-create.md)
-            + [Manuelle [!UICONTROL Deal ID] Einstellungen](/help/dsp/inventory/deal-id-settings.md)
-      + Programmbezogene garantierte Angebote {#programmatic-guaranteed-deal}
+            + [Manuelles Erstellen [!UICONTROL Deal ID] Details](/help/dsp/inventory/deal-id-create.md)
+            + [Manuell [!UICONTROL Deal ID] Einstellungen](/help/dsp/inventory/deal-id-settings.md)
+      + Gesicherte programmatische Vereinbarungen {#programmatic-guaranteed-deal}
          + [Übersicht über die programmatischen garantierten Vereinbarungen](/help/dsp/inventory/programmatic-guaranteed-about.md)
          + [Tipps für die Aushandlung eines programmgesteuerten &quot;garantierten Angebots&quot;](/help/dsp/inventory/programmatic-guaranteed-tips.md)
          + [Einrichten eines programmgesteuerten &quot;garantierten Angebots&quot;](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
-         + [!DNL FreeWheel] Gesicherte programmatische Vereinbarungen  {#freewheel}
-            + [Übersicht über die Einrichtung programmgesteuerter garantierter Angebote in [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
+         + [!DNL FreeWheel] Gesicherte programmatische Vereinbarungen {#freewheel}
+            + [Übersicht über die Einrichtung von programmatischen Garantievereinbarungen in [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
             + [Senden Sie eine Anzeige für einen programmgesteuerten garantierten Deal an [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
-            + [Überprüfen Sie den Status der Anzeigen für [!DNL FreeWheel] programmgesteuerte garantierte Angebote.](/help/dsp/inventory/freewheel-check-status.md)
+            + [Überprüfen des Status von Anzeigen auf [!DNL FreeWheel] Gesicherte programmatische Vereinbarungen](/help/dsp/inventory/freewheel-check-status.md)
             + [Fehlercodes für FreeWheel-Anzeigenübermittlungen](/help/dsp/inventory/freewheel-error-codes.md)
 + Benutzerspezifische Berichte {#custom-reports}
    + [Über benutzerdefinierte Berichte](/help/dsp/reports/report-about.md)
