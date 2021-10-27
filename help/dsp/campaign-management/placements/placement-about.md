@@ -3,9 +3,9 @@ title: Informationen zur Platzierungsverwaltung in Advertising Cloud DSP
 description: Erfahren Sie mehr über die Platzierungsverwaltung.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: 4a30463e9cb5783beab0ea3fa6989089e7f90457
+source-git-commit: 0d6d5e807053f042e0da1da65fed5e33a34dd4a9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ Sie können eine Platzierung manuell oder durch Duplizieren einer vorhandenen Pl
 * Audio
 * Angeschlossener Fernseher
 
-## Das Dashboard [!UICONTROL Placements]
+## Die [!UICONTROL Placements] Dashboard
 
-Das Dashboard [!UICONTROL Placements] zentralisiert die Leistung und die Wirtschaftlichkeit der Berichterstellung für alle Platzierungen und bietet einen schnellen Überblick darüber, wie Ihre Platzierungen innerhalb eines bestimmten Datumsbereichs abgeschnitten wurden.
+Die [!UICONTROL Placements] Das Dashboard zentralisiert die Leistung und die Wirtschaftlichkeit der Berichterstellung für alle Platzierungen und bietet einen schnellen Überblick darüber, wie Ihre Platzierungen innerhalb eines bestimmten Datumsbereichs abgeschnitten wurden.
 
 ![Platzierungs-Dashboard](/help/dsp/assets/placement-dashboard.png)
 
@@ -37,16 +37,16 @@ Das Dashboard enthält ein übergeordnetes, anpassbares Trenddiagramm mit drei M
 
 Im Dashboard werden standardmäßig auch Geschwindigkeit- und Versandmetriken nach Platzierung angezeigt. Sie können optional Leistungsmetriken für die Platzierungen anzeigen und benutzerdefinierte Spaltensätze erstellen. Sie können die gesamte Datentabelle als Bericht in den standardmäßigen Download-Ordner Ihres Browsers im XLSM-Format (Excel-Tabelle mit Makros) herunterladen.
 
-Für jede Platzierung können Sie eine Detailansicht ([the [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md)) öffnen, die Leistungsmetriken, Geschwindigkeit- und Bereitstellungsmetriken sowie benutzerdefinierte Spaltensätze nach Site und Anzeige enthält. und Frequenzmetriken. Sie können auch Schnellaktionen für die eingeschlossenen Sites und Anzeigen durchführen, z. B. das Ausschließen einer Site oder das Anhalten einer Anzeige. Um den Inspektor zu öffnen, halten Sie den Cursor über die Platzierungszeile, klicken Sie auf **[!UICONTROL More]** und klicken Sie dann auf **[!UICONTROL Sites]**, **[!UICONTROL Ads]** oder **[!UICONTROL Frequency]**. Sie können die Daten auf den Registerkarten [!UICONTROL Sites], [!UICONTROL Ads] oder [!UICONTROL Frequency] als Bericht im XLSM-Format in den standardmäßigen Download-Ordner Ihres Browsers exportieren.
+Für jede Platzierung können Sie eine Detailansicht öffnen ([die [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md)), das Leistungsmetriken, Geschwindigkeit- und Bereitstellungsmetriken sowie benutzerdefinierte Spaltensätze nach Site, Anzeige und Bestand enthält. sowie Frequenzmetriken. Sie können auch Schnellaktionen für die eingeschlossenen Sites, Anzeigen und Inventare durchführen, z. B. eine Site ausschließen, eine Anzeige aussetzen oder ein Geschäft bearbeiten. Um den Inspektor zu öffnen, halten Sie den Cursor über die Platzierungszeile und klicken Sie auf **[!UICONTROL More]** und klicken Sie anschließend auf **[!UICONTROL Sites]**, **[!UICONTROL Ads]**, **[!UICONTROL Frequency]** oder **[!UICONTROL Inventory]**. Sie können die Daten im [!UICONTROL Sites], [!UICONTROL Ads], [!UICONTROL Frequency]oder [!UICONTROL Inventory]  zum standardmäßigen Download-Ordner Ihres Browsers als Bericht im XLSM-Format.
 
 >[!NOTE]
 >
->Sie können den Inhalt und die Bereitstellung von Platzierungsberichten über [benutzerdefinierte Berichte](/help/dsp/reports/report-about.md) weiter anpassen.
+>Sie können den Inhalt und die Bereitstellung von Platzierungsberichten weiter anpassen über [benutzerspezifische Berichte](/help/dsp/reports/report-about.md).
 
 >[!MORELIKETHIS]
 >
 >* [Erstellen einer Platzierung](/help/dsp/campaign-management/placements/placement-create.md)
 >* [Platzierungseinstellungen](/help/dsp/campaign-management/placements/placement-settings.md)
 
-   >*[Fehlerbehebung Leistung](/help/dsp/optimization/troubleshooting-performance.md)
+   >*[Fehlerbehebung bei der Leistung](/help/dsp/optimization/troubleshooting-performance.md)
 

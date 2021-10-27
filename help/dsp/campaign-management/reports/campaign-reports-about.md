@@ -3,9 +3,9 @@ title: Über In-Platform-Berichte
 description: Erfahren Sie mehr über die Berichtsdaten in den Kampagnenverwaltungsansichten.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: b2393d5e66ba5d3d2dc9816825c05eda076eaad1
+source-git-commit: 0b0f5df3ae9180dcbc2aeb5d7833956934767915
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Sie können die drei Metriken optional auch überlagern, um Anomalien und Bereic
 
 Sie können [Trenddiagramme anpassen](campaign-data-visualization-manage.md) nach Kampagne, und die gleichen Metriken werden in allen Trenddiagrammen für die Kampagne beibehalten.
 
-### Platzierungsinspektor
+### Platzierung [!UICONTROL Inspector] {#placement-inspector}
 
 Für jede Platzierung können Sie [Öffnen einer (Detailansicht) [!UICONTROL Inspector])](placement-details-view.md), der die folgenden detaillierten Daten enthält:
 
@@ -63,7 +63,25 @@ Für jede Platzierung können Sie [Öffnen einer (Detailansicht) [!UICONTROL Ins
    * die geschätzte Anzahl von Impressionen auf der angegebenen Frequenzebene
    * die geschätzte Durchschnittshäufigkeit für das angegebene Frequenzniveau. Dieser Wert ist gleich (Geschätzte Impressionen)/(Geschätzte Individuen).
 
-![Platzierungsinspektor](/help/dsp/assets/placement-inspector-sites.png)
+* **[!UICONTROL Inventory]:** Informationen zu allen Angeboten, die auf die Platzierung ausgerichtet sind.
+
+   Die [!UICONTROL Inventory] enthält Such- und Filterfunktionen, dieselben standardmäßigen und benutzerdefinierten Spaltenansichtsoptionen, die auf der Hauptseite verfügbar sind, und Schnellaktionsschaltflächen in jeder Zeile, z. B. [!UICONTROL Edit] und [!UICONTROL View Report]. Die [!UICONTROL Inventory] -Registerkarte ermöglicht die schnelle Fehlerbehebung, indem Leistungsstatistiken angezeigt werden, z. B. [!UICONTROL Auctions], [!UICONTROL Bids]und [!UICONTROL Win Rate].
+
+#### Fehlerbehebung beim Inventar
+
+| Problem | Mögliche Ursache | Maßnahmen |
+| -----------| ---------- | ---------- |
+| [!UICONTROL Zero Auctions] | Der Herausgeber hat nicht damit begonnen, Angebotsanfragen zu senden. | Wenden Sie sich an den Herausgeber, um den Deal zu aktivieren. |
+|  | Das Geschäft wurde falsch eingerichtet, z. B. durch Eingabe einer falschen externen Deal-ID. | Bestätigen Sie die Geschäftsdetails und bearbeiten Sie den Deal. |
+| [!UICONTROL Auctions but no Bids] | Das Platzierungs-Targeting stimmt nicht mit den eingehenden Angebotsanfragen für den Deal überein. <br><br> Eine Platzierung könnte beispielsweise auf eine Region ausgerichtet sein, die für den Deal nicht infrage kommt. | Bearbeiten Sie die Platzierungsziele nach Bedarf, um Targeting-Inkongruenzen zu vermeiden. |
+|  | Die Platzierung verfügt nicht über eine aktive Anzeige mit dem erforderlichen Medientyp für das Geschäft. | Erstellen Sie eine Anzeige mit dem richtigen Medientyp und fügen Sie sie an die Platzierung an. |
+|  | Die Platzierung hat kein angemessenes Budget. | Erhöhen Sie das Platzierungsbudget, um Gebote für eingehende Anforderungen zu ermöglichen. |
+|  | Die Platzierungs-Flugdaten überschneiden sich nicht mit den Impressions-Sendedaten für den Deal. | Bearbeiten Sie bei Bedarf die Flugdaten der Platzierung. |
+| [!UICONTROL Low Win Rate] | Das Höchstgebot der Platzierung (Untergrenze oder Festbetrag) liegt unter dem für das Geschäft erforderlichen Minimum. | Erhöhen Sie die [!UICONTROL Max Bid] nach Bedarf. |
+|  | Die Platzierung verwendet Filter vor dem Angebot, die das Angebot einschränken. | Verringern Sie die Schwellenwerte der Filter vor dem Angebot, um mehr Gebote zu ermöglichen. |
+|  | Das Zielgruppen-Targeting für die Platzierung ist zu restriktiv. | Überprüfen Sie, ob die angegebenen Zielgruppen über ausreichend aktive Benutzer verfügen, und erweitern Sie die Zielgruppe nach Möglichkeit. |
+
+![Platzierungsinspektor](/help/dsp/assets/placement-inspector.png)
 
 Sie können die Daten im [!UICONTROL Sites], [!UICONTROL Ads]oder [!UICONTROL Frequency] zum standardmäßigen Download-Ordner Ihres Browsers als Bericht im XLSM-Format.
 
