@@ -3,9 +3,9 @@ title: Voraussetzungen und Schlüsselinformationen für die Implementierung [!DN
 description: Voraussetzungen und Schlüsselinformationen für die Implementierung [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: bfbfc293ad04b294c813ce7c8a11200e70fc812f
+source-git-commit: 688aece01640647a61df730cbe464597b476b033
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -18,13 +18,15 @@ Lesen Sie die folgenden Informationen, bevor Sie Advertising Cloud in Adobe Anal
 
 ## Anforderungen für die Berichterstellung für Advertising Cloud-Daten in [!DNL Analytics]
 
-* Experience Cloud Identity-Dienst: `visitorAPI.js` Version 2.0 oder höher
+* Eine der folgenden Optionen:
+   * Adobe Experience Platform Web SDK: `alloy.js`
+   * Experience Cloud Identity-Dienst: `visitorAPI.js` Version 2.0 oder höher
 * Jede Version von Adobe Analytics (einschließlich [!DNL Prime], [!DNL Premium]oder [!DNL Ultimate])
 * Adobe Analytics: `appMeasurement.js` Version 2.1 oder höher
 
 >[!TIP]
 >
->Um die Datenintegrität zu verbessern, verwenden Sie die neueste Version des Experience Cloud Identity-Diensts mit CNAME-Unterstützung sowie die neueste Version von Analytics AppMeasurement für JavaScript.
+>Verwenden Sie zur Verbesserung der Datenintegrität die neueste Version jeder Bibliothek.
 
 ## Voraussetzungen für die Freigabe von Analytics-Segmenten für Advertising Cloud
 
