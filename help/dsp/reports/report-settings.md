@@ -2,9 +2,9 @@
 title: Benutzerdefinierte Berichtseinstellungen
 description: Siehe Beschreibungen der benutzerdefinierten Berichtseinstellungen.
 feature: DSP Custom Reports
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
 workflow-type: tm+mt
-source-wordcount: '941'
+source-wordcount: '1129'
 ht-degree: 0%
 
 ---
@@ -107,11 +107,35 @@ Weitere Informationen [geräteübergreifende Lösungen](/help/dsp/introduction/f
 
 * *[!UICONTROL Event Timestamp]:* Konversionen werden basierend auf dem Datum der Impression oder des Klicks gemeldet, der die Konversion verursacht hat, wie durch die angegebene [!UICONTROL Attribution Rule Settings].
 
-## [!UICONTROL Add Email Recipients] Abschnitt
+## [!UICONTROL Add Report Destinations] Abschnitt
 
-**[!UICONTROL Email]:** E-Mail-Adresse(n), an die abgeschlossene Berichte oder Benachrichtigungen gesendet werden sollen, wenn der Bericht aufgrund von Fehlern abgebrochen wird. Um mehrere Adressen anzugeben, trennen Sie sie durch Kommas oder Leerzeichen.
+**[!UICONTROL Destination Type]:** Wählen Sie einen der folgenden Zieltypen aus:
 
-**[!UICONTROL Frequency]:** Wie oft wird der Bericht gesendet: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]* oder *[!UICONTROL Monthly]*.
+* *[!UICONTROL S3]:* So senden Sie den abgeschlossenen Bericht an eine oder mehrere [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) -Speicherorte, die Sie im **[!UICONTROL Destination Name]** -Feld.
+* *[!UICONTROL sFTP]:* So senden Sie den abgeschlossenen Bericht an einen oder mehrere SFTP-Standorte, die Sie im Abschnitt **[!UICONTROL Destination Name]** -Feld.
+* *[!UICONTROL FTP]:* So senden Sie den abgeschlossenen Bericht an einen oder mehrere FTP-Speicherorte, die Sie im Abschnitt **[!UICONTROL Destination Name]** -Feld.
+* *[!UICONTROL FTP SSL](Aktuell in Beta):* So senden Sie den abgeschlossenen Bericht an einen oder mehrere FTP-SSL-Speicherorte, die Sie im Abschnitt **[!UICONTROL Destination Name]** -Feld.
+* *[!UICONTROL Email]:* Angabe der E-Mail-Adresse(n), an die abgeschlossene Berichte oder Benachrichtigungen gesendet werden sollen, wenn der Bericht aufgrund von Fehlern abgebrochen wird. Um mehrere Adressen anzugeben, trennen Sie sie durch Kommas oder Leerzeichen.
+
+>[!NOTE]
+>
+> Sie können den Zieltyp nach dem Speichern des Berichts nicht mehr ändern.
+
+**[!UICONTROL Destination Name]:** (Nur S3-, FTP-, sFTP- und FTP-SSL-Zieltypen) Die Namen der Berichtsziele, an die der benutzerdefinierte Bericht gesendet wird.
+
+* Um ein vorhandenes Ziel anzugeben, wählen Sie einen Zielnamen aus der Liste aus. Sie können mehrere Zielnamen separat auswählen.
+
+* So erstellen Sie ein neues Ziel:
+
+   1. Klicken **Neues Ziel hinzufügen**.
+
+   1. Geben Sie die [Berichtszieleinstellungen](/help/dsp/reports/report-destinations/report-destination-settings.md)und klicken Sie auf **Speichern**.
+
+   1. Klicken Sie in den Berichtseinstellungen auf **Aktualisieren Sie die Zielnamen.**
+
+      Das neue Ziel ist jetzt in der Liste der vorhandenen Ziele verfügbar und Sie können es optional zum Bericht hinzufügen.
+
+**[!UICONTROL Frequency]:** (Für jeden [!UICONTROL Destination Name] Wie oft wird der Bericht an das Ziel gesendet: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]* oder *[!UICONTROL Monthly]*.
 
 ## [!UICONTROL Save Report] Abschnitt
 
@@ -129,5 +153,6 @@ Weitere Informationen [geräteübergreifende Lösungen](/help/dsp/introduction/f
 >* [Benutzerspezifischen Bericht bearbeiten](/help/dsp/reports/report-edit.md)
 >* [Benutzerspezifischen Bericht ausführen](/help/dsp/reports/report-run-now.md)
 >* [Benutzerdefinierte Berichtseinstellungen](/help/dsp/reports/report-settings.md)
+>* [Über Berichtsziele](/help/dsp/reports/report-destinations/report-destination-about.md)
 
 * [Verfügbare Berichtsspalten](/help/dsp/reports/report-columns.md)

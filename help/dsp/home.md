@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 07687a569ba9f24a944bd899524bb2a6a4070204
+source-git-commit: 99d0e178209af42a2e2c71f57980761baf0bfb36
 workflow-type: tm+mt
-source-wordcount: '1066'
+source-wordcount: '1165'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,7 @@ Die folgenden Funktionen sind neu oder kürzlich geändert worden.
 
 | Datum | Funktion | Beschreibung | Weitere Informationen |
 | ---- | ------- | ----------- | -------------------- |
+| 28. Oktober 2021 | Benutzerspezifische Berichte | Sie können jetzt [!DNL Amazon S3] und verschiedenen Arten von FTP-Bereitstellungsspeicherorten, genannt *[!DNL report destinations]*, für Ihre benutzerspezifischen Berichte. Nachdem Sie die Berichtsziele konfiguriert haben, können Sie jeden Ihrer neuen benutzerspezifischen Berichte so einrichten, dass er an eine oder mehrere Stellen eines einzelnen Zieltyps oder an E-Mail-Empfänger gesendet wird. Aktualisierungen Ihrer [!DNL Amazon S3] und FTP-Anmeldedaten unterbrechen die Berichtbereitstellung nicht.<br><br>Ihre vorhandenen Berichte werden weiterhin an die angegebenen E-Mail-Empfänger gesendet. Um den Versand an ein anderes Berichtsziel zu konfigurieren, erstellen Sie einen neuen Bericht mit dem neuen Ziel. | Siehe[Info [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md), &quot;[Erstellen Sie eine [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md), &quot;[[!UICONTROL Report Destination] Einstellungen](/help/dsp/reports/report-destinations/report-destination-settings.md),&quot; und &quot;[Benutzerdefinierte Berichtseinstellungen](/help/dsp/reports/report-settings.md).&quot; |
 | 7. Oktober 2021 | Hilfe | Alle [DSP und andere Advertising Cloud-Dokumentation](https://experienceleague.adobe.com/docs/advertising-cloud.html) on [!DNL Experience League] ist nun maschinell in alle verfügbaren Sprachen übersetzt. Um die angezeigte Sprache zu ändern, verwenden Sie das Menü &quot;Sprache ändern&quot; unten links auf jeder Seite.<br>![Sprache ändern](/help/dsp/assets/change-language.png) |
 | 30. September 2021 | Markensicherheit | (Version vom 22. September) [!DNL DoubleVerify] Produkte zur Markensicherheit vor dem Angebot wurden aktualisiert auf [!DNL Brand Suitability Tiers], wodurch Werbetreibende zwischen drei Risikostufen (niedrig, mittel und hoch) für bestimmte Segmente wählen können, ohne alle Instanzen eines bestimmten Themas zu vermeiden. Bisher waren in den Segmenten keine Toleranzwerte enthalten.<br><br>Anpassung an die neue [!DNL DoubleVerify] Segmentstruktur migriert DSP Ihre bestehenden Segmente für Markensicherheit zu den neuen, empfohlenen *medium*-Segment. Sie können optional die Segmentebene auf *low* oder *high*.<br><br>**Hinweis:** Eine kleine Liste von Segmenten hat keine Ebenen, aber neue Namen wie &quot;Nuisance/Spyware/Malware,Warez&quot;> &quot;Incentivized/Malware/Clutter&quot;. | — |
 |  | Optimierung | Die folgenden Optimierungsziele und Filter vor dem Angebot wurden eingestellt:<ul><li>Optimierungsziele:<ul><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – GroupM)]</li><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – MRC)]</li></ul><li>Ziele von Vorab-Angebotsfiltern:<ul><li>[!UICONTROL Viewability IAS]</li><li>[!UICONTROL Viewability Moat]</li></ul></ul> | Siehe[Optimierungsziele und Verwendung](/help/dsp/optimization/optimization-goals.md)&quot; und &quot;[Vorab-Angebotsfilter auf Platzierungsebene und deren Verwendung](/help/dsp/optimization/optimization-pre-bid-filters.md).&quot; |

@@ -3,9 +3,9 @@ title: Über benutzerdefinierte Berichte
 description: Erfahren Sie mehr über die Optionen zum manuellen Erstellen benutzerdefinierter Berichte oder zum Verwenden vorkonfigurierter Berichtsvorlagen.
 feature: DSP Custom Reports
 exl-id: 59fc1894-1c9d-451d-b644-5640dd311547
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,24 @@ Mit benutzerspezifischen Berichten können Sie den Inhalt und die Bereitstellung
 * Detaillierte Konfiguration der Berichte zur Kampagnenleistung.
 * Wählen Sie aus vorkonfigurierten Berichtvorlagen aus und passen Sie diese optional weiter an.
 
-Sie können Berichte einmal generieren oder planen, dass sie in der angegebenen Zeitzone täglich, wöchentlich oder monatlich um 03:00 Uhr generiert werden. Nachdem ein Bericht generiert wurde, wird eine Benachrichtigung an jeden angegebenen E-Mail-Empfänger mit einem Link zum Herunterladen der Datei gesendet.
+Sie können Berichte einmal generieren oder planen, dass sie in der angegebenen Zeitzone täglich, wöchentlich oder monatlich um 03:00 Uhr generiert werden. Sobald ein Bericht generiert wurde, wird er an jeden angegebenen E-Mail-Empfänger oder an einen Link gesendet [Berichtsziele](/help/dsp/reports/report-destinations/report-destination-about.md) der folgenden Typen:
+
+* [!DNL Amazon Simple Storage Service] ([!DNL S3])
+* FTP
+* SFTP
+* FTP-SSL (in der Beta-Version)
 
 >[!NOTE]
 >
->Sie können On-Demand-Daten auch auf allen Ebenen einer Kampagne (Kampagne, Paket, Platzierung oder Anzeige) [in der entsprechenden Kampagnenverwaltungsansicht](/help/dsp/campaign-management/reports/campaign-reports-about.md) anzeigen.
+>Sie können On-Demand-Daten auch auf allen Ebenen einer Kampagne anzeigen (Kampagne, Paket, Platzierung oder Anzeige) [in der entsprechenden Kampagnenverwaltungsansicht](/help/dsp/campaign-management/reports/campaign-reports-about.md).
 
 ## Verfügbare Berichtstypen
 
-* **[!UICONTROL Custom]:** Dieser Bericht ist eine leere Vorlage, mit der Sie Ihren eigenen benutzerspezifischen Bericht mit den meisten Dimensionen und Metriken erstellen können. [!UICONTROL Conversion],  [!UICONTROL Device],  [!UICONTROL Geo] und  [!UICONTROL Site] Berichte sind Varianten dieser Vorlage mit vorausgewählten Spalten und Dimensionen für ihre jeweiligen Anwendungsfälle.
+* **[!UICONTROL Custom]:** Dieser Bericht ist eine leere Vorlage, mit der Sie Ihren eigenen benutzerspezifischen Bericht mit den meisten Dimensionen und Metriken erstellen können. [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo]und [!UICONTROL Site] -Berichte sind Varianten dieser Vorlage mit vorausgewählten Spalten und Dimensionen für die jeweiligen Anwendungsfälle.
 
 * Vorkonfigurierte Berichtsvorlagen
 
-   * **[!UICONTROL Billing]:** Verwenden Sie diesen Bericht, um die wichtigsten Abrechnungsmetriken wie Ausgabenmetriken für die Medienabrechnung nach Kampagne zu verstehen.
+   * **[!UICONTROL Billing]:** Verwenden Sie diesen Bericht, um wichtige Abrechnungsmetriken zu verstehen, wie z. B. Ausgabenmetriken für die Medienabrechnung nach Kampagne.
 
       >[!NOTE]
       >
@@ -39,7 +44,7 @@ Sie können Berichte einmal generieren oder planen, dass sie in der angegebenen 
 
    * **[!UICONTROL Device]:** Verwenden Sie diese vorausgefüllte Vorlage, um Schlüsselmetriken nach gerätebezogenen Dimensionen anzuzeigen.
 
-   * **[!UICONTROL Frequency (by Impression)]** : Verwenden Sie diesen Bericht, um die Verteilung der Impressionen zu verstehen, die Unique Viewers angezeigt werden (z. B. die Anzahl der Unique Viewers, die eine Impression, zwei Impressionen, drei Impressionen usw. gesehen haben). Die Daten sind nach Platzierung oder Kampagne verfügbar.
+   * **[!UICONTROL Frequency (by Impression)]:** Verwenden Sie diesen Bericht, um die Verteilung der Impressionen zu verstehen, die Unique Viewers angezeigt werden (z. B. die Anzahl der Unique Viewers, die eine Impression, zwei Impressionen, drei Impressionen usw. gesehen haben). Die Daten sind nach Platzierung oder Kampagne verfügbar.
 
       >[!NOTE]
       >
@@ -68,15 +73,15 @@ Sie können Berichte einmal generieren oder planen, dass sie in der angegebenen 
       >* Konversionsmetriken und benutzerdefinierte Zieldaten für Segmente sind nach dem 2. August 2019 verfügbar. Alle anderen Daten für Segmente sind ab dem 1. Juni 2018 verfügbar.
 
 
-   * **[!UICONTROL Site]:** Standardmäßig enthält Standardmetriken, die Gesamtmediennutzung und die gesamten abrechnungsfähigen Nettoausgaben pro Site.
+   * **[!UICONTROL Site]:** Standardmäßig enthält Standardmetriken, die Gesamtnettoausgaben der Medien und die gesamten abrechnungsfähigen Nettoausgaben pro Site.
 
 ## Kontoübergreifende Berichterstellung {#cross-account-reporting}
 
 Jede Organisation mit mehreren DSP-Konten kann je nach den Anforderungen der Organisation in benutzerdefinierten Berichten optional kontoübergreifende Daten aktivieren. Sie können beispielsweise Konto A Zugriff auf die Daten von Konto B gewähren und Konto B Zugriff auf die Daten von Konto C gewähren (jedoch nicht auf Konto As). Wenden Sie sich zur Aktivierung und Konfiguration dieser Funktion an Ihren Kundenbetreuer.
 
-Sobald die Funktion für Ihr Unternehmen aktiviert wurde, können Sie [Filter](report-settings.md) der folgenden Berichtstypen nach Konto auswählen:  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)] und [!UICONTROL Conversion].
+Sobald die Funktion für Ihre Organisation aktiviert wurde, können Sie [filter](report-settings.md) einen der folgenden Berichtstypen nach Konto:  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)]und [!UICONTROL Conversion].
 
-Ihre Kontoeinstellungen unter [!UICONTROL Settings] > [!UICONTROL Account] geben a) die anderen Konten an, deren Daten für Ihr Konto verfügbar sind, und b) die anderen Konten, die auf die Daten Ihres Kontos zugreifen können.
+Ihre Kontoeinstellungen unter [!UICONTROL Settings] > [!UICONTROL Account] a) die anderen Konten, deren Daten für Ihr Konto verfügbar sind, und b) die anderen Konten, die auf die Daten Ihres Kontos zugreifen können.
 
 >[!MORELIKETHIS]
 >
@@ -84,4 +89,5 @@ Ihre Kontoeinstellungen unter [!UICONTROL Settings] > [!UICONTROL Account] geben
 >* [Benutzerdefinierte Berichtseinstellungen](/help/dsp/reports/report-settings.md)
 >* [Über In-Platform-Berichte](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Verfügbare Berichtsspalten](/help/dsp/reports/report-columns.md)
+>* [Info [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
 
