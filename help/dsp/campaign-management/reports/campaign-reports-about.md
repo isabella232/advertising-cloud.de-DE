@@ -3,7 +3,7 @@ title: Über In-Platform-Berichte
 description: Erfahren Sie mehr über die Berichtsdaten in den Kampagnenverwaltungsansichten.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: df462aac1da30c1ebe9e1bb8afd8546d79432fde
+source-git-commit: b2393d5e66ba5d3d2dc9816825c05eda076eaad1
 workflow-type: tm+mt
 source-wordcount: '646'
 ht-degree: 0%
@@ -17,25 +17,25 @@ Die Ansichten der Kampagnenverwaltung beinhalten umfassende Berichtdaten. Die ve
 
 ## Liste aller Kampagnen
 
-Die [!UICONTROL Campaigns]-Ansicht öffnet eine Liste aller Kampagnen in Ihrem Konto. Die Zeile [!UICONTROL Subtotals] zeigt entweder die Summe oder den Durchschnittswert jeder Metrik für alle sichtbaren Zeilen an.
+Die [!UICONTROL Campaigns] -Ansicht eine Liste aller Kampagnen in Ihrem Konto. Die [!UICONTROL Subtotals] -Zeile zeigt entweder die Summe oder den Durchschnittswert jeder Metrik über alle sichtbaren Zeilen hinweg.
 
 ![Kampagnenliste](/help/dsp/assets/campaigns-list.png)
 
-Standardmäßig enthält jede Kampagnenzeile die Geschwindigkeit und Versandmetriken. Zu den Aktionsmetriken gehören [!UICONTROL Gross Spend (Lifetime)], die eine Messung der tatsächlichen On-Target-Ausgaben im Vergleich zu den erwarteten On-Target-Ausgaben für alle Kampagnenkits enthalten, sodass Sie leistungsschwache Kampagnen auf einen Blick erkennen können. Sie können optional [die Spaltenansicht](column-view-change.md) ändern oder sogar [eine benutzerdefinierte Spaltenansicht](column-view-create.md) erstellen.
+Standardmäßig enthält jede Kampagnenzeile die Geschwindigkeit und Versandmetriken. Schrittmetriken beinhalten [!UICONTROL Gross Spend (Lifetime)], das eine Messung der tatsächlichen On-Target-Ausgaben im Vergleich zu den erwarteten On-Target-Ausgaben für alle Kampagnenkits enthält, sodass Sie leistungsschwache Kampagnen auf einen Blick erkennen können. Sie können optional [Spaltenansicht ändern](column-view-change.md) oder sogar [Erstellen einer benutzerdefinierten Spaltenansicht](column-view-create.md).
 
-Sie können [die Datentabellen](campaign-data-views-about.md) auf zusätzliche Weise weiter anpassen und [die sichtbaren Daten filtern](campaign-data-filter.md).
+Sie können [Datentabellen anpassen](campaign-data-views-about.md) auf zusätzliche Weise und [die sichtbaren Daten filtern](campaign-data-filter.md).
 
 Um eine Kampagne detaillierter anzuzeigen, klicken Sie auf den Kampagnennamen.
 
-## Berichterstellung für einzelne Kampagnen
+## Berichterstellung für einzelne Kampagnen {#single-campaign-reporting}
 
-Innerhalb einer Kampagne können Daten nach Kampagnenentität gefiltert werden: [!UICONTROL Packages], [!UICONTROL Placements] und [!UICONTROL Ads]. Sie können die sichtbaren Daten [ weiter filtern, um nur die Pakete, Platzierungen oder Anzeigen einzuschließen, die Sie sehen möchten.](campaign-data-filter.md)
+Innerhalb einer Kampagne können Daten nach Kampagnenentität gefiltert werden: [!UICONTROL Packages], [!UICONTROL Placements]und [!UICONTROL Ads]. Sie können [die sichtbaren Daten filtern](campaign-data-filter.md) , um nur die Pakete, Platzierungen oder Anzeigen einzuschließen, die Sie sehen möchten.
 
 ![Tabs zur Kampagnenentität](/help/dsp/assets/campaign-subtabs.png)
 
-In jeder Entitäts-Registerkarte enthält jede Zeile standardmäßig Geschwindigkeit- und Versandmetriken. Sie können jedoch [die Spaltenansicht](column-view-change.md) ändern oder sogar [eine benutzerdefinierte Spaltenansicht](column-view-create.md) erstellen, um sie auf alle Unterregisterkarten für die Kampagne anzuwenden. Sie können [die Datentabellen](campaign-data-views-about.md) auf zusätzliche Weise weiter anpassen. Jede Datentabelle enthält eine Zeile [!UICONTROL Subtotals], die entweder die Summe oder den Durchschnittswert jeder Metrik für alle sichtbaren Zeilen anzeigt.
+In jeder Entitäts-Registerkarte enthält jede Zeile standardmäßig Pacing- und Versandmetriken. Sie können jedoch [Spaltenansicht ändern](column-view-change.md) oder sogar [Erstellen einer benutzerdefinierten Spaltenansicht](column-view-create.md) auf alle Unterregisterkarten der Kampagne anwenden. Sie können [Datentabellen anpassen](campaign-data-views-about.md) auf zusätzliche Weise. Jede Datentabelle enthält eine [!UICONTROL Subtotals] -Zeile, die entweder die Summe oder den Durchschnittswert jeder Metrik über alle sichtbaren Zeilen hinweg anzeigt.
 
-Sie können für jede Kampagne auch Trend-Diagramme für Zeitreihen mit drei Metriken anpassen, die in jeder Entitätsansicht verfügbar sind. Standardmäßig sind Daten für [!UICONTROL Net Spend], [!UICONTROL Impressions] und [!UICONTROL Net CPM] in separaten Diagrammen (Trellis-Diagrammen) enthalten. Sie können die Metriken optional ändern.
+Sie können für jede Kampagne auch Trend-Diagramme für Zeitreihen mit drei Metriken anpassen, die in jeder Entitätsansicht verfügbar sind. Standardmäßig werden Daten für [!UICONTROL Net Spend], [!UICONTROL Impressions]und [!UICONTROL Net CPM] sind in separaten Diagrammen (Trellis-Diagrammen) enthalten. Sie können die Metriken optional ändern.
 
 ![Trends für drei Metriken trennen](/help/dsp/assets/trend-chart-separate.png)
 
@@ -43,33 +43,33 @@ Sie können die drei Metriken optional auch überlagern, um Anomalien und Bereic
 
 ![Trenddiagramm mit Überlagerung](/help/dsp/assets/trend-chart.png)
 
-Sie können [die Trenddiagramme](campaign-data-visualization-manage.md) nach Kampagne anpassen. Dieselben Metriken werden für alle Trenddiagramme der Kampagne beibehalten.
+Sie können [Trenddiagramme anpassen](campaign-data-visualization-manage.md) nach Kampagne, und die gleichen Metriken werden in allen Trenddiagrammen für die Kampagne beibehalten.
 
 ### Platzierungsinspektor
 
-Für jede Platzierung können Sie [eine (Detailansicht [!UICONTROL Inspector])](placement-details-view.md) öffnen, die die folgenden detaillierten Daten enthält:
+Für jede Platzierung können Sie [Öffnen einer (Detailansicht) [!UICONTROL Inspector])](placement-details-view.md), der die folgenden detaillierten Daten enthält:
 
 * **[!UICONTROL Sites]:** Alle Sites, auf denen die Platzierung Impressionen gehabt hat.
 
-   Die Registerkarte [!UICONTROL Sites] enthält Such- und Filterfunktionen, dieselben standardmäßigen und benutzerdefinierten Spaltenansichtsoptionen, die auf der Hauptseite verfügbar sind, und eine [!UICONTROL Exclude]-Schaltfläche in jeder Zeile, damit Sie eine Site schnell von der Platzierung ausschließen können.
+   Die [!UICONTROL Sites] Registerkarte enthält Such- und Filterfunktionen, dieselben standardmäßigen und benutzerdefinierten Spaltenansichtsoptionen, die auf der Hauptseite verfügbar sind, und eine [!UICONTROL Exclude] in jeder Zeile, damit Sie eine Site schnell aus der Platzierung ausschließen können.
 
 * **[!UICONTROL Ads]:** Alle Anzeigen in der Platzierung.
 
-   Die Registerkarte [!UICONTROL Ads] enthält Such- und Filterfunktionen, dieselben standardmäßigen und benutzerdefinierten Spaltenansichtsoptionen, die auf der Hauptseite verfügbar sind, und Schnellaktionsschaltflächen in jeder Zeile, z. B. [!UICONTROL Pause] (damit Sie eine Anzeige schnell anhalten können).
+   Die [!UICONTROL Ads] enthält Such- und Filterfunktionen, dieselben standardmäßigen und benutzerdefinierten Spaltenansichtsoptionen, die auf der Hauptseite verfügbar sind, und Schnellaktionsschaltflächen in jeder Zeile, z. B. [!UICONTROL Pause] (sodass Sie eine Anzeige schnell anhalten können).
 
 * **[!UICONTROL Frequency]:** Daten für jede Anzeigenfrequenzebene für die Platzierung, einschließlich:
    * die Häufigkeit der Anzeige (z. B. &quot;1&quot;für alle Instanzen, in denen Benutzer eine Anzeige einmal gesehen haben);
-   * die geschätzte eindeutige Anzahl von Geräten/Browsern oder Personen (abhängig von der angegebenen [!UICONTROL Cross Device Level] für die Platzierung), die Impressionen auf der angegebenen Frequenzebene erhalten haben
+   * die geschätzte eindeutige Anzahl von Geräten/Browsern oder Personen (je nach spezifiziertem [!UICONTROL Cross Device Level] für die Platzierung), die Impressionen auf der angegebenen Frequenzebene erhalten haben
    * die geschätzte Anzahl von Impressionen auf der angegebenen Frequenzebene
    * die geschätzte Durchschnittshäufigkeit für das angegebene Frequenzniveau. Dieser Wert ist gleich (Geschätzte Impressionen)/(Geschätzte Individuen).
 
 ![Platzierungsinspektor](/help/dsp/assets/placement-inspector-sites.png)
 
-Sie können die Daten auf den Registerkarten [!UICONTROL Sites], [!UICONTROL Ads] oder [!UICONTROL Frequency] als Bericht im XLSM-Format in den standardmäßigen Download-Ordner Ihres Browsers exportieren.
+Sie können die Daten im [!UICONTROL Sites], [!UICONTROL Ads]oder [!UICONTROL Frequency] zum standardmäßigen Download-Ordner Ihres Browsers als Bericht im XLSM-Format.
 
 ### Sonstige Berichtstypen auf Kampagnenebene
 
-Sehen Sie sich für andere Datenaufschlüsselungen [die veralteten Berichtsseiten auf Kampagnenebene](/help/dsp/campaign-management/campaigns/campaign-view-report.md) von [!UICONTROL Campaigns Classic] an. Der alte Bericht enthält Abschnitte zu [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability] und [!UICONTROL Audience Performance] -Daten.
+Für andere Datenaufschlüsselungen anzeigen [Legacy-Berichtsseiten auf Kampagnenebene](/help/dsp/campaign-management/campaigns/campaign-view-report.md) von [!UICONTROL Campaigns Classic]. Der alte Bericht enthält Abschnitte zu [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]und [!UICONTROL Audience Performance] Daten.
 
 >[!MORELIKETHIS]
 >
