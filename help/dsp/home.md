@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 202b537dba5af3e8926584ae2d5df04df0763a70
+source-git-commit: 4e09e4afe0befb40518c847b99d35689ed2f87a8
 workflow-type: tm+mt
-source-wordcount: '1362'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -50,3 +50,5 @@ Die folgenden Funktionen sind neu oder kürzlich geändert worden.
 | 15. Oktober 2020 | Privates Inventar | Alle Benutzer können jetzt mit einem neuen Deal-ID-Formular Details zu Deal-IDs einrichten und bearbeiten. Hierbei handelt es sich um eine vereinfachte Version der alten Version [!UICONTROL Smart Ad Serving] Formular. Um neue Details zur Deal-ID einzurichten, gehen Sie zu [!UICONTROL Inventory] > [!UICONTROL Deals]klicken [!UICONTROL Create]und klicken Sie anschließend auf [!UICONTROL Deal ID Beta]. | Siehe[Manuelles Erstellen von Details zur Angebots-ID](/help/dsp/inventory/deal-id-create.md)&quot; und &quot;[Manuelle Deal-ID-Einstellungen](/help/dsp/inventory/deal-id-settings.md).&quot; |
 |  | Platzierungsvorhersage | Bei Platzierungen mit Platzierungsebenen-Geschwindigkeit wird die [!UICONTROL Forecast] enthält einen neuen Abschnitt der Platzierungseinstellungen. [!UICONTROL Estimated Maximums] -Abschnitt, der angibt, wie viel mehr Kapazität mit der aktuellen Targeting-Konfiguration verfügbar ist. | — |
 | 2. September 2020 | Berichte | Jede Organisation mit mehreren DSP-Konten kann je nach den Anforderungen der Organisation in benutzerdefinierten Berichten optional kontoübergreifende Daten aktivieren. | Siehe Abschnitt &quot;Cross-Account Reporting&quot;in &quot;[Über benutzerdefinierte Berichte](/help/dsp/reports/report-about.md#cross-account-reporting).&quot; |
+
+{style=&quot;table-layout:auto&quot;}
