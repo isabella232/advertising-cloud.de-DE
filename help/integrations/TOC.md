@@ -3,7 +3,7 @@ user-guide-title: Integrationen mit Adobe Experience Cloud
 user-guide-description: Erfahren Sie mehr über Advertising Cloud DSP- und Advertising Cloud Search-Integrationen mit anderen Adobe Experience Cloud-Produkten und -Diensten.
 breadcrumb-title: Integrationen mit Experience Cloud
 index: true
-source-git-commit: a4c8c2e0d50442e872b48577bde9c3fae7da18d5
+source-git-commit: 1d960a0bf052d347b3f55d522c7276806492fa03
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
       + [Advertising Cloud-Metriken in Analysis Workspace](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
       + [[!DNL Analytics] Daten in Advertising Cloud](/help/integrations/analytics/analytics-data-in-advertising-cloud.md)
       + [Erwartete Datenabweichungen zwischen [!DNL Analytics] und Advertising Cloud](/help/integrations/analytics/data-variances.md)
-   + Arbeiten in [!DNL Analytics Marketing Channels]] {#mc}
+   + Arbeiten in [!DNL Analytics Marketing Channels] {#mc}
       + [Grundlagen [!DNL Marketing Channels]](/help/integrations/analytics/marketing-channels/mc-overview.md)
       + [Erstellen von Advertising Cloud-IDs mithilfe [!DNL Marketing Channels] Verarbeitungsregeln](/help/integrations/analytics/marketing-channels/mc-ids.md)
       + [Verwenden [!DNL Marketing Channels] mit Advertising Cloud-Daten](/help/integrations/analytics/marketing-channels/mc-ac-data.md)
