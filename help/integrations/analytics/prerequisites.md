@@ -3,9 +3,9 @@ title: Voraussetzungen und Schlüsselinformationen für die Implementierung [!DN
 description: Voraussetzungen und Schlüsselinformationen für die Implementierung [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: 688aece01640647a61df730cbe464597b476b033
+source-git-commit: d4d743ade0e2dad2b967b8316ff2261d0a82d5b0
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '845'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,8 @@ Die [!DNL Analytics for Advertising Cloud] JavaScript verwendet diese Einstellun
 Wenden Sie sich an [!DNL Adobe] Kundenbetreuer für die neuesten unterstützten Anzeigenumgebungen in den einzelnen Kanälen.
 
 ## Was Sie vor der Implementierung wissen sollten
+
+* Das Advertising Cloud-Implementierungsteam wird die Integration einrichten.
 
 * Für diese Integration werden keine zusätzlichen Kosten in Rechnung gestellt, auch keine Server-Aufrufe führen zu zusätzlichen [!DNL Analytics] oder Advertising Cloud-Gebühren.
 
