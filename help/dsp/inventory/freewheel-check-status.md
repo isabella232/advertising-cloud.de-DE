@@ -3,9 +3,9 @@ title: Überprüfen Sie den Status von Anzeigen auf einen [!DNL [!DNL FreeWheel]
 description: Erfahren Sie, wie Sie den Status von Anzeigen für [!DNL Freewheel] programmgesteuerte garantierte Angebote.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: 55854d9ab1a535767315941fe4ca5777a8069b5e
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Überprüfen des Status von Anzeigen auf [!DNL Freewheel] Gesicherte programmatische Vereinbarungen
 
 Ermitteln, ob Anzeigen an [!DNL Freewheel] erfolgreich waren. Sie können jede beliebige Anzeige bei Bedarf erneut einreichen.
+
+Wenden Sie sich bei weiteren Fragen oder Problemen mit der erneuten Einreichung an Ihren [!DNL Adobe] Kundenbetreuer.
+
+## Überprüfen Sie den Status über die [!UICONTROL Deals] Ansicht
 
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Inventory]> [!UICONTROL Deals].**
 
@@ -30,7 +34,17 @@ Ermitteln, ob Anzeigen an [!DNL Freewheel] erfolgreich waren. Sie können jede b
 
 1. (Optional) Um eine Anzeige erneut zur Genehmigung einzureichen, halten Sie den Cursor über die Anzeigenzeile und klicken Sie auf **[!UICONTROL More]>[!UICONTROL Resubmit]**.
 
-Wenden Sie sich bei weiteren Fragen oder Problemen mit der erneuten Einreichung an Ihren [!DNL Adobe] Kundenbetreuer.
+## Überprüfen Sie den Status über die [!UICONTROL Ads] Ansicht
+
+1. Klicken Sie im Hauptmenü auf **[!UICONTROL Campaigns]**.
+
+1. Klicken Sie auf den Namen der Kampagne.
+
+1. Klicken Sie im Untermenü auf **[!UICONTROL Ads]**.
+
+1. Klicken Sie neben dem Anzeigennamen auf  **... >[!UICONTROL see Freewheel status]**.
+
+1. (Optional) Um eine Anzeige erneut zur Genehmigung einzureichen, halten Sie den Cursor über die Anzeigenzeile und klicken Sie auf **[!UICONTROL More]>[!UICONTROL Resubmit]**.
 
 >[!MORELIKETHIS]
 >
