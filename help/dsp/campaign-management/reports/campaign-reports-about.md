@@ -3,9 +3,9 @@ title: Über In-Platform-Berichte
 description: Erfahren Sie mehr über die Berichtsdaten in den Kampagnenverwaltungsansichten.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 0b0f5df3ae9180dcbc2aeb5d7833956934767915
+source-git-commit: 8814d14667f3ba1517fafcefcf2c095b89ba7493
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '931'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Innerhalb einer Kampagne können Daten nach Kampagnenentität gefiltert werden: 
 
 In jeder Entitäts-Registerkarte enthält jede Zeile standardmäßig Pacing- und Versandmetriken. Sie können jedoch [Spaltenansicht ändern](column-view-change.md) oder sogar [Erstellen einer benutzerdefinierten Spaltenansicht](column-view-create.md) auf alle Unterregisterkarten der Kampagne anwenden. Sie können [Datentabellen anpassen](campaign-data-views-about.md) auf zusätzliche Weise. Jede Datentabelle enthält eine [!UICONTROL Subtotals] -Zeile, die entweder die Summe oder den Durchschnittswert jeder Metrik über alle sichtbaren Zeilen hinweg anzeigt.
 
-Sie können für jede Kampagne auch Trend-Diagramme für Zeitreihen mit drei Metriken anpassen, die in jeder Entitätsansicht verfügbar sind. Standardmäßig werden Daten für [!UICONTROL Net Spend], [!UICONTROL Impressions]und [!UICONTROL Net CPM] sind in separaten Diagrammen (Trellis-Diagrammen) enthalten. Sie können die Metriken optional ändern.
+Sie können für jede Kampagne auch Trend-Diagramme für Zeitreihen mit drei Metriken anpassen, die in jeder Entitätsansicht verfügbar sind. Standardmäßig werden Daten für [!UICONTROL Net Spend], [!UICONTROL Impressions]und [!UICONTROL Net CPM] sind in separaten Diagrammen (Trellis-Diagrammen) enthalten. Sie können die Metriken optional ändern. Um stündliche Daten in Trend-Diagrammen für Zeitreihen zu aktivieren, ändern Sie Ihre Datumsauswahl auf einen einzelnen Tag (heute, gestern oder einen bestimmten Tag).
 
 ![Trends für drei Metriken trennen](/help/dsp/assets/trend-chart-separate.png)
 
