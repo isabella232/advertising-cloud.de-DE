@@ -3,9 +3,9 @@ title: Senden einer Anzeige für ein PG-Deal an [!DNL FreeWheel]
 description: Erfahren Sie, wie Sie bei einem Herausgeber auf FreeWheel eine Genehmigung für eine Anzeige für ein programmgesteuertes garantiertes Angebot anfordern können.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: 1f485caddf4d28fd19667a8f2a54538ec7fa8275
+source-git-commit: 99f1a9060aa90bb4110b4017573adb8e0effb989
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Einmal [akzeptieren programmgesteuertes garantiertes Geschäft mit einem Herausg
 
       * Klicken Sie neben dem Anzeigennamen auf  **[!UICONTROL ...]>[!UICONTROL submit to FreeWheel]**.
 
-      * Klicken Sie im Hauptmenü auf **[!UICONTROL Inventory]> [!UICONTROL Deals].** 1. Klicken Sie in der Zeile &quot;Deal&quot;auf ![Optionen, Menü](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to FreeWheel]**.
+      * Klicken Sie im Hauptmenü auf **[!UICONTROL Inventory]> [!UICONTROL Deals].** Klicken Sie in der Zeile &quot;Deal&quot;auf ![Optionen, Menü](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to FreeWheel]**.
    1. Überprüfen Sie die Deal-ID, geben Sie die **[!UICONTROL Ad Key]** Sie haben in Schritt 1 kopiert und klicken dann auf **[!UICONTROL Submit]**.
 
    Die Anzeige muss vor der Ausführung gesendet und genehmigt werden.
