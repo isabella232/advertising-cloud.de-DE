@@ -2,9 +2,9 @@
 title: Erweiterte Messlösungen
 description: Sehen Sie sich eine Liste der verfügbaren Lösungen für erweiterte Messungen an.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: b4976cdce6b4d5870c5cc3a1a09c1b5545cd3200
+source-git-commit: 927fd18c39ff93fae6222c0376cbe41810c06ca2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
@@ -93,4 +93,4 @@ Die folgenden Lösungspakete für Messungen sind verfügbar, um den Erfolg Ihrer
 
 ## Weitere Informationen
 
-Informationen über alle Messgeräte von [!DNL Strategic Advertising Consulting], in dem Preisinformationen sowie verfügbare Formate und Regionen für jede Lösung beschrieben werden, wenden Sie sich an Ihren Kundenbetreuer. Lösungsspezifische Fallstudien sind auch auf Anfrage verfügbar.
+Informationen zu allen erweiterten Messlösungen, Preisinformationen sowie verfügbare Formate und Regionen für jede Lösung erhalten Sie von Ihrem [!DNL Adobe] Customer Success Manager. Lösungsspezifische Fallstudien sind auch auf Anfrage verfügbar.
