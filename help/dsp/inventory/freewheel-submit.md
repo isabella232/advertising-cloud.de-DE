@@ -3,9 +3,9 @@ title: Senden einer Anzeige für ein PG-Deal an [!DNL FreeWheel]
 description: Erfahren Sie, wie Sie bei einem Herausgeber auf FreeWheel eine Genehmigung für eine Anzeige für ein programmgesteuertes garantiertes Angebot anfordern können.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: b149804bc3e9de5cd48a00f0611c09d1f2e7c7ca
+source-git-commit: c2caed80f0afc0cbe3572d01dc2c89f13ed13712
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -20,27 +20,41 @@ Einmal [akzeptieren programmgesteuertes garantiertes Geschäft mit einem Herausg
 >
 >Arbeiten mit [!DNL Adobe] Kontoteam, um sicherzustellen, dass Ihre [!DNL DSP] -Konto über die Berechtigung zum Verwenden der [!DNL FreeWheel] programmgesteuerter garantierter Workflow.
 
-1. Kopieren Sie den Anzeigenschlüssel für die Anzeige, die mit dem FreeWheel-Deal verwendet wird:
+## Kopieren Sie einen Anzeigenschlüssel, der mit der [!DNL FreeWheel] Deal {#copy-ad-key}
 
-   1. Klicken Sie auf den Namen der Kampagne.
+1. Klicken Sie auf den Namen der Kampagne.
 
-   1. Klicken Sie im Untermenü auf **[!UICONTROL Ads]**.
+1. Klicken Sie im Untermenü auf **[!UICONTROL Ads]**.
 
-   1. Klicken  **[!UICONTROL ...]>[!UICONTROL Edit]** neben dem Anzeigennamen.
+1. Klicken  **[!UICONTROL ...]>[!UICONTROL Edit]** neben dem Anzeigennamen.
 
-   1. Kopieren Sie nach dem Öffnen der Anzeigeneinstellungen den alphanumerischen Anzeigenschlüssel in die URL, die in der Adressleiste des Browsers angezeigt wird.
+1. Kopieren Sie nach dem Öffnen der Anzeigeneinstellungen den alphanumerischen Anzeigenschlüssel in die URL, die in der Adressleiste des Browsers angezeigt wird.
 
-      In der folgenden URL lautet beispielsweise der Anzeigenschlüssel `3NtNC5ZbaGZtqbei8jD3`
+In der folgenden URL lautet beispielsweise der Anzeigenschlüssel `3NtNC5ZbaGZtqbei8jD3`
 
-      `https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads`
+`https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads`
 
-1. Senden Sie die Anzeige an FreeWheel:
+## Senden Sie eine Anzeige über die [!UICONTROL Ads] Ansicht
 
-   1. Im [!UICONTROL Deals] anzeigen, suchen Sie den Deal.
+1. [Kopieren Sie den Anzeigenschlüssel für die Anzeige](#copy-ad-key).
 
-   1. Klicken Sie in der Zeile &quot;Deal&quot;auf ![Optionen, Menü](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to [!DNL FreeWheel]]**.
+1. Klicken Sie neben dem Anzeigennamen auf  **[!UICONTROL ...]>[!UICONTROL submit to FreeWheel]**.
 
-   1. Überprüfen Sie die Deal-ID, geben Sie die **[!UICONTROL Ad Key]** Sie haben in Schritt 1 kopiert und klicken dann auf **[!UICONTROL Submit]**.
+1. Überprüfen Sie die Deal-ID, geben Sie [die **[!UICONTROL Ad Key]**](#copy-ad-key)und klicken Sie anschließend auf **[!UICONTROL Submit]**.
+
+   Die Anzeige muss vor der Ausführung gesendet und genehmigt werden.
+
+1. [Überprüfen des Status der Anzeigenübermittlung](freewheel-check-status.md).
+
+## Senden Sie eine Anzeige über die [!UICONTROL Deals] Ansicht
+
+1. [Kopieren Sie den Anzeigenschlüssel für die Anzeige](#copy-ad-key).
+
+1. Klicken Sie im Hauptmenü auf **[!UICONTROL Inventory]> [!UICONTROL Deals].**
+
+1. Klicken Sie in der Zeile &quot;Deal&quot;auf ![Optionen, Menü](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to FreeWheel]**.
+
+1. Überprüfen Sie die Deal-ID, geben Sie [die **[!UICONTROL Ad Key]**](#copy-ad-key)und klicken Sie anschließend auf **[!UICONTROL Submit]**.
 
    Die Anzeige muss vor der Ausführung gesendet und genehmigt werden.
 
