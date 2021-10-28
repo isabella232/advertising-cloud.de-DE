@@ -3,9 +3,9 @@ title: Fehlercodes für [!DNL FreeWheel] Anzeigenübermittlungen
 description: Referenzieren Sie die Fehlercodes, die für Anzeigenübermittlungen an zurückgegeben werden. [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '684'
 ht-degree: 2%
 
 ---
@@ -29,7 +29,7 @@ Die Fehlermeldungen für fehlgeschlagene Anzeigenübermittlungen können entwede
 
 {style=&quot;table-layout:auto&quot;}
 
-## FreeWheel-API-Fehler
+## [!DNL Freewheel] API-Fehler
 
 | Code | Bedeutung | Beschreibung | Nächste Schritte |
 |--- |--- |--- |--- |
@@ -43,7 +43,7 @@ Die Fehlermeldungen für fehlgeschlagene Anzeigenübermittlungen können entwede
 
 {style=&quot;table-layout:auto&quot;}
 
-## Fehler der FreeWheel API 422 {#freewheel-422-errors}
+## [!DNL Freewheel] API 422-Fehler {#freewheel-422-errors}
 
 | Code | HTTP-Code | Beschreibung |
 |--- |--- |--- |
@@ -64,8 +64,8 @@ Die Fehlermeldungen für fehlgeschlagene Anzeigenübermittlungen können entwede
 
 >[!MORELIKETHIS]
 >
->* [Übersicht über die Einrichtung programmgesteuerter Garantiegeschäfte in FreeWheel](/help/dsp/inventory/freewheel-overview.md)
+>* [Übersicht über die Einrichtung von programmatischen Garantievereinbarungen in [!DNL Freewheel]](/help/dsp/inventory/freewheel-overview.md)
 >* [Akzeptieren eines Angebots im Deal-ID-Posteingang](deal-id-inbox-accept.md)
->* [Senden einer Anzeige für einen programmgesteuerten garantierten Deal an FreeWheel](/help/dsp/inventory/freewheel-submit.md)
+>* [Senden Sie eine Anzeige für einen programmgesteuerten garantierten Deal an [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)
 >* [Überprüfen des Status von Anzeigen auf [!DNL FreeWheel] Gesicherte programmatische Vereinbarungen](/help/dsp/inventory/freewheel-check-status.md)
 

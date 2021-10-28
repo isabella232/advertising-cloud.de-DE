@@ -3,9 +3,9 @@ title: Überprüfen Sie den Status von Anzeigen auf einen [!DNL [!DNL FreeWheel]
 description: Erfahren Sie, wie Sie den Status von Anzeigen für [!DNL Freewheel] programmgesteuerte garantierte Angebote.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: 07b964aca7f634a29342e4d09a5e5352570f4d79
+source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -48,8 +48,8 @@ Wenden Sie sich bei weiteren Fragen oder Problemen mit der erneuten Einreichung 
 
 >[!MORELIKETHIS]
 >
->* [Übersicht über die Einrichtung programmgesteuerter Garantiegeschäfte in FreeWheel](freewheel-overview.md)
->* [Senden einer Anzeige für einen programmgesteuerten garantierten Deal an FreeWheel](freewheel-submit.md)
->* [Fehlercodes für FreeWheel-Anzeigenübermittlungen](freewheel-error-codes.md)
+>* [Übersicht über die Einrichtung von programmatischen Garantievereinbarungen in [!DNL Freewheel]](freewheel-overview.md)
+>* [Senden Sie eine Anzeige für einen programmgesteuerten garantierten Deal an [!DNL Freewheel]](freewheel-submit.md)
+>* [Fehlercodes für [!DNL Freewheel] Anzeigenübermittlungen](freewheel-error-codes.md)
 >* [Akzeptieren eines Angebots im Deal-ID-Posteingang](deal-id-inbox-accept.md)
 

@@ -1,18 +1,18 @@
 ---
-title: Übersicht über das Einrichten von PG-Angeboten in FreeWheel
-description: 'Erfahren Sie mehr über die Voraussetzungen und zusätzlichen Schritte, die zum Ausführen von Anzeigen für programmgesteuerte garantierte Angebote für Herausgeber auf FreeWheel erforderlich sind. '
+title: Übersicht über das Einrichten von PG-Angeboten in [!DNL Freewheel]
+description: 'Erfahren Sie mehr über die Voraussetzungen und zusätzlichen Schritte, die zum Ausführen von Anzeigen für programmgesteuerte garantierte Angebote für Herausgeber erforderlich sind in [!DNL Freewheel]. '
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: dfd5992f059645622b3a75d092d3eb7fe1bfa696
+source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
-# Übersicht über die Einrichtung programmgesteuerter Garantiegeschäfte in FreeWheel
+# Übersicht über die Einrichtung von programmatischen Garantievereinbarungen in [!DNL Freewheel]
 
-Das Einrichten programmgesteuerter garantierter Angebote für Herausgeber auf FreeWheel erfordert zusätzliche Berechtigungen und Schritte.
+Einrichten programmgesteuerter garantierter Angebote für Herausgeber in [!DNL Freewheel] erfordert zusätzliche Berechtigungen und Schritte.
 
 >[!PREREQUISITES]
 >
@@ -20,20 +20,20 @@ Das Einrichten programmgesteuerter garantierter Angebote für Herausgeber auf Fr
 >
 >1. Berechtigung zur Verwendung der [!DNL FreeWheel] programmgesteuerter garantierter Workflow, der erforderlich ist, um eine Anzeige für einen programmgesteuerten garantierten Deal zu senden, um [!DNL FreeWheel].
 >
->1. (Wenn Sie mit britischen Herausgebern zusammenarbeiten, die für jede Anzeige eine Clearcast-Uhrennummer benötigen) Erlauben Sie, Uhrennummern in Ihre Anzeigen aufzunehmen.
+>1. (Wenn Sie mit britischen Herausgebern arbeiten, die eine [!DNL Clearcast] Uhrennummer mit jeder Anzeige) Erlaubnis, Uhrennummern in Ihre Anzeigen aufzunehmen.
 
 
 ## Workflow
 
 1. Erstellen Sie eine Anzeige mit dem im Deal angegebenen Medientyp.
 
-   Für einige britische Herausgeber müssen Sie eine Clearcast-Uhrennummer in Ihre Anzeige aufnehmen.
+   Für einige britische Herausgeber müssen Sie eine [!DNL Clearcast] Uhrennummer mit Ihrer Anzeige.
 
-1. [Akzeptieren der Deal-ID](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) Sie haben bereits mit einem Herausgeber auf FreeWheel über den Deal ID Inbox verhandelt.
+1. [Akzeptieren der Deal-ID](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) Sie haben bereits mit einem Herausgeber verhandelt am [!DNL Freewheel] über den Posteingang der Angebots-ID.
 
    Nachdem Sie den Deal angenommen haben, befolgen Sie die Anweisungen 1) Auswählen der Anzeige, die für den Deal verwendet werden soll, und 2) Erstellen Sie eine programmgesteuerte garantierte Standardplatzierung, um die Anzeige zu bedienen.
 
-1. [Senden Sie die Anzeige an FreeWheel](freewheel-submit.md)
+1. [Senden Sie die Anzeige an [!DNL Freewheel]](freewheel-submit.md)
 
    Die Anzeige muss vor der Ausführung gesendet und genehmigt werden.
 
@@ -42,7 +42,7 @@ Das Einrichten programmgesteuerter garantierter Angebote für Herausgeber auf Fr
 >[!MORELIKETHIS]
 >
 >* [Akzeptieren eines Angebots im Deal-ID-Posteingang](deal-id-inbox-accept.md)
->* [Senden einer Anzeige für einen programmgesteuerten garantierten Deal an FreeWheel](freewheel-submit.md)
+>* [Senden Sie eine Anzeige für einen programmgesteuerten garantierten Deal an [!DNL Freewheel]](freewheel-submit.md)
 >* [Überprüfen des Status von Anzeigen auf [!DNL FreeWheel] Gesicherte programmatische Vereinbarungen](freewheel-check-status.md)
->* [Fehlercodes für FreeWheel-Anzeigenübermittlungen](freewheel-error-codes.md)
+>* [Fehlercodes für [!DNL Freewheel] Anzeigenübermittlungen](freewheel-error-codes.md)
 

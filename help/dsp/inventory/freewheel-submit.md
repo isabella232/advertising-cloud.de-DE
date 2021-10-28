@@ -1,26 +1,26 @@
 ---
 title: Senden einer Anzeige für ein PG-Deal an [!DNL FreeWheel]
-description: Erfahren Sie, wie Sie bei einem Herausgeber auf FreeWheel eine Genehmigung für eine Anzeige für ein programmgesteuertes garantiertes Angebot anfordern können.
+description: Erfahren Sie, wie Sie eine Genehmigung für eine Anzeige für ein programmgesteuertes garantiertes Geschäft mit einem Herausgeber anfordern können in [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: a124f9cce3be5e68843c2d8df56640962644d5f4
+source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
-# Senden einer Anzeige für einen programmgesteuerten garantierten Deal an FreeWheel
+# Senden Sie eine Anzeige für einen programmgesteuerten garantierten Deal an [!DNL Freewheel]
 
 *Konten mit der [!DNL FreeWheel] Nur programmatische Garantieberechtigungen*
 
-Einmal [akzeptieren programmgesteuertes garantiertes Geschäft mit einem Herausgeber auf FreeWheel](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox), einschließlich der Auswahl einer Anzeige und der Erstellung der programmgarantierten Standardplatzierung, die für das Angebot verwendet werden soll, müssen Sie die Anzeige zur Genehmigung an FreeWheel senden.
+Einmal [akzeptieren programmgesteuertes garantiertes Geschäft mit einem Herausgeber auf FreeWheel](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox), einschließlich der Auswahl einer Anzeige und der Erstellung der programmgarantierten Standardplatzierung, die für das Angebot verwendet werden soll, müssen Sie die Anzeige an senden [!DNL Freewheel] zur Genehmigung.
 
 >[!PREREQUISITES]
 >
 >Arbeiten Sie mit Ihrem Adobe-Kundenbetreuungsteam zusammen, um sicherzustellen, dass Ihre [!DNL DSP] -Konto über die Berechtigung zum Verwenden der [!DNL FreeWheel] programmgesteuerter garantierter Workflow.
 
-1. Kopieren Sie den Anzeigenschlüssel für die Anzeige, die mit dem FreeWheel-Deal verwendet wird:
+1. Kopieren Sie den Anzeigenschlüssel für die mit der [!DNL Freewheel] handeln:
 
    1. Klicken Sie auf den Namen der Kampagne.
 
@@ -34,7 +34,7 @@ Einmal [akzeptieren programmgesteuertes garantiertes Geschäft mit einem Herausg
 
       `https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads`
 
-1. Senden Sie die Anzeige an FreeWheel:
+1. Senden Sie die Anzeige an [!DNL Freewheel]:
 
    1. Führen Sie einen der folgenden Schritte aus:
 
@@ -49,8 +49,8 @@ Einmal [akzeptieren programmgesteuertes garantiertes Geschäft mit einem Herausg
 
 >[!MORELIKETHIS]
 >
->* [Übersicht über die Einrichtung programmgesteuerter Garantiegeschäfte in FreeWheel](freewheel-overview.md)
+>* [Übersicht über die Einrichtung von programmatischen Garantievereinbarungen in [!DNL Freewheel]](freewheel-overview.md)
 >* [Akzeptieren eines Angebots im Deal-ID-Posteingang](deal-id-inbox-accept.md)
 >* [Überprüfen des Status von Anzeigen auf [!DNL FreeWheel] Gesicherte programmatische Vereinbarungen](freewheel-check-status.md)
->* [Fehlercodes für FreeWheel-Anzeigenübermittlungen](freewheel-error-codes.md)
+>* [Fehlercodes für [!DNL Freewheel] Anzeigenübermittlungen](freewheel-error-codes.md)
 
