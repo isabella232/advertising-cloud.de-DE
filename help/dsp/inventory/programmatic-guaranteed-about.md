@@ -3,7 +3,7 @@ title: Über programmatische Garantievereinbarungen
 description: Erfahren Sie mehr über programmgarantierte (PG) Angebote und welche SSPs für ihre Bereitstellung zertifiziert sind.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 8cf85ae3-027d-4d9d-95a0-ac39d651627a
-source-git-commit: 2ebcaa488499485b1da549e0324d15ca8160512a
+source-git-commit: 96f756b0f5239e2378d0a4da18335d909f96ab94
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Ein programmgesteuertes garantiertes (PG) Geschäft ist ein garantierter Kauf di
 * Das Geschäft wird immer DSP.
 * Das Geschäft hat einen festen Preis und eine feste Menge.
 * Die Herausgeber- oder Angebotsplattform (Supply Side Platform, SSP) verarbeitet alle Budgetkürzungen, Budgetbegrenzungen und alle Zielgruppen.
-* In der Regel hat das Geschäft eine höhere Priorität auf dem Adserver des Herausgebers
+* In der Regel hat der Deal eine höhere Priorität auf dem Adserver des Herausgebers.
 * Angebotsanfragen schließen sich nicht nur einem Einzelgeschäft oder Käufer aus.
 * Für eine einzige Deal-ID werden mehrere Arten von Videos unterstützt.
 * Die SSPs und Herausgeber verfügen über Bereitstellungs-SLAs.
@@ -31,8 +31,8 @@ Für PG-Angebote sind eine standardmäßige Platzierung und Anzeigen für PG erf
 * [!DNL Ambient Digital]
 * [!DNL FreeWheel]
 * [!DNL Google Authorized Buyers]
-* [!DNL Magnite CTV] (früher  [!DNL Telaria])
-* [!DNL Magnite DV+] (früher  [!DNL Rubicon])
+* [!DNL Magnite CTV] (früher [!DNL Telaria])
+* [!DNL Magnite DV+] (früher [!DNL Rubicon])
 * [!DNL OpenX]
 * [!DNL SpotX]
 
