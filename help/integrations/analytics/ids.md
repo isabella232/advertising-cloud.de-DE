@@ -3,9 +3,9 @@ title: Von verwendete Advertising Cloud IDs [!DNL Analytics]
 description: Von verwendete Advertising Cloud IDs [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 1ba45d789c4ad365166df829ac74e0200cdc8851
+source-git-commit: 143e8e756d13597bf923d0b6f5b2510f834e6e0f
 workflow-type: tm+mt
-source-wordcount: '1156'
+source-wordcount: '1157'
 ht-degree: 0%
 
 ---
@@ -69,13 +69,13 @@ Beispiel `EF `ID: WcmibgAAAHJK1RyY:1551968087687:d
 
 In [!DNL Analytics] Berichte, können Sie EF ID-Daten finden, indem Sie nach der [!UICONTROL EF ID] Dimension und unter Verwendung der [!UICONTROL EF ID Instance] Metrik.
 
-`EF IDs` unterliegen in Analysis Workspace der Grenze von 500.000 eindeutigen Kennungen. Sobald der Wert von 500.000 erreicht ist, werden alle neuen Trackingcodes unter dem einzeiligen Elementtitel gemeldet.[!UICONTROL Low Traffic].&quot; Da die Möglichkeit besteht, dass die Berichtstreue fehlt, wird die `EF IDs` nicht klassifiziert sind und Sie sollten sie nicht für Segmente oder Berichte in [!DNL Analytics].
+EF-IDs unterliegen in Analysis Workspace der Grenze von 500.000 eindeutigen Kennungen. Sobald der Wert von 500.000 erreicht ist, werden alle neuen Trackingcodes unter dem einzeiligen Elementtitel gemeldet.[!UICONTROL Low Traffic].&quot; Da die Möglichkeit besteht, dass die Berichtstreue fehlt, werden die EF-IDs nicht klassifiziert und sollten Sie sie nicht für Segmente oder Berichte in [!DNL Analytics].
 
 ## Advertising Cloud AMO-IDs
 
 Die AMO-ID verfolgt jede eindeutige Anzeigenkombination auf einer weniger detaillierten Ebene und wird für [!DNL Analytics] Datenklassifizierung und Erfassung von Werbemetriken (wie Impressionen, Klicks und Kosten) aus Advertising Cloud. Die AMO-ID wird in einer [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) oder rVar-Dimension (AMO-ID) und wird ausschließlich für die Berichterstellung in [!DNL Analytics].
 
-Die AMO-ID wird auch als `s_kwcid`, was manchmal auch als &quot;Kalmar&quot;bezeichnet wird.
+Die AMO-ID wird auch als `s_kwcid`, der manchmal als &quot;[!DNL the squid].&quot;
 
 ### AMO-ID-Format für [!DNL DSP]
 
