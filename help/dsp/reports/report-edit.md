@@ -2,8 +2,7 @@
 title: Benutzerspezifischen Bericht bearbeiten
 description: Erfahren Sie, wie Sie benutzerdefinierte Berichtseinstellungen bearbeiten.
 feature: DSP Custom Reports
-exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 1%
@@ -16,7 +15,7 @@ ht-degree: 1%
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Reports]**.
 1. Führen Sie einen der folgenden Schritte aus:
    * Klicken Sie auf den Berichtsnamen.
-   * Klicken Sie in der Spalte [!UICONTROL Options] für die Berichtszeile auf **[!UICONTROL options]>[!UICONTROL Edit]**.
+   * Im [!UICONTROL Options] Spalte für die Berichtszeile, klicken Sie auf **[!UICONTROL options]>[!UICONTROL Edit]**.
 1. Bearbeiten Sie die [Berichtseinstellungen](/help/dsp/reports/report-settings.md).
 1. Klicken **[!UICONTROL Edit Custom Report]**.
 

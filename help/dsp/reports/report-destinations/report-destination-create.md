@@ -2,8 +2,7 @@
 title: Erstellen eines Berichtsziels
 description: Erfahren Sie, wie Sie ein Ziel für die Bereitstellung benutzerdefinierter Berichte erstellen.
 feature: DSP Custom Reports
-exl-id: null
-source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 2%

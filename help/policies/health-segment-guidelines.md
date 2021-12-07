@@ -2,8 +2,7 @@
 title: Akzeptable Adobe Advertising Cloud-Konsistenzsegmente
 description: Siehe Richtlinien für akzeptable gesundheitsbezogene Zielgruppensegmente und -taktiken, die als Alternativen zum Targeting gesundheitsbezogener Zielgruppensegmente verwendet werden.
 feature: Policies
-exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -16,17 +15,17 @@ ht-degree: 0%
 
 Die folgenden Richtlinien enthalten inakzeptable und akzeptable gesundheitsbezogene Zielgruppensegmente. Außerdem wird empfohlen, Taktiken als Alternativen zum Targeting gesundheitsbezogener Zielgruppensegmente zu verwenden.
 
-Diese Richtlinien werden aus dem [!DNL Network Advertising Alliance (NAI)] zusammengefasst.
+Diese Leitlinien werden aus dem [!DNL Network Advertising Alliance (NAI)].
 
-Siehe auch [Advertising Cloud Ads Requirements Policy](/help/policies/ad-requirements-policy.md) , um zu bestimmen, ob ein gesundheitsbezogenes Zielgruppensegment pro Targeting-Richtlinie von Adobe Advertising Cloud verwendet werden kann.
+Siehe auch [Advertising Cloud Ads Requirements Policy](/help/policies/ad-requirements-policy.md) , um zu bestimmen, ob ein gesundheitsbezogenes Zielgruppensegment gemäß der Targeting-Richtlinie von Adobe Advertising Cloud verwendet werden kann.
 
 ## Nicht zu verwendende Gesundheitssegmente
 
 * Segmente, die auf geschützte Gesundheitsinformationen (PHI)\*, medizinische Aufzeichnungen auf Benutzerebene, pharmazeutische Verschreibungen oder ähnliche medizinische Quellen angewiesen sind, die tatsächliche Kenntnisse über den Zustand oder die Behandlung dieses Benutzers vermitteln.
 
-   \* Adobe Advertising Cloud ist keine [!DNL HIPAA]-bereite Lösung.
+   \* Adobe Advertising Cloud ist keine [!DNL HIPAA]-fertige Lösung.
 
-* Segmente, die auf Gesundheitsbedingungen (oder verwandte Behandlungen) abzielen, wie Krebs, psychische Gesundheit, Drogensucht, sexuell übertragbare Krankheiten, Bedingungen, die hauptsächlich Kinder betreffen, oder andere sensible Gesundheitszustände, die nicht mit Präparationsmedikamenten behandelt werden können (z. B. Diabetes, Psoriasis, rheumatoide Arthritis oder Fibromyalgie).
+* Segmente, die auf Gesundheitsbedingungen (oder verwandte Behandlungen) abzielen, wie Krebs, psychische Gesundheit, Drogensucht, sexuell übertragbare Krankheiten, Bedingungen, die hauptsächlich Kinder betreffen, oder andere sensible Gesundheitszustände, die nicht mit Präparaten behandelt werden können (z. B. Diabetes, Psoriasis, rheumatoide Arthritis oder Fibromyalgie).
 
 * Segmente, die sich auf die vorherige Web-Aktivität, App-Nutzung oder Aktivität zum Anzeigen von Inhalten eines Benutzers oder Geräts stützen und ein Interesse an einer sensiblen Gesundheit, einer medizinischen Erkrankung oder Behandlung ausdrücken (wie im obigen Block beschrieben).
 

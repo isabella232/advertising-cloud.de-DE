@@ -2,8 +2,7 @@
 title: Erstellen von Anzeigen mit Flashspeak
 description: Erfahren Sie mehr über DSP gebührenbasierte Ad-Serving-Partnerschaft mit Flashspeak.
 feature: DSP Ads
-exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '35'
 ht-degree: 0%
@@ -12,4 +11,4 @@ ht-degree: 0%
 
 # Erstellen von Anzeigen mit [!DNL Flashtalking]
 
-Wenn Sie mehr über die gebührenpflichtige Ad-Serving-Partnerschaft von Advertising Cloud DSP mit [!DNL Flashtalking] erfahren möchten, wenden Sie sich für weitere Informationen an [!DNL adcloud-support@adobe.com].
+Wenn Sie mehr über die gebührenpflichtige Ad-Serving-Partnerschaft von Advertising Cloud DSP erfahren möchten [!DNL Flashtalking], Kontakt [!DNL adcloud-support@adobe.com] für weitere Informationen.

@@ -2,8 +2,7 @@
 title: Adobe Advertising Cloud DSP-Datenverwendungsrichtlinien
 description: Siehe Richtlinien für die Datennutzung.
 feature: Policies
-exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -22,6 +21,6 @@ Adobe behält sich das Recht vor, allein zu entscheiden, ob die Nutzung von Date
 
 ## Verwendung von [!DNL TruSignal] Daten
 
-[!DNL TruSignal] Daten können nicht für Folgendes verwendet werden: (1) alle zulässigen Zwecke oder nachteiligen Maßnahmen im Sinne der Begriffsbestimmung ( [!DNL Fair Credit Reporting Act] wie sie von Zeit zu Zeit geändert werden können); 2. Neuverhandlung oder Umstrukturierung der Schulden; oder (3) die Förderung jeglicher Werbung für Unterhaltung, Pornografie, Sexspielzeug, exotische Tänze, Feuerwaffen, illegales Glücksspiel oder andere rechtswidrige Produkte oder Dienstleistungen, auch ohne Einschränkung zur Diskriminierung aufgrund der Rasse, des Geschlechts, der Religion oder der sexuellen Ausrichtung, oder in einer Weise, die nach geltendem Recht als unfair betrachtet werden könnte; und (4) für die Zwecke von a) Beschäftigungsfähigkeit, b) Kreditanspruchsfähigkeit,  `(c)` Gesundheitsversorgung oder d) Versicherungsvoraussetzungen und -preisgestaltung.<!-- I used backticks in the previous sentence to prevent ( c ) from displaying as a copyright symbol. I think the OS does that. Using HTML code for the parentheses doesn't prevent it. -->
+[!DNL TruSignal] Daten können nicht für Folgendes verwendet werden: 1. alle zulässigen Zwecke oder nachteiligen Maßnahmen im Sinne der [!DNL Fair Credit Reporting Act] (wie von Zeit zu Zeit geändert werden kann); 2. Neuverhandlung oder Umstrukturierung der Schulden; oder (3) die Förderung jeglicher Werbung für Unterhaltung, Pornografie, Sexspielzeug, exotische Tänze, Feuerwaffen, illegales Glücksspiel oder andere rechtswidrige Produkte oder Dienstleistungen, auch ohne Einschränkung zur Diskriminierung aufgrund der Rasse, des Geschlechts, der Religion oder der sexuellen Ausrichtung, oder in einer Weise, die nach geltendem Recht als unfair betrachtet werden könnte; und 4 für die Zwecke von Buchstabe a) Beschäftigungsfähigkeit, b) Kreditanspruchsfähigkeit, `(c)` Anspruch auf Gesundheitsfürsorge oder d) auf Versicherungsansprüche und Preise.<!-- I used backticks in the previous sentence to prevent ( c ) from displaying as a copyright symbol. I think the OS does that. Using HTML code for the parentheses doesn't prevent it. -->
 
-Außerdem können [!DNL TruSignal] Daten nicht: (1) entpackt, zerlegt, zur Erstellung von abgeleiteten Werken verwendet oder umgebaut werden; oder (2) die Rechte an Dritte, einschließlich der Nutzung durch Dienstbüros, unterlizenziert, weiterverkauft, wiederverwendet oder anderweitig gewährt werden.
+Darüber hinaus [!DNL TruSignal] Daten dürfen nicht sein: (1) entpackt, zerlegt, zur Erstellung von abgeleiteten Werken verwendet oder umgebaut werden; oder (2) die Rechte an Dritte, einschließlich der Nutzung durch Dienstbüros, unterlizenziert, weiterverkauft, wiederverwendet oder anderweitig gewährt werden.

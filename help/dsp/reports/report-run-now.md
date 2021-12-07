@@ -2,8 +2,7 @@
 title: Benutzerspezifischen Bericht ausführen
 description: Erfahren Sie, wie Sie sofort einen benutzerspezifischen Bericht ausführen.
 feature: DSP Custom Reports
-exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -15,11 +14,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Sie können auch einen benutzerspezifischen Bericht ausführen, wenn Sie [einen ](report-create.md) oder [bearbeiten](report-edit.md).
+>Sie können auch einen benutzerspezifischen Bericht ausführen, wenn Sie [erstellen](report-create.md) oder [edit](report-edit.md) es.
 
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Reports]**.
-1. Klicken Sie in der Spalte [!UICONTROL Options] für die Berichtszeile auf **[!UICONTROL options]>[!UICONTROL Run Now]**.
-1. Klicken Sie in der Bestätigungsmeldung auf **[!UICONTROL OK]**.
+1. Im [!UICONTROL Options] Spalte für die Berichtszeile, klicken Sie auf **[!UICONTROL options]>[!UICONTROL Run Now]**.
+1. Klicken Sie in der Bestätigungsnachricht auf **[!UICONTROL OK]**.
 
    Nach Abschluss des Berichts wird er an alle in den Berichtseinstellungen angegebenen E-Mail-Adressen gesendet.
 

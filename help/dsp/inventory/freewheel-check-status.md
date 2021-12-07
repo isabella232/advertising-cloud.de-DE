@@ -2,8 +2,7 @@
 title: Überprüfen Sie den Status von Anzeigen auf einen [!DNL [!DNL FreeWheel]] PG-Deal
 description: Erfahren Sie, wie Sie den Status von Anzeigen für [!DNL Freewheel] programmgesteuerte garantierte Angebote.
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: null
-source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
