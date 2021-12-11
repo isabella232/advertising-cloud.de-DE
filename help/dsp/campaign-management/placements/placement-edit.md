@@ -3,10 +3,10 @@ title: Eine Platzierung bearbeiten
 description: Erfahren Sie, wie Sie eine Platzierung bearbeiten.
 feature: DSP Placements
 exl-id: 135adad3-0bc0-4402-ac4a-a4fc71f78edf
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 1%
+source-wordcount: '110'
+ht-degree: 0%
 
 ---
 
@@ -16,12 +16,12 @@ ht-degree: 1%
 
 >[!TIP]
 >
-> Informationen zum Bearbeiten nur des Platzierungsnamens, des Status, des Höchstgebots und des Budgets finden Sie unter &quot;[Schnellere Bearbeitung der Einstellungen für die Schlüsselplatzierung](/help/dsp/campaign-management/placements/placement-quick-edit.md)&quot;.
+> Informationen dazu, wie Sie nur den Platzierungsnamen, den Status, das maximale Angebot und das Budget bearbeiten, finden Sie unter[Schnelles Bearbeiten der Einstellungen für die Schlüsselplatzierung](/help/dsp/campaign-management/placements/placement-quick-edit.md).&quot;
 
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Campaigns]**.
 1. Klicken Sie auf den Namen der Kampagne.
 1. Klicken Sie im Untermenü auf **[!UICONTROL Placements]**.
-1. Klicken Sie neben dem Platzierungsnamen auf **[!UICONTROL ...]>[!UICONTROL Edit]**.
+1. Klicken Sie neben dem Platzierungsnamen auf  **[!UICONTROL ...]>[!UICONTROL Edit]**.
 1. Bearbeiten Sie die [Platzierungseinstellungen](placement-settings.md).
 1. Klicken **[!UICONTROL Update placement]**.
 
@@ -36,4 +36,5 @@ ht-degree: 1%
 >* [Tastaturbefehle](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 >* [Platzierungseinstellungen](placement-settings.md)
 >* [Informationen zum Korrigieren der Platzierungseinstellungen für eine Kampagne mithilfe von Tabellen](/help/dsp/campaign-management/qa/qa-about.md)
+>* [Video: Bearbeiten von Platzierungen mit Tools zur Massenbearbeitung](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-edit-placement-tools.html)
 
