@@ -3,10 +3,10 @@ title: Schnelles Bearbeiten der Einstellungen für die Schlüsselplatzierung
 description: Erfahren Sie, wie Sie wichtige Platzierungseinstellungen schnell ändern können.
 feature: DSP Placements
 exl-id: 107ec263-a0f2-491b-8380-2cceaf51cae9
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 1%
+source-wordcount: '116'
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ Sie können den Platzierungsnamen, den Status, das maximale Angebot und das Budg
 
 >[!TIP]
 >
-> Informationen zum Bearbeiten von Platzierungseinstellungen finden Sie unter &quot;[Eine Platzierung bearbeiten](/help/dsp/campaign-management/placements/placement-edit.md)&quot;.
+> Informationen zum Bearbeiten von Platzierungseinstellungen finden Sie unter[Eine Platzierung bearbeiten](/help/dsp/campaign-management/placements/placement-edit.md).&quot;
 
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Campaigns]**.
 1. Klicken Sie auf den Namen der Kampagne.
 1. Klicken Sie im Untermenü auf **[!UICONTROL Placements]**.
-1. Klicken Sie neben dem Platzierungsnamen auf **[!UICONTROL ...]>[!UICONTROL Quick Edit]**.
-1. Bearbeiten Sie eine der verfügbaren [Platzierungseinstellungen](placement-settings.md):  **[!UICONTROL Placement Name]**, **[!UICONTROL Status]**, **[!UICONTROL Max Bid]** und **[!UICONTROL Budget]**.
+1. Klicken Sie neben dem Platzierungsnamen auf  **[!UICONTROL ...]>[!UICONTROL Quick Edit]**.
+1. Bearbeiten von verfügbaren [Platzierungseinstellungen](placement-settings.md):  **[!UICONTROL Placement Name]**, **[!UICONTROL Status]**, **[!UICONTROL Max Bid]** und **[!UICONTROL Budget]**.
 1. Klicken **[!UICONTROL Apply]**.
 
 >[!MORELIKETHIS]
@@ -36,4 +36,5 @@ Sie können den Platzierungsnamen, den Status, das maximale Angebot und das Budg
 >* [Bearbeiten des Anzeigenzeitplans für eine Platzierung](placement-edit-ad-schedule.md)
 >* [Anhalten oder Aktivieren einer Platzierung](placement-pause-activate.md)
 >* [Platzierungseinstellungen](placement-settings.md)
+>* [Video: Bearbeiten von Platzierungen mit Tools zur Massenbearbeitung](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-edit-placement-tools.html)
 
