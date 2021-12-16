@@ -3,9 +3,9 @@ title: Markensicherheit und Medienqualität
 description: Erfahren Sie mehr über Markensicherheit und Medienqualitätsmerkmale.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: 7d158d5882bf23582c274ad49d632e0d937a1bd3
 workflow-type: tm+mt
-source-wordcount: '1263'
+source-wordcount: '1308'
 ht-degree: 0%
 
 ---
@@ -18,13 +18,13 @@ Advertising Cloud DSP bietet eine Reihe von Markenschutzfunktionen, um sicherzus
 
 Unser Team zur Überwachung von Betrugsfällen arbeitet eng mit branchenführenden Partnern wie dem [!DNL Interactive Advertising Bureau], [!DNL Trust and Accountability Group] [!DNL (TAG)]und [!DNL WhiteOps], um den Bestand auf unserer Plattform sorgfältig zu kuratieren. Durch die proaktive Verwaltung unseres Angebots stellt DSP sicher, dass alle Advertiser auf der ganzen Plattform vor unmenschlichem Traffic (Bots, Crawler, Data Center Traffic und Betrug) geschützt sind und nur in markensicheren Kontexten bereitstellen.
 
-Neben dem zentralen Qualitätsmanagement möchten wir Werbetreibende in die Lage versetzen, die ihrer Marke entsprechenden Steuerelemente zu entwerfen. Adobe Advertising Cloud bietet Integrationen mit [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], [!DNL Oracle Data Cloud]und [!DNL Peer39], sodass jeder Werbetreibende sein gewünschtes Maß an Betrugsschutz, kontextbezogener Filterung und Keyword-Targeting auswählen kann.
+Neben dem zentralen Qualitätsmanagement möchten wir Werbetreibende in die Lage versetzen, die ihrer Marke entsprechenden Steuerelemente zu entwerfen. Adobe Advertising Cloud bietet Integrationen mit [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], [!DNL Oracle Data Cloud]und [!DNL Peer39], sodass jeder Werbetreibende sein gewünschtes Maß an Betrugsschutz, kontextbezogener Filterung und Keyword-Targeting wählen kann.
 
 ## Advertising Cloud DSP-Qualitätsinitiativen
 
 ### Inventarüberprüfung mit [!DNL Ads.txt] Support
 
-[[!DNL Ads.txt], which stands for [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) ist eine Initiative, die von der [!DNL Interactive Advertising Bureau] ([!DNL IAB]) im Juni 2017, um die ordnungsgemäße Darstellung des Bestands auf dem offenen Markt zu erleichtern und damit illegale Quellen des Datenverkehrs und der Domain-Spoofing zu bekämpfen. Beteiligte Verlage und Händler erklären öffentlich die Unternehmen, die zum Verkauf ihres digitalen Bestands zugelassen sind, und die Art dieser Beziehungen, indem sie eine `ads.txt` auf der obersten Ebene der Domäne (z. B. `example.com/ads.txt`).
+[[!DNL Ads.txt], der für [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) ist eine Initiative, die von der [!DNL Interactive Advertising Bureau] ([!DNL IAB]) im Juni 2017, um die ordnungsgemäße Darstellung des Bestands auf dem offenen Markt zu erleichtern und damit illegale Quellen des Datenverkehrs und der Domain-Spoofing zu bekämpfen. Beteiligte Verlage und Händler erklären öffentlich die Unternehmen, die zum Verkauf ihres digitalen Bestands zugelassen sind, und die Art dieser Beziehungen, indem sie eine `ads.txt` auf der obersten Ebene der Domäne (z. B. `example.com/ads.txt`).
 
 DSP unterstützt [!DNL ads.txt] durch Lesen der `ads.txt` -Datei erstellen und Ihnen die Möglichkeit geben, nur bei verifizierter Person zu kaufen [!DNL ads.txt] Verkäufer. Wenn wir beispielsweise die Verkäufer abgleichen, können wir auf `nytimes.com` an die New York Times&#39; `ads.txt` -Datei, können wir identifizieren, welche legitim sind und welche nicht, und wir blockieren die Täter, wenn die Platzierung so konfiguriert ist, dass sie nur bei verifizierten Verkäufern kaufen. <!-- can we actually mention NY Times? -->
 
@@ -40,7 +40,7 @@ Sie können die Standardeinstellung [!DNL ads.txt] Steuerelemente für jeden Adv
 
 ### Überwachung von Platform-Betrug
 
-DSP verfügt über leistungsstarke interne Tools und Systeme, mit denen Betrug auf unserer Plattform in Zusammenarbeit mit führenden Branchenanbietern wie [!DNL Whiteops] und [!DNL Integral Ad Science].
+DSP verfügt über leistungsstarke interne Tools und Systeme, mit denen Betrug auf unserer gesamten Plattform in Zusammenarbeit mit führenden Branchenanbietern wie [!DNL Whiteops] und [!DNL Integral Ad Science].
 
 Darüber hinaus arbeitet Adobe eng mit [!DNL IAB] und [!DNL TAG] Sicherstellung einer robusten und branchenüblichen Betrugsblockierung zum Schutz unserer Werbetreibende durch Nutzung von Tools wie [!DNL ads.txt] (siehe vorherigen Abschnitt), wird die [!DNL IAB] Liste &quot;Bots and Spiders&quot;und die [!DNL TAG] IP-Liste des Datenzentrums.
 
@@ -118,9 +118,11 @@ DSP Thema-Targeting ermöglicht es Ihnen, mithilfe unserer branchenführenden ko
 
 Das Thema-Targeting hilft Ihnen dabei sicherzustellen, dass Ihre Anzeigen immer in einer mit Ihrer Marke abgestimmten Umgebung bereitgestellt werden, unabhängig davon, ob dies das Blockieren schädlicher Inhalte oder die Sicherstellung von Ausgaben in einem Kontext umfasst, der ein höheres Ergebnis gewährleistet.
 
-Beim Thema-Targeting müssen Sie Themensegmente direkt mit [!DNL Comscore] oder [!DNL Grapeshot] (mithilfe von [!DNL Oracle Data Cloud]). Sobald diese in der Partnerplattform erstellt wurden, können Sie [Segment-ID in der[!UICONTROL  Audience Targeting] für jede Platzierung](/help/dsp/campaign-management/placements/placement-settings.md). Für diese Funktion können zusätzliche Gebühren anfallen.
+Für das Thema-Targeting müssen Sie benutzerdefinierte Themensegmente direkt mit [!DNL Comscore] oder [!DNL Grapeshot] (mithilfe von [!DNL Oracle Data Cloud]). Sobald diese in der Partnerplattform erstellt wurden, können Sie [Segment-ID in der [!UICONTROL Audience Targeting] für jede Platzierung](/help/dsp/campaign-management/placements/placement-settings.md). Für diese Funktion können zusätzliche Gebühren anfallen.
 
-Kontaktieren Sie zunächst Ihren bevorzugten Anbieter oder Ihre [!DNL Adobe] Kundenbetreuer.
+* So erstellen Sie eine [!DNL Comscore] Konto erstellen und benutzerdefinierte Segmente erstellen, können Sie eine Anmeldung für [!DNL Activation Segment Manager] unter http://agents.comscore.com/. Siehe [[!DNL Comscore] Hilfezentrum](https://comscoreactivation.zendesk.com/hc/) für vollständige Anweisungen zum Einrichten benutzerdefinierter Segmente. Gebühren für benutzerdefinierte Segmente sind in [!DNL Segment Manager] während der Erstellung.
+
+* Erste Schritte mit [!DNL Oracle Data Cloud], Kontakt [!DNL Oracle Data Cloud] oder [!DNL Adobe] Kundenbetreuer.
 
 ![Comscore-Logo](/help/dsp/assets/comscore-logo.png) ![Graustufen-Logo](/help/dsp/assets/oracle-grapeshot-logo.png)
 
