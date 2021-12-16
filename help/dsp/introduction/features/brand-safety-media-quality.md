@@ -3,9 +3,9 @@ title: Markensicherheit und Medienqualität
 description: Erfahren Sie mehr über Markensicherheit und Medienqualitätsmerkmale.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 7d158d5882bf23582c274ad49d632e0d937a1bd3
+source-git-commit: 6a0b863d1cdf31eb8a659196a83e9636a3a49ff5
 workflow-type: tm+mt
-source-wordcount: '1308'
+source-wordcount: '1315'
 ht-degree: 0%
 
 ---
@@ -114,13 +114,13 @@ Sie können für jeden Advertiser standardmäßige Sichtbarkeitsfilter festlegen
 
 ### Themen-Targeting
 
-DSP Thema-Targeting ermöglicht es Ihnen, mithilfe unserer branchenführenden kontextbezogenen Partner Suchbegrifflisten als Ziel festzulegen oder zu blockieren. [!DNL Comscore] und [!DNL Oracle Data Cloud] ([!DNL Grapeshot]).
-
-Das Thema-Targeting hilft Ihnen dabei sicherzustellen, dass Ihre Anzeigen immer in einer mit Ihrer Marke abgestimmten Umgebung bereitgestellt werden, unabhängig davon, ob dies das Blockieren schädlicher Inhalte oder die Sicherstellung von Ausgaben in einem Kontext umfasst, der ein höheres Ergebnis gewährleistet.
+DSP Thema-Targeting ermöglicht es Ihnen, mithilfe unserer branchenführenden kontextbezogenen Partner Suchbegrifflisten als Ziel festzulegen oder zu blockieren. [!DNL Comscore] und [!DNL Oracle Data Cloud] ([!DNL Grapeshot]). Das Thema-Targeting hilft Ihnen dabei sicherzustellen, dass Ihre Anzeigen immer in einer mit Ihrer Marke abgestimmten Umgebung bereitgestellt werden, unabhängig davon, ob dies das Blockieren schädlicher Inhalte oder die Sicherstellung von Ausgaben in einem Kontext umfasst, der ein höheres Ergebnis gewährleistet.
 
 Für das Thema-Targeting müssen Sie benutzerdefinierte Themensegmente direkt mit [!DNL Comscore] oder [!DNL Grapeshot] (mithilfe von [!DNL Oracle Data Cloud]). Sobald diese in der Partnerplattform erstellt wurden, können Sie [Segment-ID in der [!UICONTROL Audience Targeting] für jede Platzierung](/help/dsp/campaign-management/placements/placement-settings.md). Für diese Funktion können zusätzliche Gebühren anfallen.
 
-* So erstellen Sie eine [!DNL Comscore] Konto erstellen und benutzerdefinierte Segmente erstellen, können Sie eine Anmeldung für [!DNL Activation Segment Manager] unter http://agents.comscore.com/. Siehe [[!DNL Comscore] Hilfezentrum](https://comscoreactivation.zendesk.com/hc/) für vollständige Anweisungen zum Einrichten benutzerdefinierter Segmente. Gebühren für benutzerdefinierte Segmente sind in [!DNL Segment Manager] während der Erstellung.
+So erstellen Sie benutzerdefinierte Themensegmente:
+
+* So erstellen Sie eine [!DNL Comscore] Konto erstellen und benutzerdefinierte Segmente erstellen, können Sie eine Anmeldung für [!DNL Activation Segment Manager] at [http://agents.comscore.com](http://agents.comscore.com). Siehe [[!DNL Comscore] Hilfezentrum](https://comscoreactivation.zendesk.com/hc/) für vollständige Anweisungen zum Einrichten benutzerdefinierter Segmente. Gebühren für benutzerdefinierte Segmente sind in [!DNL Segment Manager] während der Erstellung.
 
 * Erste Schritte mit [!DNL Oracle Data Cloud], Kontakt [!DNL Oracle Data Cloud] oder [!DNL Adobe] Kundenbetreuer.
 
