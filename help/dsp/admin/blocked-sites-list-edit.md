@@ -1,7 +1,7 @@
 ---
 title: Eine Liste mit blockierten Sites auf Kontoebene oder Advertiser-Ebene bearbeiten
 description: Erfahren Sie, wie Sie die Liste der gesperrten Sites für ein Konto oder einen Advertiser verwalten.
-source-git-commit: bfed4856e9b67537a84bd3169b284e6e027ca957
+source-git-commit: 4a5c4a2f180eba26818137bf9c31f212b342543a
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
