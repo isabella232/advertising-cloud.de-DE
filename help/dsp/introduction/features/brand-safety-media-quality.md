@@ -3,7 +3,7 @@ title: Markensicherheit und Medienqualität
 description: Erfahren Sie mehr über Markensicherheit und Medienqualitätsmerkmale.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 6a0b863d1cdf31eb8a659196a83e9636a3a49ff5
+source-git-commit: fac152a5e3d040bcfacda97f05f3990fd17f677d
 workflow-type: tm+mt
 source-wordcount: '1315'
 ht-degree: 0%
@@ -72,7 +72,7 @@ Die Bestandszuordnung ist der detaillierte Überprüfungs- und Onboarding-Prozes
 
 Advertising Cloud DSP bietet sowohl eine global gesperrte Siteliste als auch die Möglichkeit, benutzerdefinierte Blockierungslisten für Advertiser und Konten zu erstellen.
 
-#### Advertising Cloud DSP - Liste global blockierter Sites
+#### Advertising Cloud DSP - Liste global blockierter Sites {#global-blocked-sites}
 
 Advertising Cloud DSP verwaltet eine global gesperrte Site-Liste von Sites, die für unsicher erachtet werden, um Anzeigen auf diesen zu starten. Diese Liste enthält Websites mit verwerflichen Inhalten (z. B. Hass oder Terror) und von Bots infizierten Websites, gefälschten Pre-Roll-Dateien, nicht übereinstimmenden Domänen und anderen betrügerischen Aktivitäten.
 

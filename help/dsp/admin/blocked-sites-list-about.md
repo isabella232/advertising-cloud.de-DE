@@ -1,7 +1,7 @@
 ---
 title: Über Listen auf Kontoebene und auf Advertiser-Ebene für blockierte Sites
 description: Erfahren Sie mehr über die Liste der blockierten Sites für ein Konto oder einen Advertiser.
-source-git-commit: 32988f3bd4e4b63304f6b2a53949eda7842a60f0
+source-git-commit: 490147fb8479474ce95c17d59b512254596746c2
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Listen auf Advertiser-Ebene überschreiben Listen auf Kontoebene.
 
 >[!NOTE]
 >
->* Zusätzlich zur Advertising Cloud DSP werden auf Kontoebene und auf Advertiser-Ebene blockierte Site-Listen angewendet [global gesperrte Site-Liste](/help/dsp/introduction/features/brand-safety-media-quality.md), die Sites enthalten, die für Anzeigen als unsicher gelten.
+>* Zusätzlich zur Advertising Cloud DSP werden auf Kontoebene und auf Advertiser-Ebene blockierte Site-Listen angewendet [global gesperrte Site-Liste](/help/dsp/introduction/features/brand-safety-media-quality.md#global-blocked-sites), die Sites enthalten, die für Anzeigen als unsicher gelten.
 >* Benutzer können auch Targeting-Sites zu jeder Platzierung hinzufügen.
 >* Listen blockierter Sites überschreiben immer Listen zielgerichteter Sites. Wenn durch eine Platzierung dieselbe Zielgruppe für eine Anzeige ausgeschlossen und einbezogen wird, wird die Zielgruppe ausgeschlossen.
 
