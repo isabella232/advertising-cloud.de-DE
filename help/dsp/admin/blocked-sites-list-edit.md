@@ -1,17 +1,12 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Eine Liste mit blockierten Sites auf Kontoebene oder Advertiser-Ebene bearbeiten
-description: Eine Liste mit blockierten Sites auf Kontoebene oder Advertiser-Ebene bearbeiten
-source-git-commit: 27367fdee872cea9016cccd12aa082aa7455dbce
+description: Erfahren Sie, wie Sie die Liste der gesperrten Sites für ein Konto oder einen Advertiser verwalten.
+source-git-commit: bfed4856e9b67537a84bd3169b284e6e027ca957
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # Eine Liste mit blockierten Sites auf Kontoebene oder Advertiser-Ebene bearbeiten
 
@@ -43,6 +38,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
-> [Markensicherheit und Medienqualität](/help/dsp/introduction/features/brand-safety-media-quality.md)
+>* [Über Listen auf Kontoebene und auf Advertiser-Ebene für blockierte Sites](/help/dsp/admin/blocked-sites-list-about.md)
+   > [Markensicherheit und Medienqualität](/help/dsp/introduction/features/brand-safety-media-quality.md)
 >* [Platzierungseinstellungen](/help/dsp/campaign-management/placements/placement-settings.md)
 
