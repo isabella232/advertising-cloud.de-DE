@@ -3,9 +3,9 @@ title: 'Adobe Advertising Cloud-Unterstützung für den California Consumer Priv
 description: Erfahren Sie mehr über die Unterstützung für die Erfassung von Opt-out-Anfragen von Verbrauchern.
 feature: CCPA
 exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
-source-git-commit: e00f87009fb36a057069caa53f30c7414a2ee444
+source-git-commit: adb3118d291d110e653a62cc1a323410b1a596b2
 workflow-type: tm+mt
-source-wordcount: '1035'
+source-wordcount: '1031'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Der California Consumer Privacy Act (CCPA) ist das neue kalifornische Datenschut
 
 Als Unternehmen legen Sie fest, welche personenbezogenen Daten Adobe Experience Cloud in Ihrem Namen verarbeitet und speichert.
 
-Adobe Advertising Cloud unterstützt Ihr Unternehmen als Ihren Dienstleister bei der Erfüllung seiner CCPA-Verpflichtungen, die für die Verwendung von Advertising Cloud-Produkten und -Diensten gelten, einschließlich der Verwaltung von Anfragen von Verbrauchern zum Zugriff auf und zur Löschung personenbezogener Daten und der Verwaltung von Verbraucheranfragen, mit denen der Verkauf personenbezogener Daten abgelehnt werden soll.
+Als Ihr Dienstleister unterstützt Adobe Advertising Cloud Ihr Unternehmen bei der Erfüllung seiner CCPA-Verpflichtungen, die für die Verwendung von Advertising Cloud-Produkten und -Diensten gelten, einschließlich der Verwaltung von Anfragen von Verbrauchern zum Zugriff auf und zur Löschung personenbezogener Daten und der Verwaltung von Verbraucheranfragen, mit denen der Verkauf personenbezogener Daten abgelehnt werden soll.
 
 In diesem Dokument wird beschrieben, wie Adobe Advertising Cloud Demand Side Platform (DSP) als Dienstleister das Verbraucherrecht unterstützt, sich vom &quot;Verkauf&quot;von &quot;personenbezogenen Daten&quot;abzumelden, da jeder Begriff vom CCPA definiert wird. Er enthält Informationen dazu, wie Sie Advertising Cloud Opt-out-Kaufanfragen mitteilen und Berichte zu den Opt-out-Kaufanfragen Ihres Unternehmens abrufen können.
 
@@ -48,7 +48,7 @@ Sie können Verbraucher-Opt-out-Anfragen für den Verkauf über eine der folgend
 
 ### Methode 2: CCPA-Opt-out-of-Sale-Anfragen mithilfe der Adobe Experience Platform Privacy Service-API kommunizieren
 
-*Werbetreibende, denen nur eine Experience Cloud-Organisations-ID (IMS-Organisations-ID) zugewiesen wurde*
+*Werbetreibende, denen eine Adobe Experience Cloud zugewiesen wurde [!DNL Organization ID] ([!DNL IMS Org ID]) nur*
 
 1. Stellen Sie eine JavaScript-Bibliothek bereit, um die Cookies Ihrer Kunden abzurufen. Dieselbe Bibliothek, `AdobePrivacy.js`, wird für alle Adobe Experience Cloud-Lösungen verwendet.
 
@@ -71,7 +71,7 @@ Sie können Verbraucher-Opt-out-Anfragen für den Verkauf über eine der folgend
    Im folgenden Anhang finden Sie ein Beispiel für eine Opt-out-Kaufanfrage.
 
    >[!NOTE]
-   Wenn Ihr Unternehmen über mehrere Adobe Experience Cloud Identity Management Service-Organisations-IDs (IMS-Organisations-IDs) verfügt, müssen Sie für jede einzelne API-Anfrage separate API-Anfragen senden. Sie können jedoch eine API-Anfrage an mehrere Advertising Cloud-Unterlösungen richten ([!DNL Search], [!DNL Creative], [!DNL DSP]und [!DNL DCO]), mit einem Konto pro Unterlösung.
+   Wenn Ihr Unternehmen über mehrere Organisations-IDs des Adobe Experience Cloud Identity Management-Dienstes (IMS-Organisations-IDs) verfügt, müssen Sie für jede dieser ID separate API-Anfragen senden. Sie können jedoch eine API-Anfrage an mehrere Advertising Cloud-Unterlösungen richten ([!DNL Search], [!DNL Creative], [!DNL DSP]und [!DNL DCO]), mit einem Konto pro Unterlösung.
 
 Alle diese Schritte sind erforderlich, um Unterstützung von Advertising Cloud zu erhalten. Weitere Informationen zu diesen und anderen damit zusammenhängenden Aufgaben, die Sie mit der Adobe Experience Platform Privacy Service ausführen müssen, sowie dazu, wo Sie die benötigten Elemente finden können, finden Sie unter [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 
