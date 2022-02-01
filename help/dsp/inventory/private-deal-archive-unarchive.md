@@ -2,7 +2,8 @@
 title: Archivieren oder Aufheben der Archivierung eines privaten Angebots
 description: Erfahren Sie, wie Sie einen privaten Deal archivieren oder dessen Archivierung aufheben.
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: fe96cff76755c6eaf3f7fe1ddd784271b6fa7721
+exl-id: 6ecf90b6-a52f-42f3-aa3f-b2c489ea0aa8
+source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -18,13 +19,13 @@ Sie können die Archivierung eines Deals aufheben, um seinen vorherigen Status j
 >[!NOTE]
 >
 >* Sie können nicht archivieren [!UICONTROL On Demand] Angebote.
->* Wenden Sie sich an den Herausgeber oder SSP, um einen Deal vom Herausgeber zu deaktivieren. Nachdem sie den Deal deaktiviert haben, können Sie ihn in DSP archivieren, um ihn zu verstecken.
+>* To deactivate a deal on the publisher side, contact the publisher or SSP. After they deactivate the deal, you can archive it in DSP to hide it.
 
 
-## Privates Geschäft archivieren
+## Archive a Private Deal
 
-1. Klicken Sie im Hauptmenü auf **[!UICONTROL Inventory]>[!UICONTROL Deals]**.
-1. Klicken Sie in der Zeile &quot;Deal&quot;auf ![Optionen, Menü](/help/dsp/assets/options-menu.png) **>[!UICONTROL archive]**.
+1. In the main menu, click **[!UICONTROL Inventory]>[!UICONTROL Deals]**.
+1. In the deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **>[!UICONTROL archive]**.
 1. Klicken Sie in der Bestätigungsnachricht auf **[!UICONTROL OK]**.
 
 >[!NOTE]
@@ -33,10 +34,10 @@ Sie können die Archivierung eines Deals aufheben, um seinen vorherigen Status j
 
 ## Archivierung eines privaten Angebots aufheben
 
-1. Klicken Sie im Hauptmenü auf **[!UICONTROL Deals]**.
+1. In the main menu, click **[!UICONTROL Deals]**.
 1. Klicken Sie in der Symbolleiste auf die **[!UICONTROL Status]** Menü und wählen Sie **[!UICONTROL Inactive].**
-1. Klicken Sie in der Zeile &quot;Deal&quot;auf  ![Optionen, Menü](/help/dsp/assets/options-menu.png) **>[!UICONTROL unarchive]**.
-1. Klicken Sie in der Bestätigungsnachricht auf **[!UICONTROL OK]**.
+1. In the deal row, click  ![Options menu](/help/dsp/assets/options-menu.png) **>[!UICONTROL unarchive]**.
+1. In the confirmation message, click **[!UICONTROL OK]**.
 
 Wenn der Herausgeber oder SSP den Deal zuvor deaktiviert hatte und Sie ihn erneut verwenden möchten, wenden Sie sich direkt an den Herausgeber oder SSP.
 
@@ -46,6 +47,6 @@ Wenn der Herausgeber oder SSP den Deal zuvor deaktiviert hatte und Sie ihn erneu
 
 >[!MORELIKETHIS]
 >
->* [Über privates Inventar](private-inventory-about.md)
->* [Einstellungen für private Angebote bearbeiten](/help/dsp/inventory/deal-id-edit.md)
+>* [About Private Inventory](private-inventory-about.md)
+>* [Edit Private Deal Settings](/help/dsp/inventory/deal-id-edit.md)
 
