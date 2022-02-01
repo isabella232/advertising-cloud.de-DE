@@ -3,7 +3,7 @@ title: Erneute Anforderung [!DNL On Demand] Premium-Inventarangebote
 description: Erfahren Sie, wie Sie eine erneute Anforderung durchführen [!DNL On Demand] Angebote, die zuvor abgelehnt wurden.
 feature: DSP On Demand Inventory
 exl-id: db5a5708-16e3-4304-8bd0-f1aa8ecd0e3c
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Sie können eine erneute Anfrage stellen [!DNL On Demand] Lagerergänzungen, für die Sie abgelehnt wurden, einschließlich der Angebote eines Herausgebers, für den Sie angemeldet sind. Führen Sie diese Schritte aus, um sicherzustellen, dass alle relevanten Kontoeinstellungen korrekt sind, bevor Sie eine neue Anforderung senden.
 
-Wenn ein Geschäft nach einer erneuten Anfrage nicht genehmigt wurde, wenden Sie sich an Ihren [!DNL Adobe] Kundenbetreuer , um zu sehen, ob der Herausgeber zusätzliche Einschränkungen aufweist, die Ihrem Konto den Zugriff auf den Deal verbieten.
+Wenn ein Geschäft nach einer erneuten Anfrage nicht genehmigt wurde, wenden Sie sich an Ihren [!DNL Adobe] -Kontoteam , um zu sehen, ob der Herausgeber zusätzliche Einschränkungen aufweist, die Ihrem Konto den Zugriff auf den Deal verbieten.
 
 Sobald ein Deal abgeschlossen ist [genehmigt](/help/dsp/inventory/on-demand-inventory-view-status.md)enthalten ist, wird es standardmäßig als Ziel für neue Platzierungen eingefügt, die alle [!DNL On Demand] Inventar. Der neue Deal ist auch als Ziel für vorhandene Platzierungen verfügbar. Sie müssen jedoch die Platzierungseinstellungen manuell bearbeiten, um den Deal als Ziel hinzuzufügen.
 
-1. Validieren Sie Ihre [!DNL Adobe] Kundenbetreuer, der [!UICONTROL Account Type] für das DSP Ihrer Organisation korrekt ist.
+1. Validieren Sie Ihre [!DNL Adobe] Kontoteam, das [!UICONTROL Account Type] für das DSP Ihrer Organisation korrekt ist.
 
 1. Vergewissern Sie sich, dass die Kategorie des Advertisers für das entsprechende Advertiser-Konto korrekt ist:
 

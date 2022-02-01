@@ -3,7 +3,7 @@ title: Audio-Anzeigeneinstellungen
 description: Siehe Beschreibungen der verfügbaren Anzeigeneinstellungen für Audioanzeigen.
 feature: DSP Ads
 exl-id: 746b6f40-ff59-4bbe-bfc0-3579d4461e4a
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '760'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Je nach den Kontoberechtigungen kann dieses Feld angezeigt werden.
 
 **[!UICONTROL Final VAST Tag]:** (Anzeigen, die nur VAST-Tags verwenden) Die URL für die Anzeigenquelle eines Drittanbieters mit den erforderlichen [Advertising Cloud DSP-Tracking-Makros](/help/dsp/campaign-management/macros.md) gegebenenfalls eingefügt.
 
-**[!UICONTROL Select Rate]:** (Nur Benutzer mit Berechtigung) Ein vorab ausgehandelter Preis, der über die Adobe in Rechnung gestellt wird, oder einer der Tarife, die Sie ausgehandelt haben und für die Sie vom Anbieter in Rechnung gestellt werden. Wenden Sie sich an Ihren [!DNL Adobe] Kundenbetreuer.
+**[!UICONTROL Select Rate]:** (Nur Benutzer mit Berechtigung) Ein vorab ausgehandelter Preis, der über die Adobe in Rechnung gestellt wird, oder einer der Tarife, die Sie ausgehandelt haben und für die Sie vom Anbieter in Rechnung gestellt werden. Wenden Sie sich an Ihren [!DNL Adobe] Account-Team.
 
 ### [!UICONTROL Companion]
 

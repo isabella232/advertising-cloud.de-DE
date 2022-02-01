@@ -2,13 +2,13 @@
 title: Erstellen eines Berichtsziels
 description: Erfahren Sie, wie Sie ein Ziel für die Bereitstellung benutzerdefinierter Berichte erstellen.
 feature: DSP Custom Reports
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 33c58a98-a7d3-4d05-99e7-5e55ba3e625a
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 2%
 
 ---
-
 
 # Erstellen eines Berichtsziels
 
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
-> Wenn der Bericht für die Bereitstellung an einen beliebigen FTP-Typ konfiguriert ist oder [!DNL Amazon S3] -Speicherort, erhalten Sie keine Benachrichtigungen, wenn der Bericht aufgrund von Fehlern abgebrochen wird. Wenn Sie die erwarteten Berichte nicht erhalten, wenden Sie sich an Ihren [!DNL Adobe] Kundenbetreuer , um herauszufinden, warum.
+> Wenn der Bericht für die Bereitstellung an einen beliebigen FTP-Typ konfiguriert ist oder [!DNL Amazon S3] -Speicherort, erhalten Sie keine Benachrichtigungen, wenn der Bericht aufgrund von Fehlern abgebrochen wird. Wenn Sie die erwarteten Berichte nicht erhalten, wenden Sie sich an Ihren [!DNL Adobe] Account-Team , um herauszufinden, warum.
 
 >[!MORELIKETHIS]
 >

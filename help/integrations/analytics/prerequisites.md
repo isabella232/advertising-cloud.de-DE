@@ -3,9 +3,9 @@ title: Voraussetzungen und Schlüsselinformationen für die Implementierung [!DN
 description: Voraussetzungen und Schlüsselinformationen für die Implementierung [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: d4d743ade0e2dad2b967b8316ff2261d0a82d5b0
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Die [!DNL Analytics for Advertising Cloud] JavaScript verwendet diese Einstellun
 
 ## Advertising Cloud-Daten in [!DNL Analytics]
 
-[!DNL Analytics] legt Advertising Cloud-IDs (AMO-IDs) im Analytics-Treffer fest, vorbehaltlich der Persistenzeinstellung des Advertisers, die sowohl für Clickthroughs als auch für Durchsichten gilt. Die Persistenzeinstellung wird auf dem Advertising Cloud-Backend konfiguriert und Ihre [!DNL Adobe] Der Kundenbetreuer kann dies ändern.
+[!DNL Analytics] legt Advertising Cloud-IDs (AMO-IDs) im Analytics-Treffer fest, vorbehaltlich der Persistenzeinstellung des Advertisers, die sowohl für Clickthroughs als auch für Durchsichten gilt. Die Persistenzeinstellung wird auf dem Advertising Cloud-Backend konfiguriert und Ihre [!DNL Adobe] Kontoteam kann es ändern.
 
 * [!DNL Analytics for Advertising Cloud] Ablauf der eVar: Standardmäßig 60 Tage für AMO-IDs
 
@@ -77,7 +77,7 @@ Die [!DNL Analytics for Advertising Cloud] JavaScript verwendet diese Einstellun
 * Online-Video
 * Nativ
 
-Wenden Sie sich an [!DNL Adobe] Kundenbetreuer für die neuesten unterstützten Anzeigenumgebungen in den einzelnen Kanälen.
+Wenden Sie sich an [!DNL Adobe] Kontoteam für die neuesten unterstützten Anzeigenumgebungen in den einzelnen Kanälen.
 
 ## Was Sie vor der Implementierung wissen sollten
 
@@ -87,9 +87,9 @@ Wenden Sie sich an [!DNL Adobe] Kundenbetreuer für die neuesten unterstützten 
 
 * [!DNL Analytics for Advertising Cloud] ist serverunabhängig: Ein Durchsichts- oder Clickthrough-Vorgang kann von jedem Anzeigen-Server aus erfolgen und die richtigen IDs werden bei der Site-Eingabe generiert.
 
-* Die Integration übergibt nur [!DNL Analytics] Standardereignisse und benutzerspezifische Ereignisse an Advertising Cloud zur Angebotsoptimierung nachfolgender Paid-Media- und Werbemaßnahmen. Es ist nicht vorbei [!DNL Analytics] Segmente, berechnete Metriken und eVars an Advertising Cloud zur Angebotsoptimierung.
+* Die Integration übergibt nur [!DNL Analytics] Standardereignisse und benutzerspezifische Ereignisse an Advertising Cloud zur Angebotsoptimierung nachfolgender gebührenpflichtiger Medien und Werbemaßnahmen. Es ist nicht vorbei [!DNL Analytics] Segmente, berechnete Metriken und eVars an Advertising Cloud zur Angebotsoptimierung.
 
-* Advertising Cloud erstellt beständige IDs in [!DNL Analytics] basierend auf der letzten Anzeige, auf die geklickt oder angezeigt wurde, bevor der Benutzer die Site aufruft, basierend auf der [Klick- und Viewthrough-Lookback-Fenster](#lookback-a4adc) in Advertising Cloud konfiguriert. Wenn ein Site-Besucher innerhalb seines Profils beide Arten von Site-Einstiegsinteraktionen hätte und sich der Klick innerhalb des Lookback-Zeitraums befindet, würde die Clickthrough-ID des Besuchers die Durchsichts-ID für die Site-Berichterstellung außer Kraft setzen.
+* Advertising Cloud erstellt beständige IDs in [!DNL Analytics] basierend auf der letzten Anzeige, auf die geklickt oder angezeigt wurde, bevor der Benutzer die Site aufruft, basierend auf der [Klick- und Viewthrough-Lookback-Fenster](#lookback-a4adc) in Advertising Cloud konfiguriert. Wenn ein Site-Besucher beide Arten von Site-Einstiegsinteraktionen in seinem Profil aufweisen sollte und sich der Klick innerhalb des Lookback-Zeitraums befindet, würde die Clickthrough-ID des Besuchers die Durchsichts-ID für die Site-Berichterstellung außer Kraft setzen.
 
 * [!DNL Analytics for Advertising Cloud] Das Konversions-Tracking in Adobe Analytics verwendet ein konfigurierbares Tracking-Lookback-Fenster (standardmäßig 60 Tage). Advertising Cloud-Berichte spiegeln Site-Konversionen und Interaktionen am Ende dieses Tracking-Lookback-Fensters wider.
 

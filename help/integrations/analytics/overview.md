@@ -3,7 +3,7 @@ title: Übersicht über [!DNL Analytics for Advertising Cloud]
 description: Übersicht über [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 31367c8b-3410-4110-9ae6-11defe625355
-source-git-commit: bfbfc293ad04b294c813ce7c8a11200e70fc812f
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1086'
 ht-degree: 0%
@@ -41,11 +41,11 @@ Primäre Vorteile:
 [!DNL Analytics for Advertising Cloud] verbessert die Berichterstellung und Einblicke, wie Ihre Werbung das Site-Verhalten fördert, indem Sie:
 
 * Verwenden beständiger Advertising Cloud-Durchsichts- und Clickthrough-IDs in [!DNL Analytics] , um die Site-Interaktion zu verstehen.
-* Nutzen Sie Analysis Workspace, um Einstiegspunkte auf der Site und das Besuchsverhalten besser zu verstehen. Sie können auf Paid-Media-Dimensions- und Ereignisdaten zugreifen, zu denen Advertising Cloud-Kampagnenentitätsnamen (bis hin zu Platzierungen und Anzeigen) und die zugehörigen Metriken wie Klicks, Impressionen und Kosten gehören.
+* Nutzen Sie Analysis Workspace, um Einstiegspunkte und Besuchsverhalten auf der Site besser zu verstehen. Sie können auf Paid-Media-Dimensions- und Ereignisdaten zugreifen, zu denen Advertising Cloud-Kampagnenentitätsnamen (bis hin zu Platzierungen und Anzeigen) und die zugehörigen Metriken wie Klicks, Impressionen und Kosten gehören.
 
 Verwendung [!DNL Analytics] als Reporting-Tool für gebührenpflichtige Medien benötigt Ihr Unternehmen eine Experience Cloud-Anmeldung mit Zugriff auf Analysis Workspace. Ihr Advertising Cloud-Team hilft Ihnen bei der Zuordnung Ihrer Advertising Cloud-Daten zu einzelnen Report Suites in Analysis Workspace. Sie können Advertising Cloud-Daten an eine beliebige Report Suite senden. Beachten Sie jedoch die Report Suites, die Advertising Cloud zugeordnet wurden, und jene, die dies nicht getan haben. Abhängig von der Report Suite kann dies die gemeldeten Daten ändern.
 
-[Advertising Cloud IDs in [!DNL Analytics]](ids.md) funktioniert wie andere eVars mit einem benutzerdefinierten, beständigen Ablauf. Standardmäßig ist das Attributions-Lookback-Fenster während der Advertising Cloud-Implementierung auf 60 Tage eingestellt. Wenden Sie sich an Ihre [!DNL Adobe] Kundenbetreuer.
+[Advertising Cloud IDs in [!DNL Analytics]](ids.md) funktioniert wie andere eVars mit einem benutzerdefinierten, beständigen Ablauf. Standardmäßig ist das Attributions-Lookback-Fenster während der Advertising Cloud-Implementierung auf 60 Tage eingestellt. Wenden Sie sich an Ihre [!DNL Adobe] Account-Team.
 
 Advertising Cloud-Dimensionen werden mit dem Suffix &quot;(AMO-ID)&quot;angehängt (z. B. &quot;Anzeigentyp (AMO-ID)&quot;). Siehe[Advertising Cloud-Metriken in Analysis Workspace](advertising-cloud-metrics-in-analytics.md)&quot; für eine Liste der verfügbaren Dimensionen.
 

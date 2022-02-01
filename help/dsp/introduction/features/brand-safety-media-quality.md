@@ -3,7 +3,7 @@ title: Markensicherheit und Medienqualität
 description: Erfahren Sie mehr über Markensicherheit und Medienqualitätsmerkmale.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 3bca3d5b4a1ec0bf9bb23946248de350b8bbf2a6
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1315'
 ht-degree: 0%
@@ -100,7 +100,7 @@ Nutzen Sie unsere Drittanbieterintegrationen mit [!DNL Comscore], [!DNL DoubleVe
 
 Sie können für jeden Advertiser standardmäßige Pre-Bid-Betrug-Kontrollen einrichten<!-- [default pre-bid fraud blocking controls for each advertiser](/help/dsp/admin/advertiser-settings.md) -->und dann optional [Anpassen der Einstellungen für jede Platzierung](/help/dsp/campaign-management/placements/placement-settings.md). Wenn Sie diese Funktion verwenden, fallen möglicherweise zusätzliche Gebühren an.
 
-Weitere Informationen zur Funktionalität erhalten Sie von Ihrem bevorzugten Anbieter direkt oder bei Ihrem [!DNL Adobe] Kundenbetreuer.
+Weitere Informationen zur Funktionalität erhalten Sie von Ihrem bevorzugten Anbieter direkt oder bei Ihrem [!DNL Adobe] Account-Team.
 
 ![Comscore-Logo](/help/dsp/assets/comscore-logo.png) ![DoubleVerify-Logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science-Logo](/help/dsp/assets/ias-logo.png) ![Peer39-Logo](/help/dsp/assets/peer39-logo.png)
 
@@ -122,7 +122,7 @@ So erstellen Sie benutzerdefinierte Themensegmente:
 
 * So erstellen Sie eine [!DNL Comscore] Konto erstellen und benutzerdefinierte Segmente erstellen, können Sie eine Anmeldung für [!DNL Activation Segment Manager] at [https://agents.comscore.com](https://agents.comscore.com). Siehe [[!DNL Comscore] Hilfezentrum](https://comscoreactivation.zendesk.com/hc/) für vollständige Anweisungen zum Einrichten benutzerdefinierter Segmente. Gebühren für benutzerdefinierte Segmente sind in [!DNL Segment Manager] während der Erstellung.
 
-* Erste Schritte mit [!DNL Oracle Data Cloud], Kontakt [!DNL Oracle Data Cloud] oder [!DNL Adobe] Kundenbetreuer.
+* Erste Schritte mit [!DNL Oracle Data Cloud], Kontakt [!DNL Oracle Data Cloud] oder [!DNL Adobe] Account-Team.
 
 ![Comscore-Logo](/help/dsp/assets/comscore-logo.png) ![Graustufen-Logo](/help/dsp/assets/oracle-grapeshot-logo.png)
 
@@ -134,7 +134,7 @@ Sobald Sie eine [!DNL DoubleVerify] Markensegment Sicherheit mit dem erforderlic
 
 Sie können eine [!DNL DoubleVerify] Segment-ID für jeden Advertiser<!-- [specify a DoubleVerify segment ID for each advertiser](/help/dsp/admin/advertiser-settings.md) -->und dann optional [aktivieren oder deaktivieren [!UICONTROL Authentic Brand Safety] für jede Platzierung](/help/dsp/campaign-management/placements/placement-settings.md). DSP stellt Ihr Konto für die Verwendung der Segment-ID in Rechnung.
 
-Weitere Informationen zur Funktion erhalten Sie bei [!DNL DoubleVerify] direkt oder kontaktieren Sie Ihre [!DNL Adobe] Kundenbetreuer.
+Weitere Informationen zur Funktion erhalten Sie bei [!DNL DoubleVerify] direkt oder kontaktieren Sie Ihre [!DNL Adobe] Account-Team.
 
 ![DoubleVerify-Logo](/help/dsp/assets/doubleverify-logo.png)
 

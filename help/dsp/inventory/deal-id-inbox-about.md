@@ -1,11 +1,11 @@
 ---
 title: Über die [!UICONTROL Deal ID Inbox]
-description: Erfahren Sie mehr über die [!UICONTROL Deal ID inbox] -Funktion, mit der Sie private Angebote akzeptieren können, über die Sie bereits mit Herausgebern verhandelt haben [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (früher [!DNL Rubicon]).
+description: Erfahren Sie mehr über die [!UICONTROL Deal ID inbox] -Funktion, mit der Sie private Angebote akzeptieren können, über die Sie bereits mit Herausgebern verhandelt haben [!DNL FreeWheel], [!DNL Google Authorized Buyers] (früher bekannt als [!DNL AdX]), and [!DNL Magnite DV+] (früher [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: 2539d9b8ec7de7202dd6c3400dda85aa133853e3
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ DSP aktualisiert automatisch täglich um 4:30 Uhr EST alle Details des Angebots.
 
 ## Implementieren der [!UICONTROL Deal ID Inbox]
 
-So erhalten Sie Ihre Angebote im [!UICONTROL Deal ID inbox]müssen Ihre SSP-Konten das DSP Ihres Unternehmens Ihrem SSP-Konto zuordnen. DSP teilt die Kontonamen des Unternehmens mit den relevanten SSPs. Wenden Sie sich an [!DNL Adobe] Kundenbetreuer für Anweisungen.
+So erhalten Sie Ihre Angebote im [!UICONTROL Deal ID inbox]müssen Ihre SSP-Konten das DSP Ihres Unternehmens Ihrem SSP-Konto zuordnen. DSP teilt die Kontonamen des Unternehmens mit den relevanten SSPs. Wenden Sie sich an [!DNL Adobe] -Kundenbetreuungsteam für Anweisungen.
 
 Teilen Sie dem Herausgeber bei den Vertragsverhandlungen mit, dass er den Deal an den Käufer und nicht an das DSP übergeben soll. Die Deal-ID kann je nach SSP ein Name oder eine ID sein.
 

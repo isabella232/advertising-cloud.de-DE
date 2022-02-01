@@ -3,7 +3,7 @@ title: Platzierungseinstellungen
 description: Siehe Beschreibungen der verfügbaren Platzierungseinstellungen.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '3280'
 ht-degree: 0%
@@ -304,7 +304,7 @@ Optional können Sie die Liste der Ziel- und Blockierungssites als CSV-Datei (CS
    * Um ein Intervall manuell auszuwählen, klicken Sie in eine Zelle und ziehen Sie optional, um das Intervall auszuwählen.
 1. Klicken **[!UICONTROL Save]**.
 
-**[!UICONTROL Topic Targeting]:** (Optional) für Advertiser verfügbar sein, die mit [!DNL Comscore] und [!DNL Grapeshot] Segmente) Spezifische Segmentnamen oder IDs von [!DNL Comscore] und [!DNL Grapeshot] , um als Ziele einzubeziehen. Für diese Funktion können zusätzliche Gebühren anfallen. Wenden Sie sich an Ihren [!DNL Adobe] Kundenbetreuer.
+**[!UICONTROL Topic Targeting]:** (Optional) für Advertiser verfügbar sein, die mit [!DNL Comscore] und [!DNL Grapeshot] Segmente) Spezifische Segmentnamen oder IDs von [!DNL Comscore] und [!DNL Grapeshot] , um als Ziele einzubeziehen. Für diese Funktion können zusätzliche Gebühren anfallen. Wenden Sie sich an Ihren [!DNL Adobe] Account-Team.
 
 So legen Sie das Thema-Targeting fest:
 

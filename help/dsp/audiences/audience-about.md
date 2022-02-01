@@ -3,7 +3,7 @@ title: Über Zielgruppen-Management in Advertising Cloud DSP
 description: Erfahren Sie mehr über die Funktionen des Zielgruppen-Managements.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1024'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Advertising Cloud DSP kann Ihre eigenen Erstanbieter-Datensegmente aus Ihrer Dat
 
 Advertising Cloud DSP kann auch benutzerdefinierte Drittanbietersegmente importieren, einschließlich komplexer Kombinationen aus Drittanbietersegmenten. Sie können die Segmente nach Bedarf für beliebige Advertiser bereitstellen.
 
-Wenden Sie sich an [!DNL Adobe] Kundenbetreuer .
+Wenden Sie sich an [!DNL Adobe] Account-Team für weitere Informationen.
 
 ## Als Platzierungsziele verfügbare Zielgruppen
 
@@ -102,11 +102,11 @@ Die [!UICONTROL Segments] -Ansicht listet auch die folgenden Segmenttypen auf:
 
 * Alle importierten Erstanbietersegmente, die für den Benutzer verfügbar sind.
 
-   Sie können keine Erstanbietersegmente bearbeiten oder freigeben, die für Sie freigegeben wurden. Wenden Sie sich an [!DNL Adobe] Kundenbetreuer , wenn Sie Erstanbietersegmente für zusätzliche Benutzer freigeben müssen.
+   Sie können keine Erstanbietersegmente bearbeiten oder freigeben, die für Sie freigegeben wurden. Wenden Sie sich an [!DNL Adobe] Account-Team , wenn Sie Erstanbietersegmente für zusätzliche Benutzer freigeben müssen.
 
 * Alle benutzerdefinierten Drittanbietersegmente, die für den Benutzer verfügbar sind.
 
-   Sie können keine Segmente von Drittanbietern bearbeiten oder freigeben, die für Sie freigegeben wurden. Wenden Sie sich an [!DNL Adobe] Kundenbetreuer , wenn Sie Segmente von Drittanbietern für zusätzliche Benutzer freigeben müssen.
+   Sie können keine Segmente von Drittanbietern bearbeiten oder freigeben, die für Sie freigegeben wurden. Wenden Sie sich an [!DNL Adobe] Account-Team , wenn Sie Segmente von Drittanbietern für zusätzliche Benutzer freigeben müssen.
 
 >[!MORELIKETHIS]
 >

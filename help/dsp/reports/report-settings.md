@@ -2,13 +2,13 @@
 title: Benutzerdefinierte Berichtseinstellungen
 description: Siehe Beschreibungen der benutzerdefinierten Berichtseinstellungen.
 feature: DSP Custom Reports
-source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
+exl-id: 1d37fc96-0f9b-4eb2-ba8d-9534f627adaf
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1129'
 ht-degree: 0%
 
 ---
-
 
 # Benutzerdefinierte Berichtseinstellungen
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 **[!UICONTROL Add Filters]:** (Optional) Zusätzliche Dimensionen zum Filtern der Daten, unabhängig davon, ob die Dimensionen als Spalten im Bericht enthalten sind: *[!UICONTROL Account]*,\* *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Placement]*, *[!UICONTROL Ad]*, *[!UICONTROL Ad Type]*, *[!UICONTROL Video]*, *[!UICONTROL Video Duration]*, *[!UICONTROL Country]* und *[!UICONTROL Package]*.
 
-\* *[!UICONTROL Account]* ist nur für die folgenden Berichtstypen verfügbar, wenn Ihr Unternehmen für [kontoübergreifende Berichterstattung](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)]und [!UICONTROL Conversion]. Wenden Sie sich an [!DNL Adobe] Kundenbetreuer finden Sie weitere Informationen zur kontoübergreifenden Berichterstellung.
+\* *[!UICONTROL Account]* ist nur für die folgenden Berichtstypen verfügbar, wenn Ihr Unternehmen für [kontoübergreifende Berichterstattung](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)]und [!UICONTROL Conversion]. Wenden Sie sich an [!DNL Adobe] Account-Team finden Sie weitere Informationen zur kontoübergreifenden Berichterstellung.
 
 Gehen Sie wie folgt vor, um einen oder mehrere Filter anzuwenden:
 
@@ -93,7 +93,7 @@ Gehen Sie wie folgt vor, um einen oder mehrere Filter anzuwenden:
 
 Weitere Informationen [geräteübergreifende Lösungen](/help/dsp/introduction/features/cross-device-solutions.md).
 
-**[!UICONTROL Cross-Device Breakout]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]und [!UICONTROL Site] Berichte mit [!UICONTROL Conversion Metrics] oder [!UICONTROL Custom Goals] Spalten; nur für Advertiser mit geräteübergreifender Attribution anwendbar) Der Detaillierungsgrad der geräteübergreifenden Konversionen, die in den Bericht aufgenommen werden sollen. Wenn Sie eine detaillierte Aufschlüsselung wünschen, können Sie bis zu drei Ebenen wählen, von denen jede in eine eigene Spalte aufgenommen wird.
+**[!UICONTROL Cross-Device Breakout]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]und [!UICONTROL Site] Berichte mit [!UICONTROL Conversion Metrics] oder [!UICONTROL Custom Goals] Spalten; gilt nur für Advertiser mit geräteübergreifender Attribution) Der Detaillierungsgrad der geräteübergreifenden Konversionen, die in den Bericht aufgenommen werden sollen. Wenn Sie eine detaillierte Aufschlüsselung wünschen, können Sie bis zu drei Ebenen wählen, von denen jede in eine eigene Spalte aufgenommen wird.
 
 * *[!UICONTROL Total People (TP)]:* Umfasst die Gesamtkonversionen, die sowohl Konversionen mit demselben Gerät als auch geräteübergreifende Konversionen enthalten (falls zutreffend). Im Bericht heißt es: &quot;[!UICONTROL (tp)]&quot; wird an den Namen der Konversionsmetrik und den Regeltyp angehängt.
 

@@ -2,7 +2,8 @@
 title: Zertifizierte Ad Serving-Partner
 description: Alle zertifizierten Adserver und Anzeigeneinheiten anzeigen.
 feature: DSP Ads
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -40,7 +41,7 @@ ht-degree: 0%
 | [!DNL Innovid] | X | X |  | X |  |
 | [!DNL InSkin] |  |  | X |  | Von einer 180 x 150 Display-Deal-ID mit hoher Auswirkung auf die Haut muss im Inventarnetzwerk von Inhaut eine ID bereitgestellt werden. |
 | [!DNL Jivox] |  | X |  |  |  |
-| [!DNL Kargo] |  | X |  |  | 320 x 50 Anker, BYOC, Hover, Breakout und Sidekick; 300x250 Outstream </br></br>Wenden Sie sich an [!DNL Adobe] -Kundenbetreuer für Unterstützung bei der Einrichtung von Anzeigeneinheiten. |
+| [!DNL Kargo] |  | X |  |  | 320 x 50 Anker, BYOC, Hover, Breakout und Sidekick; 300x250 Outstream </br></br>Wenden Sie sich an [!DNL Adobe] Account-Team für Unterstützung bei der Einrichtung von Anzeigeneinheiten. |
 | [!DNL Linkstorm] |  |  | X |  |  |
 | [!DNL mCanvas] |  |  | X |  |  |
 | [!DNL Medialets] |  | X |  |  |  |

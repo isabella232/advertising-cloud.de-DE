@@ -3,7 +3,7 @@ title: Best Practices zum Einrichten von Leistungskampagnen
 description: Lernen Sie Best Practices für die Einrichtung Ihrer leistungsorientierten Kampagnen kennen, darunter Platzierungen, die für den niedrigsten CPA oder den höchsten ROAS optimiert sind.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1232'
 ht-degree: 0%
@@ -77,7 +77,7 @@ Verwenden Sie außerdem die folgenden Einstellungen.
 
 * **Budget:** DSP wird immer versuchen, 100 % des Package-Budgets gleichmäßig zwischen allen Platzierungen in einem Paket zu verteilen. Wenn eine Platzierung geringe Ausgaben oder keine Ausgaben aufweist, empfehlen wir eine Budgetbegrenzung für die Platzierung, damit mehr Geld für Platzierungen mit Skalierung bereitgestellt werden kann. Die Kalibrierung von Budgetänderungen kann 24 bis 48 Stunden dauern.
 
-* **Optimierungsziele:** Verwenden Sie eines der beiden Leistungsoptimierungsziele, *[!UICONTROL Highest ROAS]* oder *[!UICONTROL Lowest CPA]*, abhängig vom Paketziel. Diese Ziele optimieren das Paket automatisch für die Platzierungen mit dem höchsten ROAS bzw. dem niedrigsten CPA.
+* **Optimierungsziele:** Verwenden Sie eines der beiden Leistungsoptimierungsziele, *[!UICONTROL Highest ROAS]* oder *[!UICONTROL Lowest CPA]*, abhängig vom Paketziel. Mit diesen Zielen wird das Paket automatisch für die Platzierungen mit der höchsten ROAS bzw. der niedrigsten CPA optimiert.
 
 * **Benutzerdefinierte Ziele:**
    * Wenn ein neues Paket dasselbe Ziel wie ein vorhandenes Paket hat, können Sie optional das vorhandene Paket verknüpfen, damit der Algorithmus die vorhandenen Daten des maschinellen Lernens verwenden kann.
@@ -140,7 +140,7 @@ Um die Skalierung zu maximieren, verwenden Sie [!UICONTROL Public] (Open Exchang
 
 * **[!UICONTROL Device Targeting]**:
    * Einschließen [!UICONTROL Computer], [!UICONTROL Mobile]und [!UICONTROL Tablet].
-   * Keine Zielgruppe [!UICONTROL Firefox] und [!UICONTROL Safari] aufgrund von Targeting- und Messbeschränkungen. Wenden Sie sich an [!DNL Adobe] Kundenbetreuer für weitere Informationen zu [!DNL Adobe] Unterstützung für [!DNL Safari ITP].
+   * Keine Zielgruppe [!UICONTROL Firefox] und [!UICONTROL Safari] aufgrund von Targeting- und Messbeschränkungen. Wenden Sie sich an [!DNL Adobe] Account-Team für weitere Informationen [!DNL Adobe] Unterstützung für [!DNL Safari ITP].
    * Wenn Sie mobilen Webtraffic als Ziel auswählen, deaktivieren Sie alle mobilen Browser außer [!UICONTROL Chrome] und [!UICONTROL Edge].
 
 ### Markensicherheit und Medienqualität

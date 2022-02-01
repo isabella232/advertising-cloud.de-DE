@@ -3,7 +3,7 @@ title: Checkliste für den Kampagnenstart
 description: Erfahren Sie, was Sie vor dem Start einer Kampagne tun müssen.
 feature: DSP Placements, DSP Ads
 exl-id: bf0147d0-0b58-435d-a2de-5b98e0d3488c
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Kontofinanzierung
 
-Stellen Sie sicher, dass Ihr Konto genügend Guthaben besitzt, um die gesamte Kampagne auszuführen. Sie können Kontoguthaben überprüfen und erneut ausfüllen in [!UICONTROL Settings] > [!UICONTROL Account] oder wenden Sie sich an [!DNL Adobe] Kundenbetreuer.
+Stellen Sie sicher, dass Ihr Konto genügend Guthaben besitzt, um die gesamte Kampagne auszuführen. Sie können Kontoguthaben überprüfen und erneut ausfüllen in [!UICONTROL Settings] > [!UICONTROL Account] oder wenden Sie sich an [!DNL Adobe] Account-Team.
 
 ## Kampagnenstatus
 

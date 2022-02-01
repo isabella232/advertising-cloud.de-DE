@@ -3,7 +3,7 @@ title: Über benutzerdefinierte Ziele
 description: Erfahren Sie mehr über benutzerdefinierte Ziele, um Ihre Erfolgsereignisse in Paketen zu definieren, die für den niedrigsten CPA oder den höchsten ROAS optimiert sind.
 feature: DSP Optimization
 exl-id: 623cb1ef-85ab-4535-aa3a-8e6ec8ae15ee
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Jedes benutzerdefinierte Ziel besteht aus einer oder mehreren Metriken oder *Tra
 >[!NOTE]
 >
 >* [!DNL Analytics] -Dimensionen und -segmente stehen nicht zur Advertising Cloud-Optimierung zur Verfügung.
->* Wenn Sie Analytics-Ereignisse in DSP verwenden möchten, arbeiten Sie mit Ihrem [!DNL Adobe] -Kundenbetreuer zur Konfiguration einer Integration auf Advertiser-Ebene.
+>* Wenn Sie Analytics-Ereignisse in DSP verwenden möchten, arbeiten Sie mit Ihrem [!DNL Adobe] Account-Team , um eine Integration auf Advertiser-Ebene zu konfigurieren.
 >* [!DNL Analytics] Benutzerdefinierte Ereignisse folgen dieser Benennungskonvention: `custom_event_[*event #*]_[*Analytics report suite ID*]`. Beispiel: `custom_event_16_examplersid`
 
 
