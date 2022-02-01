@@ -8,7 +8,7 @@ user-guide-title: Handbuch zu Advertising Cloud DSP
 user-guide-description: Erfahren Sie mehr über die wichtigsten Funktionen, Aufgaben, Einstellungen und anderen Ressourcen, die für die Verwaltung, Optimierung und Berichterstellung Ihrer Display-Anzeigenstrategien mit Advertising Cloud DSP erforderlich sind.
 breadcrumb-title: Handbuch zu DSP
 index: true
-source-git-commit: cf08c97a6a9fecd637f1776b186a18a5c5cc6435
+source-git-commit: c44113736f472c4971729403835a61ed6e07b47f
 workflow-type: tm+mt
 source-wordcount: '845'
 ht-degree: 2%
@@ -168,19 +168,19 @@ ht-degree: 2%
             + [Senden Sie eine Anzeige für einen programmgesteuerten garantierten Deal an [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
             + [Überprüfen des Status von Anzeigen auf [!DNL FreeWheel] Gesicherte programmatische Vereinbarungen](/help/dsp/inventory/freewheel-check-status.md)
             + [Fehlercodes für FreeWheel-Anzeigenübermittlungen](/help/dsp/inventory/freewheel-error-codes.md)
-      + [Bearbeiten der Deal-ID-Einstellungen](/help/dsp/inventory/deal-id-edit.md)
-      + [Festlegen von Platzierungen und Anzeigen für eine Angebots-ID](/help/dsp/inventory/deal-id-attach-placements.md)
-      + [Bearbeiten der Konten mit Zugriff auf eine Angebots-ID](/help/dsp/inventory/deal-id-share.md)
-      + [Bearbeiten von Advertisern mit Zugriff auf eine Angebots-ID](/help/dsp/inventory/deal-id-edit-advertisers.md)
-      + [Bearbeiten der Attribute-Tags für eine Angebots-ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
-      + [Platzierungen und Anzeigen für ein privates Geschäft auflisten](/help/dsp/inventory/private-deal-view-placements.md)
-      + [Detaillierte Berichte für private Angebote anzeigen](/help/dsp/inventory/private-deal-view-report.md)
-      + [Archivieren oder Aufheben der Archivierung eines privaten Angebots](/help/dsp/inventory/private-deal-archive-unarchive.md)
+         + [Bearbeiten der Deal-ID-Einstellungen](/help/dsp/inventory/deal-id-edit.md)
+         + [Festlegen von Platzierungen und Anzeigen für eine Angebots-ID](/help/dsp/inventory/deal-id-attach-placements.md)
+         + [Bearbeiten der Konten mit Zugriff auf eine Angebots-ID](/help/dsp/inventory/deal-id-share.md)
+         + [Bearbeiten von Advertisern mit Zugriff auf eine Angebots-ID](/help/dsp/inventory/deal-id-edit-advertisers.md)
+         + [Bearbeiten der Attribute-Tags für eine Angebots-ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
       + [!UICONTROL Simple Ad Serving] Angebote {#sas}
          + [Info [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
          + [Erstellen Sie eine [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-create.md)
          + [[!UICONTROL Simple Ad Serving] Deal Settings](/help/dsp/inventory/simple-deal-settings.md)
          + [Anzeigen von Ereignisverfolgungspixel für eine [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-show-pixels.md)
+      + [Platzierungen und Anzeigen für ein privates Geschäft auflisten](/help/dsp/inventory/private-deal-view-placements.md)
+      + [Detaillierte Berichte für private Angebote anzeigen](/help/dsp/inventory/private-deal-view-report.md)
+      + [Archivieren oder Aufheben der Archivierung eines privaten Angebots](/help/dsp/inventory/private-deal-archive-unarchive.md)
 + Benutzerspezifische Berichte {#custom-reports}
    + [Über benutzerdefinierte Berichte](/help/dsp/reports/report-about.md)
    + [Benutzerspezifischen Bericht erstellen](/help/dsp/reports/report-create.md)

@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 5c7eab5f3bc1d8fc4a437e8f5b498caafed9a30f
+source-git-commit: 8e50b4bcd2ab1e27880f0f937ba3a0a83f4fbca3
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1454'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Die folgenden Funktionen sind neu oder kürzlich geändert worden.
 
 | Datum | Funktion | Beschreibung | Weitere Informationen |
 | ---- | ------- | ----------- | -------------------- |
-| 17. Dezember 2021 | Hilfe | Informationen zu blockierten Sites sind jetzt verfügbar. | Siehe &#39;[Über Listen auf Kontoebene und auf Advertiser-Ebene für blockierte Sites](/help/dsp/admin/blocked-sites-list-about.md)&quot; und &quot;[Eine Liste mit blockierten Sites auf Kontoebene oder Advertiser-Ebene bearbeiten](/help/dsp/admin/blocked-sites-list-edit.md).&quot; |
+| 31. Dezember 2022 | Hilfe | Weitere Informationen zu [!DNL Deal IDs] und [!DNL Simple Ad Serving] ist jetzt verfügbar. | Siehe Unterkapitel unter &quot;Bestand > Privater Bestand&quot;. |
 | 10. Dezember 2021 | Video-Tutorials | Neue Video-Tutorials sind verfügbar: &quot;Einführung in Advertising Cloud DSP&quot;, &quot;Kontostruktur und Benutzeroberfläche&quot;, &quot;Erstellen eines Pakets&quot;, &quot;Massen-Upload von Anzeigen-Tags von Drittanbietern&quot;und &quot;Bearbeiten von Platzierungen mit Tools zur Massenbearbeitung&quot;. | Siehe[Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html).&quot; |
 | 12. November 2021 | [!UICONTROL Deal IDs] | Im [!UICONTROL Deal ID] Einstellungen, &quot;[!DNL Rubicon]&quot; wurde in geändert.[!DNL Magnite DV+],&quot;wobei [!DNL DV+] steht für Anzeige-, Video- und andere Formate wie Audio. Dies spiegelt das neue Branding für [!DNL Magnite] SSP. **Hinweis:** [!DNL Magnite DV+] wird weiterhin als[!DNL Rubicon]&quot; in der [!UICONTROL Deal ID Inbox]. | Siehe[SSP-Partner](/help/dsp/inventory/ssp-partners.md).&quot; |
 | 27. Oktober 2021 | Benutzerspezifische Berichte | Sie können jetzt [!DNL Amazon S3] und verschiedenen Arten von FTP-Bereitstellungsspeicherorten, genannt *[!DNL report destinations]*, für Ihre benutzerspezifischen Berichte. Nachdem Sie die Berichtsziele konfiguriert haben, können Sie jeden Ihrer neuen benutzerspezifischen Berichte so einrichten, dass er an eine oder mehrere Stellen eines einzelnen Zieltyps oder an E-Mail-Empfänger gesendet wird. Aktualisierungen Ihrer [!DNL Amazon S3] und FTP-Anmeldedaten unterbrechen die Berichtbereitstellung nicht.<br><br>Ihre vorhandenen Berichte werden weiterhin an die angegebenen E-Mail-Empfänger gesendet. Um den Versand an ein anderes Berichtsziel zu konfigurieren, erstellen Sie einen neuen Bericht mit dem neuen Ziel. | Siehe[Info [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md), &quot;[Erstellen Sie eine [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md), &quot;[[!UICONTROL Report Destination] Einstellungen](/help/dsp/reports/report-destinations/report-destination-settings.md),&quot; und &quot;[Benutzerdefinierte Berichtseinstellungen](/help/dsp/reports/report-settings.md).&quot; |
