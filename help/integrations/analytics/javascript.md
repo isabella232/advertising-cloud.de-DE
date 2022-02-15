@@ -3,9 +3,9 @@ title: JavaScript-Code für [!DNL Analytics for Advertising Cloud]
 description: JavaScript-Code für [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 184508ce-df8d-4fa0-b22b-ca0546a61d58
-source-git-commit: 7bf8f3524954b17d9da336a2210a098bf571399e
+source-git-commit: ac7f6110a523d63482f6c2e1a7d0bd5a12a0bab1
 workflow-type: tm+mt
-source-wordcount: '939'
+source-wordcount: '942'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,11 @@ Beim ersten Seitenaufruf eines Site-Besuchs prüft der Advertising Cloud-JavaScr
 
 ## Bereitstellen des JavaScript-Codes
 
-Die JavaScript-Bibliothek besteht aus zwei Zeilen, die [!DNL Analytics] und Advertising Cloud zu kommunizieren. Wenn die Variable [!DNL Analytics for Advertising Cloud] -Integration während der Advertising Cloud-Implementierung abgeschlossen wurde, sollten Sie diesen Code mit Anweisungen zur Bereitstellung erhalten haben.
+Die JavaScript-Bibliothek besteht aus zwei Zeilen, die [!DNL Analytics] und Advertising Cloud zu kommunizieren. Wenn die Variable [!DNL Analytics for Advertising Cloud] -Integration während der Advertising Cloud-Implementierung abgeschlossen wurde, sollten Sie diesen Code bereits mit Anweisungen zur Bereitstellung erhalten haben.
 
-**(Implementierungen, die den Experience Cloud Identity-Dienst verwenden `visitorAPI.js` code)**
+### Der Code
+
+#### Implementierungen, die den Experience Cloud Identity-Dienst verwenden `visitorAPI.js` code
 
 ```
 <script>
@@ -41,7 +43,7 @@ Die JavaScript-Bibliothek besteht aus zwei Zeilen, die [!DNL Analytics] und Adve
 </script>
 ```
 
-**(Implementierungen, die die Experience Platform verwenden [!DNL Web SDK] `alloy.js`code)**
+#### Implementierungen, die die Experience Platform verwenden [!DNL Web SDK] `alloy.js`code
 
 ```
 <script>
