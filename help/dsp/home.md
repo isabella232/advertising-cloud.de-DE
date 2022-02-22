@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: b4d8b30ca4563b3b0d2ea1b03b8ef5f2810964a2
+source-git-commit: 3a4f9bf2d2889acde67a10ab0b5895a2c1024b56
 workflow-type: tm+mt
-source-wordcount: '1474'
+source-wordcount: '1481'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Die folgenden Funktionen sind neu oder kürzlich geändert worden.
 
 | Datum | Funktion | Beschreibung | Weitere Informationen |
 | ---- | ------- | ----------- | -------------------- |
-| 17. Februar 2022 | Video-Tutorials | Ein neues Video zum Erstellen einer standardmäßigen Anzeigeplatzierung ist verfügbar. | Siehe [Advertising Cloud Tutorials](https://video.tv.adobe.com/v/340454). |
+| 17. Februar 2022 | Video-Tutorials | Ein neues Video zum Erstellen einer standardmäßigen Anzeigeplatzierung ist verfügbar. | Siehe [Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html). |
 | 31. Januar 2022 | Hilfe | Weitere Informationen zu [!DNL Deal IDs] und [!DNL Simple Ad Serving] ist jetzt verfügbar. | Siehe Unterkapitel unter &quot;Bestand > Privater Bestand&quot;. |
 | 10. Dezember 2021 | Video-Tutorials | Neue Video-Tutorials sind verfügbar: &quot;Einführung in Advertising Cloud DSP&quot;, &quot;Kontostruktur und Benutzeroberfläche&quot;, &quot;Erstellen eines Pakets&quot;, &quot;Massen-Upload von Anzeigen-Tags von Drittanbietern&quot;und &quot;Bearbeiten von Platzierungen mit Tools zur Massenbearbeitung&quot;. | Siehe[Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html).&quot; |
 | 12. November 2021 | [!UICONTROL Deal IDs] | Im [!UICONTROL Deal ID] Einstellungen, &quot;[!DNL Rubicon]&quot; wurde in geändert.[!DNL Magnite DV+],&quot;wobei [!DNL DV+] steht für Anzeige-, Video- und andere Formate wie Audio. Dies spiegelt das neue Branding für [!DNL Magnite] SSP. **Hinweis:** [!DNL Magnite DV+] wird weiterhin als[!DNL Rubicon]&quot; in der [!UICONTROL Deal ID Inbox]. | Siehe[SSP-Partner](/help/dsp/inventory/ssp-partners.md).&quot; |
