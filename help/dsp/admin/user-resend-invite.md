@@ -1,22 +1,23 @@
 ---
-title: Eine ausstehende Benutzereinladung für Ihr Unternehmenskonto erneut senden
+title: Eine ausstehende Benutzereinladung erneut senden
 description: Erfahren Sie, wie Sie eine ausstehende Benutzereinladung erneut senden.
-source-git-commit: 24b14e53322ec2d750319b3929513dc82866a2f0
+source-git-commit: e3d4c2010255ccf821f3a1ae5278bb3414b8783e
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# Eine ausstehende Benutzereinladung für Ihr Unternehmenskonto erneut senden
+# Eine ausstehende Benutzereinladung erneut senden
 
 *Nur Administrator-Benutzer*
 
-Sie können eine Einladung an Benutzer mit ausstehender Einladung zum Organisationskonto erneut senden.
+Sie können eine Einladung an einen Benutzer mit ausstehender Einladung zum Organisationskonto erneut senden.
 
 1. Führen Sie einen der folgenden Schritte aus:
 
    * Klicken Sie im Hauptmenü auf **[!UICONTROL Settings]>[!UICONTROL Users]**.
+
    * Klicken Sie im Hauptmenü auf **[!UICONTROL Settings]>[!UICONTROL Account]** und klicken Sie anschließend auf **[!UICONTROL Edit users]**.
 
 1. Im **Einladungen** Abschnitt, klicken Sie auf ![Erneut senden](/help/dsp/assets/resend.png).

@@ -1,7 +1,7 @@
 ---
 title: Einladen eines neuen Benutzers für Ihr Unternehmenskonto
 description: Erfahren Sie, wie Sie einen neuen Benutzer einladen können, um dem Konto beizutreten.
-source-git-commit: b61b0102ff34524598776df23b44e560ddfe1baf
+source-git-commit: 65d5b9275b24d66972f464a07d6e1a751721ada2
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -19,6 +19,7 @@ Bei Bedarf können Sie die Einladung eines Benutzers mit ausstehender Einladung 
 1. Führen Sie einen der folgenden Schritte aus:
 
    * Klicken Sie im Hauptmenü auf **[!UICONTROL Settings]>[!UICONTROL Users]**.
+
    * Klicken Sie im Hauptmenü auf **[!UICONTROL Settings]>[!UICONTROL Account]** und klicken Sie anschließend auf **[!UICONTROL Edit users]**.
 
 1. Im **[!UICONTROL Invitations]** Abschnitt, klicken Sie auf **[!UICONTROL Send Invite]**.
