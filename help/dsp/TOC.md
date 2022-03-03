@@ -5,13 +5,13 @@ cloud: Experience Cloud
 solution: Advertising Cloud
 product: advertising cloud
 user-guide-title: Handbuch zu Advertising Cloud DSP
-user-guide-description: Erfahren Sie mehr über die wichtigsten Funktionen, Aufgaben, Einstellungen und anderen Ressourcen, die für die Verwaltung, Optimierung und Berichterstellung Ihrer Display-Anzeigenstrategien mit Advertising Cloud DSP erforderlich sind.
+user-guide-description: Erfahren Sie mehr über die wichtigsten Funktionen, Aufgaben, Einstellungen und andere Ressourcen, die für die Verwaltung, Optimierung und Berichterstellung für Ihre Strategien rund um Display-Anzeigen mit Advertising Cloud DSP erforderlich sind.
 breadcrumb-title: Handbuch zu DSP
 index: true
-source-git-commit: c44113736f472c4971729403835a61ed6e07b47f
+source-git-commit: 18ae0e34f518e58f045c123cfe75f65b12b46fb7
 workflow-type: tm+mt
-source-wordcount: '845'
-ht-degree: 2%
+source-wordcount: '864'
+ht-degree: 6%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 2%
       + Unterstützung für CCPA {#ccpa}
          + [Unterstützung des California Consumer Privacy Act: Zugriff auf Verbraucherdaten und Löschen](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-access-delete.html)
          + [Unterstützung des California Consumer Privacy Act: Opt-out aus dem Verkauf für Verbraucher](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-opt-out-of-sale.html)
-   + Richtlinien und Richtlinien {#policies}
+   + Grundsätze und Richtlinien {#policies}
       + [Richtlinie zu Anzeigenanforderungen](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
       + [Richtlinien für zulässige Gesundheitssegmente](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] Richtlinien zur Datennutzung](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
@@ -197,8 +197,14 @@ ht-degree: 2%
       + [Löschen eines [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
       + [[!UICONTROL Report Destination] Einstellungen](/help/dsp/reports/report-destinations/report-destination-settings.md)
 + Administration {#admin}
-   + [Über Listen auf Kontoebene und auf Advertiser-Ebene für blockierte Sites](/help/dsp/admin/blocked-sites-list-about.md)
-   + [Eine Liste mit blockierten Sites auf Kontoebene oder Advertiser-Ebene bearbeiten](/help/dsp/admin/blocked-sites-list-edit.md)
+   + [Profil bearbeiten](/help/dsp/admin/user-own-profile-edit.md)
+   + Benutzer {#users}
+      + [Einladen neuer Benutzer](/help/dsp/admin/user-invite.md)
+      + [Eine ausstehende Benutzereinladung erneut senden](/help/dsp/admin/user-resend-invite.md)
+      + [Aufheben der Einladung eines ausstehenden Benutzers](/help/dsp/admin/user-uninvite.md)
+   + Blockierte Sites {#sites}
+      + [Über Listen auf Kontoebene und auf Advertiser-Ebene für blockierte Sites](/help/dsp/admin/blocked-sites-list-about.md)
+      + [Eine Liste mit blockierten Sites auf Kontoebene oder Advertiser-Ebene bearbeiten](/help/dsp/admin/blocked-sites-list-edit.md)
 + [Integrationen mit Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [Support](https://helpx.adobe.com/de/contact/enterprise-support.ec.html)
 + [Versionshinweise zu Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
