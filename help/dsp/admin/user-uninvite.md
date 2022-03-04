@@ -1,9 +1,9 @@
 ---
 title: Aufheben der Einladung eines ausstehenden Benutzers
 description: Erfahren Sie, wie Sie eine ausstehende Benutzereinladung zurücksetzen.
-source-git-commit: baa351de79532352f28d2dc5691c2e425a8e3207
+source-git-commit: 315fd6189e1805f9f1f4184cc0aa47d12740616a
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Sie können die Einladung eines Benutzers mit ausstehender Einladung aufheben. D
 >[!MORELIKETHIS]
 >
 >* [Einladen eines neuen Benutzers für Ihr Unternehmenskonto](user-invite.md)
->* [Eine ausstehende Benutzereinladung für Ihr Unternehmenskonto erneut senden](user-resend-invite.md)
+>* [Eine ausstehende Benutzereinladung erneut senden](user-resend-invite.md)
 
 
 <!-- >* [Edit User Permissions or Delete a User](user-edit.md) -->
