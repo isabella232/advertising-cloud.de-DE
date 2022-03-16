@@ -1,9 +1,9 @@
 ---
-title: Erstellen Sie eine [!UICONTROL Simple Ad Serving] Deal
-description: Erfahren Sie, wie Sie ein Tracking-Pixel für eine [!UICONTROL Simple Ad Serving] handeln.
+title: '"Erstellen Sie eine [!UICONTROL Simple Ad Serving] Deal"'
+description: '"Erfahren Sie, wie Sie ein Tracking-Pixel für eine [!UICONTROL Simple Ad Serving] handeln."'
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: 05578e9252f0eec6dd4e003d317742007edb3351
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
