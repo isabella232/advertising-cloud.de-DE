@@ -1,9 +1,9 @@
 ---
 title: Verwalten von Warnungsanmeldungen
 description: Erfahren Sie, wie Sie automatische E-Mail-Warnungen verwalten.
-source-git-commit: 86987ec2c5d572b5328cb04fc7120609c6c79d26
+source-git-commit: 1cce72f4cd898034c7bf7bfeee8c5b37f43c0a59
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,9 @@ ht-degree: 0%
 
       Die Einstellungen variieren je nach Warentyp.
 
-   1. (Optional) Um den Warnhinweis sofort auszuführen, wählen Sie **[!UICONTROL Alert immediately]**. Standardmäßig wird der Warnhinweis ausgeführt <!-- at what time? -->.
+   1. (Optional) Um den Warnhinweis sofort auszuführen, wählen Sie **[!UICONTROL Alert immediately]**. Standardmäßig wird der Warnhinweis um 8:00 Uhr in der Zeitzone des Kontos ausgeführt.
 
    1. (Optional) Um dem Abonnement eine zusätzliche Warnung hinzuzufügen, klicken Sie auf **[!UICONTROL Add Alert]** und erstellen Sie den Warnhinweis.
-
-      <!-- You can add up to NN alerts per subscription. -->
-      <!-- You can add quite a few, many unlimited -->
 
 1. Im **[!UICONTROL Add Subscriber Email Addresses]** Geben Sie jede E-Mail-Adresse ein, an die die Warnungen gesendet werden sollen, und drücken Sie dann die **[!UICONTROL Enter]** Schlüssel.
 

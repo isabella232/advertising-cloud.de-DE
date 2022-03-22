@@ -8,9 +8,9 @@ user-guide-title: Handbuch zu Advertising Cloud DSP
 user-guide-description: Erfahren Sie mehr über die wichtigsten Funktionen, Aufgaben, Einstellungen und andere Ressourcen, die für die Verwaltung, Optimierung und Berichterstellung für Ihre Strategien rund um Display-Anzeigen mit Advertising Cloud DSP erforderlich sind.
 breadcrumb-title: Handbuch zu DSP
 index: true
-source-git-commit: 18ae0e34f518e58f045c123cfe75f65b12b46fb7
+source-git-commit: d4537714e884eb1ce1b62d4097b7ad6f30767edf
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '871'
 ht-degree: 6%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 6%
       + [[!DNL DSP] Richtlinien zur Datennutzung](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
    + [Erweiterte Messlösungen](/help/dsp/introduction/advanced-measurement-services.md)
 + Kampagnenverwaltung {#campaign-management}
-   + [Übersicht über die Struktur der Kampagnenverwaltung](/help/dsp/campaign-management/campaign-management-overview.md)
+   + [Übersicht über die Campaign Management-Struktur](/help/dsp/campaign-management/campaign-management-overview.md)
    + Kampagnen {#campaigns}
       + [Über Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
       + [Erstellen einer Kampagne](/help/dsp/campaign-management/campaigns/campaign-create.md)
@@ -94,7 +94,7 @@ ht-degree: 6%
       + [Spezifikationen für unterstützte Anzeigentypen](/help/dsp/assets/ad-specs.pdf)
    + Kampagnenberichte {#campaign-reports}
       + [Über In-Platform-Berichte](/help/dsp/campaign-management/reports/campaign-reports-about.md)
-      + [Daten aus einer Kampagnenverwaltungsansicht exportieren](/help/dsp/campaign-management/reports/campaign-export-data.md)
+      + [Daten aus einer Campaign Management-Ansicht exportieren](/help/dsp/campaign-management/reports/campaign-export-data.md)
       + [Anzeigen von Sites, Anzeigen und Frequenzdetails für eine Platzierung](/help/dsp/campaign-management/reports/placement-details-view.md)
       + [Anzeigen der platzierungsdiagnostischen Berichte](/help/dsp/campaign-management/reports/placement-diagnostics.md)
       + Datenansichten verwalten {#data-views}
@@ -112,7 +112,7 @@ ht-degree: 6%
       + [Spalten in heruntergeladenen/hochgeladenen Arbeitsblättern](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
    + [Advertising Cloud DSP Makros](/help/dsp/campaign-management/macros.md)
    + [Tastaturbefehle](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
-   + [Häufig gestellte Fragen zur Kampagnenverwaltung](/help/dsp/campaign-management/campaign-management-faq.md)
+   + [Häufig gestellte Fragen zu Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 + Optimierung {#optimization}
    + [How [!DNL DSP] Optimiert Ihre Kampagnen](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
    + [Optimierungsziele und Verwendung](/help/dsp/optimization/optimization-goals.md)
@@ -205,6 +205,9 @@ ht-degree: 6%
    + Blockierte Sites {#sites}
       + [Über Listen auf Kontoebene und auf Advertiser-Ebene für blockierte Sites](/help/dsp/admin/blocked-sites-list-about.md)
       + [Eine Liste mit blockierten Sites auf Kontoebene oder Advertiser-Ebene bearbeiten](/help/dsp/admin/blocked-sites-list-edit.md)
+   + Benachrichtigungen {#notifications}
+      + [Über Abonnements für Warnhinweise](/help/dsp/admin/alerts-about.md)
+      + [Verwalten von Warnungsanmeldungen](/help/dsp/admin/alerts-manage.md)
 + [Integrationen mit Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [Support](https://helpx.adobe.com/de/contact/enterprise-support.ec.html)
 + [Versionshinweise zu Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)

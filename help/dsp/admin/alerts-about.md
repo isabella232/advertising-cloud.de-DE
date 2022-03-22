@@ -1,7 +1,7 @@
 ---
 title: Über Abonnements für Warnhinweise
 description: Erfahren Sie mehr über automatische E-Mail-Warnungen.
-source-git-commit: 4bc23fb0028af4d0bfff0686ab97964873ce6a54
+source-git-commit: de1ad6e1cfeefc4ac1e8264c3063b550b6548446
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 Sie können Gruppen von automatischen E-Mail-Warnungen erstellen, so genannte Abonnements, die E-Mail-Benachrichtigungen senden, wenn die festgelegten Parameter für Konto, Kampagne, Anzeige und private Lagerbestandsgeschäfte erfüllt sind.
 
-Sie können beispielsweise eine Warnung erhalten, wenn eine Kampagne einen bestimmten Betrag ihres Budgets ausgegeben hat. Sie können auch einen Warnhinweis erhalten, wenn ein privater Lagerbestandsvertrag in den letzten N Tagen weniger als eine bestimmte Gewinnrate erzielt hat.
+Sie können beispielsweise eine Warnung erhalten, wenn eine Kampagne einen bestimmten Betrag ihres Budgets ausgegeben hat. Sie können auch eine Warnung erhalten, wenn ein privater Lagerbestandsgeschäft in den letzten N Tagen weniger als eine bestimmte Gewinnrate erzielt hat.
 
 Sie können Warnhinweise zu einem Abonnement hinzufügen oder daraus entfernen, die Benutzer bearbeiten, die E-Mail-Benachrichtigungen für ein Abonnement erhalten, Warnhinweis-Abonnements deaktivieren und erneut aktivieren sowie Warnhinweis-Abonnements löschen.
 
