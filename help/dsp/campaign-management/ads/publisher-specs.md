@@ -2,9 +2,9 @@
 title: Publisher-spezifische Anzeigenspezifikationen
 description: Referenzieren Sie die Anzeigenspezifikationen für unterstützte Herausgeber.
 feature: DSP Ads
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,6 @@ Die folgenden Links führen Sie zu den Anzeigenspezifikationen für einige der H
 >[!MORELIKETHIS]
 >
 >* [Über die Anzeigenverwaltung](ad-about.md)
->* [Erstellen einer Anzeige](ad-create.md)
+>* [Erstellen mehrerer Drittanbieteranzeigen](ad-create-multiple.md)
 >* [Anzeigenspezifikationen](/help/dsp/assets/ad-specs.pdf)
 

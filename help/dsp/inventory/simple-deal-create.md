@@ -3,9 +3,9 @@ title: '"Erstellen Sie eine [!UICONTROL Simple Ad Serving] Deal"'
 description: '"Erfahren Sie, wie Sie ein Tracking-Pixel für eine [!UICONTROL Simple Ad Serving] handeln."'
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 05578e9252f0eec6dd4e003d317742007edb3351
+source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
          * Wählen Sie für vorhandene Anzeigen die zu verwendenden Anzeigen aus.
 
-         * Erstellen Sie für neue Anzeigen einen Proxy [Erstanbieter-Anzeige](/help/dsp/campaign-management/ads/ad-create.md) oder [Drittanbieteranzeige](/help/dsp/campaign-management/ads/ad-create-third-party.md).
+         * Erstellen Sie für neue Anzeigen einen Proxy [Drittanbieteranzeige](/help/dsp/campaign-management/ads/ad-create-multiple.md).
       >[!NOTE]
       > DSP bedienen die von Ihnen angegebenen Anzeigen nicht. Der Herausgeber stellt die Anzeige bereit.
 

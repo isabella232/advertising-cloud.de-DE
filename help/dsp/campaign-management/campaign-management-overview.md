@@ -1,16 +1,16 @@
 ---
-title: Übersicht über die Kampagnenverwaltung in Advertising Cloud DSP
+title: Überblick über Campaign Management in Advertising Cloud DSP
 description: Erfahren Sie mehr über die Kampagnenverwaltungshierarchie und -komponenten.
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: c94e08d0-0dd5-4cf9-8df2-9eb4c591375c
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: d180b91f7bf5ae72a51e5335638a98c5fc4b4e86
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
-# Übersicht über die Kampagnenverwaltung in Advertising Cloud DSP
+# Überblick über Campaign Management in Advertising Cloud DSP
 
 Advertising Cloud DSP-Kampagnen weisen die folgende Hierarchie auf:
 
@@ -18,9 +18,7 @@ Advertising Cloud DSP-Kampagnen weisen die folgende Hierarchie auf:
    * Paket(e)
       * Platzierung(en)
          * Anzeigen
-            * Kreativ(e)
 
-<!-- Add "Feature: DSP Creatives" once we have other topics on creatives; get Bob to update the feature list. -->
 <!-- Do clients think in terms of insertion orders? If yes, then work in the following info.:
 In Advertising Cloud DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
 -->
@@ -43,18 +41,11 @@ A [placement](/help/dsp/campaign-management/placements/placement-about.md) speic
 
 ## [!UICONTROL Ads]
 
-[Anzeigen](/help/dsp/campaign-management/ads/ad-about.md) Kreativ-Assets und Tracking-URLs einschließen. Sie können entweder Ihre kreativen Assets hochladen und DSP die Werbeanzeigen bereitstellen, die sie kostenlos nutzen, oder Sie können Werbe-Tags von Drittanbietern hochladen.
+[Anzeigen](/help/dsp/campaign-management/ads/ad-about.md) Kreativ-Assets und Tracking-URLs einschließen. Sie können Werbe-Tags von Drittanbietern einzeln oder in großen Mengen hochladen, indem Sie Partner-Tag-Tabellen oder die Bulk-Tag-Vorlage verwenden. Sie können auch manuell native Display-Anzeigen für DSP erstellen.
 
 Sobald Ihre Anzeigen eingerichtet sind, müssen Sie jede Anzeige an eine Platzierung anhängen. Sie können eine einzelne Anzeige an eine oder mehrere Platzierungen anhängen.
 
 Alle aktiven, genehmigten Anzeigen in einer aktiven Platzierung in einer aktiven Kampagne können auf der Grundlage der Platzierungs-Targeting-Parameter ausgeführt werden.
-
-## [!UICONTROL Creatives]
-
-Sie können Audio- und Videodateien hochladen, um sie in Anzeigen für bestimmte Kampagnen zu verwenden.
-<!-- add link to [About Creative Management](/help/dsp/campaign-management/creatives/creative-about.md) when it's available-->
-
-Sie können sofort eine Werbeanzeige mit dem hochgeladenen Kreativelement erstellen, oder Sie können später eine Werbeanzeige aus der Creatives-Ansicht oder aus der Anzeigen-Ansicht erstellen.
 
 >[!MORELIKETHIS]
 >
