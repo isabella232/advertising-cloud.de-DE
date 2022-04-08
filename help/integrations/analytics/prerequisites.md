@@ -3,7 +3,7 @@ title: Voraussetzungen und Schlüsselinformationen für die Implementierung [!DN
 description: Voraussetzungen und Schlüsselinformationen für die Implementierung [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 11a13816ccd2ef0c47efa615c54c0f7ce2f83734
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Stellen Sie dem Advertising Cloud-Implementierungsteam Folgendes zur Verfügung:
 * Die [!DNL Analytics] Report Suite-ID, die für die Berichterstellung über Paid-Media-Aktivitäten und für die Bereitstellung von Site-Aktivitäten zur Optimierung und Berichterstellung in Advertising Cloud verwendet wird
 * Die Organisations-ID des Experience Cloud (Organisations-ID) des Unternehmens.
 
-Sie finden beide IDs auf der [Zusammenfassungsbildschirm des Adobe Experience Cloud Debuggers](https://experienceleague.adobe.com/docs/debugger/using/run-debugger.html).
+Sie finden beide IDs auf der [Registerkarte &quot;Zusammenfassung&quot;des Adobe Experience Cloud Debuggers](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html).
 
 ![Bildschirm &quot;Experience Cloud Debugger Summary&quot;](/help/integrations/assets/a4adc-debugger-summary.png)
 
@@ -111,7 +111,7 @@ Beispiel: `sdid=2F3C18E511F618CC-45F83E994AEE93A0`
 
 Für eine genaue Datenintegration werden alle Advertising Cloud-Aufrufe verwendet, die von einer [!DNL Analytics for Advertising Cloud] -Aktivität, um Inhalte bereitzustellen oder die Zielmetrik aufzuzeichnen, muss über eine entsprechende [!DNL Analytics] Treffer, der dieselbe zusätzliche ID aufweist.
 
-Fehlerbehebung in [!DNL Analytics]müssen Sie sicherstellen, dass die zusätzliche ID für [!DNL Analytics] Treffer. Im [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html), können Sie diese ID auf der Registerkarte Advertising Cloud als `sdid` Parameter.
+Fehlerbehebung in [!DNL Analytics]müssen Sie sicherstellen, dass die zusätzliche ID für [!DNL Analytics] Treffer. Im [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html), können Sie diese ID auf der Registerkarte Advertising Cloud als `sdid` Parameter.
 
 >[!NOTE]
 >
