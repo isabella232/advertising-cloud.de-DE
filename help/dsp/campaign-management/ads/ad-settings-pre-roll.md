@@ -3,7 +3,7 @@ title: Pre-Roll-Anzeigeneinstellungen
 description: Siehe Beschreibungen der verfügbaren Anzeigeneinstellungen für Pre-Roll-Anzeigen.
 feature: DSP Ads
 exl-id: 638d5a3d-3dff-40b6-a3ba-7ab3f08282b9
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '552'
 ht-degree: 0%
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ## [!UICONTROL Insert Ad Tag]
 
-*New ads only*
+*Nur neue Anzeigen*
 
-**[!UICONTROL URL]:** The VAST tag URL.
+**[!UICONTROL URL]:** Die VAST-Tag-URL.
 
 **[!UICONTROL Title]:** Ein Titel für die Datei, der sich im [!UICONTROL Ads] Anzeigen und Berichten.
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 **[!UICONTROL Ad Type]:** (Schreibgeschützt) Der Anzeigentyp, den Sie erstellen. Er entspricht dem Platzierungstyp, an den die Anzeige angehängt werden kann.
 
-**[!UICONTROL Ad Name]:** The ad name. Der Asset-Titel wird standardmäßig verwendet, Sie können jedoch den Namen ändern.
+**[!UICONTROL Ad Name]:** Der Anzeigenname. Der Asset-Titel wird standardmäßig verwendet, Sie können jedoch den Namen ändern.
 
 >[!TIP]
 >
@@ -54,21 +54,21 @@ Dies entspricht dem **[!UICONTROL Height]** -Feld.
 
 **[!UICONTROL Show Controls]:** Wo Sie Videosteuerelemente für die Anzeige einbeziehen: *[!UICONTROL Under]*, *[!UICONTROL Over]*, *[!UICONTROL Bottom]* oder *[!UICONTROL None]* (Standardeinstellung).
 
-**[!UICONTROL Preserve Aspect Ratio]:** Whether to keep the video&#39;s width and height proportions (*[!UICONTROL Yes]*) or to stretch the video to fill available space (*[!UICONTROL No]*).
+**[!UICONTROL Preserve Aspect Ratio]:** Gibt an, ob die Breite und Höhe des Videos (*[!UICONTROL Yes]*) oder um das Video so zu dehnen, dass der verfügbare Platz (*[!UICONTROL No]*).
 
 **[!UICONTROL VAST Tag]:** (Anzeigen, die nur VAST-Tags verwenden; schreibgeschützt) Das VAST-Tag des Drittanbieters, das Sie als Anzeigenquelle eingegeben haben.
 
-**[!UICONTROL Final VAST Tag]:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the ad source with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
+**[!UICONTROL Final VAST Tag]:** (Anzeigen, die nur VAST-Tags verwenden; schreibgeschützt) Das VAST-Tag des Drittanbieters, das Sie als Anzeigenquelle mit dem erforderlichen [Advertising Cloud DSP-Tracking-Makros](/help/dsp/campaign-management/macros.md) gegebenenfalls eingefügt.
 
 **[!UICONTROL Wmode]:** (Nur interaktive Pre-Roll) Der Fenstermodus: *[!UICONTROL window]*, *[!UICONTROL transparent]* oder *[!UICONTROL opaque]*.
 
 **[!UICONTROL Video Format]:** (Nur interaktive Pre-Roll) Das Format des Anzeigen-Players für potenzielle Bestände: *[!UICONTROL VPAID]* oder *[!UICONTROL VPAID & VAST]*. Die Sichtbarkeit wird immer für VPAID gemessen, VPAID und VAST enthalten jedoch Bestände, die keine Sichtbarkeitsmessung zulassen. Beachten Sie diese Unterscheidung, wenn Sichtbarkeitsmetriken für Ihre Kampagne wichtig sind.
 
-**[!UICONTROL Clock Number]**: (Interactive pre-roll only; used only in the United Kingdom; available only to users with permission) A unique identifier used to ensure that the right ad is broadcast. Wenn diese Einstellung nicht anwendbar ist, lassen Sie sie leer.
+**[!UICONTROL Clock Number]**: (Nur interaktive Pre-Roll-Daten; nur im Vereinigten Königreich verwendet werden; nur für Benutzer mit Berechtigung verfügbar) Eine eindeutige ID, mit der sichergestellt wird, dass die richtige Anzeige gesendet wird. Wenn diese Einstellung nicht anwendbar ist, lassen Sie sie leer.
 
 ### [!UICONTROL Pixel]
 
-Alle vorhandenen Ereignis-Tracking-Pixel für die Platzierung werden automatisch angehängt. You can detach existing pixels and create new pixels as needed, based on your tracking needs for the individual ad.
+Alle vorhandenen Ereignis-Tracking-Pixel für die Platzierung werden automatisch angehängt. Sie können vorhandene Pixel trennen und je nach Ihren Tracking-Anforderungen für die einzelne Anzeige neue Pixel erstellen.
 
 Die folgenden Einstellungen gelten für jedes Pixel, das Sie erstellen oder bearbeiten.
 
@@ -87,6 +87,6 @@ Die folgenden Einstellungen gelten für jedes Pixel, das Sie erstellen oder bear
 >* [Über die Anzeigenverwaltung](ad-about.md)
 >* [Einzelne Anzeige erstellen](ad-create.md)
 >* [Platzierungen auflisten, die einer Anzeige zugeordnet sind](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [Anzeigenspezifikationen](/help/dsp/assets/ad-specs.pdf)
->* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
+>* [Anzeigenspezifikationen](ad-specs.md)
+>* [Advertising Cloud DSP Makros](/help/dsp/campaign-management/macros.md)
 

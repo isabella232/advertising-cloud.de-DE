@@ -3,7 +3,7 @@ title: Einstellungen für mobile Anzeigen
 description: Siehe Beschreibungen der verfügbaren Anzeigeneinstellungen für mobile Anzeigen.
 feature: DSP Ads
 exl-id: f67c4ba0-1011-4ad6-bd36-98c312b81b67
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '620'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 *Nur die neuen Anzeigenformate für mobile Videos*
 
-**[!UICONTROL URL]** oder **[!UICONTROL Ad Tag]**: Ein VAST-Anzeigen-Tag oder Anzeigen-Tag eines Drittanbieters, das kreative Assets und Tracking-Pixel enthält
+**[!UICONTROL URL]** or **[!UICONTROL Ad Tag]**: A third-party VAST ad tag or ad tag that contains creative assets and tracking pixels
 
 **[!UICONTROL Ad Title]** oder **[!UICONTROL Title]**: Ein Name für die Anzeige, die in der [!UICONTROL Ads] Anzeigen und Berichten.
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## [!UICONTROL Ad Options]
 
-### [!UICONTROL Basic]: Mobile Display Ads
+### [!UICONTROL Basic]: Display-Anzeigen für Mobilgeräte
 
 **[!UICONTROL Ad Type]:** (Schreibgeschützt) Der Anzeigentyp, den Sie erstellen. Er entspricht dem Platzierungstyp, an den die Anzeige angehängt werden kann.
 
@@ -36,11 +36,11 @@ ht-degree: 0%
 >
 > Verwenden Sie einen Namen, der leicht zu finden ist, wenn Sie die Anzeige an eine Platzierung, in der Anzeigen-Ansicht und in Berichten anhängen. Beschreiben Sie beispielsweise den Einheitentyp und einige wichtige Attribute (z. B. die Holiday-Produktvorschau: 300x250 Gamer&quot;).
 
-**\[Anzeigenquelle\]**: (schreibgeschützt) *[!UICONTROL 3rd party]*.
+**\[Ad Source\]**: (Read-only) *[!UICONTROL 3rd party]*.
 
 **[!UICONTROL Display Code]:** The URL of the third-party creative asset. Alle [timestamp] und [[timestamp]] -Parameter durch tatsächliche Werte ersetzt.
 
-**[!UICONTROL Final Display Code]:** Die URL für das kreative Asset eines Drittanbieters mit den erforderlichen [Advertising Cloud DSP-Tracking-Makros](/help/dsp/campaign-management/macros.md) gegebenenfalls eingefügt.
+**[!UICONTROL Final Display Code]:** The URL for the third-party creative asset, with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
 ### [!UICONTROL Basic]: Videoanzeigen
 
@@ -74,11 +74,11 @@ Dies entspricht dem **[!UICONTROL Height]** -Feld.
 
 **[!UICONTROL Close Button Delay]:** (Some ad types) The number of seconds to delay the appearance of the close button.
 
-**[!UICONTROL VAST Tag]:** (Anzeigen, die nur VAST-Tags verwenden; schreibgeschützt) Das VAST-Tag des Drittanbieters, das Sie als kreatives Asset eingegeben haben.
+**[!UICONTROL VAST Tag]:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the creative asset.
 
-**[!UICONTROL Final VAST Tag]:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the creative asset with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
+**[!UICONTROL Final VAST Tag]:** (Anzeigen, die nur VAST-Tags verwenden; schreibgeschützt) Das VAST-Tag des Drittanbieters, das Sie als kreatives Asset mit den erforderlichen [Advertising Cloud DSP-Tracking-Makros](/help/dsp/campaign-management/macros.md) gegebenenfalls eingefügt.
 
-**[!UICONTROL Wmode]:** (Einige Anzeigentypen) Der Fenstermodus: *[!UICONTROL window]*, *[!UICONTROL transparent]* oder *[!UICONTROL opaque]*.
+**[!UICONTROL Wmode]:** (Some ad types) The window mode: *[!UICONTROL window]*, *[!UICONTROL transparent]*, or *[!UICONTROL opaque]*.
 
 ### [!UICONTROL Pixel]
 
@@ -105,6 +105,6 @@ Veraltet
 >* [Über die Anzeigenverwaltung](ad-about.md)
 >* [Einzelne Anzeige erstellen](ad-create.md)
 >* [Platzierungen auflisten, die einer Anzeige zugeordnet sind](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [Anzeigenspezifikationen](/help/dsp/assets/ad-specs.pdf)
+>* [Anzeigenspezifikationen](ad-specs.md)
 >* [Advertising Cloud DSP Makros](/help/dsp/campaign-management/macros.md)
 

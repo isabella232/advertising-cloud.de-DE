@@ -2,7 +2,7 @@
 title: Publisher-spezifische Anzeigenspezifikationen
 description: Referenzieren Sie die Anzeigenspezifikationen für unterstützte Herausgeber.
 feature: DSP Ads
-source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Publisher-spezifische Anzeigenspezifikationen
 
-Einige Herausgeber verfügen über strengere Anzeigenspezifikationen als Advertising Cloud [Allgemeine Anzeigenspezifikationen](/help/dsp/assets/ad-specs.pdf).  Wenn die Spezifikationen des Herausgebers strenger sind als die von Advertising Cloud, stellen Sie sicher, dass Sie die Spezifikationen des Herausgebers befolgen.
+Einige Herausgeber verfügen über strengere Anzeigenspezifikationen als Advertising Cloud [Allgemeine Anzeigenspezifikationen](/help/dsp/campaign-management/ads/ad-specs.md).  Wenn die Spezifikationen des Herausgebers strenger sind als die von Advertising Cloud, stellen Sie sicher, dass Sie die Spezifikationen des Herausgebers befolgen.
 
 Die folgenden Links führen Sie zu den Anzeigenspezifikationen für einige der Herausgeber mit strengeren Anforderungen.
 
@@ -28,5 +28,5 @@ Die folgenden Links führen Sie zu den Anzeigenspezifikationen für einige der H
 >
 >* [Über die Anzeigenverwaltung](ad-about.md)
 >* [Erstellen mehrerer Drittanbieteranzeigen](ad-create-multiple.md)
->* [Anzeigenspezifikationen](/help/dsp/assets/ad-specs.pdf)
+>* [Anzeigenspezifikationen](/help/dsp/campaign-management/ads/ad-specs.md)
 

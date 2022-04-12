@@ -3,7 +3,7 @@ title: Einstellungen für Connected TV-Anzeigen
 description: Siehe Beschreibungen der verfügbaren Anzeigeneinstellungen für verbundene TV-Anzeigen.
 feature: DSP Ads
 exl-id: 4daae9e4-27eb-4496-9186-f33aebd8daae
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 0%
@@ -83,6 +83,6 @@ Die folgenden Einstellungen gelten für jedes Pixel, das Sie erstellen oder bear
 >* [Über die Anzeigenverwaltung](ad-about.md)
 >* [Einzelne Anzeige erstellen](ad-create.md)
 >* [Platzierungen auflisten, die einer Anzeige zugeordnet sind](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [Anzeigenspezifikationen](/help/dsp/assets/ad-specs.pdf)
+>* [Anzeigenspezifikationen](ad-specs.md)
 >* [Advertising Cloud DSP Makros](/help/dsp/campaign-management/macros.md)
 

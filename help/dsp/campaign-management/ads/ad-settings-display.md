@@ -3,7 +3,7 @@ title: Anzeigeeinstellungen
 description: Siehe Beschreibungen der verfügbaren Anzeigeneinstellungen für Display-Anzeigen.
 feature: DSP Ads
 exl-id: ae88dfab-0b0c-42ab-9135-422b20a4b6cd
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Die folgenden Einstellungen gelten für standardmäßige Display-Anzeigen.
 
 **[!UICONTROL Final Display Code]:** (Nur Werbeanzeigen von Drittanbietern) Die URL für das kreative Asset von Drittanbietern mit den erforderlichen [Advertising Cloud DSP-Tracking-Makros](/help/dsp/campaign-management/macros.md) gegebenenfalls eingefügt.
 
-**[!UICONTROL Ad Size]:** Die Breite und Höhe der Anzeige. Es muss ein [Unterstützte standardmäßige Anzeigeanzeigengröße](/help/dsp/assets/ad-specs.pdf). Sie können die Anzeigengröße manuell eingeben, bevor Sie die Anzeige hochladen, oder eine [!UICONTROL Display Code]. Wenn Sie die Anzeigengröße nicht eingeben, werden die Dimensionen der hochgeladenen Anzeige oder des Anzeigen-Tags automatisch als schreibgeschützt eingegeben. Beachten Sie, dass die Display-Anzeige nicht gespeichert wird, wenn die Abmessungen nicht der Standardanzeige in der Größe entsprechen - z. B. 301x250 anstelle der Anzeigengröße 300x250.
+**[!UICONTROL Ad Size]:** Die Breite und Höhe der Anzeige. Es muss ein [Unterstützte standardmäßige Anzeigeanzeigengröße](ad-specs.md). Sie können die Anzeigengröße manuell eingeben, bevor Sie die Anzeige hochladen, oder eine [!UICONTROL Display Code]. Wenn Sie die Anzeigengröße nicht eingeben, werden die Dimensionen der hochgeladenen Anzeige oder des Anzeigen-Tags automatisch als schreibgeschützt eingegeben. Beachten Sie, dass die Display-Anzeige nicht gespeichert wird, wenn die Abmessungen nicht der Standardanzeige in der Größe entsprechen - z. B. 301x250 anstelle der Anzeigengröße 300x250.
 
 >[!IMPORTANT]
 >
@@ -67,6 +67,6 @@ Die folgenden Einstellungen gelten für jedes Pixel, das Sie erstellen oder bear
 >* [Über die Anzeigenverwaltung](ad-about.md)
 >* [Einzelne Anzeige erstellen](ad-create.md)
 >* [Platzierungen auflisten, die einer Anzeige zugeordnet sind](ad-list-placements.md)
->* [Anzeigenspezifikationen](/help/dsp/assets/ad-specs.pdf)
+>* [Anzeigenspezifikationen](ad-specs.md)
 >* [Advertising Cloud DSP Makros](/help/dsp/campaign-management/macros.md)
 
