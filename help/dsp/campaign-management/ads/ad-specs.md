@@ -1,254 +1,256 @@
 ---
-title: Anzeigenspezifikationen
-description: Verweisen Sie auf allgemeine und Publisher-spezifische Anzeigenspezifikationen.
+title: Ad Specifications
+description: Reference general and publisher-specific ad specifications.
 feature: DSP Ads
-source-git-commit: 212409be98cb6f48d5aaf13e3ba44e37d2c5342b
+source-git-commit: 2110a30cf41a5cc091ec6224a7cbaf9b170ef1db
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '848'
 ht-degree: 0%
 
 ---
 
-# Anzeigenspezifikationen
+# Specifications for Supported Ad Types
 
-## Videoanzeigen (Pre-Roll und CTV)
+## Video Ads (Pre-Roll and CTV)
 
-### Unterstützte Bildschirme
+### Supported Screens
 
-Anzeigen werden standardmäßig auf Desktop-, Mobil- und vernetzten TV-Geräten bereitgestellt. Die Zielgruppenbestimmung für Geräte ist verfügbar, um die Bereitstellung anzupassen.
+Ads are delivered by default on desktop, mobile, and connected TV devices. Device targeting is available to adjust delivery.
 
-### Unterstützte Drittanbieter-Anzeigenserver
+### Supported Third-Party Ad Servers
 
-Sie können Tag-Arbeitsblätter aus [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid]und [!DNL Sizmek]. Eine vollständige Liste der unterstützten Anbieter finden Sie unter[Zertifizierte Ad Serving-Partner](certified-ad-servers.md).&quot;
+[!DNL DCM][!DNL Flashtalking][!DNL Innovid][!DNL Sizmek] [](certified-ad-servers.md)
 
-### Anforderungen für hochauflösende Video-Assets (erforderlich)
+### Requirements for High-Definition Video Assets (Required)
 
-**Video-Tag-Typ:** VPAID 2.0 JavaScript oder VAST (CTV). Alle VPAID-Anzeigeneinheiten müssen der [VPAID 2.0-Spezifikation](https://iabtechlab.com/wp-content/uploads/2016/04/VPAID_2_0_Final_04-10-2012.pdf) wie vom Interactive Advertising Bureau (IAB) definiert.
+**** [](https://iabtechlab.com/wp-content/uploads/2016/04/VPAID_2_0_Final_04-10-2012.pdf)
 
-**Video-Codec:** MP4/H.264
+****
 
-**Auflösung:** 1280x720 für 720p, 1920x1080 für 1080p
+****
 
-**Bitrate:** 1500-2500 kBit/s für 720p, 2500-3500 kBit/s für 1080p
+****
 
-**H.264 Profil/Ebene:** hohes Profil, Stufe 3.1 für 720p; Hohes Profil, Stufe 4.0 für 1080p
+****
 
-**Video-Framerate:** 29.970 fps (allgemein als 30 fps bezeichnet) für NTSC-Länder, 25 fps für PAL-Länder, 23.976 fps (allgemein als 24 fps bezeichnet) für Film-Look-Inhalte
+****
 
-**Videofarbraum:** 4:2:0 YUV-Chroma-Subsampling
+****:2:
 
-**Video Interlacing:** Progressives Scannen, d. h. nicht-interlaced. Keine Bewegung innerhalb des Felds (Mischrahmen) oder Zwischenzeilenanzeige.
+**** No intra-field motion (blending frames) or interlacing.
 
-**Führungskräfte (Split):** Unerlaubt
+****
 
-**Audio-Codec:** AAC-LC oder HE-AACv1
+****
 
-**Audio-Bitrate:** 128-192 kBit/s für AAC-LC, 64-128 kBit/s für HE-AACv1
+****
 
-**Audiokanal:** 2-Kanal-Stereo-Mix
+****
 
-**Audio-Beispielrate:** 44.1 kHz oder 48 kHz, bezogen auf das Ausgangsmaterial
+****
 
-**Audio-Ebenen:** 24 LKFS (+/- 2,0 dB) in den USA gemäß ATSC A/85; 23 LUFS (+/- 1,0) in der EU gemäß EBU R128
+****
 
-#### Zusätzliche Anforderungen an Publisher für vernetzte TV-Anzeigen
+#### Additional Publisher Requirements for Connected TV Ads
 
-* **Hulu:** Siehe Hulu&#39;s [Anzeigenspezifikationen](https://advertising.hulu.com/ad-products/video-commercial/).
+* ****[](https://advertising.hulu.com/ad-products/video-commercial/)
 
-* **Disney:**
+* ****
 
-   * ESPN-Livestreaming:
+   * ESPN Livestreaming:
 
-      **Bit-Rate:** > 14000 Kbit/s
-      **Format:** .mp4
-      **Tag-Typ:** VAST 2.0
-      **Kreative Größe:** 1280x720 oder 1920x1080
+      ****
+      ****
+      ****
+      ****
 
-   * Vollständige Programmierung (FEP): ESPN, ABC, Freeform, Nat Geo und FX
+   * Full-episode programming (FEP): ESPN, ABC, Freeform, Nat Geo, and FX
 
-      * **Bit-Rate:** > 14000 Kbit/s:
+      * ****
 
-         **Format:** .mp4
+         ****
 
-         **Tag-Typ:** VAST 2.0
+         ****
 
-         **Kreative Größe:** 1280x720 oder 1920x1080
+         ****
 
-      * **Bit-Rate:** > 1000 kBit/s (niedrige Auflösung) oder 15000 kBit/s (hohe Auflösung):
+      * ****
 
-         **Format:** .mp4
+         ****
 
-         **Tag-Typ:** VAST 2.0 (VPAID 1.0 nur auf dem Desktop)
+         ****
 
-         **Kreative Größe:** 1280x720 oder 1920x1080
+         ****
 
-## Display-Anzeigen
+## Display Ads
 
-### Unterstützte Bildschirme
+### Supported Screens
 
-Anzeigen werden standardmäßig auf Desktop- und Mobilgeräten bereitgestellt. Die Zielgruppenbestimmung für Geräte ist verfügbar, um die Bereitstellung anzupassen.
+Ads are delivered by default on desktop and mobile devices. Device targeting is available to adjust delivery.
 
-### Unterstützte Dateitypen
+### Supported File Types
 
-**Bild:** GIF, JPG/JPEG, PNG
+****
 
-**HTML5:** Bilddateitypen: GIF, JPG/JPEG, PNG, SVG
+****
 
-### Anforderungen für Bild-Assets (erforderlich)
+### Requirements for Image Assets (Required)
 
-Universelle Anzeige wird unterstützt.
+Universal Display is supported.
 
-**Empfohlene Anzeigengrößen:** 120x60, 160x600, 180x150, 300x50, 300x100, 300x1050, 300x250, 300x60 0, 320x50, 320x480, 480x60, 640x480, 88x31, 728x90, 970x250, 970x90
+****
 
-**Unterstützte Drittanbieter-Anzeigenserver:** Sie können Tag-Arbeitsblätter aus [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid]und [!DNL Sizmek]. Eine vollständige Liste der unterstützten Anbieter finden Sie unter[Zertifizierte Ad Serving-Partner](certified-ad-servers.md).&quot;
+****[!DNL DCM][!DNL Flashtalking][!DNL Innovid][!DNL Sizmek] [](certified-ad-servers.md)
 
-## Audioanzeigen
+## Audio Ads
 
-### Unterstützte Bildschirme
+### Supported Screens
 
-Desktop, Mobilgerät, Tablet, Smart-Lautsprecher und vernetztes TV
+Desktop, Mobile, Tablet, Smart Speakers, and Connected TV
 
-### [Unterstützte Drittanbieter-Anzeigenserver](certified-ad-servers.md)
+### Supported Third-Party Ad Servers
 
-### Anforderungen für Audio-Assets (erforderlich)
+[](certified-ad-servers.md)
 
-**Dateityp:** MP3, OGG, AAC
+### Requirements for Audio Assets (Required)
 
-**Führungskräfte (Tonschiefer):**  Unerlaubt
+****
 
-**Maximale Dateigröße:** 2 MB
+****
 
-**Bitrate:** 128
+****
 
-**Dateilänge:** 0-60 s
+****
 
-#### Zusätzliche Anforderungen an Publisher
+****
+
+#### Additional Publisher Requirements
 
 * **[!DNL Spotify]**
-   * Länge: Bis zu 30 Sekunden
-   * Dateityp: OGG
-   * Maximale Dateigröße: 500 MB
-   * Volumen: RMS normalisiert auf -14; dBFS-Spitzenwert normalisiert auf -0,2 dBFS
+   * Length: Up to 30 seconds
+   * File type: OGG
+   * Maximum file size: 500MB
+   * Volume: RMS normalized to -14; dBFS peak normalized to -0.2 dBFS
 
 * **[!DNL SoundCloud]**
-   * Länge: 6, 15 oder 30 Sekunden
-   * Dateityp: MP3
-   * Maximale Dateigröße: 5 MB
+   * Length: 6, 15, or 30 seconds
+   * File type: MP3
+   * Maximum file size: 5 MB
 
 * **[!DNL Pandora]**
-   * Länge: 15 oder 30 Sekunden
-   * Dateityp: MP4 (in-App), MP3 (Desktop)
-   * Maximale Dateigröße: 2,2 MB
+   * Length: 15 or 30 seconds
+   * File type: MP4 (in-app), MP3 (desktop)
+   * Maximum file size: 2.2 MB
 
 * **[!DNL TuneIn]**
-   * Länge: 10, 15 oder 30 Sekunden
-   * Dateityp: MP3, OGG
-   * Volumen: 44.1 kHz
+   * Length: 10, 15, or 30 seconds
+   * File type: MP3, OGG
+   * Volume: 44.1 kHz
 
 * **[!DNL iHeartRadio]**
-   * Länge: 5, 15, 30 oder 60 Sekunden
-   * Dateityp: MP3
-   * Maximale Dateigröße: 320 kBit/s
-   * Volumen: 44.1 kHz
+   * Length: 5, 15, 30 or 60 seconds
+   * File type: MP3
+   * Maximum file size: 320 kbps
+   * Volume: 44.1 kHz
 
 * **[!DNL TargetSpot]**
-   * Länge: 15, 30 oder 60 Sekunden
-   * Dateityp: MP3
+   * Length: 15, 30 or 60 seconds
+   * File type: MP3
 
-### Anforderungen für begleitende Banneranzeigen (optional)
+### Requirements for Companion Banner Ads (Optional)
 
-**Unterstützte Größen:** 300x250, 500x500, 640x640, 1024x1024
+****
 
-#### Zusätzliche Anforderungen an Publisher
+#### Additional Publisher Requirements
 
 * **[!DNL Spotify]:**
-   * Dateityp: Statische JPG, PNG
-   * Maximale Dateigröße: 200 KB
-   * Dimensionen: 300 x 250
+   * File type: Static JPG, PNG
+   * Maximum file size: 200 KB
+   * Dimensions: 300x250
 
 * **[!DNL SoundCloud]:**
-   * Dateityp: Statische JPG, PNG
-   * Maximale Dateigröße: Unter 400 KB
-   * Dimensionen: 1024 x 1024
+   * File type: Static JPG, PNG
+   * Maximum file size: Under 400 KB
+   * Dimensions: 1024x1024
 
 * **[!DNL Pandora]:**
-   * Dateityp: JPEG, GIF
-   * Maximale Dateigröße: Größe: 100 KB
-   * Dimensionen: 300 x 250 (Mobil oder Desktop) oder 500 x 500 (Desktop)
+   * File type: JPEG, GIF
+   * Maximum file size: Size: 100 KB
+   * Dimensions: 300x250 (mobile or desktop), or 500x500 (desktop)
 
 * **[!DNL TuneIn]:**
-   * Dateityp: JPEG, JPG, PNG, GIF, HTML
-   * Maximale Dateigröße: 2 MB
-   * Dimensionen: 300 x 250
+   * File type: JPEG, JPG, PNG, GIF, HTML
+   * Maximum file size: 2 MB
+   * Dimensions: 300x250
 
 * **[!DNL iHeartRadio]:**
-   * Dateityp: JPEG, JPG, PNG, GIF, SWF, HTML
-   * Maximale Dateigröße: 2,2 MB
-   * Dimensionen: 300 x 250
+   * File type: JPEG, JPG, PNG, GIF, SWF, HTML
+   * Maximum file size: 2.2 MB
+   * Dimensions: 300x250
  
 
-## Native Display-Anzeigen
+## Native Display Ads
 
-Jede Anzeige kann entweder ein Standbild oder ein bewegliches GIF (Kinemagramm) enthalten.
+Each ad can include either a still image or a moving GIF (cinemagraph).
 
-### Unterstützte Bildschirme
+### Supported Screens
 
-Anzeigen werden standardmäßig auf Desktop- und Mobilgeräten bereitgestellt. Die Zielgruppenbestimmung für Geräte ist verfügbar, um die Bereitstellung anzupassen.
+Ads are delivered by default on desktop and mobile devices. Device targeting is available to adjust delivery.
 
-### Erforderliche Assets für alle nativen In-Feed-Formate
+### Required Assets for All Native In-Feed Formats
 
-#### Bild-Asset
+#### Image Asset
 
-**Auflösung:** Mindestens 600 x 600 px; Empfohlenes Minimum von 1200x627px
+****
 
-**Dateityp:** JPEG (Bild- oder Videoanzeigenabbild), GIF (Cinemograph)
+****
 
-**Dateigröße:** Weniger als 1 MB (Bild sollte frei von Text sein.)
+****
 
-#### Advertiser-Logo
+#### Advertiser Logo
 
-**Auflösung:** Mindestens 80 x 80 px; Empfohlenes Minimum von 300x300px
+****
 
-**Dateityp:** JPEG oder PNG.
+****
 
-**Seitenverhältnis:**  1x1 Verhältnis
-
->[!NOTE]
->
->Je nachdem, über welchem Bild es überlagert wird, können Sie zwischen hellen oder dunklen Logoelementen wählen.
-
-#### Text/Kopieren
-
-**Überschrift:** Maximal 200 Zeichen; 25 Zeichen empfohlen
-
-**Beschriftung:** Maximal 200 Zeichen; 100 Zeichen empfohlen
-
-**Sponsored by:** Maximal 200 Zeichen; 30 Zeichen empfohlen
-
-**Aktionsaufruf (nur MoPub):** Maximal 15 Zeichen
+****
 
 >[!NOTE]
 >
->Das endgültige Layout wird vom Publisher zur Laufzeit definiert. Wenn eine Anzeige die empfohlene Zeichenanzahl überschreitet, dürfen einige Inventaranbieter die Anzeige möglicherweise nicht bereitstellen, oder der Herausgeber oder SSP kann den Text abschneiden.
+>Depending on the image over which it will overlayed, choose between light or dark logo assets.
 
-#### Landingpage-URL
+#### Text/Copy
 
-Die Clickthrough-URL mit optionalen Klicktrackern.
+****
 
-Anforderungen an Klick-Tracker:
+****
 
-* Impression-Tracking-Pixel von Drittanbietern: Nur 1x1-Bild-URL-Format
+****
 
-* JavaScript-Tracking zur Sichtbarkeit: Nur für IAS unterstützt; Nur 1x1-Bilder im JS.append-Format
+****
 
-* Clicktracking-Pixel von Drittanbietern: Muss zu der in die URL eingebetteten Landingpage weiterleiten (HTTP 302-Umleitung)
+>[!NOTE]
+>
+>The final layout is defined by the publisher at runtime. If an ad exceeds the recommended character count, some inventory providers may not to deliver the ad, or the publisher or SSP may truncate the text.
 
-* Klick-Tracker mit Data Management Platform (DMP) mit 200 oder mehr Antworten werden nicht unterstützt.
+#### Landing Page URL
+
+The clickthrough URL with optional click trackers.
+
+Requirements for click trackers:
+
+* Third-party impression-tracking pixels: 1x1 image URL format only
+
+* Viewability JavaScript trackers: Supported for IAS only; 1x1 images in JS.append format only
+
+* Third-party click-tracking pixels: Must redirect to the landing page embedded in the URL (HTTP 302 redirect)
+
+* Data management platform (DMP) click trackers with 200 or more responses aren&#39;t supported.
 
 >[!MORELIKETHIS]
 >
->* [Über die Anzeigenverwaltung](ad-about.md)
->* [Einzelne Anzeige erstellen](ad-create.md)
->* [Erstellen mehrerer Drittanbieteranzeigen](ad-create-multiple.md)
->* [Eine Anzeige bearbeiten](ad-edit.md)
+>* [](ad-about.md)
+>* [](ad-create.md)
+>* [](ad-create-multiple.md)
+>* [](ad-edit.md)
 
