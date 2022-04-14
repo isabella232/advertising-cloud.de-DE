@@ -3,9 +3,9 @@ title: Über In-Platform-Berichte
 description: Erfahren Sie mehr über die Berichtsdaten in den Kampagnenverwaltungsansichten.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 1ca7639fac40eb8d3fbc3b4f7e0f45b29368f49b
+source-git-commit: 0adbb7876e38a8fc7b8c42e9897492bb6255e2c3
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '928'
 ht-degree: 0%
 
 ---
@@ -87,7 +87,7 @@ Sie können die Daten im [!UICONTROL Sites], [!UICONTROL Ads]oder [!UICONTROL Fr
 
 ### Sonstige Berichtstypen auf Kampagnenebene
 
-Für andere Datenaufschlüsselungen anzeigen [Legacy-Berichtsseiten auf Kampagnenebene](/help/dsp/campaign-management/campaigns/campaign-view-report.md) von [!UICONTROL Campaigns Classic]. Der alte Bericht enthält Abschnitte zu [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]und [!UICONTROL Audience Performance] Daten.
+Für andere Datenaufschlüsselungen anzeigen [Legacy-Berichtsseiten auf Kampagnenebene](/help/dsp/campaign-management/campaigns/campaign-view-report.md). Der alte Bericht enthält Abschnitte zu [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]und [!UICONTROL Audience Performance] Daten.
 
 >[!MORELIKETHIS]
 >
@@ -96,6 +96,6 @@ Für andere Datenaufschlüsselungen anzeigen [Legacy-Berichtsseiten auf Kampagne
 >* [Benutzerdefinierte Spaltenansicht erstellen](column-view-create.md)
 >* [Spaltenansicht ändern](column-view-change.md)
 >* [Datenvisualisierungen verwalten](campaign-data-visualization-manage.md)
->* [Daten aus einer Kampagnenverwaltungsansicht exportieren](campaign-export-data.md)
+>* [Daten aus einer Campaign Management-Ansicht exportieren](campaign-export-data.md)
 >* [Detaillierte Berichte für eine Kampagne anzeigen](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
 

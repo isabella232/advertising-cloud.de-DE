@@ -3,16 +3,16 @@ title: Datenvisualisierungen verwalten
 description: Erfahren Sie, wie Sie die Metriken und den Anzeigemodus für Datenvisualisierungen ändern.
 feature: DSP Campaign Data Views
 exl-id: f557ddfc-9a20-4cbc-8ad3-230ba5df32e3
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: ba1217c5097a3a17fba49761185940b252bb7e32
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
 # Datenvisualisierungen verwalten
 
-Sie können die Metriken und den Diagrammmodus für alle Datenvisualisierungen einer einzelnen Kampagne ändern. Die Änderungen werden auf alle Datenvisualisierungen der Kampagne angewendet, einschließlich der Registerkarten [!UICONTROL Packages], [!UICONTROL Placements] und [!UICONTROL Ads].
+Sie können die Metriken und den Diagrammmodus für alle Datenvisualisierungen in Kampagnen oder für eine einzelne Kampagne ändern. Änderungen an einer einzelnen Kampagne werden für alle Datenvisualisierungen der Kampagne angewendet, einschließlich der Variablen [!UICONTROL Packages], [!UICONTROL Placements]und [!UICONTROL Ads] Registerkarten.
 
 ## Metriken für eine Datenvisualisierung ändern
 
@@ -23,7 +23,7 @@ Dieselbe Metrik kann nicht zweimal ausgewählt werden.
 
 ## Anzeigemodus für eine Datenvisualisierung ändern
 
-* Klicken Sie oben rechts in der Datenvisualisierung auf den Schalter [!UICONTROL Overlay] (![Überlagerungsschalter](/help/dsp/assets/overlay.png)), um zwischen dem Überlagerungsmodus (alle Diagramme überlagert) und dem Trellis-Diagrammmodus (drei separate Diagramme) zu wechseln.
+* Klicken Sie oben rechts in der Datenvisualisierung auf das [!UICONTROL Overlay] switch (![Überlagerungsschalter](/help/dsp/assets/overlay.png)), um zwischen dem Überlagerungsmodus (alle Diagramme werden zusammen überlagert) und dem Trellis-Diagrammmodus (drei separate Diagramme) zu wechseln.
 
 >[!MORELIKETHIS]
 >
