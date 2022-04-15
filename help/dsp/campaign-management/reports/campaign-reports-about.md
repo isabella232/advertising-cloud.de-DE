@@ -3,9 +3,9 @@ title: Über In-Platform-Berichte
 description: Erfahren Sie mehr über die Berichtsdaten in den Kampagnenverwaltungsansichten.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 0adbb7876e38a8fc7b8c42e9897492bb6255e2c3
+source-git-commit: 1292f39cb2d7d690a46d4e943ed09d98c349ce41
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,21 @@ ht-degree: 0%
 <!-- rename "About Performance Reports in Campaign Management Views?" -->
 Die Ansichten der Kampagnenverwaltung beinhalten umfassende Berichtdaten. Die verfügbaren Berichte helfen Ihnen dabei, die Pakete und Platzierungen zu identifizieren, die eine gute Leistung erbringen, und jene, die Ihre Aufmerksamkeit benötigen. Schnellaktion-Schaltflächen machen Sie auch produktiver.
 
-## Liste aller Kampagnen
+## Ansicht aller Kampagnen
 
-Die [!UICONTROL Campaigns] -Ansicht eine Liste aller Kampagnen in Ihrem Konto. Die [!UICONTROL Subtotals] -Zeile zeigt entweder die Summe oder den Durchschnittswert jeder Metrik über alle sichtbaren Zeilen hinweg.
+Die [!UICONTROL Campaigns] -Ansicht eine Liste aller Kampagnen in Ihrem Konto. &lt;!— Die [!UICONTROL Subtotals] -Zeile zeigt entweder die Summe oder den Durchschnittswert jeder Metrik über alle sichtbaren Zeilen hinweg. — Gibt es noch eine Zeile mit Zwischensummen? Ich sehe keinen. —>
+
+### Diagrammansicht {#chart-view}
+
+Sie können [Trend-Diagramme für Zeitreihen anpassen](campaign-data-visualization-manage.md) über alle Kampagnen mit drei Metriken hinweg. Standardmäßig werden Daten für [!UICONTROL Net Spend], [!UICONTROL Impressions]und [!UICONTROL Net CPM] sind in separaten Diagrammen (Trellis-Diagrammen) enthalten. Sie können die Metriken optional ändern. Um stündliche Daten in Trend-Diagrammen für Zeitreihen zu aktivieren, ändern Sie Ihre Datumsauswahl auf einen einzelnen Tag ([!UICONTROL Today], [!UICONTROL Yesterday]oder einen bestimmten Tag).
+
+![Trends für drei Metriken trennen](/help/dsp/assets/trend-chart-separate.png)
+
+Sie können die drei Metriken optional auch überlagern, um Anomalien und Bereiche zu erkennen, in denen Skalierung oder Leistung verbessert werden können.
+
+![Trenddiagramm mit Überlagerung](/help/dsp/assets/trend-chart.png)
+
+### Tabellenansicht
 
 ![Kampagnenliste](/help/dsp/assets/campaigns-list.png)
 
@@ -33,17 +45,15 @@ Innerhalb einer Kampagne können Daten nach Kampagnenentität gefiltert werden: 
 
 ![Tabs zur Kampagnenentität](/help/dsp/assets/campaign-subtabs.png)
 
+### Diagrammansicht
+
+Für jede Kampagne können Sie [Trend-Diagramme für Zeitreihen anpassen](campaign-data-visualization-manage.md) mit drei Metriken, die in jeder Entitätsansicht verfügbar sind. Dieselben Metriken bleiben für alle Trenddiagramme der Kampagne erhalten.
+
+Siehe [Abschnitt &quot;Diagrammansicht&quot;zu kampagnenübergreifenden Metriken](#chart-view) für weitere Informationen.
+
+### Tabellenansicht
+
 In jeder Entitäts-Registerkarte enthält jede Zeile standardmäßig Pacing- und Versandmetriken. Sie können jedoch [Spaltenansicht ändern](column-view-change.md) oder sogar [Erstellen einer benutzerdefinierten Spaltenansicht](column-view-create.md) auf alle Unterregisterkarten der Kampagne anwenden. Sie können [Datentabellen anpassen](campaign-data-views-about.md) auf zusätzliche Weise. Jede Datentabelle enthält eine [!UICONTROL Subtotals] -Zeile, die entweder die Summe oder den Durchschnittswert jeder Metrik über alle sichtbaren Zeilen hinweg anzeigt.
-
-Sie können für jede Kampagne auch Trend-Diagramme für Zeitreihen mit drei Metriken anpassen, die in jeder Entitätsansicht verfügbar sind. Standardmäßig werden Daten für [!UICONTROL Net Spend], [!UICONTROL Impressions]und [!UICONTROL Net CPM] sind in separaten Diagrammen (Trellis-Diagrammen) enthalten. Sie können die Metriken optional ändern. Um stündliche Daten in Trend-Diagrammen für Zeitreihen zu aktivieren, ändern Sie Ihre Datumsauswahl auf einen einzelnen Tag ([!UICONTROL Today], [!UICONTROL Yesterday]oder einen bestimmten Tag).
-
-![Trends für drei Metriken trennen](/help/dsp/assets/trend-chart-separate.png)
-
-Sie können die drei Metriken optional auch überlagern, um Anomalien und Bereiche zu erkennen, in denen Skalierung oder Leistung verbessert werden können.
-
-![Trenddiagramm mit Überlagerung](/help/dsp/assets/trend-chart.png)
-
-Sie können [Trenddiagramme anpassen](campaign-data-visualization-manage.md) nach Kampagne, und die gleichen Metriken werden in allen Trenddiagrammen für die Kampagne beibehalten.
 
 ### Platzierung [!UICONTROL Inspector] {#placement-inspector}
 
@@ -96,6 +106,6 @@ Für andere Datenaufschlüsselungen anzeigen [Legacy-Berichtsseiten auf Kampagne
 >* [Benutzerdefinierte Spaltenansicht erstellen](column-view-create.md)
 >* [Spaltenansicht ändern](column-view-change.md)
 >* [Datenvisualisierungen verwalten](campaign-data-visualization-manage.md)
->* [Daten aus einer Campaign Management-Ansicht exportieren](campaign-export-data.md)
+>* [Daten aus einer Kampagnenverwaltungsansicht exportieren](campaign-export-data.md)
 >* [Detaillierte Berichte für eine Kampagne anzeigen](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
 
