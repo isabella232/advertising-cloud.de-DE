@@ -3,7 +3,7 @@ user-guide-title: Integrationen mit Adobe Experience Cloud
 user-guide-description: Erfahren Sie mehr über die Integration von Advertising Cloud DSP und Advertising Cloud Search mit anderen Adobe Experience Cloud-Produkten und -Services.
 breadcrumb-title: Integrationen mit Experience Cloud
 index: true
-source-git-commit: e5f96bc9f34e568ff51b0b884114d3ebadf704d9
+source-git-commit: 0ede15cbc8031b20e82b8dd574469860ebd0aee6
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 20%
@@ -23,7 +23,7 @@ ht-degree: 20%
       + [Voraussetzungen und Schlüsselinformationen für die Implementierung [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/prerequisites.md)
       + [JavaScript-Code für [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/javascript.md)
       + [Verwenden der [!DNL Last Event Service] JavaScript-Bibliothek mit Adobe Experience Platform [!DNL Web SDK]](/help/integrations/analytics/web-sdk.md)
-      + [Makros für Anzeigen-Tags]{#macros}
+      + Makros für Anzeigen-Tags {#macros}
          + [Anhängen [!DNL Analytics for Advertising Cloud] Makros zu [!DNL Flashtalking] Anzeigen-Tags](/help/integrations/analytics/macros-flashtalking.md)
    + Datenaustausch {#data}
       + [Advertising Cloud-Metriken in Analysis Workspace](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
