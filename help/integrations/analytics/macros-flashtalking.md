@@ -1,0 +1,59 @@
+---
+title: Anhängen [!DNL Analytics for Advertising Cloud] Makros zu [!DNL Flashtalking] Anzeigen-Tags
+description: Erfahren Sie, warum und wie Sie [!DNL Analytics for Advertising Cloud] Makros für Ihre [!DNL Flashtalking] Anzeigen-Tags
+feature: Integration with Adobe Analytics
+source-git-commit: 915eea83b2dd246f0f512981efca7ac481cf0c6c
+workflow-type: tm+mt
+source-wordcount: '270'
+ht-degree: 0%
+
+---
+
+# Anhängen [!DNL Analytics for Advertising Cloud] Makros zu [!DNL Flashtalking] Anzeigen-Tags
+
+*Werbetreibende, die nur über eine Advertising Cloud-Adobe Analytics-Integration verfügen*
+
+*Gilt nur für Advertising Cloud DSP*
+
+Wenn Sie Anzeigen-Tags aus [!DNL Flashtalking] Fügen Sie für Ihre Advertising Cloud DSP-Anzeigen Analytics für Advertising Cloud-Parameter an Ihre Landingpage-URLs an. Die Parameter ermöglichen es Advertising Cloud, Klickdaten für die Anzeigen an Adobe Analytics zu senden.
+
+Verwenden Sie Makros für [!DNL Flashtalking] Anzeigen und Videoanzeigen für die folgenden Typen [!DNL Analytics for Advertising Cloud] Implementierungen:
+
+* **Werbetreibende mit [!DNL Adobe] [!DNL Analytics for Advertising Cloud] Auf ihren Websites implementierter JavaScript-Code**: Sie sollten einige Clickthrough-Daten in Adobe Analytics aus Anzeigen sehen, die Sie über Advertising Cloud kaufen, ohne zusätzliche Makros. Um Clickthrough-Daten in Browsern zu erfassen, die keine Drittanbieter-Cookies unterstützen und daher nicht über den JavaScript-Code erfasst werden, fügen Sie die Makros in den folgenden Abschnitten zu Ihrer [!DNL Flashtalking] Anzeigen-Tags.
+
+>[!NOTE]
+>
+>Der JavaScript-Code ist eine Lösung für Klick-Tracking, während Cookies weiterhin verfügbar sind. Sobald Advertising Cloud Cookies beendet, ist die Implementierung der folgenden Makros erforderlich.
+
+* **Advertiser, deren Websites die [!DNL Analytics for Advertising Cloud] JavaScript-Code verwenden und stattdessen auf [!DNL Analytics] Serverseitige Weiterleitung nur für Clickthrough-Daten** (ohne Durchsichtsdaten): Die folgenden Makros sind erforderlich, um Klick-Aktivitäten vor Ort über Anzeigen zu melden, die Sie über Advertising Cloud kaufen.
+
+## Anzeigen-Tags
+
+Innerhalb der [!DNL Flashtalking] Fügen Sie das folgende Makro an das Ende der Clickthrough-URL in der `Clicktag` -Feld:
+
+```html
+?[ftqs:[AdobeAMO]]
+```
+
+Beispiel:  `https://www.adobe.com/products/photoshop?[ftqs:[AdobeAMO]]`
+
+![Beispiel für [!DNL Flashtalking] Adtag-Einstellungen](/help/integrations/assets/macro-flashtalking-display-ad.png)
+
+## Videoanzeigen-Tags
+
+Innerhalb der [!DNL Flashtalking] Fügen Sie das folgende Makro an das Ende der Clickthrough-URL in der `Clicktag` -Feld:
+
+```html
+?[%EL:param['AdobeAMO']%]&s_kwcid=[%EL:param['s_kwcid']%]
+```
+
+Beispiel:  `https://www.adobe.com/products/photoshop?[%EL:param['AdobeAMO']%]&s_kwcid=[%EL:param['s_kwcid']%]`
+
+![Beispiel für [!DNL Flashtalking] Adtag-Einstellungen](/help/integrations/assets/macro-flashtalking-video-ad.png)
+
+>[!MORELIKETHIS]
+>
+>* [Übersicht über [!DNL Analytics for Advertising Cloud]](overview.md)
+
+
+<!-- >* [Append [!DNL Analytics for Advertising Cloud] Macros to [!DNL Google Campaign Manager 360] Ad Tags](macros-google-campaign-manager.md) -->
