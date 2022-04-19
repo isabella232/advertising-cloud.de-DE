@@ -1,23 +1,23 @@
 ---
 title: Detaillierte Berichte für eine Platzierung anzeigen
-description: Erfahren Sie, wie Sie einen Bericht auf Platzierungsebene mit Abschnitten zu den Daten [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], [!UICONTROL Audience Performance], [!UICONTROL Notifications] und [!UICONTROL Ads] öffnen.
+description: Erfahren Sie, wie Sie einen Bericht auf Platzierungsebene mit Abschnitten zu öffnen [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], [!UICONTROL Audience Performance], [!UICONTROL Notifications]und [!UICONTROL Ads] Daten.
 feature: DSP Placements, DSP Campaign Data Views
 exl-id: 90cd8030-73a6-4224-9a04-dcee91ce7d78
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 99db7ed5a7455907204d1387f6ddfe0a644db753
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
 # Detaillierte Berichte für eine Platzierung anzeigen
 
-Der alte Bericht auf Platzierungsebene enthält eine Übersicht und Abschnitte zu den Daten [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], [!UICONTROL Audience Performance], [!UICONTROL Notifications] und [!UICONTROL Ads].
+Die <!--legacy --> Der Bericht auf Platzierungsebene enthält eine Übersicht und Abschnitte zu [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], [!UICONTROL Audience Performance], [!UICONTROL Notifications]und [!UICONTROL Ads] Daten.
 
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Campaigns]**.
 1. Klicken Sie auf den Namen der Kampagne.
 1. Klicken Sie im Untermenü auf **[!UICONTROL Placements]**.
-1. Klicken Sie neben dem Platzierungsnamen auf **[!UICONTROL ...]>[!UICONTROL View report]**.
+1. Klicken Sie neben dem Platzierungsnamen auf  **[!UICONTROL ...]>[!UICONTROL View report]**.
 
 >[!MORELIKETHIS]
 >

@@ -3,9 +3,9 @@ title: Über In-Platform-Berichte
 description: Erfahren Sie mehr über die Berichtsdaten in den Kampagnenverwaltungsansichten.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 1292f39cb2d7d690a46d4e943ed09d98c349ce41
+source-git-commit: 2f985d9ae8343ea0005f1aa9c33acd603d514f1d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '958'
 ht-degree: 0%
 
 ---
@@ -97,7 +97,7 @@ Sie können die Daten im [!UICONTROL Sites], [!UICONTROL Ads]oder [!UICONTROL Fr
 
 ### Sonstige Berichtstypen auf Kampagnenebene
 
-Für andere Datenaufschlüsselungen anzeigen [Legacy-Berichtsseiten auf Kampagnenebene](/help/dsp/campaign-management/campaigns/campaign-view-report.md). Der alte Bericht enthält Abschnitte zu [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]und [!UICONTROL Audience Performance] Daten.
+Für andere Datenaufschlüsselungen anzeigen [Berichtsseiten auf Kampagnenebene](/help/dsp/campaign-management/campaigns/campaign-view-report.md). Die <!--legacy --> Bericht enthält Abschnitte zu [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]und [!UICONTROL Audience Performance] Daten.
 
 >[!MORELIKETHIS]
 >
