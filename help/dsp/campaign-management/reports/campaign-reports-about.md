@@ -3,9 +3,9 @@ title: Über In-Platform-Berichte
 description: Erfahren Sie mehr über die Berichtsdaten in den Kampagnenverwaltungsansichten.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 2f985d9ae8343ea0005f1aa9c33acd603d514f1d
+source-git-commit: 7d081583ff10675b515aafdd97ccb3053f19c32d
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Die Ansichten der Kampagnenverwaltung beinhalten umfassende Berichtdaten. Die ve
 
 ## Ansicht aller Kampagnen
 
-Die [!UICONTROL Campaigns] -Ansicht eine Liste aller Kampagnen in Ihrem Konto. &lt;!— Die [!UICONTROL Subtotals] -Zeile zeigt entweder die Summe oder den Durchschnittswert jeder Metrik über alle sichtbaren Zeilen hinweg. — Gibt es noch eine Zeile mit Zwischensummen? Ich sehe keinen. —>
+Die [!UICONTROL Campaigns] -Ansicht öffnet sich eine Reihe von Leistungsdatendiagrammen und eine Liste aller Kampagnen in Ihrem Konto.
 
 ### Diagrammansicht {#chart-view}
 
@@ -106,6 +106,6 @@ Für andere Datenaufschlüsselungen anzeigen [Berichtsseiten auf Kampagnenebene]
 >* [Benutzerdefinierte Spaltenansicht erstellen](column-view-create.md)
 >* [Spaltenansicht ändern](column-view-change.md)
 >* [Datenvisualisierungen verwalten](campaign-data-visualization-manage.md)
->* [Daten aus einer Kampagnenverwaltungsansicht exportieren](campaign-export-data.md)
+>* [Daten aus einer Campaign Management-Ansicht exportieren](campaign-export-data.md)
 >* [Detaillierte Berichte für eine Kampagne anzeigen](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
 
