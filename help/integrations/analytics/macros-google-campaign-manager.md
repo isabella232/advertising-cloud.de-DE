@@ -2,9 +2,9 @@
 title: Anhängen [!DNL Analytics for Advertising Cloud] Makros zu [!DNL Google Campaign Manager 360] Anzeigen-Tags
 description: Erfahren Sie, warum und wie Sie [!DNL Analytics for Advertising Cloud] Makros für Ihre [!DNL Google Campaign Manager 360] Anzeigen-Tags
 feature: Integration with Adobe Analytics
-source-git-commit: 2ba5656704319584e475f8c6c68943f215196ae2
+source-git-commit: 2dfb609e73902fcd929d96c55fbc79588074c65e
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -52,12 +52,16 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 1. Klicken Sie auf den Namen des Advertisers.
 1. Im [!UICONTROL Landing page URL suffix] Einstellungen, einschließen `%pamo!;` im [!UICONTROL URL suffix] -Feld.
 
+![Einstellungen auf Advertiser-Ebene](/help/integrations/assets/macro-ggl360-advertiser.png)
+
 ### URL-Suffix auf Kampagnenebene konfigurieren
 
 1. Klicken Sie im Hauptmenü auf die Schaltfläche [!UICONTROL Campaigns] Registerkarte.
 1. Klicken Sie auf den Kampagnennamen.
 1. Klicken [!UICONTROL Properties].
 1. Im [!UICONTROL Landing page URL suffix] Einstellungen, einschließen `%pamo!;` im [!UICONTROL URL suffix] -Feld.
+
+![Einstellungen auf Kampagnenebene](/help/integrations/assets/macro-ggl360-campaign.png)
 
 ### Konfigurieren des URL-Suffixes der kreativen Einstiegsseite
 
@@ -66,6 +70,8 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 1. Im [!UICONTROL Views] Menü auswählen [!UICONTROL Creatives].
 1. Klicken Sie auf den Kreativnamen.
 1. Im [!UICONTROL Click tags] Einstellung, einschließen `%pamo!;` im [!UICONTROL Landing page] Spalte für das Klick-Tag.
+
+![Einstellungen auf kreativer Ebene](/help/integrations/assets/macro-ggl360-creative.png)
 
 ## How [!DNL Analytics for Advertising Cloud] Makros werden in DSP erweitert
 
