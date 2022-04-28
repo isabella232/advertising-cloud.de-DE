@@ -1,9 +1,9 @@
 ---
 title: Advertiser-Kontoeinstellungen
 description: Siehe Beschreibungen der verfügbaren Advertiser-Einstellungen.
-source-git-commit: ee5621329aacf54777d28fa1c1f3d50949824cee
+source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
 workflow-type: tm+mt
-source-wordcount: '968'
+source-wordcount: '972'
 ht-degree: 0%
 
 ---
@@ -28,15 +28,15 @@ ht-degree: 0%
 
 ### [!UICONTROL Adobe IMS IDs]
 
-Advertiser mit zusätzlichen Adobe Experience Cloud-Produkten können Daten mithilfe der einzigartigen [!DNL Organization ID] zum Experience Cloud. Sie können bestimmte Produktintegrationen im [!UICONTROL Integrations] Abschnitt.
+Werbetreibende mit zusätzlichen Adobe Experience Cloud-Produkten können Daten mithilfe der eindeutigen ID des Unternehmens zum Experience Cloud über einige Produkte hinweg freigeben. Sie können bestimmte Produktintegrationen im [!UICONTROL Integrations] Abschnitt.
 
-**[!UICONTROL Account IMS org and ID]:** (Advertiser mit zusätzlichen Experience Cloud-Produkten, die über ein Experience Cloud-Konto mit mehreren Advertisern lizenziert sind; optional) Das Experience Cloud des Kontos [!DNL Organization ID].
+**[!UICONTROL Account IMS org and ID]:** (Advertiser mit zusätzlichen Experience Cloud-Produkten, die über ein Experience Cloud-Konto mit mehreren Advertisern lizenziert sind; optional) Die Experience Cloud-ID des Unternehmens.
 
-**[!UICONTROL Advertiser IMS org and ID]:** (Advertiser mit Direktlizenzen für zusätzliche Experience Cloud-Produkte; optional) Das Experience Cloud des Advertisers [!DNL Organization ID].
+**[!UICONTROL Advertiser IMS org and ID]:** (Advertiser mit Direktlizenzen für zusätzliche Experience Cloud-Produkte; optional) Die Experience Cloud-ID des Unternehmens.
 
 ### [!UICONTROL Integrations]
 
-(Optional) Zusätzliche Experience Cloud-Produkte, die mit dem DSP verknüpft sind. Die Produkte müssen demselben Experience Cloud zugeordnet sein [!DNL Organization ID] im [!UICONTROL Adobe IMS IDs] Abschnitt.
+(Optional) Zusätzliche Experience Cloud-Produkte, die mit dem DSP verknüpft sind. Die Produkte müssen derselben Experience Cloud-ID zugeordnet sein, die in der [!UICONTROL Adobe IMS IDs] Abschnitt.
 
 **[!UICONTROL Adobe Media Optimizer]:** (Advertiser mit Advertising Cloud Search oder Benutzer von Advertising Cloud-Konversionspixeln) A [!DNL Search] -Konto, mit dem DSP Attributionsdaten austauschen.
 

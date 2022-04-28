@@ -1,9 +1,9 @@
 ---
 title: FAQs
 description: xxx
-source-git-commit: 5dfc4e8f2e6d2532e40eb4da8748fec0ed096e71
+source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -32,5 +32,5 @@ Unser Prüfer bittet uns, diese Funktion zu deaktivieren. Was passiert, wenn wir
 
 A: Wir haben mit unserem Produkt geprüft und darauf hingewiesen, dass die betreffenden Pixel dazu dienen, die Cookie-Übereinstimmungsraten zwischen Ad Cloud, bestimmten Bestandspartnern/SSP (in Bezug auf DSP) und AAM zu erhöhen.  Wenn sie entfernt werden, kann der Kunde eine verringerte Übereinstimmungsrate zwischen AAC/AAM und den Inventarpartnern sehen, für die die entsprechenden Pixel bestimmt sind, aber er würde nicht erwarten, dass sie wesentlich sind.
 
-Für die Ad Cloud-Suche sehen wir, dass die IMS-Organisation für Mathworks eingerichtet ist, aber unser Produktteam keine Mathworks-Einrichtung zur Aktivierung von Zielgruppen in Ad Cloud sieht. Verwenden Sie Adobe Audience Manager zum Senden von Zielgruppen an die Ad Cloud-Suche? Andernfalls hat das Entfernen dieser Fehler keine Auswirkungen auf den aktuellen Workflow. AAM Kundenunterstützung kann beim Entfernen dieser Pixel helfen, wenn Sie nicht möchten, dass sie ausgelöst werden.
+Bei der Ad Cloud-Suche sehen wir, dass die Experience Cloud-ID des Unternehmens für Mathworks eingerichtet ist, unserem Produktteam jedoch keine Mathworks-Einrichtung zur Aktivierung von Zielgruppen in Ad Cloud angezeigt wird. Verwenden Sie Adobe Audience Manager zum Senden von Zielgruppen an die Ad Cloud-Suche? Andernfalls hat das Entfernen dieser Fehler keine Auswirkungen auf den aktuellen Workflow. AAM Kundenunterstützung kann beim Entfernen dieser Pixel helfen, wenn Sie nicht möchten, dass sie ausgelöst werden.
 

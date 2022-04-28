@@ -3,9 +3,9 @@ title: Geräteübergreifende Lösungen
 description: Erfahren Sie mehr über geräteübergreifende Funktionen.
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1113'
 ht-degree: 0%
 
 ---
@@ -85,7 +85,7 @@ Mit der benutzerbezogenen Attribution können Sie Konversionen zuordnen, die auf
 
 ### Benutzerbasierte Attributionsmessung aktivieren
 
-Wenden Sie sich an Ihren [!DNL Adobe] Account-Team. Für [!DNL Adobe Device Co-op] Konten, müssen Sie Ihre signierten [!DNL Adobe Device Co-op] Vertrag und Experience Cloud [!DNL Organization ID] (zuvor [!DNL IMS org ID]).
+Wenden Sie sich an Ihren [!DNL Adobe] Account-Team. Für [!DNL Adobe Device Co-op] Konten, müssen Sie Ihre signierten [!DNL Adobe Device Co-op] Vertrag und die Experience Cloud-ID der Organisation (zuvor [!DNL IMS org ID]).
 
 So prüfen Sie, ob ein Advertiser-Konto für die Verwendung eines Gerätediagramms für die Attributionsmessung konfiguriert ist:
 
