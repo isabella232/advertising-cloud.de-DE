@@ -1,9 +1,9 @@
 ---
 title: Advertiser-Kontoeinstellungen
 description: Siehe Beschreibungen der verfügbaren Advertiser-Einstellungen.
-source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
+source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
 workflow-type: tm+mt
-source-wordcount: '972'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,13 +30,13 @@ ht-degree: 0%
 
 Werbetreibende mit zusätzlichen Adobe Experience Cloud-Produkten können Daten mithilfe der eindeutigen ID des Unternehmens zum Experience Cloud über einige Produkte hinweg freigeben. Sie können bestimmte Produktintegrationen im [!UICONTROL Integrations] Abschnitt.
 
-**[!UICONTROL Account IMS org and ID]:** (Advertiser mit zusätzlichen Experience Cloud-Produkten, die über ein Experience Cloud-Konto mit mehreren Advertisern lizenziert sind; optional) Die Experience Cloud-ID des Unternehmens.
+**[!UICONTROL Account IMS org and ID]:** (Advertiser mit zusätzlichen Experience Cloud-Produkten, die über ein Experience Cloud-Konto mit mehreren Advertisern lizenziert sind; optional) Die Experience Cloud-Organisations-ID des Advertisers.
 
-**[!UICONTROL Advertiser IMS org and ID]:** (Advertiser mit Direktlizenzen für zusätzliche Experience Cloud-Produkte; optional) Die Experience Cloud-ID des Unternehmens.
+**[!UICONTROL Advertiser IMS org and ID]:** (Advertiser mit Direktlizenzen für zusätzliche Experience Cloud-Produkte; optional) Die Experience Cloud-Organisations-ID des Advertisers.
 
 ### [!UICONTROL Integrations]
 
-(Optional) Zusätzliche Experience Cloud-Produkte, die mit dem DSP verknüpft sind. Die Produkte müssen derselben Experience Cloud-ID zugeordnet sein, die in der [!UICONTROL Adobe IMS IDs] Abschnitt.
+(Optional) Zusätzliche Experience Cloud-Produkte, die mit dem DSP verknüpft sind. Die Produkte müssen derselben Organisations-ID des Experience Cloud zugeordnet sein, die in der Variablen [!UICONTROL Adobe IMS IDs] Abschnitt.
 
 **[!UICONTROL Adobe Media Optimizer]:** (Advertiser mit Advertising Cloud Search oder Benutzer von Advertising Cloud-Konversionspixeln) A [!DNL Search] -Konto, mit dem DSP Attributionsdaten austauschen.
 

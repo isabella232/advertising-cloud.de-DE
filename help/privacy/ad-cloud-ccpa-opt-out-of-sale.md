@@ -3,9 +3,9 @@ title: 'Adobe Advertising Cloud-Unterstützung für den California Consumer Priv
 description: Erfahren Sie mehr über die Unterstützung für die Erfassung von Opt-out-Anfragen von Verbrauchern.
 feature: CCPA
 exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
-source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
+source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1028'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Sie können Verbraucher-Opt-out-Anfragen für den Verkauf über eine der folgend
 
 ### Methode 2: CCPA-Opt-out-of-Sale-Anfragen mithilfe der Adobe Experience Platform Privacy Service-API kommunizieren
 
-*Werbetreibende, denen nur eine Adobe Experience Cloud ID zugewiesen wurde*
+*Werbetreibende, denen nur eine Adobe Experience Cloud-Organisations-ID zugewiesen wurde*
 
 1. Stellen Sie eine JavaScript-Bibliothek bereit, um die Cookies Ihrer Kunden abzurufen. Dieselbe Bibliothek, `AdobePrivacy.js`, wird für alle Adobe Experience Cloud-Lösungen verwendet.
 
@@ -58,20 +58,20 @@ Sie können Verbraucher-Opt-out-Anfragen für den Verkauf über eine der folgend
 
    Sie sollten die Bibliothek auf der Webseite bereitstellen, von der aus Ihre Kunden Opt-out-Kaufanfragen senden können, z. B. das Datenschutzportal Ihres Unternehmens. Die Bibliothek hilft Ihnen beim Abrufen von Adobe-Cookies (Namespace-ID: `gsurferID`), damit Sie diese Identitäten als Teil von Opt-out-Kaufanfragen über die Adobe Experience Platform Privacy Service-API senden können.
 
-1. Identifizieren Sie Ihre Experience Cloud-ID und stellen Sie sicher, dass sie mit Ihren Advertising Cloud-Konten verknüpft ist.
+1. Identifizieren Sie Ihre Experience Cloud-Organisations-ID und stellen Sie sicher, dass sie mit Ihren Advertising Cloud-Konten verknüpft ist.
 
-   Eine Experience Cloud-ID ist eine 24-stellige alphanumerische Zeichenfolge, die an &quot;@AdobeOrg&quot;angehängt wird. Den meisten Experience Cloud-Kunden wurde eine ID zugewiesen. Wenn Ihr Marketing-Team oder der Systemadministrator Ihrer Adobe die ID Ihres Unternehmens nicht kennen oder nicht sicher ist, ob die ID bereitgestellt wurde, wenden Sie sich an die Kundenunterstützung von Adobe unter gdprsupport@adobe.com. Sie benötigen die ID, um Anfragen an die Datenschutz-API mit der `imsOrgID` Namespace.
+   Eine Experience Cloud-Organisations-ID ist eine 24-stellige alphanumerische Zeichenfolge, die an &quot;@AdobeOrg&quot;angehängt wird. Den meisten Experience Cloud-Kunden wurde eine Organisations-ID zugewiesen. Wenn Ihr Marketing-Team oder Ihr Systemadministrator Ihrer Adobe Ihre Organisations-ID nicht kennen oder nicht sicher ist, ob die ID bereitgestellt wurde, wenden Sie sich an die Kundenunterstützung von Adobe unter gdprsupport@adobe.com. Sie benötigen die Organisations-ID, um Anfragen über die `imsOrgID` Namespace.
 
    >[!IMPORTANT]
    >
-   >Wenden Sie sich an den Advertising Cloud-Support-Mitarbeiter Ihres Unternehmens, um zu bestätigen, dass alle Advertising Cloud-Konten Ihres Unternehmens, einschließlich [!DNL DSP] Konten oder Advertiser, [!DNL Search] Konten und [!DNL Creative] oder [!DNL DCO] -Konten - mit Ihrer Experience Cloud-ID verknüpft sind.
+   >Wenden Sie sich an den Advertising Cloud-Support-Mitarbeiter Ihres Unternehmens, um zu bestätigen, dass alle Advertising Cloud-Konten Ihres Unternehmens, einschließlich [!DNL DSP] Konten oder Advertiser, [!DNL Search] Konten und [!DNL Creative] oder [!DNL DCO] -Konten - sind mit Ihrer Experience Cloud-Organisations-ID verknüpft.
 
 1. Verwenden Sie die Adobe Experience Platform Privacy Service-API, um [Opt-out-of-Sale-Anfragen einreichen](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/consent.html) an Advertising Cloud im Namen der Verbraucher zu senden und den Status der bestehenden Anfragen zu überprüfen.
 
    Im folgenden Anhang finden Sie ein Beispiel für eine Opt-out-Kaufanfrage.
 
    >[!NOTE]
-   Wenn Ihr Unternehmen über mehrere Experience Cloud-IDs verfügt, müssen Sie für jede Datei separate API-Anfragen senden. Sie können jedoch eine API-Anfrage an mehrere Advertising Cloud-Unterlösungen richten ([!DNL Search], [!DNL Creative], [!DNL DSP]und [!DNL DCO]), mit einem Konto pro Unterlösung.
+   Wenn Ihr Unternehmen über mehrere Experience Cloud-Organisations-IDs verfügt, müssen Sie jeweils separate API-Anfragen senden. Sie können jedoch eine API-Anfrage an mehrere Advertising Cloud-Unterlösungen richten ([!DNL Search], [!DNL Creative], [!DNL DSP]und [!DNL DCO]), mit einem Konto pro Unterlösung.
 
 Alle diese Schritte sind erforderlich, um Unterstützung von Advertising Cloud zu erhalten. Weitere Informationen zu diesen und anderen damit zusammenhängenden Aufgaben, die Sie mit der Adobe Experience Platform Privacy Service ausführen müssen, sowie dazu, wo Sie die benötigten Elemente finden können, finden Sie unter [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 
