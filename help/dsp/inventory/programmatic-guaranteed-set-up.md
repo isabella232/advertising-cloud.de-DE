@@ -3,9 +3,9 @@ title: Einrichten eines programmgesteuerten "garantierten Angebots"
 description: Erfahren Sie, wie Sie einen programmgesteuerten garantierten (PG) Deal einrichten, den Sie mit einem Herausgeber ausgehandelt haben.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9e371606-5428-4635-9653-7dc43449e489
-source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
+source-git-commit: 81b1074f86685f863f89a07ecd33e892e4933512
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,19 @@ ht-degree: 0%
 
 *[Nur unterstützte angebotsseitige Plattformen](programmatic-guaranteed-about.md)*
 
-Nachdem Sie mit einem unterstützten Publisher einen programmgesteuerten garantierten (PG) Vertrag ausgehandelt haben, können Sie den Deal in DSP entweder mithilfe von [!DNL Deal ID inbox] oder durch manuelles Eingeben der Details des Deals einrichten.
+Nachdem Sie einen programmgesteuerten garantierten (PG) Vertrag mit einem unterstützten Publisher ausgehandelt haben, können Sie den Deal in DSP einrichten, indem Sie entweder die [!DNL Deal ID inbox] oder durch manuelles Eingeben der Details des Deals.
 
 >[!NOTE]
 >
 > Bei PG-Angeboten verarbeitet der Herausgeber alle Budgetkürzungen, Budgetbegrenzungen und Targeting. Alle SSPs, die PG durch zulassen, DSP bestätigen, dass der Herausgeber eine Budgetbegrenzung einrichten kann.
 >
-> Das Einrichten programmgesteuerter garantierter Angebote für Herausgeber auf [!DNL FreeWheel] erfordert zusätzliche Berechtigungen und Schritte. Weitere Informationen finden Sie unter &quot;[Übersicht über das Einrichten programmgesteuerter garantierter Angebote in [!DNL FreeWheel]](freewheel-overview.md)&quot;.
+> Einrichten programmgesteuerter garantierter Angebote für Herausgeber in [!DNL FreeWheel] erfordert zusätzliche Berechtigungen und Schritte. Siehe[Übersicht über die Einrichtung von programmatischen Garantievereinbarungen in [!DNL FreeWheel]](freewheel-overview.md)&quot;.
 
-## Einrichten eines programmgesteuerten Garantierten Angebots mit dem [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
+## Richten Sie mithilfe des [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
 
-Dies ist die bevorzugte Methode für [!DNL FreeWheel], [!DNL Google Authorized Buyers] und [!DNL Magnite DV+].
+Dies ist die bevorzugte Methode für [!DNL FreeWheel], [!DNL Google Authorized Buyers]und [!DNL Magnite DV+].
 
-1. [Akzeptieren Sie den Deal](deal-id-inbox-accept.md).
+1. [Akzeptieren des Deals](deal-id-inbox-accept.md).
 
 1. Nachdem Sie den Deal gespeichert haben, wählen Sie die Anzeigen aus, die für den Deal verwendet werden sollen, und erstellen Sie eine programmgesteuerte, garantierte (PG) Standardplatzierung, wie Sie dazu aufgefordert werden.
 
@@ -34,23 +34,32 @@ Dies ist die bevorzugte Methode für [!DNL FreeWheel], [!DNL Google Authorized B
 
    * Wenn Sie eine einzelne Transaktion akzeptieren, werden Sie automatisch zum Arbeitsablauf für die Erstellung der Platzierung mit PG-Standard weitergeleitet.
 
-      Alle [!DNL FreeWheel]-Angebote werden als ein einziges Angebot vorgeschlagen.
+      Alle [!DNL FreeWheel] Vereinbarungen werden als eine einzige Vereinbarung vorgeschlagen.
 
    * Wenn Sie einen Vorschlag mit mehreren PG-Deal-IDs akzeptieren, identifizieren Sie jede PG-Standardplatzierung, die Sie erstellen müssen. Nachdem Sie alle erforderlichen Platzierungen erstellt haben, ist die Schaltfläche Weiter aktiviert.
 
-1. (Optional) Richten Sie das Targeting des PG-Geschäfts in zusätzlichen, nicht PG-Platzierungen ein.
+1. (Optional) Richten Sie das Targeting des PG-Angebots in zusätzlichen, PG- oder Nicht-PG-Platzierungen ein, indem Sie auf ![Optionen, Menü](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+
+>[!NOTE]
+>
+>Es ist möglich, mehrere Platzierungen anzuhängen, die verschiedene Typen unterstützen (CTV, Desktop, Audio usw.) dem gleichen Geschäft.
 
 ## Manuelles Einrichten eines programmatischen Garantiedeals
 
 Verwenden Sie diese Methode für alle anderen SSPs.
 
-1. [Richten Sie die Details zur Deal-ID manuell ein](deal-id-create.md).
+1. [Manuelles Einrichten der Details der Deal-ID](deal-id-create.md).
 
 1. Nachdem Sie den Deal gespeichert haben, wählen Sie die Anzeigen aus, die für den Deal verwendet werden sollen, und erstellen Sie nach Aufforderung eine PG-Standardplatzierung.
 
    Die Erstellung einer PG-Standardplatzierung für den Kauf ist obligatorisch, um 100 % Ihres Kaufs bereitzustellen. Dieser Platzierungstyp hat kein Targeting, sodass DSP jedem Angebotsantrag des Herausgebers ein Angebot zurückgeben kann.
 
-1. (Optional) Richten Sie das Targeting des PG-Geschäfts in zusätzlichen, nicht PG-Platzierungen ein.
+1. (Optional) Richten Sie das Targeting des PG-Angebots in zusätzlichen, PG- oder Nicht-PG-Platzierungen ein, indem Sie auf ![Optionen, Menü](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+
+>[!NOTE]
+>
+>Es ist möglich, mehrere Platzierungen anzuhängen, die verschiedene Typen unterstützen (CTV, Desktop, Audio usw.) dem gleichen Geschäft.
+
 
 >[!MORELIKETHIS]
 >
