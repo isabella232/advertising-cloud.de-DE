@@ -3,9 +3,9 @@ title: Einrichten eines programmgesteuerten "garantierten Angebots"
 description: Erfahren Sie, wie Sie einen programmgesteuerten garantierten (PG) Deal einrichten, den Sie mit einem Herausgeber ausgehandelt haben.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9e371606-5428-4635-9653-7dc43449e489
-source-git-commit: 81b1074f86685f863f89a07ecd33e892e4933512
+source-git-commit: 3c9822890e96035fc9e44f8832efcc2889a8cb5f
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -38,11 +38,9 @@ Dies ist die bevorzugte Methode für [!DNL FreeWheel], [!DNL Google Authorized B
 
    * Wenn Sie einen Vorschlag mit mehreren PG-Deal-IDs akzeptieren, identifizieren Sie jede PG-Standardplatzierung, die Sie erstellen müssen. Nachdem Sie alle erforderlichen Platzierungen erstellt haben, ist die Schaltfläche Weiter aktiviert.
 
-1. (Optional) Richten Sie das Targeting des PG-Angebots in zusätzlichen, PG- oder Nicht-PG-Platzierungen ein, indem Sie auf ![Optionen, Menü](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+1. (Optional) Richten Sie das Targeting des PG-Angebots in zusätzlichen PG- oder Nicht-PG-Platzierungen ein, indem Sie auf ![Optionen, Menü](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
 
->[!NOTE]
->
->Es ist möglich, mehrere Platzierungen anzuhängen, die verschiedene Typen unterstützen (CTV, Desktop, Audio usw.) dem gleichen Geschäft.
+   Ein Deal kann mehrere Platzierungen ansprechen, die eine beliebige Kombination von Medientypen unterstützen (z. B. vernetztes Fernsehen, Desktop und Audio).
 
 ## Manuelles Einrichten eines programmatischen Garantiedeals
 
@@ -54,12 +52,9 @@ Verwenden Sie diese Methode für alle anderen SSPs.
 
    Die Erstellung einer PG-Standardplatzierung für den Kauf ist obligatorisch, um 100 % Ihres Kaufs bereitzustellen. Dieser Platzierungstyp hat kein Targeting, sodass DSP jedem Angebotsantrag des Herausgebers ein Angebot zurückgeben kann.
 
-1. (Optional) Richten Sie das Targeting des PG-Angebots in zusätzlichen, PG- oder Nicht-PG-Platzierungen ein, indem Sie auf ![Optionen, Menü](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+1. (Optional) Richten Sie das Targeting des PG-Angebots in zusätzlichen PG- oder Nicht-PG-Platzierungen ein, indem Sie auf ![Optionen, Menü](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
 
->[!NOTE]
->
->Es ist möglich, mehrere Platzierungen anzuhängen, die verschiedene Typen unterstützen (CTV, Desktop, Audio usw.) dem gleichen Geschäft.
-
+   Ein Deal kann mehrere Platzierungen ansprechen, die eine beliebige Kombination von Medientypen unterstützen (z. B. vernetztes Fernsehen, Desktop und Audio).
 
 >[!MORELIKETHIS]
 >
