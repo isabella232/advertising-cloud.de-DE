@@ -3,9 +3,9 @@ title: Anzeigenspezifikationen
 description: Verweisen Sie auf allgemeine und Publisher-spezifische Anzeigenspezifikationen.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: f3d4dcfdaaaa4b9546e92ac6d1087e73e5054a26
+source-git-commit: 3c5a114339c2bf41637027c8580316626656fbba
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '901'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,22 @@ Sie können Tag-Arbeitsblätter aus [!DNL DCM], [!DNL Flashtalking], [!DNL Innov
 #### Zusätzliche Anforderungen an Publisher für vernetzte TV-Anzeigen
 
 * **Hulu:** Siehe Hulu&#39;s [Anzeigenspezifikationen](https://advertising.hulu.com/ad-products/video-commercial/).
+
+* **Paramount:** Siehe Paramount [Anzeigenspezifikationen](https://www.paramount.com/digital-ads).
+
+* **Erkennung:** Siehe Erkennung [Anzeigenspezifikationen](/help/dsp/assets/discovery-networks-ad-specs.pdf).
+
+* **HBO Max.:** Siehe HBO Max&#39;s [Anzeigenspezifikationen](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
+
+* **A+E-Netzwerk:** Siehe A+E-Netzwerke [Anzeigenspezifikationen](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
+
+* **NBCUniversal:**
+
+   * [Digitales Video](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
+
+   * [Livestream](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
+
+   * [Pfau](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
 
 * **Disney:**
 
