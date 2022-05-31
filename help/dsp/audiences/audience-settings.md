@@ -3,7 +3,7 @@ title: Zielgruppeneinstellungen
 description: Siehe Beschreibungen der verfügbaren Zielgruppeneinstellungen.
 feature: DSP Audiences
 exl-id: 959c1e04-cb09-42f0-a261-580ff98b86be
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 505944d534e04da8f903c24e7899e7a80cb836e4
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Adobe-Segmente
 
-(Optional) Alle Adobe Analytics- oder Adobe Audience Manager-Segmente, die in die Zielgruppenkonfiguration einbezogen werden sollen.
+(Optional) Beliebige [!DNL Adobe Real-Time Customer Data Profile], Adobe Analytics- oder Adobe Audience Manager-Segmente, die in die Zielgruppenkonfiguration aufgenommen werden sollen.
 
 ## Benutzerdefinierte Segmente
 
@@ -39,6 +39,6 @@ ht-degree: 0%
 >* [Verfügbare Drittanbieter von Daten](third-party-data-providers.md)
 >* [Syntax für Zielgruppensegmentlogik](audience-segment-logic-syntax.md)
 >* [Erstellen und Implementieren eines benutzerdefinierten Segments](custom-segment-create.md)
->* [Erstellen und Implementieren eines  [!UICONTROL CCPA Opt-Out-of-Sale] Segments](ccpa-opt-out-segment-create.md)
+>* [Erstellen und Implementieren eines [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Platzierungseinstellungen](/help/dsp/campaign-management/placements/placement-settings.md)
 

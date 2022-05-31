@@ -8,9 +8,9 @@ user-guide-title: Handbuch zu Advertising Cloud DSP
 user-guide-description: Erfahren Sie mehr über die wichtigsten Funktionen, Aufgaben, Einstellungen und andere Ressourcen, die für die Verwaltung, Optimierung und Berichterstellung für Ihre Strategien rund um Display-Anzeigen mit Advertising Cloud DSP erforderlich sind.
 breadcrumb-title: Handbuch zu DSP
 index: true
-source-git-commit: 4dd819cd5feb47bce8ad56e5210c6d3c224389cb
+source-git-commit: b56bda435ef8a34b4dd695a45dea28cef2b51c85
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '886'
 ht-degree: 6%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 6%
       + [[!DNL DSP] Richtlinien zur Datennutzung](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
    + [Erweiterte Messlösungen](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
-   + [Übersicht über die Struktur der Kampagnenverwaltung](/help/dsp/campaign-management/campaign-management-overview.md)
+   + [Übersicht über die Campaign Management-Struktur](/help/dsp/campaign-management/campaign-management-overview.md)
    + Kampagnen {#campaigns}
       + [Über Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
       + [Erstellen einer Kampagne](/help/dsp/campaign-management/campaigns/campaign-create.md)
@@ -108,7 +108,7 @@ ht-degree: 6%
       + [Spalten in heruntergeladenen/hochgeladenen Arbeitsblättern](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
    + [Advertising Cloud DSP Makros](/help/dsp/campaign-management/macros.md)
    + [Tastaturbefehle](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
-   + [Häufig gestellte Fragen zur Kampagnenverwaltung](/help/dsp/campaign-management/campaign-management-faq.md)
+   + [Häufig gestellte Fragen zu Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 + Optimierung {#optimization}
    + [How [!DNL DSP] Optimiert Ihre Kampagnen](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
    + [Optimierungsziele und Verwendung](/help/dsp/optimization/optimization-goals.md)
@@ -131,6 +131,11 @@ ht-degree: 6%
       + [Wiederverwendbare Zielgruppe erstellen](/help/dsp/audiences/reusable-audience-create.md)
       + [Zielgruppeneinstellungen](/help/dsp/audiences/audience-settings.md)
       + [Syntax für Zielgruppensegmentlogik](/help/dsp/audiences/audience-segment-logic-syntax.md)
+   + Quellen verwalten {#sources}
+      + [Informationen zum Aktivieren authentifizierter Segmente aus Zielgruppen-Quellen](/help/dsp/audiences/sources/source-about.md)
+      + [Authentifizierte Segmente von dauerhaften ID-Partnern aktivieren](/help/dsp/audiences/sources/source-durable-id.md)
+      + [Erstellen einer Zielgruppenquelle zum Aktivieren von Erstanbieterzielgruppen](/help/dsp/audiences/sources/source-create.md)
+      + [Einstellungen der Zielgruppenquelle](/help/dsp/audiences/sources/source-settings.md)
    + [Verfügbare Drittanbieter von Daten](/help/dsp/audiences/third-party-data-providers.md)
 + Bestand {#inventory}
    + [Übersicht über die Funktionen des Bestands](/help/dsp/inventory/inventory-overview.md)

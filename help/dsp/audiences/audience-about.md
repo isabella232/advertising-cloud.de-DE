@@ -3,9 +3,9 @@ title: Über Zielgruppen-Management in Advertising Cloud DSP
 description: Erfahren Sie mehr über die Funktionen des Zielgruppen-Managements.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 3b44e8e019bfc4bab2ee65ac028313752cb4a0e0
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,11 @@ Für das Platzierungs-Targeting stehen auch zusätzliche Zielgruppentypen zur Ve
 
 ## Importieren von Erstanbieter- und Drittanbieter-Datensegmenten
 
-Advertising Cloud DSP kann Ihre eigenen Erstanbieter-Datensegmente aus Ihrer Datenverwaltungsplattform (DMP) importieren und bei Bedarf für beliebige Advertiser bereitstellen.
+DSP können Ihre eigenen Erstanbieter-Datensegmente aus Ihrer Datenverwaltungsplattform (DMP) importieren und bei Bedarf für beliebige Advertiser bereitstellen.
 
-Advertising Cloud DSP kann auch benutzerdefinierte Drittanbietersegmente importieren, einschließlich komplexer Kombinationen aus Drittanbietersegmenten. Sie können die Segmente nach Bedarf für beliebige Advertiser bereitstellen.
+DSP ist ein integriertes Ziel für [die [!DNL Adobe Real-Time Customer Data Profile (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), sodass Sie authentifizierte Erstanbietersegmente für zugelassene Advertiser und Benutzer freigeben können, um Kampagnen zu aktivieren. Weitere Informationen zur Real-Time CDP-Integration finden Sie unter [Quellen, Abschnitt](/help/dsp/audiences/sources/source-about.md).
+
+DSP können auch benutzerdefinierte Drittanbietersegmente importieren, einschließlich komplexer Kombinationen von Drittanbietersegmenten. Sie können die Segmente nach Bedarf für beliebige Advertiser bereitstellen.
 
 Wenden Sie sich an [!DNL Adobe] Account-Team für weitere Informationen.
 
@@ -40,9 +42,9 @@ Wenden Sie sich an [!DNL Adobe] Account-Team für weitere Informationen.
 
 Sie können Ihre Platzierungen auf alle der folgenden Arten von Zielgruppen ausrichten.
 
-* Alle vom Benutzer erstellten Zielgruppensätze, die in Advertising Cloud DSP gespeichert wurden.
+* Alle vom Benutzer erstellten Zielgruppensätze, die in DSP gespeichert wurden.
 
-* Alle vom Benutzer erstellten Zielgruppensegmente, die in Advertising Cloud DSP erstellt wurden:
+* Alle vom Benutzer erstellten Zielgruppensegmente, die in DSP erstellt wurden:
 
    * Benutzerdefinierte Segmente für Benutzer, die bestimmte Webseiten besucht haben, und Benutzer, die Impressionen bestimmter Anzeigen ausgesetzt sind.
 
@@ -52,21 +54,21 @@ Sie können Ihre Platzierungen auf alle der folgenden Arten von Zielgruppen ausr
 
 * Alle von Ihnen importierten benutzerdefinierten Drittanbieter-Datensegmente.
 
-* (Nur für die USA bestimmte Platzierungen) [Alle Datensegmente von Drittanbietern, die Advertising Cloud DSP-Kunden von über 30 Anbietern zur Verfügung stehen](/help/dsp/audiences/third-party-data-providers.md), einschließlich [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast]und vieles mehr.
+* (Nur für die USA bestimmte Platzierungen) [Alle Datensegmente von Drittanbietern, die DSP Kunden von über 30 Anbietern zur Verfügung stehen](/help/dsp/audiences/third-party-data-providers.md), einschließlich [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast]und vieles mehr.
 
    Sie können bestimmte Segmente als Ziel für Benutzer auswählen, die auf Zielgruppendaten basieren (z. B. Benutzer mit bestimmten demografischen Daten, Interessen oder Intents und/oder Verhaltensprofilen). Sie können nach Datenanbieter und Kategorie suchen, nach Segmenten nach Name oder Segment-ID suchen oder die Ergebnisse nach Datenanbieter, Gesamtgröße des Segments, Anzahl der Webbrowser oder Anzahl der Geräte filtern.
 
    Für Drittanbietersegmente fallen zusätzliche Gebühren an, die neben jedem Segmentnamen angegeben werden.
 
-* (Werbetreibende mit Adobe Experience Cloud, Adobe Audience Manager oder Adobe Analytics, die nur JavaScript-Konversions-Tags von Advertising Cloud verwenden) Alle verfügbaren Erst-, Zweit- oder Drittanbieter-Zielgruppensegmente, die in Adobe Experience Cloud erstellt, in Audience Manager erstellt oder von Audience Manager aus in Adobe Experience Cloud veröffentlicht wurden oder [!DNL Analytics].
+* (Advertiser mit Adobe Experience Platform und [!DNL Real-Time CDP], Adobe Audience Manager oder Adobe Analytics, die nur JavaScript-Konversions-Tags von Advertising Cloud verwenden) Alle verfügbaren Erst-, Zweit- oder Drittanbieter-Zielgruppensegmente, die in [!DNL Real-Time CDP], die in Audience Manager erstellt oder von Audience Manager aus in Adobe Experience Cloud veröffentlicht wurden, oder [!DNL Analytics].
 
-   Die Preise für die Verwendung der Segmente werden vorverhandelt und sind in Advertising Cloud nicht sichtbar.  <!-- Verify -->
+   Die Preise für die Verwendung der Segmente werden vorverhandelt und sind in DSP nicht sichtbar.
 
-   Segmente aus Adobe Experience Cloud sind etwa eine Stunde nach der Erstellung oder Veröffentlichung in Adobe Experience Cloud verfügbar. Segmente, die direkt von Audience Manager kommen, stehen etwa 24 Stunden nach ihrer Erstellung zur Verfügung. <!-- Verify all -->
+   Segmente aus [!DNL Analytics] sind ca. eine Stunde nach der Erstellung oder Veröffentlichung als Experience Cloud-Zielgruppen verfügbar. Segmente, die direkt von Audience Manager oder [!DNL Real-Time CDP] sind innerhalb von 24 Stunden nach der Freigabe verfügbar.
 
    >[!NOTE]
    >
-   >Weitere Informationen finden Sie in der Dokumentation für [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html)und [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) für Informationen zum Einrichten und Erfassen von Daten für Segmente in diesen Lösungen.
+   >Weitere Informationen finden Sie in der Dokumentation für [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html)und [die [!DNL Real-Time CDP]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segment-builder-guide.html) für Informationen zum Einrichten und Erfassen von Daten für Segmente in diesen Lösungen.
 
 ## Zielgruppengrößendaten
 
