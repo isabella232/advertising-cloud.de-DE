@@ -3,9 +3,9 @@ title: Verfügbare Berichtsspalten
 description: Siehe Beschreibungen der verfügbaren Spalten in benutzerdefinierten Berichten.
 feature: DSP Custom Reports
 exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
-source-git-commit: 3daf6a25f883a7eef42dff1c95a98a4f5e65f67e
+source-git-commit: 966b4b4ca42b66880e1b7cf29005eeb256887149
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1659'
 ht-degree: 0%
 
 ---
@@ -100,7 +100,7 @@ ht-degree: 0%
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Total Media CPM] | Die durchschnittlichen Netto-Medienkosten pro 1000 Impressionen, berechnet durch [!UICONTROL Net Spend (Media)] / [!UICONTROL Impressions] x 1000. |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Total Other eCPM] | Die durchschnittlichen Nettokosten pro 1000 Impressionen für andere Gebühren, berechnet durch [!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000. |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL % bid at Max CPM] | Der Prozentsatz der Gesamtgebote, die beim Max. CPM geboten wurden. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Unique Users Bid On] | Die Anzahl unterschiedlicher Benutzer, für die die Platzierung ein Angebot war. |
+| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Unique Users Bid On] | Die Anzahl unterschiedlicher Benutzer, für die DSP Gebot für die Platzierung abgegeben wurde. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Data Net Spend] | Die Nettogesamtkosten der über Advertising Cloud abgerechneten Datengebühren für Zielgruppensegmente. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Media Net Spend] | Die gesamten Nettokosten abrechenbarer Medien, einschließlich der Technologiegebühr, die über Advertising Cloud in Rechnung gestellt werden. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Other Net Spend] | Die Gesamtkosten für andere Servicegebühren (Prüfungspartner von Drittanbietern, Werbebereitstellung usw.), die über Advertising Cloud in Rechnung gestellt werden |
