@@ -8,7 +8,7 @@ user-guide-title: Handbuch zu Advertising Cloud DSP
 user-guide-description: Erfahren Sie mehr über die wichtigsten Funktionen, Aufgaben, Einstellungen und andere Ressourcen, die für die Verwaltung, Optimierung und Berichterstellung für Ihre Strategien rund um Display-Anzeigen mit Advertising Cloud DSP erforderlich sind.
 breadcrumb-title: Handbuch zu DSP
 index: true
-source-git-commit: b56bda435ef8a34b4dd695a45dea28cef2b51c85
+source-git-commit: f4719ee56f340c5969795dfc482e2b409244757b
 workflow-type: tm+mt
 source-wordcount: '886'
 ht-degree: 6%
@@ -165,10 +165,10 @@ ht-degree: 6%
             + [Tipps für die Aushandlung eines programmgesteuerten &quot;garantierten Angebots&quot;](/help/dsp/inventory/programmatic-guaranteed-tips.md)
             + [Einrichten eines programmgesteuerten &quot;garantierten Angebots&quot;](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
             + [!DNL FreeWheel] Gesicherte programmatische Vereinbarungen {#freewheel}
-            + [Übersicht über die Einrichtung von programmatischen Garantievereinbarungen in [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
-            + [Senden Sie eine Anzeige für einen programmgesteuerten garantierten Deal an [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
-            + [Überprüfen des Status von Anzeigen auf [!DNL FreeWheel] Gesicherte programmatische Vereinbarungen](/help/dsp/inventory/freewheel-check-status.md)
-            + [Fehlercodes für FreeWheel-Anzeigenübermittlungen](/help/dsp/inventory/freewheel-error-codes.md)
+               + [Übersicht über die Einrichtung von programmatischen Garantievereinbarungen in [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
+               + [Senden Sie eine Anzeige für einen programmgesteuerten garantierten Deal an [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
+               + [Überprüfen des Status von Anzeigen auf [!DNL FreeWheel] Gesicherte programmatische Vereinbarungen](/help/dsp/inventory/freewheel-check-status.md)
+               + [Fehlercodes für FreeWheel-Anzeigenübermittlungen](/help/dsp/inventory/freewheel-error-codes.md)
          + [Bearbeiten der Deal-ID-Einstellungen](/help/dsp/inventory/deal-id-edit.md)
          + [Festlegen von Platzierungen und Anzeigen für eine Angebots-ID](/help/dsp/inventory/deal-id-attach-placements.md)
          + [Bearbeiten der Konten mit Zugriff auf eine Angebots-ID](/help/dsp/inventory/deal-id-share.md)
