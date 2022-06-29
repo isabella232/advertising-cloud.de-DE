@@ -3,9 +3,9 @@ title: Tipps für die Aushandlung eines programmgesteuerten "garantierten Angebo
 description: Erfahren Sie Tipps für die Aushandlung eines programmgesteuerten garantierten Deals (PG) und Listen der Käufer- und Herausgeberpflichten.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: b754f993-b52f-4527-a246-bf232038c7cd
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---

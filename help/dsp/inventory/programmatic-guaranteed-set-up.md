@@ -3,9 +3,9 @@ title: Einrichten eines programmgesteuerten "garantierten Angebots"
 description: Erfahren Sie, wie Sie einen programmgesteuerten garantierten (PG) Deal einrichten, den Sie mit einem Herausgeber ausgehandelt haben.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9e371606-5428-4635-9653-7dc43449e489
-source-git-commit: 3c9822890e96035fc9e44f8832efcc2889a8cb5f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Nachdem Sie einen programmgesteuerten garantierten (PG) Vertrag mit einem unters
 
 ## Richten Sie mithilfe des [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
 
-Dies ist die bevorzugte Methode für [!DNL FreeWheel], [!DNL Google Authorized Buyers]und [!DNL Magnite DV+].
+Die folgende Methode wird für [!DNL FreeWheel], [!DNL Google Authorized Buyers]und [!DNL Magnite DV+].
 
 1. [Akzeptieren des Deals](deal-id-inbox-accept.md).
 

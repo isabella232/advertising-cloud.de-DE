@@ -3,9 +3,9 @@ title: Bearbeiten der Attribute-Tags für eine Angebots-ID
 description: Erfahren Sie, wie Sie die Attribut-Tags für eine Deal-ID erstellen und bearbeiten.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9a0190e7-26d0-4236-abbb-f1264b5d61e9
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Sie können Tags erstellen und zuweisen, um IDs zu vergeben und ähnliche Angebo
 
    * Um dem Deal ein vorhandenes Tag zuzuweisen, aktivieren Sie das Kontrollkästchen neben dem Deal im [!UICONTROL Custom Tags] Liste.
 
-   * Um ein neues Tag zu erstellen und es mit dem Deal zu verknüpfen, geben Sie den Tag-Namen in das **[!UICONTROL Create new tag(s)]** und klicken Sie auf **[!UICONTROL Create and Associate Tag]**.
+   * Um ein Tag zu erstellen und es mit dem Deal zu verknüpfen, geben Sie den Tag-Namen in das **[!UICONTROL Create new tag(s)]** und klicken Sie auf **[!UICONTROL Create and Associate Tag]**.
 
    * Um ein vorhandenes Tag aus dem Deal zu entfernen, deaktivieren Sie das Kontrollkästchen neben dem Deal im [!UICONTROL Custom Tags] Liste.
 

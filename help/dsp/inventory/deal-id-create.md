@@ -3,9 +3,9 @@ title: Manuelles Erstellen von Details zur Angebots-ID
 description: Erfahren Sie, wie Sie Details für eine Angebots-ID manuell eingeben.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: cd9763a7-99d4-4881-9df9-b4e24c55be0f
-source-git-commit: 593bfc03d2dd182b817be9eac4792dfd690132a2
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 1. Geben Sie die [Deal-Einstellungen](deal-id-settings.md):
 
-   1. Im [!UICONTROL Deal ID basics] Geben Sie die Details des Angebots sowie die Advertiser an, die auf den Deal zugreifen können. Für garantierte Angebote müssen Sie auch die geplanten Flugdaten und die geschätzten Impressionen angeben, und zwar ausschließlich zu Tracking-Zwecken.
+   1. Im [!UICONTROL Deal ID basics] Geben Sie die Details des Angebots sowie die Advertiser an, die auf den Deal zugreifen können. Für garantierte Angebote müssen Sie auch die geplanten Flugdaten und die geschätzte Anzahl der Impressionen angeben, und zwar ausschließlich zu Tracking-Zwecken.
 
    1. (Nur Administrator-Benutzer; optional) Im [!UICONTROL Technical] ändern Sie die Standardeinstellungen nach Bedarf.
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
       1. Wählen Sie den Advertiser, die Kampagne und den Anzeigentyp aus. Wählen Sie optional einen Anzeigenstatus aus, nach dem die Anzeigen gefiltert werden sollen.
 
-      1. Aktivieren Sie in der Liste der verfügbaren Anzeigen das Kontrollkästchen neben jeder Anzeige, die für das Geschäft verwendet werden soll.
+      1. Aktivieren Sie in der Liste der verfügbaren Anzeigen das Kontrollkästchen neben den einzelnen Anzeigen, die für das Geschäft verwendet werden sollen.
 
       1. Klicken **[!UICONTROL Apply]**.
    1. Im Bildschirm für die Platzierungseinstellungen:

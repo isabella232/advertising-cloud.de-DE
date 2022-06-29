@@ -3,9 +3,9 @@ title: Platzierungseinstellungen
 description: Siehe Beschreibungen der verfügbaren Platzierungseinstellungen.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: c2fbaf3381ca4380c18d55931e9f4f662da892af
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '3278'
+source-wordcount: '3277'
 ht-degree: 0%
 
 ---
@@ -440,7 +440,7 @@ Welche Ebene von [Ads.txt](https://iabtechlab.com/ads-txt-about/) Filterung vor 
             Möglicherweise muss die IT-Abteilung des Werbetreibenden oder eine andere Gruppe die Tag-Bereitstellung planen oder darüber informiert werden.
    1. Klicken **[!UICONTROL Save]**.
 
-**[!UICONTROL 3rd-party Fees]:** (Optional) Ein statischer Drittanbieter-Gebührensatz, der als nicht abrechnungsfähige Kosten pro Tausend Impressionen verfolgt wird. Die Standardeinstellung auf Paketebene wird bei neuen Platzierungen automatisch angewendet, sofern kein anderer Wert eingegeben wird.
+**[!UICONTROL 3rd-party Fees]:** (Optional) Ein statischer Drittanbieter-Gebührensatz, der als nicht abrechnungsfähige Kosten pro 1000 Impressionen verfolgt wird. Die Standardeinstellung auf Paketebene wird bei neuen Platzierungen automatisch angewendet, sofern kein anderer Wert eingegeben wird.
 
 >[!NOTE]
 >
@@ -452,5 +452,5 @@ Welche Ebene von [Ads.txt](https://iabtechlab.com/ads-txt-about/) Filterung vor 
 >* [Erstellen einer Platzierung](placement-create.md)
 >* [Eine Platzierung bearbeiten](placement-edit.md)
 >* [Tastaturbefehle](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->* [Häufig gestellte Fragen zur Kampagnenverwaltung](/help/dsp/campaign-management/campaign-management-faq.md)
+>* [Häufig gestellte Fragen zu Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 

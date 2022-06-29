@@ -3,9 +3,9 @@ title: '"Erstellen Sie eine [!UICONTROL Simple Ad Serving] Deal"'
 description: '"Erfahren Sie, wie Sie ein Tracking-Pixel für eine [!UICONTROL Simple Ad Serving] handeln."'
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
+source-git-commit: 089d91f7d1b06e29d27ac95a46834127d19c141d
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
          * Erstellen Sie für neue Anzeigen einen Proxy [Drittanbieteranzeige](/help/dsp/campaign-management/ads/ad-create-multiple.md).
       >[!NOTE]
-      > DSP bedienen die von Ihnen angegebenen Anzeigen nicht. Der Herausgeber stellt die Anzeige bereit.
+      > DSP bedient nicht die von Ihnen angegebenen Anzeigen. Der Herausgeber stellt die Anzeige bereit.
 
       1. Klicken **[!UICONTROL Next]**.
    1. Bearbeiten Sie in den Feed-Details die Feed-Details und klicken Sie auf **[!UICONTROL Next]**.
@@ -63,5 +63,9 @@ ht-degree: 0%
 >
 >* [Info [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 >* [[!UICONTROL Simple Ad Serving] Einstellungen](simple-deal-settings.md)
->* [Anzeigen von Ereignisverfolgungspixel für eine [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+>* [Detaillierte Berichte für ein Angebot anzeigen](/help/dsp/inventory/deal-view-report.md)
 
+
+<!-- add back when reimplemented:
+>* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+-->

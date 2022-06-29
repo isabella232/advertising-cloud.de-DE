@@ -1,10 +1,11 @@
 ---
 title: Übersicht über das Einrichten von PG-Angeboten in [!DNL Freewheel]
-description: 'Erfahren Sie mehr über die Voraussetzungen und zusätzlichen Schritte, die zum Ausführen von Anzeigen für programmgesteuerte garantierte Angebote für Herausgeber erforderlich sind in [!DNL Freewheel]. '
+description: Erfahren Sie mehr über die Voraussetzungen und zusätzlichen Schritte, die zum Ausführen von Anzeigen für programmgesteuerte garantierte Angebote für Herausgeber erforderlich sind in [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: acf8351b-88fb-4f18-8fca-9a2d6674cdec
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ Einrichten programmgesteuerter garantierter Angebote für Herausgeber in [!DNL F
 
    Für einige britische Herausgeber müssen Sie eine [!DNL Clearcast] Uhrennummer mit Ihrer Anzeige.
 
-1. [Akzeptieren der Deal-ID](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) Sie haben bereits mit einem Herausgeber verhandelt am [!DNL Freewheel] über den Posteingang der Angebots-ID.
+1. [Akzeptieren der Deal-ID](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) dass Sie bereits mit einem Herausgeber ausgehandelt haben auf [!DNL Freewheel] über den Posteingang der Angebots-ID.
 
    Nachdem Sie den Deal angenommen haben, befolgen Sie die Anweisungen 1) Auswählen der Anzeige, die für den Deal verwendet werden soll, und 2) Erstellen Sie eine programmgesteuerte garantierte Standardplatzierung, um die Anzeige zu bedienen.
 

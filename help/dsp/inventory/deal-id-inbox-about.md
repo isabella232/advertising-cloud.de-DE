@@ -3,9 +3,9 @@ title: Über die [!UICONTROL Deal ID Inbox]
 description: Erfahren Sie mehr über die [!UICONTROL Deal ID inbox] -Funktion, mit der Sie private Angebote akzeptieren können, über die Sie bereits mit Herausgebern verhandelt haben [!DNL FreeWheel], [!DNL Google Authorized Buyers] (früher bekannt als [!DNL AdX]), and [!DNL Magnite DV+] (früher [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -45,11 +45,11 @@ Teilen Sie dem Herausgeber bei den Vertragsverhandlungen mit, dass er den Deal a
 
 ## Maßnahmen, die Sie bei Ihren Angeboten ergreifen können
 
-* **Überprüfungstermine** , um zu überprüfen, ob die SSP den richtigen Herausgeber, die richtigen Flugdaten, CPM und andere Details zu Geschäften gesendet hat. Wenn der Herausgeber einen Fehler gemacht hat, kontaktieren Sie ihn außerhalb von DSP, damit er den Vorgang korrigieren und erneut versenden kann.
+* **Überprüfungstermine** , um zu überprüfen, ob die SSP den richtigen Herausgeber, die richtigen Flugdaten, CPM und andere Details zu Geschäften gesendet hat. Wenn der Herausgeber einen Fehler gemacht hat, kontaktieren Sie ihn außerhalb von DSP, damit er den Vorgang korrigieren und erneut senden kann.
 
 * **Accept-Angebote** nach der Überprüfung und sie werden nicht mehr im [!UICONTROL Deal ID inbox]. Akzeptierte Angebote sind in [!UICONTROL Inventory] > [!UICONTROL Deals] und sind bereit, innerhalb der Platzierungen von Werbetreibenden Targeting durchzuführen.
 
-* **Ignorieren von Geschäften** die nicht benötigt werden oder unerwünscht sind. Ignorierte Angebote werden in die [!UICONTROL Ignored Deals] innerhalb der [!UICONTROL Deal ID inbox], das als Archiv dient. DSP benachrichtigt keine SSPs und Herausgeber, wenn Sie Angebote ignorieren.
+* **Ignorieren von Geschäften** die nicht benötigt werden oder unerwünscht sind. Ignorierte Angebote werden in die [!UICONTROL Ignored Deals] innerhalb der [!UICONTROL Deal ID inbox], das als Archiv dient. DSP benachrichtigt keine SSPs und Herausgeber, wenn Sie einen Deal ignorieren.
 
 * **Ändern von Details für bereits akzeptierte Angebote** von [!UICONTROL Inventory] > [!UICONTROL Deals] (nicht im [!UICONTROL Deal ID inbox]). Wenn Herausgeber Änderungen an Angeboten senden, sind Advertiser für die Implementierung dieser Änderungen in [!UICONTROL Inventory] > [!UICONTROL Deals] weil die [!UICONTROL Deal ID inbox] synchronisiert keine Änderungen von den SSPs, nachdem Angebote eingerichtet wurden.
 
@@ -69,7 +69,7 @@ Sie können die folgenden Arten von Angeboten nicht akzeptieren:
 
 * Old [!DNL Magnite DV+] Angebote, die als &quot;mehrere Medientypen&quot;bezeichnet wurden.
 
-Die Details des Deals enthalten den Grund, warum das Geschäft nicht akzeptiert werden kann.
+Die Details des Deals enthalten den Grund dafür, dass das Geschäft nicht akzeptiert werden kann.
 
 >[!MORELIKETHIS]
 >

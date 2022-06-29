@@ -3,9 +3,9 @@ title: Erneute Anforderung [!DNL On Demand] Premium-Inventarangebote
 description: Erfahren Sie, wie Sie eine erneute Anforderung durchführen [!DNL On Demand] Angebote, die zuvor abgelehnt wurden.
 feature: DSP On Demand Inventory
 exl-id: db5a5708-16e3-4304-8bd0-f1aa8ecd0e3c
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,9 +36,9 @@ Sobald ein Deal abgeschlossen ist [genehmigt](/help/dsp/inventory/on-demand-inve
 
    1. Klicken Sie im Hauptmenü auf **[!UICONTROL Inventory]>[!UICONTROL On Demand]**.
 
-   1. Filtern Sie die verfügbaren Angebote, um von Ihnen angeforderte Angebote einzuschließen (**[!UICONTROL Currently subscribed to]**)**.
+   1. Filtern Sie die verfügbaren Angebote, um Angebote einzuschließen, die Sie angefordert haben (**[!UICONTROL Currently subscribed to]**)**.
 
-   1. (Optional) Zwischen den [!UICONTROL Subscriptio] Ansicht, die die Logos aller Herausgeber basierend auf Ihren Filtern anzeigt, und [!UICONTROL Deal] Ansicht, die alle Angebote für jeden Herausgeber basierend auf Ihren Filtern auflistet, indem Sie auf **[!UICONTROL Subscription view]** und **[!UICONTROL Deal view]** nach Bedarf.
+   1. (Optional) Zwischen den [!UICONTROL Subscription] Ansicht, die die Logos aller Herausgeber basierend auf Ihren Filtern anzeigt, und [!UICONTROL Deal] Ansicht, die alle Angebote für jeden Herausgeber basierend auf Ihren Filtern auflistet, indem Sie auf **[!UICONTROL Subscription view]** und **[!UICONTROL Deal view]** nach Bedarf.
 
    1. Fordern Sie die einzelnen Angebote erneut an:
    * Aus dem [!UICONTROL Deal] Ansicht, klicken Sie auf **[!UICONTROL Rerequest]** im [!UICONTROL Action] -Spalte für die entsprechende Zeile.

@@ -1,16 +1,16 @@
 ---
-title: Bearbeiten von Advertisern mit Zugriff auf eine Angebots-ID
-description: Erfahren Sie, wie Sie festlegen, welche Advertiser auf eine Deal-ID zugreifen können.
+title: Bearbeiten von Advertisern mit Zugriff auf ein privates Geschäft
+description: Erfahren Sie, wie Sie festlegen, welche Advertiser auf einen privaten Deal zugreifen können.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 6efbc5dc-90d8-46a5-88fe-218990c6336d
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: a29019ee7af0124ad9182f0578811c4d0e666937
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# Bearbeiten von Advertisern mit Zugriff auf eine Angebots-ID
+# Bearbeiten von Advertisern mit Zugriff auf ein privates Geschäft
 
 >[!NOTE]
 >
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Inventory]> [!UICONTROL Deals].**
 
-1. Klicken Sie in der Zeile &quot;Deal&quot;auf  ![Optionen, Menü](/help/dsp/assets/options-menu.png) **>[!UICONTROL manage advertisers]**.
+1. Klicken Sie in der Zeile &quot;Deal&quot;auf  **[!UICONTROL ...]>[!UICONTROL Manage Advertisers]**.
 
-1. Aktivieren Sie das Kontrollkästchen neben jedem Advertiser, der Zugriff auf den Deal haben soll, und deaktivieren Sie das Kontrollkästchen neben jedem Advertiser, der keinen Zugriff haben sollte.
+1. Aktivieren Sie in den Deal-Einstellungen das Kontrollkästchen neben jedem Advertiser, der Zugriff auf den Deal haben soll, und deaktivieren Sie das Kontrollkästchen neben jedem Advertiser, der keinen Zugriff haben sollte.
 
-1. Klicken **[!UICONTROL Update]**.
+1. Klicken **[!UICONTROL Save]** , um die Deal-Einstellungen zu speichern.
 
 >[!MORELIKETHIS]
 >* [Über privates Inventar](private-inventory-about.md)

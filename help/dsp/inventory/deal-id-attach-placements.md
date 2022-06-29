@@ -1,20 +1,20 @@
 ---
-title: Festlegen von Platzierungen und Anzeigen für eine Angebots-ID
+title: Festlegen von Platzierungen und Anzeigen für ein privates Geschäft
 description: Erfahren Sie, wie Sie einen privaten Deal mit zusätzlichen Platzierungen und Anzeigen verwenden.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 669cadcf-021b-4129-95d5-3d24af4a4b88
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: a29019ee7af0124ad9182f0578811c4d0e666937
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Festlegen von Platzierungen und Anzeigen für eine Angebots-ID
+# Festlegen von Platzierungen und Anzeigen für ein privates Geschäft
 
 Bei nicht garantierten Angeboten können Sie den Deal als Inventarziel für neue Platzierungen aus dem [!UICONTROL Placements] anzeigen.
 
-Bei programmgesteuerten garantierten (PG) Angeboten können Sie neue Platzierungen mit bestimmten Anzeigen aus dem [!UICONTROL Deals] anzeigen.
+Bei programmgesteuerten garantierten (PG) Angeboten können Sie Platzierungen mit bestimmten Anzeigen aus der [!UICONTROL Deals] anzeigen.
 
 Sie können auch [neue Anzeigen an bestehende Platzierungen anfügen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) mit PG und nicht garantierten Angeboten zu einem beliebigen Zeitpunkt verknüpft sind.
 
@@ -26,9 +26,9 @@ Sie können auch [neue Anzeigen an bestehende Platzierungen anfügen](/help/dsp/
 
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Inventory]> [!UICONTROL Deals].**
 
-1. Klicken Sie in der Zeile &quot;Deal&quot;auf  ![Optionen, Menü](/help/dsp/assets/options-menu.png) **>[!UICONTROL attach a placement]**.
+1. Klicken Sie in der Zeile &quot;Deal&quot;auf  **[!UICONTROL ...]>[!UICONTROL Attach New Placement]**.
 
-1. Im [!UICONTROL Ad & Campaign Selection] wählen Sie die Anzeigen aus, die für die Platzierung verwendet werden sollen:
+1. Im [!UICONTROL Ad & Campaign Selection] -Einstellungen wählen Sie die Anzeigen aus, die für die Platzierung verwendet werden sollen:
 
        1. Wählen Sie den Advertiser, die Kampagne und den Anzeigentyp aus. Wählen Sie optional einen Anzeigenstatus aus, nach dem die Anzeigen gefiltert werden sollen.
        

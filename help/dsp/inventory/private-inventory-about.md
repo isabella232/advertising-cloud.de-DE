@@ -3,9 +3,9 @@ title: Über privates Inventar
 description: Über privates Inventar
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Werbetreibende, die über RTB hinausgehen, können private Inventare verwenden, 
 
 ### Deal-IDs
 
-Wenn Sie direkte Beziehungen zu Herausgebern haben, können Sie Ihren Einkauf und Ihren Workflow für Medien optimieren, indem Sie Ihre eigenen privaten Geschäfte mit dem ausgehandelten Inventar und den ausgehandelten Preisen in Ihren Advertising Cloud DSP-Platzierungen verwenden. DSP werden bei der Einrichtung eines Kontos mit all Ihren Herausgebern integriert. Wenn Sie später Zugriff auf weitere Herausgeber wünschen, wenden Sie sich an Ihren [!DNL Adobe] Kontoteam , um den Zugriff einzurichten. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
+Wenn Sie direkte Beziehungen zu Herausgebern haben, können Sie Ihren Einkauf und Ihren Workflow für Medien optimieren, indem Sie Ihre eigenen privaten Geschäfte mit dem ausgehandelten Inventar und den ausgehandelten Preisen in Ihren Advertising Cloud DSP-Platzierungen verwenden. DSP kann bei der Einrichtung eines Kontos mit all Ihren Herausgebern integriert werden. Wenn Sie später Zugriff auf weitere Herausgeber wünschen, wenden Sie sich an Ihren [!DNL Adobe] Kontoteam , um den Zugriff einzurichten. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
 
 Alle Ihre privaten Geschäfte mit einer Deal-ID werden finanziert und in Rechnung gestellt durch [!DNL Adobe].
 
@@ -38,7 +38,7 @@ Sie können jedes private Geschäft als Platzierungsziel für mehrere Kampagnen 
 
 [!UICONTROL Simple Ad Serving] bietet nicht festgelegte, garantierte Anzeigenbereitstellung und -berichterstellung für außerhalb von Advertising Cloud DSP bereitgestellte Medien.
 
-Jede Anzeige wird direkt vom Herausgeber bereitgestellt und DSP bietet ein Ereignis-Tracking-Pixel, das an den Herausgeber gesendet wird, der das Pixel implementieren und die Anzeigen mit Traffic versehen muss.
+Jede Anzeige wird direkt vom Herausgeber bereitgestellt und DSP stellt ein Ereignis-Tracking-Pixel bereit, das an den Herausgeber gesendet wird, der das Pixel implementieren und die Anzeigen mit Traffic versehen muss.
 
 Weitere Informationen finden Sie unter &quot;[Info [!UICONTROL Simple Ad Serving]](simple-deal-about.md).&quot;
 

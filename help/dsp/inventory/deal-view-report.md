@@ -1,16 +1,15 @@
 ---
-title: Detaillierte Berichte für private Angebote anzeigen
+title: Detailbericht für einen privaten, [!UICONTROL On Demand]oder [!UICONTROL Simple Ad Serving] Deal
 description: Erfahren Sie, wie Sie einen Bericht auf Deal-Ebene öffnen.
-feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-exl-id: 80ed239f-16c9-4aba-b1d2-2471133c676b
-source-git-commit: 83a4f400959846381b5a339edd2f4901e04b9826
+feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals, DSP On Demand Inventory, DSP Simple Ad Serving
+source-git-commit: 08b58c1d5c46761c7ab3ebf88ca87dddaadaaa47
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Detaillierte Berichte für private Angebote anzeigen
+# Detaillierte Berichte für ein Angebot anzeigen
 
 Der Bericht auf Transaktionsebene umfasst die Anzahl der Auktionen, die Gebotsrate, die Gewinnrate, die Anzahl der Impressionen, die Gesamtnettoausgaben, den effektiven CMP (eCPM) und die Abschlussrate. Sie können zusätzliche Leistungsmetriken nach Advertiser, Kampagne, Platzierung, Anzeigentyp und Site anzeigen.
 
@@ -22,6 +21,7 @@ Der Bericht auf Transaktionsebene umfasst die Anzahl der Auktionen, die Gebotsra
 
 >[!MORELIKETHIS]
 >
+>* [Info [!DNL On Demand] Premium-Lagerbestand](on-demand-inventory-about.md)
 >* [Über privates Inventar](private-inventory-about.md)
->* [Platzierungen und Anzeigen für ein privates Geschäft auflisten](private-deal-view-placements.md)
+>* [Info [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 

@@ -3,9 +3,9 @@ title: Spalten in heruntergeladenen/hochgeladenen Arbeitsblättern
 description: Referenzieren Sie die Spalten in heruntergeladenen und hochgeladenen Excel QA-Tabellen.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 15f1e22dbc742d372dcabf2c029f2f7d72ff1d2f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -31,20 +31,20 @@ ht-degree: 0%
 | [!UICONTROL Basic] | [!UICONTROL Package Name] | Der Name des übergeordneten Pakets, sofern zutreffend. | — |
 | [!UICONTROL Goals] | [!UICONTROL Start Date] | Das Startdatum der Platzierung. | — |
 | [!UICONTROL Goals] | [!UICONTROL End Date] | Das Enddatum der Platzierung. | — |
-| [!UICONTROL Goals] | [!UICONTROL Day parting] | Ob Dayparting *[!UICONTROL ON]* oder *[!UICONTROL OFF]*.<br><b>Note:</b> To check the actual dayparting schedule, open the placement settings in [!DNL DSP]. | — |
+| [!UICONTROL Goals] | [!UICONTROL Day parting] | Ob Dayparting *[!UICONTROL ON]* oder *[!UICONTROL OFF]*.<br><b>Hinweis:</b> Um den tatsächlichen Dayparting-Zeitplan zu überprüfen, öffnen Sie die Platzierungseinstellungen in [!DNL DSP]. | — |
 | [!UICONTROL Goals] | [!UICONTROL Budget] | Das Platzierungsbudget, falls vorhanden. | Ja |
 | [!UICONTROL Goals] | [!UICONTROL Budget Interval] | Das Budgetintervall: &lt;i span=&quot;&quot; id=&quot;0&quot; translate=&quot;no&quot; />*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]* oder *[!UICONTROL All Time]*.[!UICONTROL >Daily] | Ja |
 | [!UICONTROL Goals] | [!UICONTROL Optimization Goal] | Ziel des Pakets. | — |
 | [!UICONTROL Goals] | [!UICONTROL Optimization Target] | Der Zielwert des Ziels. | — |
 | [!UICONTROL Goals] | [!UICONTROL Pace on] | Ob die Platzierung in Richtung *[!UICONTROL Budget]* oder *[!UICONTROL Impressions]*. | — |
-| [!UICONTROL Goals] | [!UICONTROL Max Bid] | Das Höchstangebot für die Platzierung. | Yes |
-| [!UICONTROL Goals] | [!UICONTROL Pacing Fill Strategy] | Die Strategie für die Platzierung mit Geschwindigkeit: *[!UICONTROL evenly]*, *[!UICONTROL frontload]* oder *[!UICONTROL aggressive frontload]*. | Yes |
+| [!UICONTROL Goals] | [!UICONTROL Max Bid] | Das Höchstangebot für die Platzierung. | Ja |
+| [!UICONTROL Goals] | [!UICONTROL Pacing Fill Strategy] | Die Strategie für die Platzierung mit Geschwindigkeit: *[!UICONTROL evenly]*, *[!UICONTROL frontload]* oder *[!UICONTROL aggressive frontload]*. | Ja |
 | [!UICONTROL Goals] | [!UICONTROL  Pre-Bid Filters] | Alle anzuwendenden Filterkriterien vor dem Angebot. | — |
 | [!UICONTROL Goals] | [!UICONTROL Bidding Rules] | Ob Angebotsregeln (nicht mehr unterstützt) *[!UICONTROL ON]* oder *[!UICONTROL OFF]*. | — |
 | [!UICONTROL Goals] | [!UICONTROL Frequency Cap] | Die primäre Frequenzbegrenzung für die Platzierung während der angegebenen [!UICONTROL Frequency Cap Interval]. | Ja |
 | [!UICONTROL Goals] | [!UICONTROL Frequency Cap Interval] | Das Intervall für die primäre Häufigkeitsbegrenzung: *[!UICONTROL Day]*, *[!UICONTROL Week]* oder *[!UICONTROL Month]*. | Ja |
 | [!UICONTROL Goals] | [!UICONTROL Secondary Frequency Cap] | Die sekundäre Frequenzbegrenzung für die Platzierung während der angegebenen [!UICONTROL Secondary Frequency Cap Interval] | Ja |
-| [!UICONTROL Goals] | [!UICONTROL Secondary Frequency Cap Interval] | Die Art des Intervalls für die sekundäre Häufigkeitsbegrenzung: *[!UICONTROL Week]*, *[!UICONTROL Day]*, *[!UICONTROL Hour]* oder *[!UICONTROL Minute]*. Die anwendbare Anzahl von Wochen, Tagen, Stunden oder Minuten wird durch die Variable [!UICONTROL Secondary Frequency Cap Interval Value]. | Yes |
+| [!UICONTROL Goals] | [!UICONTROL Secondary Frequency Cap Interval] | Die Art des Intervalls für die sekundäre Häufigkeitsbegrenzung: *[!UICONTROL Week]*, *[!UICONTROL Day]*, *[!UICONTROL Hour]* oder *[!UICONTROL Minute]*. Die anwendbare Anzahl von Wochen, Tagen, Stunden oder Minuten wird durch die Variable [!UICONTROL Secondary Frequency Cap Interval Value]. | Ja |
 | [!UICONTROL Goals] | [!UICONTROL Secondary Frequency Cap Interval Value] | Die Anzahl der Wochen, Tage, Stunden oder Minuten, für die die Variable [!UICONTROL Secondary Frequency Cap] gilt. Wenn die sekundäre Begrenzung beispielsweise drei Impressionen pro sechs Stunden beträgt, wäre der Wert hier <b>6&lt;/>. | Ja |
 | [!UICONTROL Audience Location] | [!UICONTROL Audience Location - Included #] | Anzahl der geografischen Zielorte, *[!UICONTROL All]* oder *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Location] | [!UICONTROL Audience Location - Included] | Die geografischen Zielorte, getrennt durch Semikolons, oder *[!UICONTROL All Locations]*. | — |
@@ -59,14 +59,14 @@ ht-degree: 0%
 | [!UICONTROL Sites] | [!UICONTROL Traffic Type] | Zieltyp des Traffics: *[!UICONTROL Website]* und/oder *[!UICONTROL Apps]* | — |
 | [!UICONTROL Sites] | [!UICONTROL Exclude out-stream] | Ob die Option &quot;Inventar-Targeting&quot;zum Ausschließen von ausgehendem Traffic lautet &lt;i span=&quot;&quot; id=&quot;0&quot; translate=&quot;no&quot; />* oder *[!UICONTROL OFF]*.[!UICONTROL >ON]<br>Über dem Inhalt angezeigte Werbeanzeigen werden in der Regel als Popup oder als Inhaltsangabe (im nativen Erlebnis) und nicht als normale Videoanzeigen in einem Videoplayer angezeigt. | — |
 | [!UICONTROL Sites] | [!UICONTROL Site Tier] | Die Qualität der Zielstandorte: *[!UICONTROL Tier 1]*, *[!UICONTROL Tier 2]*, *[!UICONTROL Tier 3]* oder *[!UICONTROL All Sites]*. | — |
-| [!UICONTROL Sites] | [!UICONTROL Categories - Included #] | The number of targeted site categories, if any are specified, or *[!UICONTROL All]*. | — |
-| [!UICONTROL Sites] | [!UICONTROL Categories - Excluded #] | The number of excluded site categories, if any are specified, or *[!UICONTROL All]*. | — |
+| [!UICONTROL Sites] | [!UICONTROL Categories - Included #] | die Anzahl der Zielgruppenkategorien, sofern vorhanden, oder *[!UICONTROL All]*. | — |
+| [!UICONTROL Sites] | [!UICONTROL Categories - Excluded #] | die Anzahl der ausgeschlossenen Site-Kategorien, sofern vorhanden, oder *[!UICONTROL All]*. | — |
 | [!UICONTROL Sites] | [!UICONTROL Excluded Sites] | Ausgeschlossene Sites, sofern angegeben, oder *[!UICONTROL None]*. | — |
 | [!UICONTROL Sites] | [!UICONTROL Language] | Die Zielsprachen der Site. | — |
 | [!UICONTROL Sites] | [!UICONTROL Allow unscreened sites] | Gibt an, ob die Anzeigenbereitstellung auf nicht geprüften Sites zulässig ist: *[!UICONTROL ON]* oder *[!UICONTROL OFF]*. | — |
 | [!UICONTROL Sites] | [!UICONTROL Targeted Sites] | die Anzahl der Zielseiten, sofern vorhanden, oder *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Included] | Zielgruppenzielgruppen, sofern vorhanden, oder *[!UICONTROL None]*. | — |
-| [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Excluded] | The excluded audiences, if any are specified, or *[!UICONTROL None]*. | — |
+| [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Excluded] | die ausgeschlossenen Zielgruppen, sofern angegeben, oder *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Demographic booster] | Ob oder nicht [!DNL Comscore] demografische Segmente sind für die Platzierung (und andere Platzierungen in der Kampagne) aktiviert: *[!UICONTROL ON]* oder *[!UICONTROL OFF]*. Diese Funktion kann nur für Kampagnen aktiviert werden, für die die Variable [!DNL Audience Verification] aktiviert ist für [!DNL Nielsen] und/oder [!DNL Comscore].  Es fallen zusätzliche Gebühren an. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Extend across screens] | Ob das Anzeigen-Targeting geräteübergreifend erweitert werden soll: *[!UICONTROL ON]* oder *[!UICONTROL OFF]*.<!-- Whether or not the Cross Device Targeting setting is enabled for the placement : *ON* or *OFF*. Cross-device targeting extends your targeting across all of a person's known device, per the device graph specified in the campaign settings.--> | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Topic Targeting] - Include # | die Anzahl der Zielthema-Codes, sofern vorhanden, oder *[!UICONTROL All]*. | — |
@@ -81,7 +81,7 @@ ht-degree: 0%
 | [!UICONTROL Brand Safety] | [!UICONTROL Site Safety Block] | Gibt an, ob der Site-Sicherheitsblock aktiviert ist: *[!UICONTROL ON]* oder *[!UICONTROL OFF]*.<!-- Whether or not the advertiser-level setting Enable Site Safety Block is enabled: *ON* or *OFF*.I don’t see this option at the placement level. Should there be one? --> | — |
 | [!UICONTROL Tracking] | [!UICONTROL Tracking Pixels #] | Die Anzahl der an die Platzierung angehängten Pixel für Drittanbieter-Ereignisverfolgung oder *[!UICONTROL None]*. | — |
 | [!UICONTROL Tracking] | [!UICONTROL Conversion Pixels #] | Die Anzahl der Konversions-Tracking-Pixel, die an die Platzierung angehängt sind, oder *[!UICONTROL None]*. | — |
-| [!UICONTROL Tracking] | [!UICONTROL 3rd-party fees] | Ein statischer Drittanbieter-Gebührensatz, der als nicht abrechnungsfähige Kosten pro Tausend Impressionen verfolgt werden kann, falls zutreffend. | — |
+| [!UICONTROL Tracking] | [!UICONTROL 3rd-party fees] | Ein statischer Drittanbieter-Gebührensatz, der als nicht abrechnungsfähige Kosten pro 1000 Impressionen verfolgt werden kann, falls zutreffend. | — |
 | [!UICONTROL Ads] | [!UICONTROL # of Ads Attached] | die Anzahl der Anzeigen, die mit der Platzierung verbunden sind (sofern vorhanden), oder *[!UICONTROL None]*. | — |
 | [!UICONTROL Ads] | [!UICONTROL Ad Names] | die Namen der mit der Platzierung verknüpften Anzeigen, sofern vorhanden, oder *[!UICONTROL None]*. | — |
 

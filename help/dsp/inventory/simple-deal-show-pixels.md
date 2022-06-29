@@ -2,9 +2,10 @@
 title: Anzeigen von Ereignispixel für eine [!UICONTROL Simple Ad Serving] Deal
 description: Erfahren Sie, wie Sie eine Kopie der Ereignis-Tracking-Pixel für eine [!UICONTROL Simple Ad Serving] handeln.
 feature: DSP Simple Ad Serving
-source-git-commit: 22f5d8279fadfcf79e2cd41566321f423d63eb16
+exl-id: 88d18ddd-98ba-4e36-890c-d6ddfb7d59e5
+source-git-commit: a29019ee7af0124ad9182f0578811c4d0e666937
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,5 +26,7 @@ Die Ereignispixel enthalten eine [!UICONTROL Clickthrough] Pixel und [!UICONTROL
 >
 >* [Info [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 >* [Erstellen Sie eine [!UICONTROL Simple Ad Serving] Deal](simple-deal-create.md)
+>* [Bearbeiten [!UICONTROL Simple Ad Serving] Deal Settings](simple-deal-edit.md)
 >* [[!UICONTROL Simple Ad Serving] Einstellungen](simple-deal-settings.md)
+>* [Detaillierte Berichte für ein Angebot anzeigen](/help/dsp/inventory/deal-view-report.md)
 

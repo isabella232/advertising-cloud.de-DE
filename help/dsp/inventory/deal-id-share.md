@@ -1,16 +1,16 @@
 ---
-title: Bearbeiten der Konten mit Zugriff auf eine Angebots-ID
-description: Erfahren Sie, wie Sie eine Deal-ID für verschiedene Konten freigeben und aufheben können.
+title: Bearbeiten von Konten mit Zugriff auf ein privates Geschäft
+description: Erfahren Sie, wie Sie ein privates Geschäft mit verschiedenen Konten teilen und aufheben können.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 5ddd406d-1ee5-4d13-8e12-be575cbb7551
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: a29019ee7af0124ad9182f0578811c4d0e666937
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
-# Bearbeiten der Konten mit Zugriff auf eine Angebots-ID
+# Bearbeiten von Konten mit Zugriff auf ein privates Geschäft
 
 Sie können eine Deal-ID für mehrere Konten freigeben. Der Deal wird für alle Advertiser innerhalb der angegebenen Konten freigegeben, sodass alle Benutzer in diesen Konten den Deal bearbeiten oder als Ziel für ihre Platzierungen verwenden können.
 
@@ -24,21 +24,19 @@ Sie können die Freigabe eines Deals für Konten stoppen, um Bearbeitungs- und T
 
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Inventory]>[!UICONTROL Deals]**.
 
-1. Klicken Sie in der Zeile &quot;Deal&quot;auf ![Optionen, Menü](/help/dsp/assets/options-menu.png) **>[!UICONTROL share]**.
+1. Klicken Sie in der Zeile &quot;Deal&quot;auf **[!UICONTROL ...]>[!UICONTROL Share]**.
 
 1. Für jedes Konto, das freigegeben werden soll:
 
-1. Geben Sie die **[!UICONTROL Email Address]** für das Konto, das Zugriff auf das Geschäft hat.
+1. Geben Sie die **[!UICONTROL Email Address]** für das Konto mit Zugriff auf das Geschäft.
 
 1. Klicken **[!UICONTROL Share]**.
-
-1. Klicken **[!UICONTROL Cancel]** , um das Fenster zu schließen.
 
 ## Freigabe einer Angebots-ID für Konten beenden
 
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Inventory]>[!UICONTROL Deals]**.
 
-1. Klicken Sie in der Zeile &quot;Deal&quot;auf ![Optionen, Menü](/help/dsp/assets/options-menu.png) **>[!UICONTROL share]**.
+1. Klicken Sie in der Zeile &quot;Deal&quot;auf **[!UICONTROL ...]>[!UICONTROL Share]**.
 
 1. Neben dem [!UICONTROL Account Email] Wert, klicken Sie **[!UICONTROL Unshare].**
 
