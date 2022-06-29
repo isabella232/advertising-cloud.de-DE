@@ -3,9 +3,9 @@ title: Über privates Inventar
 description: Über privates Inventar
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad4bdfdc637af34b02c42d6547c39301f2a0cf47
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,7 @@ ht-degree: 0%
 
 Werbetreibende, die über RTB hinausgehen, können private Inventare verwenden, um exklusive Medientransaktionen zu ermöglichen. Private Börsen ermöglichen es Herausgebern, exklusive Inventarpools zu erstellen, die zugelassene Advertiser verwenden können, um sie über Echtzeit-Plattformen zu kaufen. Ein privater Austausch bietet das Vertrauen eines direkten Kaufs in Kombination mit programmatischen Vorteilen wie Effizienz, optimiertem Workflow und zentralisierten Kampagnenanalysen.
 
-## Möglichkeiten zum Einrichten privater Angebote
-
-### Deal-IDs
+## Deal-IDs
 
 Wenn Sie direkte Beziehungen zu Herausgebern haben, können Sie Ihren Einkauf und Ihren Workflow für Medien optimieren, indem Sie Ihre eigenen privaten Geschäfte mit dem ausgehandelten Inventar und den ausgehandelten Preisen in Ihren Advertising Cloud DSP-Platzierungen verwenden. DSP kann bei der Einrichtung eines Kontos mit all Ihren Herausgebern integriert werden. Wenn Sie später Zugriff auf weitere Herausgeber wünschen, wenden Sie sich an Ihren [!DNL Adobe] Kontoteam , um den Zugriff einzurichten. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
 
@@ -34,25 +32,14 @@ Sie können Deal-IDs auf eine der folgenden Arten verwenden:
 
 Sie können jedes private Geschäft als Platzierungsziel für mehrere Kampagnen für bestimmte Advertiser verwenden. Für garantierte Angebote müssen Sie nach der Erstellung des Angebots eine Standardplatzierung erstellen. Sie können jedoch dasselbe Angebot zu zusätzlichen Platzierungen hinzufügen, um die Standardplatzierung zu ignorieren.
 
-### [!UICONTROL Simple Ad Serving]
-
-[!UICONTROL Simple Ad Serving] bietet nicht festgelegte, garantierte Anzeigenbereitstellung und -berichterstellung für außerhalb von Advertising Cloud DSP bereitgestellte Medien.
-
-Jede Anzeige wird direkt vom Herausgeber bereitgestellt und DSP stellt ein Ereignis-Tracking-Pixel bereit, das an den Herausgeber gesendet wird, der das Pixel implementieren und die Anzeigen mit Traffic versehen muss.
-
-Weitere Informationen finden Sie unter &quot;[Info [!UICONTROL Simple Ad Serving]](simple-deal-about.md).&quot;
-
 ## Die Ansicht &quot;Angebote&quot;
 
-Im [!UICONTROL Inventory] > [!UICONTROL Deals] -Ansicht können Sie private Deal-Einstellungen erstellen. Sie können auch die Platzierungen und Anzeigen für jedes private Geschäft auflisten, einen Bericht für jedes private Geschäft anzeigen oder jedes private Geschäft archivieren oder die Archivierung aufheben.
-
-Für Deal-IDs können Sie auch die Deal-Einstellungen bearbeiten, Platzierungen und Anzeigen an ein Geschäft anhängen, die Advertiser und Konten bearbeiten, die auf ein Geschäft zugreifen können, und die Attribut-Tags für ein Geschäft bearbeiten.
-
-Bei einfachen Adserving-Angeboten können Sie die Ereignis-Tracking-Pixel für einen Deal anzeigen.
+Im [!UICONTROL Inventory] > [!UICONTROL Deals] -Ansicht können Sie private Deal-Einstellungen erstellen. Sie können auch einige Deal-Einstellungen bearbeiten. Auflisten der Platzierungen und Anzeigen sowie Hinzufügen zusätzlicher Platzierungen und Anzeigen zu einem Geschäft; die Advertiser und Konten zu bearbeiten, die auf ein Geschäft zugreifen können; einen Bericht über ein privates Geschäft zu erstellen; oder archivieren oder dearchivieren Sie einen Deal.<!-- ; or edit the attribute tags for a deal -->
 
 >[!MORELIKETHIS]
 >
 >* [Übersicht über die Funktionen des Bestands](/help/dsp/inventory/inventory-overview.md)
 >* [Über die [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
->* [Info [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
+>* [Akzeptieren eines Angebots im Deal-ID-Posteingang](deal-id-inbox-accept.md)
+>* [Manuelles Erstellen von Details zur Angebots-ID](deal-id-create.md)
 
