@@ -3,9 +3,9 @@ title: Übersicht über die Lagerbestandsfunktionen in Advertising Cloud DSP
 description: Erfahren Sie mehr über die verfügbaren Inventarfunktionen.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: e80eccbf2f87c1ad86a2cb689b44ca67e08248be
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,12 @@ Zu den verfügbaren Inventartypen gehören:
 * **Privates Inventar [!DNL Deal IDs]:** Richten Sie private Marketplace-Angebote (PMPs) ein und verwalten Sie diese direkt mit dem Herausgeber ausgehandelt haben.
 
 * **[!DNL Simple Ad Serving]:** Verwenden Sie optimierte Technologie für eine garantierte, nicht entschlossene Anzeigenbereitstellung und -berichterstellung, wenn Ihr Herausgeber Ihr Geschäft nicht über Deal-IDs ausführen kann.
+
+## Die Ansicht &quot;Angebote&quot;
+
+Sie können alle Ihre bestehenden Angebote im [!UICONTROL Inventory] > [!UICONTROL Deals] anzeigen. Sie können die Darstellung der vorhandenen Transaktionsdaten weiter anpassen, indem Sie Filter anwenden, die sichtbaren Spalten anpassen und optional benutzerdefinierte Ansichten speichern, die Spalten sortieren und die Daten als Diagramme anzeigen.
+
+Sie können auch private Deal-Einstellungen erstellen und verwalten und [!DNL Simple Ad Serving] Angebote aus dem [!UICONTROL Deals] anzeigen. Anzeigen und Verwalten [!DNL On Demand] Inventar, gehen Sie zu [!UICONTROL Inventory] > [!UICONTROL On Demand].
 
 >[!MORELIKETHIS]
 >
