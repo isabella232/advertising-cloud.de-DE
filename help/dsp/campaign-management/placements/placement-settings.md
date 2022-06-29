@@ -3,7 +3,7 @@ title: Platzierungseinstellungen
 description: Siehe Beschreibungen der verfügbaren Platzierungseinstellungen.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: 8b1ae7385d7747f7073448aae5ad0a617f323562
 workflow-type: tm+mt
 source-wordcount: '3277'
 ht-degree: 0%
@@ -397,7 +397,7 @@ Welche Ebene von [Ads.txt](https://iabtechlab.com/ads-txt-about/) Filterung vor 
 
 **[!UICONTROL DoubleVerify Authentic Brand Safety]:** (Advertiser, die mit der [!UICONTROL DoubleVerify Authentic Brand Safety] Option) Aktiviert [!DNL DoubleVerify Authentic Brand Safety]: blockiert Impressionen nach dem Angebot mithilfe der benutzerdefinierten Markensicherheitsregeln, die für die angegebene Segment-ID konfiguriert sind. DSP stellt Ihr Konto für die Verwendung der in den Advertiser-Einstellungen angegebenen Segment-ID in Rechnung.
 
-## [!UICONTROL Tracking]
+## [!UICONTROL Tracking] {#placement-tracking}
 
 >[!NOTE]
 >
