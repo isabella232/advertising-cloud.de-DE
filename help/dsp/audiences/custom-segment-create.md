@@ -3,7 +3,7 @@ title: Erstellen und Implementieren eines benutzerdefinierten Segments
 description: Erfahren Sie, wie Sie ein benutzerdefiniertes Segment erstellen und implementieren, um Benutzer zu verfolgen, die Anzeigen oder Benutzern ausgesetzt sind, die Ihre Webseiten besuchen.
 feature: DSP Segments
 exl-id: 691903e2-773e-4205-837e-822f435f57a7
-source-git-commit: b6e77b91ad5626bb9ece45ec3f01126715dbe37b
+source-git-commit: bc8e476e1218681140a1748998c19f1f6c5c0866
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Sie können Ihre eigenen Erstanbieter-Zielgruppendaten erfassen, indem Sie ein b
 
          1. Kopieren Sie das Impression-Tracking-Tag mit der Bezeichnung &quot;[!UICONTROL Desktop or mobile ads].&quot;
 
-         1. Fügen Sie das Tag entweder zum [!UICONTROL Pixel] für jede relevante Anzeige oder für die [!UICONTROL Event Pixels] Abschnitt [[!UICONTROL Tracking] Einstellungen für jede relevante Platzierung](/help/dsp/campaign-management/placements/placement-settings.html#placement-tracking).
+         1. Fügen Sie das Tag entweder zum [!UICONTROL Pixel] für jede relevante Anzeige oder für die [!UICONTROL Event Pixels] Abschnitt [[!UICONTROL Tracking] Einstellungen für jede relevante Platzierung](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
 
 
 Sobald ein Tracking-Tag implementiert ist, können Sie das Segment in den Zielgruppen-Zielen oder Ausschlüssen für jede Platzierung verwenden.
