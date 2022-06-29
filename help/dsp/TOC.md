@@ -8,15 +8,23 @@ user-guide-title: Handbuch zu Advertising Cloud DSP
 user-guide-description: Erfahren Sie mehr über die wichtigsten Funktionen, Aufgaben, Einstellungen und andere Ressourcen, die für die Verwaltung, Optimierung und Berichterstellung für Ihre Strategien rund um Display-Anzeigen mit Advertising Cloud DSP erforderlich sind.
 breadcrumb-title: Handbuch zu DSP
 index: true
-source-git-commit: f4719ee56f340c5969795dfc482e2b409244757b
+source-git-commit: d72707f9628e8e39eae36115b057d1cd332012f5
 workflow-type: tm+mt
-source-wordcount: '886'
+source-wordcount: '874'
 ht-degree: 6%
 
 ---
 
 
 # Handbuch zu Advertising Cloud DSP {#dsp}
+
+<!-- add back to about below "Edit the Advertisers with Access to a Deal ID" when reintroduced:
+      + [Edit the Attribute Tags for a Deal ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
+-->
+
+<!-- add back to Inventory > SAS section when reimplemented:
+      +  [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-show-pixels.md)
+-->
 
 + [Neue Funktionen](/help/dsp/home.md)
 + Einführung {#introduction}
@@ -169,19 +177,18 @@ ht-degree: 6%
                + [Senden Sie eine Anzeige für einen programmgesteuerten garantierten Deal an [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
                + [Überprüfen des Status von Anzeigen auf [!DNL FreeWheel] Gesicherte programmatische Vereinbarungen](/help/dsp/inventory/freewheel-check-status.md)
                + [Fehlercodes für FreeWheel-Anzeigenübermittlungen](/help/dsp/inventory/freewheel-error-codes.md)
-         + [Bearbeiten der Deal-ID-Einstellungen](/help/dsp/inventory/deal-id-edit.md)
-         + [Festlegen von Platzierungen und Anzeigen für eine Angebots-ID](/help/dsp/inventory/deal-id-attach-placements.md)
-         + [Bearbeiten der Konten mit Zugriff auf eine Angebots-ID](/help/dsp/inventory/deal-id-share.md)
-         + [Bearbeiten von Advertisern mit Zugriff auf eine Angebots-ID](/help/dsp/inventory/deal-id-edit-advertisers.md)
-         + [Bearbeiten der Attribute-Tags für eine Angebots-ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
-      + [!UICONTROL Simple Ad Serving] Angebote {#sas}
-         + [Info [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
-         + [Erstellen Sie eine [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-create.md)
-         + [[!UICONTROL Simple Ad Serving] Deal Settings](/help/dsp/inventory/simple-deal-settings.md)
-         + [Anzeigen von Ereignisverfolgungspixel für eine [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-show-pixels.md)
+      + [Einstellungen für private Angebote bearbeiten](/help/dsp/inventory/deal-id-edit.md)
+      + [Festlegen von Platzierungen und Anzeigen für ein privates Geschäft](/help/dsp/inventory/deal-id-attach-placements.md)
+      + [Bearbeiten von Konten mit Zugriff auf ein privates Geschäft](/help/dsp/inventory/deal-id-share.md)
+      + [Bearbeiten von Advertisern mit Zugriff auf ein privates Geschäft](/help/dsp/inventory/deal-id-edit-advertisers.md)
       + [Platzierungen und Anzeigen für ein privates Geschäft auflisten](/help/dsp/inventory/private-deal-view-placements.md)
-      + [Detaillierte Berichte für private Angebote anzeigen](/help/dsp/inventory/private-deal-view-report.md)
       + [Archivieren oder Aufheben der Archivierung eines privaten Angebots](/help/dsp/inventory/private-deal-archive-unarchive.md)
+   + [!UICONTROL Simple Ad Serving] Angebote {#sas}
+      + [Info [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
+      + [Erstellen Sie eine [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-create.md)
+      + [Bearbeiten [!UICONTROL Simple Ad Serving] Deal Settings](/help/dsp/inventory/simple-deal-edit.md)
+      + [[!UICONTROL Simple Ad Serving] Deal Settings](/help/dsp/inventory/simple-deal-settings.md)
+   + [Detaillierte Berichte für ein Angebot anzeigen](/help/dsp/inventory/deal-view-report.md)
 + Benutzerspezifische Berichte {#custom-reports}
    + [Über benutzerdefinierte Berichte](/help/dsp/reports/report-about.md)
    + [Benutzerspezifischen Bericht erstellen](/help/dsp/reports/report-create.md)
