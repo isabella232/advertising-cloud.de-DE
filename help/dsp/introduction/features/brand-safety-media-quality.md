@@ -3,9 +3,9 @@ title: Markensicherheit und Medienqualität
 description: Erfahren Sie mehr über Markensicherheit und Medienqualitätsmerkmale.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: b436936e3a0edcb78497fadb6f3c4086412baaa5
 workflow-type: tm+mt
-source-wordcount: '1315'
+source-wordcount: '1365'
 ht-degree: 0%
 
 ---
@@ -79,6 +79,10 @@ Advertising Cloud DSP verwaltet eine global gesperrte Site-Liste von Sites, die 
 Im Rahmen unserer Initiative zur Markensicherheit, um Aktivitäten auszurotten, die Werbetreibende betrügen, werden alle Sites anhand der in der Liste der blockierten Sites der Grafik aufgeführten Maßnahmen überprüft. Alle Sites, die die Markensicherheitsprüfungen nicht bestehen, werden der Liste der global blockierten Sites hinzugefügt. Da Advertising Cloud DSP diese Liste dynamisch verwaltet, können Sites auf der Grundlage der neuesten Analyse der Markensicherheit jederzeit aus der Liste wechseln.
 
 Wenn Sie eine Site in die Liste der global blockierten Sites als Platzierungsziel einschließen, wird die Site mit einem roten Ausrufezeichen (!) gekennzeichnet. Dies bedeutet, dass Anzeigen nicht auf der gekennzeichneten Site ausgeführt werden.
+
+>[!NOTE]
+>
+>Sie können optional die globale Liste der blockierten Sites für Standardanzeigen umgehen, die an ein vertrauenswürdiges privates Geschäft angehängt sind, indem Sie die[!UICONTROL Allow unscreened sites]&quot; in der [Platzierungseinstellungen](/help/dsp/campaign-management/placements/placement-settings.md). Bei Bedarf kann die [!DNL Adobe] Das Account-Team kann optional auch die Site-Blockierung für einen öffentlichen (Auktionsebene) Deal in den Publisher-Einstellungen für den Deal deaktivieren.
 
 #### Blockierte Sites auf Kontoebene und Advertiser-Ebene
 

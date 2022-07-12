@@ -3,9 +3,9 @@ title: Platzierungseinstellungen
 description: Siehe Beschreibungen der verfügbaren Platzierungseinstellungen.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 8b1ae7385d7747f7073448aae5ad0a617f323562
+source-git-commit: ef8e13dc5f94ead81191862dbb37c17ae762682d
 workflow-type: tm+mt
-source-wordcount: '3277'
+source-wordcount: '3301'
 ht-degree: 0%
 
 ---
@@ -253,7 +253,7 @@ So legen Sie das Inventar-Targeting fest:
 
 Optional können Sie die Liste der Ziel- und Blockierungssites als CSV-Datei (CSV) mit kommagetrennten Werten exportieren. Um die Liste zu exportieren, klicken Sie auf **[!UICONTROL Export full site list]** und öffnen oder speichern Sie die Datei dann entsprechend der üblichen Vorgehensweise Ihres Browsers.
 
-<!-- **[!UICONTROL Allow unscreened sites]:** (XXX placements only) Allows you to XXXX.   Optional available for https://advertising.adobe.com/configurator/placement/edit/2432022 -->
+**[!UICONTROL Allow unscreened sites]:** (Nur Standardplatzierungen für die Anzeige) Aktiviert die Anzeigenbereitstellung auf nicht geprüften Sites. Wenn die Platzierung auf den privaten Bestand ausgerichtet ist, kann diese Option Anzeigen auf blockierten Sites bereitstellen.
 
 **[!UICONTROL Paste list of targeted sites]:** Ermöglicht es Ihnen, nur bestimmte Sites als Ziel festzulegen. Wenn Sie diese Option aktivieren, sind die anderen Site-Targeting-Optionen deaktiviert.
 

@@ -3,9 +3,9 @@ title: Spalten in heruntergeladenen/hochgeladenen Arbeitsblättern
 description: Referenzieren Sie die Spalten in heruntergeladenen und hochgeladenen Excel QA-Tabellen.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: 0c3984d755131ad98b7ddecfd9567ff4be54b64e
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '751'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 0%
 | [!UICONTROL Sites] | [!UICONTROL Categories - Excluded #] | die Anzahl der ausgeschlossenen Site-Kategorien, sofern vorhanden, oder *[!UICONTROL All]*. | — |
 | [!UICONTROL Sites] | [!UICONTROL Excluded Sites] | Ausgeschlossene Sites, sofern angegeben, oder *[!UICONTROL None]*. | — |
 | [!UICONTROL Sites] | [!UICONTROL Language] | Die Zielsprachen der Site. | — |
-| [!UICONTROL Sites] | [!UICONTROL Allow unscreened sites] | Gibt an, ob die Anzeigenbereitstellung auf nicht geprüften Sites zulässig ist: *[!UICONTROL ON]* oder *[!UICONTROL OFF]*. | — |
+| [!UICONTROL Sites] | [!UICONTROL Allow unscreened sites] | (Nur Standardplatzierungen für die Anzeige) Gibt an, ob die Anzeigenbereitstellung auf nicht geprüften Sites zulässig ist: *[!UICONTROL ON]* oder *[!UICONTROL OFF]*. Wenn die Platzierung auf den privaten Bestand ausgerichtet ist, kann diese Option Anzeigen auf blockierten Sites bereitstellen. | — |
 | [!UICONTROL Sites] | [!UICONTROL Targeted Sites] | die Anzahl der Zielseiten, sofern vorhanden, oder *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Included] | Zielgruppenzielgruppen, sofern vorhanden, oder *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Excluded] | die ausgeschlossenen Zielgruppen, sofern angegeben, oder *[!UICONTROL None]*. | — |
