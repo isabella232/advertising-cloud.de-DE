@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 99c808d63e1d17d91832fdd38a2bce3fdf90aa44
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '954'
+source-wordcount: '1023'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Die folgenden Funktionen sind neu oder kürzlich geändert worden.
 
 | Datum | Funktion | Beschreibung | Weitere Informationen |
 | ---- | ------- | ----------- | -------------------- |
+| 27. Juli 2022 | Bestand | Auction Insights ist ein neues Tool zur Fehlerbehebung, mit dem Sie die Zusammensetzung der Geschäfte sowohl garantierter als auch nicht garantierter privater Geschäfte analysieren können. Mithilfe von Datenvisualisierungen zeigt dieses Tool den Trend und die relativen Anteile der Werte an, die innerhalb eines bestimmten Zeitraums für wichtige Auktionsattribute empfangen wurden.<br><br>Mit Transparenz bei Angebotsanforderungsdaten von Herausgebern können Sie zeitaufwendige Schritte zur Fehlerbehebung vermeiden. | Siehe[Anzeigen von Auktionseinblicken für ein privates Geschäft](/help/dsp/inventory/private-deal-auction-insights.md).&quot; |
 | 29. Juni 2022 | Bestand | Die neue [!UICONTROL Inventory] > [!UICONTROL Deals] Die Ansicht enthält dieselben Datenanpassungsfunktionen wie die [!UICONTROL Campaigns] Ansichten, einschließlich zusätzlicher Filter, Spaltenanpassung und der Option zum Speichern benutzerdefinierter Ansichten, Spaltensortierung und einer Datenvisualisierungsansicht (Diagramm). Sie können ein Befehlsmenü in jeder Zeile öffnen, indem Sie auf [!UICONTROL ...] nach dem Namen des Deals. | Siehe[Übersicht über die Funktionen des Bestands](/help/dsp/inventory/inventory-overview.md).&quot; |
 |  | Bestand [!UICONTROL Inspector] | Die [!UICONTROL Inventory] Registerkarte der Platzierung [!UICONTROL Inspector] enthält jetzt anpassbare Diagramme für die Datenvisualisierung und erweiterte Leistungsmetriken wie [!UICONTROL Viewability Rate], [!UICONTROL Clicks]und [!UICONTROL Yesterday's CPM]. | Siehe[Anzeigen von Sites, Anzeigen, Häufigkeit und Inventardetails für eine Platzierung](/help/dsp/campaign-management/reports/placement-details-view.md).&quot; |
 | 31. Mai 2022 | Zielgruppenquellen | (Beta-Funktion) Advertising Cloud DSP kann jetzt Erstanbietersegmente erfassen, die aus authentifizierten Signalen bestehen, die in einer Kundendatenplattform (CDP) erstellt wurden. | Siehe[Informationen zum Aktivieren authentifizierter Segmente aus Zielgruppen-Quellen](/help/dsp/audiences/sources/source-about.md).&quot; |

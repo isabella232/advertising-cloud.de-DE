@@ -3,9 +3,9 @@ title: Über In-Platform-Berichte
 description: Erfahren Sie mehr über die Berichtsdaten in den Kampagnenverwaltungsansichten.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 7d081583ff10675b515aafdd97ccb3053f19c32d
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '940'
 ht-degree: 0%
 
 ---
@@ -75,7 +75,7 @@ Für jede Platzierung können Sie [Öffnen einer (Detailansicht) [!UICONTROL Ins
 
 * **[!UICONTROL Inventory]:** Informationen zu allen Angeboten, die auf die Platzierung ausgerichtet sind.
 
-   Die [!UICONTROL Inventory] enthält Such- und Filterfunktionen, dieselben standardmäßigen und benutzerdefinierten Spaltenansichtsoptionen, die auf der Hauptseite verfügbar sind, und Schnellaktionsschaltflächen in jeder Zeile, z. B. [!UICONTROL Edit] und [!UICONTROL View Report]. Die [!UICONTROL Inventory] -Registerkarte ermöglicht die schnelle Fehlerbehebung, indem Leistungsstatistiken angezeigt werden, z. B. [!UICONTROL Auctions], [!UICONTROL Bids]und [!UICONTROL Win Rate].
+   Die [!UICONTROL Inventory] -Registerkarte ermöglicht die schnelle Fehlerbehebung, indem Leistungsstatistiken angezeigt werden, z. B. [!UICONTROL Auctions], [!UICONTROL Bids]und [!UICONTROL Win Rate]. Die Registerkarte enthält Such- und Filterfunktionen, dieselben standardmäßigen und benutzerdefinierten Spaltenansichtsoptionen, die auf der Hauptseite verfügbar sind, sowie Schnellaktionsschaltflächen in jeder Zeile, einschließlich [!UICONTROL Edit], [!UICONTROL View Report]und [[!UICONTROL Auction Insights] für weitere Fehlerbehebung](/help/dsp/inventory/private-deal-auction-insights.md).
 
 #### Fehlerbehebung beim Inventar
 

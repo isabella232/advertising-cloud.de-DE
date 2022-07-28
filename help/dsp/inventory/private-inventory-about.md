@@ -3,9 +3,9 @@ title: Über privates Inventar
 description: Über privates Inventar
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 0fb8417ed6ed261077affd4db071e207731058f9
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Sie können jedes private Geschäft als Platzierungsziel für mehrere Kampagnen 
 
 ## Die Ansicht &quot;Angebote&quot;
 
-Im [!UICONTROL Inventory] > [!UICONTROL Deals] -Ansicht können Sie private Deal-Einstellungen erstellen. Sie können auch einige Deal-Einstellungen bearbeiten. Auflisten der Platzierungen und Anzeigen sowie Hinzufügen zusätzlicher Platzierungen und Anzeigen zu einem Geschäft; die Advertiser und Konten zu bearbeiten, die auf ein Geschäft zugreifen können; einen Bericht über ein privates Geschäft zu erstellen; oder archivieren oder dearchivieren Sie einen Deal.<!-- ; or edit the attribute tags for a deal -->
+Im [!UICONTROL Inventory] > [!UICONTROL Deals] -Ansicht können Sie private Deal-Einstellungen erstellen. Sie können auch einige Deal-Einstellungen bearbeiten. Auflisten der Platzierungen und Anzeigen sowie Hinzufügen zusätzlicher Platzierungen und Anzeigen zu einem privaten Geschäft; Bearbeiten der Advertiser und Konten, die auf einen privaten Deal zugreifen können; einen Leistungsbericht für ein Geschäft zu erstellen; Sie können Einblicke in Auktionen für ein privates Geschäft anzeigen oder ein Geschäft archivieren oder dessen Archivierung aufheben.<!-- ; or edit the attribute tags for a deal -->
 
 Sie können die Darstellung der vorhandenen Transaktionsdaten weiter anpassen, indem Sie Filter anwenden, die sichtbaren Spalten anpassen und optional benutzerdefinierte Ansichten speichern, die Spalten sortieren und die Daten als Diagramme anzeigen.
 

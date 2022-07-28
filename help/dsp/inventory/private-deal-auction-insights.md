@@ -1,22 +1,18 @@
 ---
-title: Auktionseinblicke
-description: Erfahren Sie, wie Sie die Seite mit Einblicken aus Auktionen für ein privates Geschäft verwenden.
+title: Anzeigen von Auktionseinblicken für ein privates Geschäft
+description: Erfahren Sie, wie Sie mithilfe von Einblicken aus Auktionen die Zusammensetzung des Deals des privaten Deals analysieren können.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: null
-source-git-commit: bea7de3fd5e6c5048b83e0eec2a88c0c9b422fc2
+source-git-commit: c2fe96c28004dee03ab94b4e5ed43bfbf3ee6e83
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-# Auktionseinblicke für ein privates Geschäft
+# Anzeigen von Auktionseinblicken für ein privates Geschäft
 
-Auction Insights ist ein Tool zur Fehlerbehebung für private Inventare, mit dem Benutzer die Komposition von Geschäften für garantierte und nicht garantierte private Angebote analysieren können.
-Dadurch werden die zeitaufwendigen Schritte zur Fehlerbehebung vermieden, indem Transparenz in Angebotsanforderungsdaten von Herausgebern bereitgestellt wird.
-Mithilfe von Datenvisualisierungen hilft dieses Tool dabei, den Trend und den relativen Anteil der Werte zu beobachten, die für die oben genannten Auktionsattribute empfangen wurden (siehe unten), innerhalb eines bestimmten Zeitraums.
-
-Gehen Sie wie folgt vor, um auf die Seite &quot;Auction Insights&quot;für einen privaten Kauf zuzugreifen:
+Auction Insights ist ein Tool zur Fehlerbehebung, mit dem Sie die Zusammensetzung der Geschäfte sowohl garantierter als auch nicht garantierter privater Geschäfte analysieren können. Mithilfe von Datenvisualisierungen zeigt dieses Tool den Trend und die relativen Anteile der Werte an, die für [Schlüsselauktionsattribute](#auction-attributes) innerhalb eines bestimmten Zeitraums.
 
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Inventory]> [!UICONTROL Deals].**
 
@@ -24,29 +20,31 @@ Gehen Sie wie folgt vor, um auf die Seite &quot;Auction Insights&quot;für einen
 
 >[!NOTE]
 >
->Die Seite &quot;Einblicke in Auktionen&quot;ist auch über das Platzierungsinspektor-Tool verfügbar. Um darauf zuzugreifen, können Benutzer auf die Registerkarte &quot;Bestand&quot;des Platzierungsinspektors klicken und dann auf **[!UICONTROL ...]>[!UICONTROL Auction Insights]** in der Adresszeile
+>Auktionseinblicke sind auch über die Platzierung verfügbar [!UICONTROL Inspector] -Tool. Um sie zu öffnen, [Platzierung öffnen [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/placement-details-view.md) der [!UICONTROL Inventory tab]und klicken Sie anschließend auf **[!UICONTROL ...]>[!UICONTROL Auction Insights]** in der Deal-Zeile.
 
-Auf der Seite &quot;Auction Insights&quot;können Benutzer Datenvisualisierungen für Flächendiagramme für die folgenden Auktionsattribute anzeigen:
+## Auktionsattribute {#auction-attributes}
 
-* **Anzeigentyp:**	Der in der Versteigerung angeforderte Anzeigentyp. z. B. Anzeige, Audio usw.
+Flächendiagramme stehen für die folgenden Auktionsattribute zur Verfügung:
 
-* **Browser:**	Der Browser, aus dem die Auktion stammt. Zum Beispiel Chrome, Firefox usw.
+* **Anzeigentyp:** Der in der Auktion angeforderte Anzeigentyp (z. B. Anzeige oder Audio).
 
-* **Betriebssystem:**	Das Betriebssystem, aus dem die Auktion stammt. z. B. Android, iOS usw.
+* **Browser:** Der Browser, von dem die Auktion stammt (z. B. Chrome oder Firefox).
 
-* **Gerät:** Geben Sie das Gerät ein, aus dem die Auktion stammt. Für z. B. Mobiltelefon, Desktop usw.
+* **Betriebssystem:** Das Betriebssystem, von dem die Auktion stammt (z. B. Android oder iOS).
 
-* **Anzeigendauer:**	Die maximal beantragte Anzeigendauer in der Versteigerung. z. B. 15 s, 30 s usw.
+* **Gerätetyp:** Das Gerät, von dem die Auktion stammt (z. B. Mobiltelefon oder Desktop).
 
-* **Sicher:**	Gibt an, ob für die Auktion ein sicheres kreatives HTTPS-URL-Asset erforderlich ist. z. B. sicher, nicht sicher
+* **Anzeigendauer:** Die maximale Dauer der Auktion (z. B. 15 s oder 30 s).
 
-* **MIME-Typ:**	Der bei der Versteigerung angeforderte Anzeigenkreativ-MIME-Typ. z. B. mp4, mov usw.
+* **Sicher:** Gibt an, ob für die Auktion ein sicheres kreatives HTTPS-URL-Asset erforderlich ist. Werte: <i>Secure</i> oder <i>Nicht sicher</i>.
 
-!![auction insights](/help/dsp/assets/Auction Insights.png)
+* **MIME-Typ:** Der in der Versteigerung angeforderte Anzeigenkreativ-MIME-Typ (z. B. MP4 oder mov).
+
+![Auktionseinblicke](/help/dsp/assets/auction-insights.png)
 
 >[!NOTE]
 >
->Benutzer können auch Filter auf die Einblicke-Seite der Auktion anwenden, um Ihre Analyse einzugrenzen, indem sie bestimmte Attributwerte isolieren.
+>Sie können Filter auf bestimmte Attributwerte anwenden, um Ihre Ergebnisse einzugrenzen.
 
 >[!MORELIKETHIS]
 >
