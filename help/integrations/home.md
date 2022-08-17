@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 0808d101-3c6b-4671-b9e3-6f588427f8b5
-source-git-commit: b73abe16578069a0037cfb0a8520485a5d27790f
+source-git-commit: 5180665a7342d7222aa350298298d5bcc9b2e449
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Die folgenden Funktionen sind neu oder kürzlich geändert worden.
 
 | Datum | Funktion | Beschreibung | Weitere Informationen |
 | ---- | ------- | ----------- | -------------------- |
+| 17. August 2022 | Hilfe | In einem neuen Kapitel werden alle Möglichkeiten erläutert, wie Advertising Cloud in Adobe Audience Manager integriert wird. | Siehe Kapitel &quot;Integration mit Adobe Audience Manager&quot;, einschließlich einer Übersicht über &quot;[Advertising Cloud-Integrationen mit Adobe Audience Manager](/help/integrations/audience-manager/overview.md).&quot; |
 | 27. April 2021 | [!DNL Analytics for Advertising Cloud] | Erfahren Sie, warum und wie Sie [!DNL Analytics for Advertising Cloud] Makros für Ihre [!DNL Google Campaign Manager 360] Anzeigen-Tags zum Senden von Klickdaten an Adobe Analytics. | Siehe[Anhängen [!DNL Analytics for Advertising Cloud] Makros zu [!DNL Google Campaign Manager 360] Anzeigen-Tags](/help/integrations/analytics/macros-google-campaign-manager.md).&quot; |
 | 19. April 2021 | [!DNL Analytics for Advertising Cloud] | Erfahren Sie, warum und wie Sie Makros an Ihre [!DNL Flashtalking] Anzeigen-Tags zum Senden von Klickdaten an Adobe Analytics. | Siehe[Anhängen [!DNL Analytics for Advertising Cloud] Makros zu [!DNL Flashtalking] Anzeigen-Tags](/help/integrations/analytics/macros-flashtalking.md).&quot; |
 | 27. Oktober 2021 | [!DNL Analytics for Advertising Cloud] | Wenn Ihr Unternehmen von der Verwendung der veralteten Adobe Analytics umschalten möchte `visitorAPI.js` -Bibliothek [Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) Bibliothek (`alloy.js`) für die Datenerfassung müssen Sie einige Änderungen vornehmen, um die ID-Zuordnung zu aktivieren. | Siehe[Verwenden der [!DNL Last Event Service] JavaScript-Bibliothek mit Adobe Experience Platform [!DNL Web SDK]](/help/integrations/analytics/web-sdk.md).&quot; |
