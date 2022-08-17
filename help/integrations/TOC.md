@@ -3,10 +3,10 @@ user-guide-title: Integrationen mit Adobe Experience Cloud
 user-guide-description: Erfahren Sie mehr über die Integration von Advertising Cloud DSP und Advertising Cloud Search mit anderen Adobe Experience Cloud-Produkten und -Services.
 breadcrumb-title: Integrationen mit Experience Cloud
 index: true
-source-git-commit: 5884da8177dac1313f69ba67a46713b4fd047640
+source-git-commit: c047238f0d92b5218df6245c004607ac1e48e345
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 20%
+source-wordcount: '189'
+ht-degree: 14%
 
 ---
 
@@ -35,4 +35,12 @@ ht-degree: 20%
       + [Erstellen von Advertising Cloud-IDs mithilfe [!DNL Marketing Channels] Verarbeitungsregeln](/help/integrations/analytics/marketing-channels/mc-ids.md)
       + [Verwenden [!DNL Marketing Channels] mit Advertising Cloud-Daten](/help/integrations/analytics/marketing-channels/mc-ac-data.md)
       + [Warum Kanaldaten zwischen Advertising Cloud und variieren können [!DNL Marketing Channels]](/help/integrations/analytics/marketing-channels/mc-data-variances.md)
++ [Integration mit Adobe Audience Manager] {#audience-manager}
+   + [Advertising Cloud-Integrationen mit Adobe Audience Manager](/help/integrations/audience-manager/overview.md)
+   + [Importieren von Audience Manager-Segmenten in Advertising Cloud](/help/integrations/audience-manager/import-audiences.md)
+   + DSP Mediendatenintegration mit Adobe Audience Manager {#media-data-ingestion}
+      + [Übersicht über das Senden von DSP-Exposure-Daten an Adobe Audience Manager](/help/integrations/audience-manager/media-data-integration/overview.md)
+      + [Impressions- und Klickdaten aus DSP Kampagnen erfassen](/help/integrations/audience-manager/media-data-integration/collect.md)
+      + [Nutzungsszenarios](/help/integrations/audience-manager/media-data-integration/use-cases.md)
+   + [Adobe Audience Analytics für Advertising Cloud-Kunden](/help/integrations/audience-manager/audience-analytics.md)
 + [Tutorials zu Advertising Cloud-Integrationen](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html)<!-- rename if the tutorials TOC structure changes -->
