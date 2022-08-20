@@ -3,9 +3,9 @@ title: Zertifizierte Ad Serving-Partner
 description: Alle zertifizierten Adserver und Anzeigeneinheiten anzeigen.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: d3b2941af8d27447301fd6a4080ebab6352d503d
+source-git-commit: d04672f1daddb7b57a7ab2ab9a0ad25a7ad40812
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 | [!DNL ADventori] |  | X |  |  |  |
 | [!DNL Artsai] |  | X |  | X |  |
 | [!DNL Atlas] |  |  |  | X |  |
-| [!DNL Big Ads] |  |  | X |  | Cube (Desktop), Cube (Mobil), Karten (Desktop), Big Reveal (Desktop). Richten Sie alle diese Anzeigentypen in DSP als 300 x 250 ein. Nur zertifiziert über [!DNL Magnite DV+]. |
+| [!DNL Big Ads] |  |  | X |  | Cube (Desktop), Cube (Mobil), Karten (Desktop), Big Reveal (Desktop), Cine-Cube (Desktop), Cinematics (Desktop). Richten Sie alle diese Anzeigentypen in DSP als 300 x 250 ein. Nur zertifiziert über [!DNL Magnite DV+]. |
 | [!DNL Bonzai] |  |  | X |  |  |
 | [!DNL Contobox] |  |  | X |  |  |
 | [!DNL Conversant] |  | X |  |  |  |
@@ -40,7 +40,7 @@ ht-degree: 0%
 | [!DNL IAS] | X | X |  | X |  |
 | [!DNL IBM] |  | X |  | X |  |
 | [!DNL Innovid] | X | X |  | X |  |
-| [!DNL InSkin] |  |  | X |  | Von einer 180 x 150 Display-Deal-ID mit hoher Auswirkung auf die Haut muss im Inventarnetzwerk von Inhaut eine ID bereitgestellt werden. |
+| [!DNL InSkin] |  |  | X |  | Hoher Aufprall von Skins (einschließlich Cavai Conversational Ad) muss von einer Display-Deal-ID von 180 x 150 im Inventarnetzwerk von InSkins bereitgestellt werden. |
 | [!DNL Jivox] |  | X |  |  |  |
 | [!DNL Kargo] |  | X |  |  | 320 x 50 Anker, BYOC, Hover, Breakout und Sidekick; 300x250 Outstream; Standard-Desktop-Anzeige (spezielle Anzeigen-Plug-in-IDs sind nicht erforderlich).</br></br>Wenden Sie sich an [!DNL Adobe] Account-Team für Unterstützung bei der Einrichtung von Anzeigeneinheiten. |
 | [!DNL Linkstorm] |  |  | X |  |  |
