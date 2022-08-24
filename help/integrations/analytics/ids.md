@@ -3,9 +3,9 @@ title: Von verwendete Advertising Cloud IDs [!DNL Analytics]
 description: Von verwendete Advertising Cloud IDs [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 8f0765251234b09eddaee721018285aee6b44b6a
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -43,6 +43,30 @@ Die EF ID ist ein eindeutiges Token, mit dem Advertising Cloud Aktivitäten mit 
 
 ### EF ID Format
 
+>[!NOTE]
+>
+>Bei EF IDs wird zwischen Groß- und Kleinschreibung unterschieden. Wenn eine [!DNL Analytics] -Implementierung erzwingt das URL-Tracking in Kleinbuchstaben. Anschließend erkennt Advertising Cloud die EF-ID nicht. Dies wirkt sich auf Gebote und Berichte von Advertising Cloud aus, hat jedoch keine Auswirkungen auf die Berichterstellung von Advertising Cloud innerhalb von [!DNL Analytics].
+
+#### [!DNL Google Ads] Suchanzeigen
+
+```{gclid}:G:s```
+
+wobei:
+
+* `gclid` ist die [!DNL Google Click ID] (GCLID).
+* `s` ist der Netzwerktyp (&quot;s&quot; für die Suche).
+
+#### Microsoft Advertising-Suchanzeigen
+
+```{msclkid}:G:s```
+
+wobei:
+
+* `msclkid` ist die [!DNL Microsoft Click ID] (MSCLKID).
+* `s` ist der Netzwerktyp (&quot;s&quot; für die Suche).
+
+#### Anzeigen und Suchanzeigen in anderen Suchmaschinen
+
 ```<Advertising Cloud visitor ID>:<timestamp>:<channel type>```
 
 <!-- <*Advertising Cloud visitor ID*>:<*timestamp*>:<*channel type*> -->
@@ -60,10 +84,6 @@ wobei:
    * `s` für einen Klick auf eine Suchanzeige (Durchsuchen-Clickthrough).
 
 Beispiel `EF `ID: WcmibgAAAHJK1RyY:1551968087687:d
-
->[!NOTE]
->
->Bei EF IDs wird zwischen Groß- und Kleinschreibung unterschieden. Wenn eine [!DNL Analytics] -Implementierung erzwingt das URL-Tracking in Kleinbuchstaben. Anschließend erkennt Advertising Cloud die EF-ID nicht. Dies wirkt sich auf Gebote und Berichte von Advertising Cloud aus, hat jedoch keine Auswirkungen auf die Berichterstellung von Advertising Cloud innerhalb von [!DNL Analytics].
 
 ### Die EF ID-Dimension in [!DNL Analytics]
 
