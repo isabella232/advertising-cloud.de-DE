@@ -1,9 +1,9 @@
 ---
 title: Advertiser-Kontoeinstellungen
 description: Siehe Beschreibungen der verfügbaren Advertiser-Einstellungen.
-source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
+source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '874'
 ht-degree: 0%
 
 ---
@@ -38,25 +38,19 @@ Werbetreibende mit zusätzlichen Adobe Experience Cloud-Produkten können Daten 
 
 (Optional) Zusätzliche Experience Cloud-Produkte, die mit dem DSP verknüpft sind. Die Produkte müssen derselben Organisations-ID des Experience Cloud zugeordnet sein, die in der Variablen [!UICONTROL Adobe IMS IDs] Abschnitt.
 
-**[!UICONTROL Adobe Media Optimizer]:** (Advertiser mit Advertising Cloud Search oder Benutzer von Advertising Cloud-Konversionspixeln) A [!DNL Search] -Konto, mit dem DSP Attributionsdaten austauschen.
+**[!UICONTROL Attribution services]> [!UICONTROL Adobe Media Optimizer]:** (Advertiser mit Advertising Cloud Search oder Benutzer von Advertising Cloud-Konversionspixeln) A [!DNL Search] -Konto, mit dem DSP Attributionsdaten austauschen.
 
-**[!UICONTROL Adobe Device Co-op or 3rd Party Graph]:** (Advertiser, die Advertising Cloud-Konversionspixel verwenden; (optional) Sie können ein Gerätediagramm für personenbasierte Zuordnungsmessungen aus den Kontoeinstellungen des Advertisers in Advertising Cloud Search verwenden.
+**[!UICONTROL Report suites]> [!UICONTROL Adobe Analytics]:** (Werbetreibende mit Adobe Analytics; fakultativ; gilt nur für Daten, die mit Advertising Cloud-Konversions-Tracking-Tags erfasst wurden, die eine [!DNL EF Redirect] und nur Token) Eine oder mehrere [!DNL Analytics] Report Suites, an die DSP Daten sendet, die von Herausgebern und Anbietern erfasst werden. Analytics sendet außerdem die erfassten Daten von der Site des Kunden an DSP.
 
->[!NOTE]
->
-> * Die Gerätezuordnung ist nur für Konversionen verfügbar, die mit dem Konversions-Tracking-Dienst von Advertising Cloud verfolgt werden, nicht für Konversionen, die von Adobe Analytics verfolgt werden.
-> * Sie können auch ein personenbasiertes Gerätediagramm für geräteübergreifendes Targeting und Frequenzmanagement im [Kampagnenebene](/help/dsp/campaign-management/campaigns/campaign-settings.md). Anschließend können Sie ein geräteübergreifendes Targeting im [Platzierungsebene](/help/dsp/campaign-management/placements/placement-settings.md) und weitere Frequenzobergrenzen am [Paketebene](/help/dsp/campaign-management/packages/package-settings.md) und [Platzierungsebene](/help/dsp/campaign-management/placements/placement-settings.md). Geräteübergreifendes Targeting und Frequenzmanagement erfordern keine Attributionsmessung auf Advertiser-Ebene. Stattdessen arbeiten sie mit dem Gerätediagramm, das in den Kampagneneinstellungen angegeben ist.
-
-
-**[!UICONTROL Adobe Analytics]:** (Werbetreibende mit Adobe Analytics; fakultativ; gilt nur für Daten, die mit Advertising Cloud-Konversions-Tracking-Tags erfasst wurden, die eine [!DNL EF Redirect] und nur Token) Eine oder mehrere [!DNL Analytics] Report Suites, an die DSP Daten sendet, die von Herausgebern und Anbietern erfasst werden. Analytics sendet außerdem die erfassten Daten von der Site des Kunden an DSP.
-
-Damit die Daten in den Report Suites angezeigt werden, muss die Variable [!DNL Search] Einstellung auf Advertiser-Ebene auf &quot;[!UICONTROL Enable tracking for SAINT feeds]&quot; muss aktiviert sein. Darüber hinaus gibt die [!DNL Analytics] muss für den Empfang von Daten von Advertising Cloud konfiguriert sein. <!-- from Advertising Cloud or DSP in particular? Add cross-reference to file in Integrations section. -->
+Damit die Daten in den Report Suites angezeigt werden, muss die Variable [!DNL Search] Einstellung auf Advertiser-Ebene auf &quot;[!UICONTROL Enable tracking for SAINT feeds]&quot; muss aktiviert sein. Darüber hinaus gibt die [!DNL Analytics] muss für den Empfang von Daten von Advertising Cloud konfiguriert sein.
 
 >[!WARNING]
 >
->Wenn Sie eine zuvor verknüpfte Report Suite entfernen, tauschen DSP keine Daten mehr mit dieser Suite aus. Datenfluktuationen werden erwartet. <!-- Fluctuations where? Clarify -->
+>Wenn Sie eine zuvor verknüpfte Report Suite entfernen, tauschen DSP keine Daten mehr mit dieser Suite aus. Datenfluktuationen werden erwartet.
 
-**[!UICONTROL Adobe Analytics Cloud]:** (Advertiser mit Adobe Audience Manager oder Adobe Analytics; optional) ein Audience Manager oder [!DNL Analytics] -Konto, aus dem DSP Segmentmetadaten, Hierarchiedaten und eindeutige Zielgruppendaten für alle Adobe-Zielgruppen des Advertisers abruft. Dazu gehören Daten für:
+Weitere Informationen zur Integration mit [!DNL Analytics], siehe[Übersicht über [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/overview.md).&quot;
+
+**[!UICONTROL Audiences]> [!UICONTROL Adobe Analytics Cloud]:** (Advertiser mit Adobe Audience Manager oder Adobe Analytics; optional) ein Audience Manager oder [!DNL Analytics] -Konto, aus dem DSP Segmentmetadaten, Hierarchiedaten und eindeutige Zielgruppendaten für alle Adobe-Zielgruppen des Advertisers abruft. Dazu gehören Daten für:
 
 * Audience Manager-Segmente
 * [!DNL Analytics] Segmente, die in Adobe Experience Cloud veröffentlicht werden

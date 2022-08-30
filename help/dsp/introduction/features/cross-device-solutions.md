@@ -3,16 +3,16 @@ title: Geräteübergreifende Lösungen
 description: Erfahren Sie mehr über geräteübergreifende Funktionen.
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
+source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
 workflow-type: tm+mt
-source-wordcount: '1113'
+source-wordcount: '1006'
 ht-degree: 0%
 
 ---
 
 # Geräteübergreifende Lösungen
 
-Advertising Cloud DSP-Integrationen mit [!DNL LiveRamp] und [!DNL Adobe Device Co-op] ermöglichen es Ihnen, Ihre Zielgruppe auf alle bekannten Geräte einer Person zu erweitern, nicht nur auf die Geräte, die Ihre Marke verfolgt hat. Die Integrationen bieten außerdem eine Frequenzlimitierung und Attributionsmessung für alle Geräte.
+Die Integration von Advertising Cloud DSP mit [!DNL LiveRamp] ermöglicht es Ihnen, Ihre Zielgruppe auf alle bekannten Geräte einer Person zu erweitern, nicht nur auf die Geräte, die Ihre Marke verfolgt hat. Die Integration bietet außerdem Frequenzlimitierung und Attributionsmessung für alle Geräte.
 
 Wenn Sie ein unterstütztes benutzerbasiertes Gerätediagramm verwenden, können Sie:
 
@@ -20,22 +20,19 @@ Wenn Sie ein unterstütztes benutzerbasiertes Gerätediagramm verwenden, können
 * Ausgewogenheit und Exposition durch Verständnis und Begrenzung der Häufigkeit einzelner Personen.
 * Teststrategien, die Zielgruppen über Kanäle oder Geräte hinweg verfügbar machen oder konvertieren.
 
-## Vorteile der einzelnen Gerätediagramme
+## Vorteile der [!DNL LiveRamp] Gerätediagramm
 
-* [!DNL Adobe Device Co-op]:
-   * Bietet einen Opt-in-Pool mit deterministischen und probabilistischen Daten teilnehmender Adobe-Advertiser
-   * Bietet starke Cookie-ID-Verbindungen, die von Desktop- und mobilen Webbesuchern unterstützt werden
-   * Umfasst Daten vorwiegend aus den Vereinigten Staaten und Kanada
-   * Keine Nutzungsgebühren
+* Stellt einen deterministischen Datenpool bereit, einschließlich Offline-Kundendaten
 
-* [!DNL LiveRamp] Gerätediagramm:
-   * Stellt einen deterministischen Datenpool bereit, einschließlich Offline-Kundendaten
-   * Gewährt eine gleichmäßige Abdeckung zwischen Cookie-IDs und Mobilgeräte-IDs
-   * Umfasst Daten vorwiegend aus den Vereinigten Staaten
-   * Ist frei für Frequenzlimitierung und Attributionsmessung
-   * Preiswert von 0,35 USD für erweiterte Impressionen (Impressionen, die ausschließlich durch Verwendung der Variablen [!DNL LiveRamp] Gerätediagramm anstelle von Geräten, die in Zielgruppensegmenten gefunden werden)
+* Gewährt eine gleichmäßige Abdeckung zwischen Cookie-IDs und Mobilgeräte-IDs
 
-      Der Preis wird auf Ihrer Kreditkarte angezeigt.
+* Umfasst Daten vorwiegend aus den Vereinigten Staaten
+
+* Ist frei für Frequenzlimitierung und Attributionsmessung
+
+* Preiswert von 0,35 USD für erweiterte Impressionen (Impressionen, die ausschließlich durch Verwendung der Variablen [!DNL LiveRamp] Gerätediagramm anstelle von Geräten, die in Zielgruppensegmenten gefunden werden)
+
+   Der Preis wird auf Ihrer Kreditkarte angezeigt.
 
 ## Personenbasiertes Frequenzmanagement
 
@@ -85,15 +82,7 @@ Mit der benutzerbezogenen Attribution können Sie Konversionen zuordnen, die auf
 
 ### Benutzerbasierte Attributionsmessung aktivieren
 
-Wenden Sie sich an Ihren [!DNL Adobe] Account-Team. Für [!DNL Adobe Device Co-op] Konten, müssen Sie Ihre signierten [!DNL Adobe Device Co-op] Vertrag und Ihre Experience Cloud-Organisations-ID (früher [!DNL IMS org ID]).
-
-So prüfen Sie, ob ein Advertiser-Konto für die Verwendung eines Gerätediagramms für die Attributionsmessung konfiguriert ist:
-
-1. Klicken Sie im Hauptmenü auf **[!UICONTROL Settings]>[!UICONTROL Advertiser]**.
-1. Halten Sie den Cursor über die Advertiser-Zeile und klicken Sie auf **[!UICONTROL Edit]**.
-1. Im [!UICONTROL Integrations] -Abschnitt der Advertiser-Einstellungen, überprüfen Sie, ob die [!UICONTROL Cross-Device Attribution] -Einstellung aktiv ist.
-
-   Bei aktiven Integrationen wird das Gerätediagramm angezeigt.
+Wenden Sie sich an Ihren [!DNL Adobe] Account-Team.
 
 ### Einrichten von Konversionsberichten für die geräteübergreifende Konversionszuordnung
 

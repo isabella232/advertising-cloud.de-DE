@@ -3,7 +3,7 @@ title: Über Adobe Advertising Cloud DSP
 description: Über Adobe Advertising Cloud DSP
 feature: DSP Introduction
 exl-id: def006b2-eb51-4942-b277-a2e673bccc7f
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Adobe Advertising Cloud DSP steigert die Medienstrategien von Werbetreibenden du
 
 * [**Optimierung**](features/optimization.md): Unser neues Ziel für die Kampagnenverwaltung, [!DNL Campaign Home]bietet Ihnen erweiterte Tools, Sortierung und Einblicke, um Ihre Kampagnen schneller als je zuvor zu optimieren. Darüber hinaus prognostizieren Prognosen und Ausgabenempfehlungen die Strategien, die voraussichtlich eine gute Leistung erbringen werden, nicht notwendigerweise die derzeit beste Leistung, sodass Sie mit Daten optimieren können.
 
-* [**Geräteübergreifende Lösungen**](features/cross-device-solutions.md): Advertising Cloud DSP-Integrationen mit [!DNL LiveRamp] und [!DNL Adobe Device Co-Op] ermöglichen es Ihnen, Ihre Zielgruppe auf alle bekannten Geräte eines Verbrauchers zu erweitern und Frequenzbegrenzungen anzuwenden und die Attribution über diese Geräte hinweg zu messen.
+* [**Geräteübergreifende Lösungen**](features/cross-device-solutions.md): Die Integration von Advertising Cloud DSP mit [!DNL LiveRamp] ermöglicht Ihnen, Ihre Zielgruppe auf alle bekannten Geräte eines Verbrauchers zu erweitern und Frequenzlimitierungen anzuwenden und die Attribution über diese Geräte hinweg zu messen.
 
 * [**Media Quality Suite**](features/brand-safety-media-quality.md): Advertising Cloud DSP verfolgt einen proaktiven Ansatz bei Problemen, die sich auf Ihre Marken- und Werbeinvestitionen auswirken können. Die DSP Medienqualitäts-Suite ist zu 100 % transparent und bietet einen facettenreichen Ansatz, um sicherzustellen, dass die Investitionen des Werbetreibenden geschützt werden. Dazu gehören Markensicherheit, Sichtbarkeit, Betrugsschutz und [!DNL Ads.Txt].
 
