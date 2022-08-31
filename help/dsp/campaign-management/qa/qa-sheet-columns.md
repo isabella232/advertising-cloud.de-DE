@@ -3,9 +3,9 @@ title: Spalten in heruntergeladenen/hochgeladenen Arbeitsblättern
 description: Referenzieren Sie die Spalten in heruntergeladenen und hochgeladenen Excel QA-Tabellen.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 0c3984d755131ad98b7ddecfd9567ff4be54b64e
+source-git-commit: a3ddbe1aed444636e7bf45e7d52c8d5ee8ec1382
 workflow-type: tm+mt
-source-wordcount: '751'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 0%
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Included] | Zielgruppenzielgruppen, sofern vorhanden, oder *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Excluded] | die ausgeschlossenen Zielgruppen, sofern angegeben, oder *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Demographic booster] | Ob oder nicht [!DNL Comscore] demografische Segmente sind für die Platzierung (und andere Platzierungen in der Kampagne) aktiviert: *[!UICONTROL ON]* oder *[!UICONTROL OFF]*. Diese Funktion kann nur für Kampagnen aktiviert werden, für die die Variable [!DNL Audience Verification] aktiviert ist für [!DNL Nielsen] und/oder [!DNL Comscore].  Es fallen zusätzliche Gebühren an. | — |
-| [!UICONTROL Audience Targeting] | [!UICONTROL Extend across screens] | Ob das Anzeigen-Targeting geräteübergreifend erweitert werden soll: *[!UICONTROL ON]* oder *[!UICONTROL OFF]*.<!-- Whether or not the Cross Device Targeting setting is enabled for the placement : *ON* or *OFF*. Cross-device targeting extends your targeting across all of a person's known device, per the device graph specified in the campaign settings.--> | — |
+| [!UICONTROL Audience Targeting] | [!UICONTROL Extend across screens] | Ob das Anzeigen-Targeting geräteübergreifend erweitert werden soll: *[!UICONTROL ON]* oder *[!UICONTROL OFF]*. Geräteübergreifendes Targeting erweitert Ihr Targeting auf das gesamte bekannte Gerät einer Person entsprechend dem in den Kampagneneinstellungen angegebenen Gerätediagramm. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Topic Targeting] - Include # | die Anzahl der Zielthema-Codes, sofern vorhanden, oder *[!UICONTROL All]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Topic Targeting - Excluded #] | die Anzahl der ausgeschlossenen Themencodes, sofern vorhanden, oder *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Device Targeting - Included #] | die Anzahl der Zielgeräteziele, sofern vorhanden, oder *[!UICONTROL All]*. | — |

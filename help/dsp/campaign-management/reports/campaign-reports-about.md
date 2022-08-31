@@ -3,7 +3,7 @@ title: Über In-Platform-Berichte
 description: Erfahren Sie mehr über die Berichtsdaten in den Kampagnenverwaltungsansichten.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: 093902d577cc4af3bb18bbeddc640fe284d3a179
 workflow-type: tm+mt
 source-wordcount: '940'
 ht-degree: 0%
@@ -69,7 +69,7 @@ Für jede Platzierung können Sie [Öffnen einer (Detailansicht) [!UICONTROL Ins
 
 * **[!UICONTROL Frequency]:** Daten für jede Anzeigenfrequenzebene für die Platzierung, einschließlich:
    * die Häufigkeit der Anzeige (z. B. &quot;1&quot;für alle Instanzen, in denen Benutzer eine Anzeige einmal gesehen haben);
-   * die geschätzte eindeutige Anzahl von Geräten/Browsern oder Personen (je nach spezifiziertem [!UICONTROL Cross Device Level] für die Platzierung), die Impressionen auf der angegebenen Frequenzebene erhalten haben
+   * die geschätzte eindeutige Anzahl von Geräten/Browsern oder Personen (je nach spezifiziertem [!UICONTROL Cross Device Level] für die Kampagne), die Impressionen auf der festgelegten Frequenzebene erhalten haben
    * die geschätzte Anzahl von Impressionen auf der angegebenen Frequenzebene
    * die geschätzte Durchschnittshäufigkeit für das angegebene Frequenzniveau. Dieser Wert ist gleich (Geschätzte Impressionen)/(Geschätzte Individuen).
 

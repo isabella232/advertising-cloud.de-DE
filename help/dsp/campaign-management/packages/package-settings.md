@@ -3,9 +3,9 @@ title: Paketeinstellungen
 description: Siehe Beschreibungen der verfügbaren Paketeinstellungen.
 feature: DSP Packages
 exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
-source-git-commit: 4a699912468cd89efec0c1da9fdb6302ca93a3b4
+source-git-commit: 7fe6eb31d3330c5470077ca2766c41ae07c6c67f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -73,7 +73,7 @@ Bei Paketen mit benutzerdefiniertem Flight ist das Budgetintervall immer *[!UICO
 >
 >Dieses Feld ist nur ein Benchmark und wird nicht für die Entscheidungsfindung verwendet.
 
-**[!UICONTROL Frequency Cap]:** (Nur Pakete mit Geschwindigkeit auf Paketebene) Die Häufigkeit, mit der ein eindeutiges Gerät oder eine eindeutige Person (abhängig von der angegebenen [!UICONTROL Cross Device Level]) können Anzeigen aus dem Paket bereitgestellt werden. Optionen umfassen *[!UICONTROL Unlimited]* oder einen bestimmten Betrag pro Tag, Woche oder Monat.
+**[!UICONTROL Frequency Cap]:** (Nur Pakete mit Geschwindigkeit auf Paketebene) Die Häufigkeit, mit der ein eindeutiges Gerät oder eine eindeutige Person (abhängig von der angegebenen [!UICONTROL Cross Device Level] für die Kampagne) können Anzeigen aus dem Paket bereitgestellt werden. Optionen umfassen *[!UICONTROL Unlimited]* oder einen bestimmten Betrag pro Tag, Woche oder Monat.
 
 >[!NOTE]
 >
@@ -111,5 +111,5 @@ Geben Sie für jeden Flug das Startdatum, das Enddatum und die Zielanzahl der Im
 >* [Erstellen eines Pakets](package-create.md)
 >* [Bearbeiten eines Pakets](package-edit.md)
 >* [Platzierung an ein Paket anhängen](package-attach-placement.md)
->* [Häufig gestellte Fragen zur Kampagnenverwaltung](/help/dsp/campaign-management/campaign-management-faq.md)
+>* [Häufig gestellte Fragen zu Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 

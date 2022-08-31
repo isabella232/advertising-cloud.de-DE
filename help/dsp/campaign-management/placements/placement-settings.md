@@ -3,9 +3,9 @@ title: Platzierungseinstellungen
 description: Siehe Beschreibungen der verfügbaren Platzierungseinstellungen.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: ef8e13dc5f94ead81191862dbb37c17ae762682d
+source-git-commit: 04586c87f134deaa9a28f57d6f7587f023fd217a
 workflow-type: tm+mt
-source-wordcount: '3301'
+source-wordcount: '3304'
 ht-degree: 0%
 
 ---
@@ -288,7 +288,7 @@ Optional können Sie die Liste der Ziel- und Blockierungssites als CSV-Datei (CS
 
 **[!UICONTROL Cross Device Targeting]:** (Verfügbar, wenn Sie mindestens ein Segment oder eine Zielgruppe auswählen und die [Die Kampagne ist für benutzerbasiertes geräteübergreifendes Targeting konfiguriert.](/help/dsp/campaign-management/campaigns/campaign-settings.md). Ermöglicht die Erweiterung des Targetings auf alle bekannten Geräte einer Person (entsprechend dem in den Kampagneneinstellungen angegebenen Gerätediagramm), auch auf Geräte, die nicht in den angegebenen Segmenten enthalten sind. Die Gebühren können je nach dem für die Kampagne angegebenen Diagramm gelten. Gerätediagrammdaten sind derzeit nur in Nordamerika verfügbar.
 
-**[!UICONTROL Placement Cap]:** (Optional) Die Häufigkeit, mit der ein eindeutiges Gerät oder eine eindeutige Person (je nach [!UICONTROL Cross Device Level]) werden Anzeigen von der Platzierung bereitgestellt. Optionen umfassen *[!UICONTROL Unlimited]* oder einen bestimmten Betrag pro Tag, Woche oder Monat.
+**[!UICONTROL Placement Cap]:** (Optional) Die Häufigkeit, mit der ein eindeutiges Gerät oder eine eindeutige Person (je nach [!UICONTROL Cross Device Level] für die Kampagne) werden Anzeigen aus der Platzierung bereitgestellt. Optionen umfassen *[!UICONTROL Unlimited]* oder einen bestimmten Betrag pro Tag, Woche oder Monat.
 
 >[!NOTE]
 >
