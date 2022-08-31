@@ -3,9 +3,9 @@ title: Benutzerdefinierte Berichtseinstellungen
 description: Siehe Beschreibungen der benutzerdefinierten Berichtseinstellungen.
 feature: DSP Custom Reports
 exl-id: 1d37fc96-0f9b-4eb2-ba8d-9534f627adaf
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 4e389d687f8974028181a03534aff1abf6b43831
 workflow-type: tm+mt
-source-wordcount: '1129'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -88,18 +88,6 @@ Gehen Sie wie folgt vor, um einen oder mehrere Filter anzuwenden:
 * *[!UICONTROL With Clicks (CT)]:* Umfasst nur Konversionen, die Klicks zugeordnet sind.
 
 * *[!UICONTROL Impressions Only (VT)]:* Umfasst nur Konversionen, die Impressionen zugeordnet wurden, da im Konversionspfad keine Klicks verfolgt wurden.
-
-**[!UICONTROL Cross Device Level]:**  (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]und [!UICONTROL Site] Berichte mit [!UICONTROL Conversion Metrics] oder [!UICONTROL Custom Goals] Spalten; nur für Advertiser mit geräteübergreifender Attribution anwendbar) Die Ebene, auf der Konversionen verfolgt werden sollen: *[!UICONTROL People]* oder *[!UICONTROL Household]*.
-
-Weitere Informationen [geräteübergreifende Lösungen](/help/dsp/introduction/features/cross-device-solutions.md).
-
-**[!UICONTROL Cross-Device Breakout]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]und [!UICONTROL Site] Berichte mit [!UICONTROL Conversion Metrics] oder [!UICONTROL Custom Goals] Spalten; gilt nur für Advertiser mit geräteübergreifender Attribution) Der Detaillierungsgrad der geräteübergreifenden Konversionen, die in den Bericht aufgenommen werden sollen. Wenn Sie eine detaillierte Aufschlüsselung wünschen, können Sie bis zu drei Ebenen wählen, von denen jede in eine eigene Spalte aufgenommen wird.
-
-* *[!UICONTROL Total People (TP)]:* Umfasst die Gesamtkonversionen, die sowohl Konversionen mit demselben Gerät als auch geräteübergreifende Konversionen enthalten (falls zutreffend). Im Bericht heißt es: &quot;[!UICONTROL (tp)]&quot; wird an den Namen der Konversionsmetrik und den Regeltyp angehängt.
-
-* *[!UICONTROL Same Device (SD)]:* Umfasst nur Konversionen, für die im Konversionspfad nur ein einziges Gerät verfolgt wurde. Im Bericht heißt es: &quot;[!UICONTROL (sd)]&quot; wird an den Namen der Konversionsmetrik und den Regeltyp angehängt.
-
-* *[!UICONTROL Cross Device (XD)]:* Umfasst nur Konversionen, für die im Konversionspfad mehr als ein Gerät verfolgt wurde. Im Bericht heißt es: &quot;[!UICONTROL (xd)]&quot; wird an den Namen der Konversionsmetrik und den Regeltyp angehängt.
 
 **[!UICONTROL Conversion Reporting Based On]:**  So melden Sie Konversionsdaten:
 
