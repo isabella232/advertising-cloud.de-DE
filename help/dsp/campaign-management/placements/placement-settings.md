@@ -3,9 +3,9 @@ title: Platzierungseinstellungen
 description: Siehe Beschreibungen der verfügbaren Platzierungseinstellungen.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 04586c87f134deaa9a28f57d6f7587f023fd217a
+source-git-commit: 7bbeb3013ad7cd84bf3a25f5ebf8b16a82a6f591
 workflow-type: tm+mt
-source-wordcount: '3304'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -96,13 +96,25 @@ Siehe Beschreibungen der einzelnen Filter vor dem Angebot unter[Vorab-Angebotsfi
 
 **[!UICONTROL Max Bid]:** Das Maximum für 1000 Impressionen.
 
-**[!UICONTROL Pacing Fill Strategy]:** (Nur Pakete mit Geschwindigkeit auf Paketebene) So beschleunigen Sie die Anzeigenbereitstellung:
+**[!UICONTROL Flight pacing]:** (Nur Platzierungen mit Platzierungsebenen-Geschwindigkeit) So beschleunigen Sie die Anzeigenbereitstellung:
 
 * *[!UICONTROL Even]:* (Standardeinstellung) Die Auslieferung erfolgt gleichmäßig über jeden Flug hinweg, wobei die Zielgruppe 50 % des Versands in der ersten Flughälfte beträgt.
+
+* *[!UICONTROL Slightly Ahead]:* (Standardeinstellung) Beschleunigt den Versand, sodass er 55-65 % vollständig während der gesamten Flugdauer ist.
 
 * *[!UICONTROL Frontload]:* Beschleunigt den Versand, sodass er zur Hälfte des Fluges zu 65-75 % vollständig ist.
 
 * *[!UICONTROL Aggressive Frontload]:* Beschleunigt die Auslieferung, sodass 75-85 % der gesamten Flugzeit vollständig sind.
+
+**[!UICONTROL Intraday pacing]:** (Nur Platzierungen mit Platzierungsebenen-Geschwindigkeit) So beschleunigen Sie die Anzeigenbereitstellung über jeden Tag innerhalb des Fluges:
+
+* *[!UICONTROL Even]:* (Standard) Skaliert die Bereitstellung auf der Grundlage der Lagerverfügbarkeit. Im Allgemeinen werden pro Stunde mehr Anzeigen zur Verfügung gestellt, wenn das Auktionsvolumen höher ist, und morgens und abends weniger Anzeigen geliefert.
+
+* *[!UICONTROL ASAP]:* (Standardeinstellung) Beschleunigt die Bereitstellung auf die doppelte Geschwindigkeit von *Sogar*.
+
+   >[!CAUTION]
+   >
+   >Diese Option kann sich negativ auf die Leistung auswirken. Verwenden Sie diese Option nur, wenn Sie die Bereitstellung vollständig priorisieren und die Leistungsoptimierung vorziehen.
 
 **[!UICONTROL Placement Pre-bid Filters]:** (Optional) Bis zu fünf Filter, die erfüllt sein müssen, damit Angebote unterbreitet werden können. Sie können als Optimierungstaktiken Vorgebotsfilter verwenden. Beachten Sie jedoch, dass jede Regel die Möglichkeiten einschränken kann, für die diese Platzierung Gebote abgeben kann. So fügen Sie Filter hinzu oder bearbeiten sie:
 

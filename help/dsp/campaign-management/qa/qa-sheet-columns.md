@@ -3,9 +3,9 @@ title: Spalten in heruntergeladenen/hochgeladenen Arbeitsblättern
 description: Referenzieren Sie die Spalten in heruntergeladenen und hochgeladenen Excel QA-Tabellen.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: a3ddbe1aed444636e7bf45e7d52c8d5ee8ec1382
+source-git-commit: 3bec820ee1ae9bc4d3bf0ea31e3577730c980eb9
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 0%
 | [!UICONTROL Goals] | [!UICONTROL Optimization Target] | Der Zielwert des Ziels. | — |
 | [!UICONTROL Goals] | [!UICONTROL Pace on] | Ob die Platzierung in Richtung *[!UICONTROL Budget]* oder *[!UICONTROL Impressions]*. | — |
 | [!UICONTROL Goals] | [!UICONTROL Max Bid] | Das Höchstangebot für die Platzierung. | Ja |
-| [!UICONTROL Goals] | [!UICONTROL Pacing Fill Strategy] | Die Strategie für die Platzierung mit Geschwindigkeit: *[!UICONTROL evenly]*, *[!UICONTROL frontload]* oder *[!UICONTROL aggressive frontload]*. | Ja |
+| [!UICONTROL Goals] | [!UICONTROL Flight Pacing] | Die Flugplatzierungsstrategie für die Platzierung: *[!UICONTROL evenly]*, *[!UICONTROL frontload]* oder *[!UICONTROL aggressive frontload]*. | Ja |
 | [!UICONTROL Goals] | [!UICONTROL  Pre-Bid Filters] | Alle anzuwendenden Filterkriterien vor dem Angebot. | — |
 | [!UICONTROL Goals] | [!UICONTROL Bidding Rules] | Ob Angebotsregeln (nicht mehr unterstützt) *[!UICONTROL ON]* oder *[!UICONTROL OFF]*. | — |
 | [!UICONTROL Goals] | [!UICONTROL Frequency Cap] | Die primäre Frequenzbegrenzung für die Platzierung während der angegebenen [!UICONTROL Frequency Cap Interval]. | Ja |

@@ -3,9 +3,9 @@ title: Best Practices zum Einrichten von Leistungskampagnen
 description: Lernen Sie Best Practices für die Einrichtung Ihrer leistungsorientierten Kampagnen kennen, darunter Platzierungen, die für den niedrigsten CPA oder den höchsten ROAS optimiert sind.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 1fd95b3193fba50ce7cd85b2ad6256a0ba346011
 workflow-type: tm+mt
-source-wordcount: '1232'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,11 @@ Verwenden Sie außerdem die folgenden Einstellungen.
    * Wenn ein neues Paket dasselbe Ziel wie ein vorhandenes Paket hat, können Sie optional das vorhandene Paket verknüpfen, damit der Algorithmus die vorhandenen Daten des maschinellen Lernens verwenden kann.
    * Geben Sie die entsprechende [!UICONTROL Target CPA] oder [!UICONTROL Target ROAS].
 
-* **Pacing-Fill-Strategie:** Auswählen *[!UICONTROL Even]* um Ihre Leistungsziele durch gleichmäßiges Fahren während des gesamten Flugdatums zu maximieren.
+* **Flug-Geschwindigkeit und Intraday-Geschwindigkeit:** Wählen Sie für beide Arten von Geschwindigkeit *[!UICONTROL Even]* um Ihre Leistungsziele zu maximieren, indem Sie gleichmäßig über jeden Tag und während des gesamten Fluges fahren.
 
-   Verwendung *[!UICONTROL FrontLoad]* und *[!UICONTROL Aggressive Front Load]* Geschwindigkeit nur zu erreichen, wenn Sie die Bereitstellung vollständig priorisieren und Ausgaben für die Leistungsoptimierung verwenden, da diese Strategien Ihre gewünschten Leistungs-KPIs negativ beeinflussen können.
+   >[!CAUTION]
+   >
+   >Verwendung *[!UICONTROL FrontLoad]* und *[!UICONTROL Aggressive Front Load]* für Flugplatzierungen und *[!UICONTROL ASAP]* Geschwindigkeit für die Intraday-Geschwindigkeit nur dann, wenn Sie die Bereitstellung vollständig priorisieren und Ausgaben der Leistungsoptimierung überlassen, da diese Strategien Ihre gewünschten Performance-KPIs negativ beeinflussen können.
 
 ## Schritt 4: Erstellen einer Platzierungsstruktur
 

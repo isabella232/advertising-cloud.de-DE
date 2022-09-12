@@ -3,9 +3,9 @@ title: Paketeinstellungen
 description: Siehe Beschreibungen der verfügbaren Paketeinstellungen.
 feature: DSP Packages
 exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
-source-git-commit: 7fe6eb31d3330c5470077ca2766c41ae07c6c67f
+source-git-commit: 6331166f563e1404c077eb848eed049b4eb0706d
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -88,16 +88,25 @@ Bei Paketen mit benutzerdefiniertem Flight ist das Budgetintervall immer *[!UICO
 
 * *[!UICONTROL Impressions]:* Diese Option liefert Impressionen, bis eine angegebene Menge innerhalb eines bestimmten Intervalls erreicht wird. Wenn Sie diese Option auswählen, geben Sie die Anzahl der Impressionen und das Intervall an: *Ganzzeit,* *[!UICONTROL Daily],* *[!UICONTROL Monthly],* oder *[!UICONTROL Weekly]*.
 
-**[!UICONTROL Pacing Fill Strategy]:** (Nur Pakete mit Geschwindigkeit auf Paketebene) So beschleunigen Sie die Anzeigenbereitstellung:
+**[!UICONTROL Flight pacing]:** (Nur Pakete mit Geschwindigkeit auf Paketebene) So beschleunigen Sie die Bereitstellung von Anzeigen über den gesamten Flug:
 
 * *[!UICONTROL Even]:* Ermöglicht die gleichmäßige Bereitstellung während jedes Fluges mit einer Zielvorgabe von 50 % des Versands in der ersten Hälfte des Fluges.
 
 * *[!UICONTROL Slightly Ahead]:* (Standardeinstellung) Beschleunigt den Versand, sodass er 55-65 % vollständig während der gesamten Flugdauer ist.
 
-<!-- replaced with ASAP -->
 * *[!UICONTROL Frontload]:* Beschleunigen Sie den Versand, sodass er 65-75 % vollständig während des Fluges ist.
 
 * *[!UICONTROL Aggressive Frontload]:* Beschleunigt den Versand, sodass 75-85 % des gesamten Fluges vollständig sind.
+
+**[!UICONTROL Intraday pacing]:** (Nur Pakete mit Geschwindigkeit auf Paketebene) So beschleunigen Sie die Bereitstellung von Anzeigen über jeden Tag innerhalb des Fluges:
+
+* *[!UICONTROL Even]:* (Standard) Skaliert die Bereitstellung auf der Grundlage der Lagerverfügbarkeit. Im Allgemeinen werden pro Stunde mehr Anzeigen zur Verfügung gestellt, wenn das Auktionsvolumen höher ist, und morgens und abends weniger Anzeigen geliefert.
+
+* *[!UICONTROL ASAP]:* Beschleunigt die Bereitstellung auf die doppelte Geschwindigkeit von *Sogar*.
+
+   >[!CAUTION]
+   >
+   >Diese Option kann sich negativ auf die Leistung auswirken. Verwenden Sie diese Option nur, wenn Sie die Bereitstellung vollständig priorisieren und die Leistungsoptimierung vorziehen.
 
 ## [!UICONTROL Flighting]
 
