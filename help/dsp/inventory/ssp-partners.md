@@ -3,9 +3,9 @@ title: SSP-Partner
 description: Sehen Sie sich eine Liste der verfügbaren angebotsseitigen Plattformen (SSP) und offenen Austauschpartner an.
 feature: DSP Private Inventory
 exl-id: 8487f4ce-0232-4145-ad8b-b0631fd0ab7f
-source-git-commit: c34487bef4504f5187bfe28e87f6114ec01ff489
+source-git-commit: 7674ed62cf0e3f44dabbf153bbb3fadd38495b2e
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Eine angebotsseitige Plattform (Supply-Side Platform, SSP) ist eine Plattform f�
 | [!DNL SmartClip] |  | Adobe Advertising Cloud | Nein | EMEA | Alle Währungen | x | x | x | x | x |  |  |
 | [!DNL SmartStream] |  | Adobe Advertising Cloud | Nein | EMEA | EUR, USD | x | x |  |  |  |  |  |
 | [!DNL Sortable] |  | Adobe Advertising Cloud | Nein | CA | USD |  |  |  | x | x |  |  |
-| [!DNL Soundcast Audio] |  |  |  |  |  |  |  |  |  |  |  |  |
+| [!DNL Soundcast] |  | Adobe Advertising Cloud | Ja | Global | EUR, USD |  |  |  |  |  |  | x |
 | [!DNL SpotX] | [!DNL Magnite] (früher [!DNL Telaria] und [!DNL Tremor]) | [!DNL TubeMogul] oder Adobe Advertising Cloud | Ja | Global | USD | x | x | x |  |  |  |  |
 | [!DNL Stroer] |  | Adobe Advertising Cloud | Nein | EMEA | USD | x | x |  | x | x |  |  |
 | [!DNL Taboola] |  | Adobe Advertising Cloud | Nein | US/CA | USD | x | x |  |  |  |  |  |
