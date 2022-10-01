@@ -8,9 +8,9 @@ user-guide-title: Handbuch zu Advertising Cloud DSP
 user-guide-description: Erfahren Sie mehr über die wichtigsten Funktionen, Aufgaben, Einstellungen und andere Ressourcen, die für die Verwaltung, Optimierung und Berichterstellung für Ihre Strategien rund um Display-Anzeigen mit Advertising Cloud DSP erforderlich sind.
 breadcrumb-title: Handbuch zu DSP
 index: true
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: ea9c5ba9263be2c1607d682ac035caae70621020
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '936'
 ht-degree: 6%
 
 ---
@@ -135,8 +135,19 @@ ht-degree: 6%
          + [Info [!UICONTROL CCPA Opt-out-of-Sale] Segmente](/help/dsp/audiences/ccpa-opt-out-about.md)
          + [Erstellen und Implementieren eines [!UICONTROL CCPA Opt-out-of-Sale] Segment](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
          + [Abrufen [!UICONTROL Consumer Opt-Out-of-Sale] Berichte](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
+      + [Segmentinformationen bearbeiten](/help/dsp/audiences/segment-edit.md)
+      + [Freigeben oder Beenden der Freigabe eines Segments](/help/dsp/audiences/segment-share.md)
+      + [Anzeigen von Tracking-Pixeln für ein Segment](/help/dsp/audiences/segment-view-pixels.md)
+      + [Löschen eines Segments](/help/dsp/audiences/segment-delete.md)
    + Verwalten von Audiences {#reusable-audiences}
       + [Wiederverwendbare Zielgruppe erstellen](/help/dsp/audiences/reusable-audience-create.md)
+      + [Duplizieren einer wiederverwendbaren Zielgruppe](/help/dsp/audiences/reusable-audience-duplicate.md)
+      + [Eine wiederverwendbare Zielgruppe bearbeiten](/help/dsp/audiences/reusable-audience-edit.md)
+      + [Details zu einer wiederverwendbaren Zielgruppe anzeigen](/help/dsp/audiences/reusable-audience-view-details.md)
+      + [Wiederverwendbare Zielgruppe freigeben](/help/dsp/audiences/reusable-audience-share.md)
+      + [Wiederverwendbare Zielgruppe exportieren](/help/dsp/audiences/reusable-audience-export.md)
+      + [Kopieren Sie den Segmentschlüssel für eine wiederverwendbare Zielgruppe in die Zwischenablage.](/help/dsp/audiences/reusable-audience-clipboard.md)
+      + [Eine wiederverwendbare Zielgruppe löschen](/help/dsp/audiences/reusable-audience-delete.md)
       + [Zielgruppeneinstellungen](/help/dsp/audiences/audience-settings.md)
       + [Syntax für Zielgruppensegmentlogik](/help/dsp/audiences/audience-segment-logic-syntax.md)
    + Quellen verwalten {#sources}
