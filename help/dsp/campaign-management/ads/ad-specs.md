@@ -3,7 +3,7 @@ title: Anzeigenspezifikationen
 description: Verweisen Sie auf allgemeine und Publisher-spezifische Anzeigenspezifikationen.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: 40228a7de376cd4884d4cf7141c75516bc1a97ec
+source-git-commit: 8bc43253f15859c3b7dd7441fcbb4f34ecc98566
 workflow-type: tm+mt
 source-wordcount: '841'
 ht-degree: 0%
@@ -116,36 +116,36 @@ Sie können Tag-Arbeitsblätter aus [!DNL DCM], [!DNL Flashtalking], [!DNL Innov
 
 #### Zusätzliche Anforderungen an Publisher
 
-* **[!DNL Spotify]**
-   * Länge: Bis zu 30 Sekunden
-   * Dateityp: OGG
-   * Maximale Dateigröße: 500 MB
-   * Volumen: RMS normalisiert auf -14; dBFS-Spitzenwert normalisiert auf -0,2 dBFS
-
-* **[!DNL SoundCloud]**
-   * Länge: 6, 15 oder 30 Sekunden
-   * Dateityp: MP3
-   * Maximale Dateigröße: 5 MB
-
-* **[!DNL Pandora]**
-   * Länge: 15 oder 30 Sekunden
-   * Dateityp: MP4 (in-App), MP3 (Desktop)
-   * Maximale Dateigröße: 2,2 MB
-
-* **[!DNL TuneIn]**
-   * Länge: 10, 15 oder 30 Sekunden
-   * Dateityp: MP3, OGG
-   * Volumen: 44.1 kHz
-
 * **[!DNL iHeartRadio]**
    * Länge: 5, 15, 30 oder 60 Sekunden
    * Dateityp: MP3
    * Maximale Dateigröße: 320 kBit/s
    * Volumen: 44.1 kHz
 
+* **[!DNL Pandora]**
+   * Länge: 15 oder 30 Sekunden
+   * Dateityp: MP4 (in-App), MP3 (Desktop)
+   * Maximale Dateigröße: 2,2 MB
+
+* **[!DNL SoundCloud]**
+   * Länge: 6, 15 oder 30 Sekunden
+   * Dateityp: MP3
+   * Maximale Dateigröße: 5 MB
+
+* **[!DNL Spotify]**
+   * Länge: Bis zu 30 Sekunden
+   * Dateityp: OGG
+   * Maximale Dateigröße: 500 MB
+   * Volumen: RMS normalisiert auf -14; dBFS-Spitzenwert normalisiert auf -0,2 dBFS
+
 * **[!DNL TargetSpot]**
    * Länge: 15, 30 oder 60 Sekunden
    * Dateityp: MP3
+
+* **[!DNL TuneIn]**
+   * Länge: 10, 15 oder 30 Sekunden
+   * Dateityp: MP3, OGG
+   * Volumen: 44.1 kHz
 
 ### Anforderungen für begleitende Banneranzeigen (optional)
 
@@ -153,29 +153,29 @@ Sie können Tag-Arbeitsblätter aus [!DNL DCM], [!DNL Flashtalking], [!DNL Innov
 
 #### Zusätzliche Anforderungen an Publisher
 
-* **[!DNL Spotify]:**
-   * Dateityp: Statische JPG, PNG
-   * Maximale Dateigröße: 200 KB
+* **[!DNL iHeartRadio]:**
+   * Dateityp: JPEG, JPG, PNG, GIF, SWF, HTML
+   * Maximale Dateigröße: 2,2 MB
    * Dimensionen: 300 x 250
-
-* **[!DNL SoundCloud]:**
-   * Dateityp: Statische JPG, PNG
-   * Maximale Dateigröße: Unter 400 KB
-   * Dimensionen: 1024 x 1024
 
 * **[!DNL Pandora]:**
    * Dateityp: JPEG, GIF
    * Maximale Dateigröße: Größe: 100 KB
    * Dimensionen: 300 x 250 (Mobil oder Desktop) oder 500 x 500 (Desktop)
 
+* **[!DNL SoundCloud]:**
+   * Dateityp: Statische JPG, PNG
+   * Maximale Dateigröße: Unter 400 KB
+   * Dimensionen: 1024 x 1024
+
+* **[!DNL Spotify]:**
+   * Dateityp: Statische JPG, PNG
+   * Maximale Dateigröße: 200 KB
+   * Dimensionen: 300 x 250
+
 * **[!DNL TuneIn]:**
    * Dateityp: JPEG, JPG, PNG, GIF, HTML
    * Maximale Dateigröße: 2 MB
-   * Dimensionen: 300 x 250
-
-* **[!DNL iHeartRadio]:**
-   * Dateityp: JPEG, JPG, PNG, GIF, SWF, HTML
-   * Maximale Dateigröße: 2,2 MB
    * Dimensionen: 300 x 250
  
 
