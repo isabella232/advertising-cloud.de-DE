@@ -3,9 +3,9 @@ title: Anzeigenspezifikationen
 description: Verweisen Sie auf allgemeine und Publisher-spezifische Anzeigenspezifikationen.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: 3c5a114339c2bf41637027c8580316626656fbba
+source-git-commit: 40228a7de376cd4884d4cf7141c75516bc1a97ec
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '841'
 ht-degree: 0%
 
 ---
@@ -54,15 +54,13 @@ Sie können Tag-Arbeitsblätter aus [!DNL DCM], [!DNL Flashtalking], [!DNL Innov
 
 #### Zusätzliche Anforderungen an Publisher für vernetzte TV-Anzeigen
 
-* **Hulu:** Siehe Hulu&#39;s [Anzeigenspezifikationen](https://advertising.hulu.com/ad-products/video-commercial/).
-
-* **Paramount:** Siehe Paramount [Anzeigenspezifikationen](https://www.paramount.com/digital-ads).
+* **A+E-Netzwerk:** Siehe A+E-Netzwerke [Anzeigenspezifikationen](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
 
 * **Erkennung:** Siehe Erkennung [Anzeigenspezifikationen](/help/dsp/assets/discovery-networks-ad-specs.pdf).
 
-* **HBO Max.:** Siehe HBO Max&#39;s [Anzeigenspezifikationen](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
+* **Disney (einschl. Hulu):** Siehe Disney&#39;s [Anzeigenspezifikationen](https://hulu.disneyadsales.com/ad-products/video-commercial/).
 
-* **A+E-Netzwerk:** Siehe A+E-Netzwerke [Anzeigenspezifikationen](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
+* **HBO Max.:** Siehe HBO Max&#39;s [Anzeigenspezifikationen](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
 
 * **NBCUniversal:**
 
@@ -72,32 +70,7 @@ Sie können Tag-Arbeitsblätter aus [!DNL DCM], [!DNL Flashtalking], [!DNL Innov
 
    * [Pfau](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
 
-* **Disney:**
-
-   * ESPN-Livestreaming:
-
-      **Bit-Rate:** > 14000 Kbit/s
-      **Format:** .mp4
-      **Tag-Typ:** VAST 2.0
-      **Kreative Größe:** 1280x720 oder 1920x1080
-
-   * Vollständige Programmierung (FEP): ESPN, ABC, Freeform, Nat Geo und FX
-
-      * **Bit-Rate:** > 14000 Kbit/s:
-
-         **Format:** .mp4
-
-         **Tag-Typ:** VAST 2.0
-
-         **Kreative Größe:** 1280x720 oder 1920x1080
-
-      * **Bit-Rate:** > 1000 kBit/s (niedrige Auflösung) oder 15000 kBit/s (hohe Auflösung):
-
-         **Format:** .mp4
-
-         **Tag-Typ:** VAST 2.0 (VPAID 1.0 nur auf dem Desktop)
-
-         **Kreative Größe:** 1280x720 oder 1920x1080
+* **Paramount:** Siehe Paramount [Anzeigenspezifikationen](https://www.paramount.com/digital-ads).
 
 ## Display-Anzeigen
 
