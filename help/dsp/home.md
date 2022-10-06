@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: a3f676bd085571392a4add32f69fe0da4d4ae912
+source-git-commit: 3c951d738d5ef571b8f762df1f89ebd0360cd0f6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Die folgenden Funktionen sind neu oder kürzlich geändert worden.
 
 | Datum | Funktion | Beschreibung | Weitere Informationen |
 | ---- | ------- | ----------- | -------------------- |
+| 6. Oktober 2022 | Kampagnen | Für die Kampagnenansichten stehen neue pacing-bezogene Metrikspalten zur Verfügung: &quot;OTS von gestern&quot;(für Zielausgaben), &quot;Versand von gestern&quot;, &quot;Ziel von gestern&quot;, &quot;OTS von heute&quot;(für Zielausgaben), &quot;Versand von heute&quot;und &quot;Ziel von heute&quot;. | Siehe[Benutzerdefinierte Spaltenansicht erstellen](/help/dsp/campaign-management/reports/column-view-create.md)&quot; und &quot;[Bearbeiten einer benutzerdefinierten Spaltenansicht](/help/dsp/campaign-management/reports/column-view-edit.md).&quot; |
 | 12. September 2022 | Paket- und Platzierungs-Geschwindigkeit | Für das Flug- und das Intraday-Fahren stehen nun separate Geschwindigkeitskontrollen zur Verfügung. Zuvor wurde beides durch eine einzige Strategie gesteuert. Die Einstellungen für Ihre vorhandenen Pakete und Platzierungen wurden wie folgt zugeordnet:<ul><li>Veraltet **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Even]* — Jetzt konfiguriert als **[!UICONTROL Flight pacing]**=*[!UICONTROL Even]* und **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>Veraltet **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Slightly Ahead]* — Jetzt konfiguriert als **[!UICONTROL Flight pacing]**=*[!UICONTROL Slightly Ahead]* und **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>Veraltet **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Frontload]* — Jetzt konfiguriert als **[!UICONTROL Flight pacing]**=*[!UICONTROL Frontload]* und **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li><li>Veraltet **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Aggressive Frontload]* — Jetzt konfiguriert als **[!UICONTROL Flight pacing]**=*[!UICONTROL Aggressive Frontload]* und **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li></ul> | Siehe[Paketeinstellungen](/help/dsp/campaign-management/packages/package-settings.md)&quot; und &quot;[Platzierungseinstellungen](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
 | 27. Juli 2022 | Bestand | Auction Insights ist ein neues Tool zur Fehlerbehebung, mit dem Sie die Zusammensetzung der Geschäfte sowohl garantierter als auch nicht garantierter privater Geschäfte analysieren können. Mithilfe von Datenvisualisierungen zeigt dieses Tool den Trend und die relativen Anteile der Werte an, die innerhalb eines bestimmten Zeitraums für wichtige Auktionsattribute empfangen wurden.<br><br>Mit Transparenz bei Angebotsanforderungsdaten von Herausgebern können Sie zeitaufwendige Schritte zur Fehlerbehebung vermeiden. | Siehe[Anzeigen von Auktionseinblicken für ein privates Geschäft](/help/dsp/inventory/private-deal-auction-insights.md).&quot; |
 | 29. Juni 2022 | Bestand | Die neue [!UICONTROL Inventory] > [!UICONTROL Deals] Die Ansicht enthält dieselben Datenanpassungsfunktionen wie die [!UICONTROL Campaigns] Ansichten, einschließlich zusätzlicher Filter, Spaltenanpassung und der Option zum Speichern benutzerdefinierter Ansichten, Spaltensortierung und einer Datenvisualisierungsansicht (Diagramm). Sie können ein Befehlsmenü in jeder Zeile öffnen, indem Sie auf [!UICONTROL ...] nach dem Namen des Deals. | Siehe[Übersicht über die Funktionen des Bestands](/help/dsp/inventory/inventory-overview.md).&quot; |
