@@ -3,7 +3,7 @@ title: Von verwendete Advertising Cloud IDs [!DNL Analytics]
 description: Von verwendete Advertising Cloud IDs [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 8f0765251234b09eddaee721018285aee6b44b6a
+source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 *Gilt für Advertising Cloud DSP und Advertising Cloud Search*
 
-Advertising Cloud verwendet zwei IDs für die Leistungsverfolgung vor Ort: die *EF ID* und *AMO-ID*.
+Advertising Cloud verwendet zwei IDs für das On-site-Leistungs-Tracking: die *EF ID* und *AMO-ID*.
 
 Wenn eine Ad-Impression auftritt, erstellt Advertising Cloud die AMO-ID- und EF-ID-Werte und speichert sie. Wenn ein Besucher, der eine Anzeige gesehen hat, auf die Site gelangt, ohne auf eine Anzeige zu klicken, [!DNL Analytics] ruft diese Werte von Advertising Cloud über [!DNL Analytics for Advertising Cloud] JavaScript-Code. Für Durchsichts-Traffic: [!DNL Analytics] generiert eine zusätzliche ID (`SDID`), das zum Zuordnen der EF ID und AMO ID zu verwendet wird [!DNL Analytics]. Für Clickthrough-Traffic werden diese IDs mithilfe der `s_kwcid` und `ef_id` Abfragezeichenfolgenparameter.
 
@@ -171,7 +171,7 @@ Für alle Berichte oder Prüfungen innerhalb von [!DNL Analytics]Best Practice i
 
 ## Informationen zu Analytics Classifications
 
-In [!DNL Analytics], [Classification](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) ist ein Metadatenelement für einen bestimmten Trackingcode, z. B. Konto, Kampagne oder Anzeige. Advertising Cloud kategorisiert Advertising Cloud-Rohdaten mithilfe von Klassifizierungen, damit Sie die Daten beim Generieren von Berichten auf unterschiedliche Weise anzeigen können (z. B. nach Anzeigentyp oder Kampagne). Klassifizierungen bilden die Grundlage für die Advertising Cloud-Berichterstellung in [!DNL Analytics] und kann mit den AMO-Metriken verwendet werden, z. B. [!UICONTROL AMO Cost], [!UICONTROL AMO Impressions]und [!UICONTROL AMO Clicks]sowie mit benutzerspezifischen und standardmäßigen Onsite-Ereignissen wie [!UICONTROL Visits], [!UICONTROL Leads], [!UICONTROL Orders]und [!UICONTROL Revenue].
+In [!DNL Analytics], [Classification](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) ist ein Metadatenelement für einen bestimmten Trackingcode, z. B. Konto, Kampagne oder Anzeige. Advertising Cloud kategorisiert Advertising Cloud-Rohdaten mithilfe von Klassifizierungen, damit Sie die Daten beim Generieren von Berichten auf unterschiedliche Weise anzeigen können (z. B. nach Anzeigentyp oder Kampagne). Klassifizierungen bilden die Grundlage für die Advertising Cloud-Berichterstellung in [!DNL Analytics] und kann mit den AMO-Metriken verwendet werden, z. B. [!UICONTROL AMO Cost], [!UICONTROL AMO Impressions]und [!UICONTROL AMO Clicks]sowie mit benutzerspezifischen und standardmäßigen On-site-Ereignissen wie [!UICONTROL Visits], [!UICONTROL Leads], [!UICONTROL Orders]und [!UICONTROL Revenue].
 
 >[!MORELIKETHIS]
 >

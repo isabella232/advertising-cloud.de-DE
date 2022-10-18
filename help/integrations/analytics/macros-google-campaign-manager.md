@@ -3,9 +3,9 @@ title: Anhängen [!DNL Analytics for Advertising Cloud] Makros zu [!DNL Google C
 description: Erfahren Sie, warum und wie Sie [!DNL Analytics for Advertising Cloud] Makros für Ihre [!DNL Google Campaign Manager 360] Anzeigen-Tags
 feature: Integration with Adobe Analytics
 exl-id: 05084a85-5890-4a82-b3eb-4520f44f9d66
-source-git-commit: c7716aa6f953cda7b03bce85dc85842f25d41172
+source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

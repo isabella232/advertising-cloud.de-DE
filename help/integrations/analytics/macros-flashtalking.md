@@ -2,9 +2,10 @@
 title: Anhängen [!DNL Analytics for Advertising Cloud] Makros zu [!DNL Flashtalking] Anzeigen-Tags
 description: Erfahren Sie, warum und wie Sie [!DNL Analytics for Advertising Cloud] Makros für Ihre [!DNL Flashtalking] Anzeigen-Tags
 feature: Integration with Adobe Analytics
-source-git-commit: c95dc72fa42b47ecea0c27bd59a2df4cd9c20233
+exl-id: 4b060668-723c-4cd2-b70e-409501ec67de
+source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
