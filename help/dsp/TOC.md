@@ -8,9 +8,9 @@ user-guide-title: Handbuch zu Advertising Cloud DSP
 user-guide-description: Erfahren Sie mehr über die wichtigsten Funktionen, Aufgaben, Einstellungen und andere Ressourcen, die für die Verwaltung, Optimierung und Berichterstellung für Ihre Strategien rund um Display-Anzeigen mit Advertising Cloud DSP erforderlich sind.
 breadcrumb-title: Handbuch zu DSP
 index: true
-source-git-commit: ea9c5ba9263be2c1607d682ac035caae70621020
+source-git-commit: 8db395fce0006ce300b3e588c205ca9c87e30fb2
 workflow-type: tm+mt
-source-wordcount: '936'
+source-wordcount: '950'
 ht-degree: 6%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 6%
       + [Package duplizieren](/help/dsp/campaign-management/packages/package-duplicate.md)
       + [Platzierung an ein Paket anhängen](/help/dsp/campaign-management/packages/package-attach-placement.md)
       + [Archivieren oder Archivieren eines Pakets aufheben](/help/dsp/campaign-management/packages/package-archive-unarchive.md)
+      + [Anzeigen des Änderungsprotokolls für ein Paket](/help/dsp/campaign-management/packages/package-change-log.md)
       + [Paketeinstellungen](/help/dsp/campaign-management/packages/package-settings.md)
    + Praktika {#placements}
       + [Über die Platzierungsverwaltung](/help/dsp/campaign-management/placements/placement-about.md)
@@ -73,6 +74,7 @@ ht-degree: 6%
       + [Eine Anzeige an eine Platzierung anhängen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
       + [Bearbeiten des Anzeigenzeitplans für eine Platzierung](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
       + [Detaillierte Berichte für eine Platzierung anzeigen](/help/dsp/campaign-management/placements/placement-view-report.md)
+      + [Anzeigen des Änderungsprotokolls für eine Platzierung](/help/dsp/campaign-management/placements/placement-change-log.md)
       + [Anhalten oder Aktivieren einer Platzierung](/help/dsp/campaign-management/placements/placement-pause-activate.md)
       + [Archivieren oder Archivieren einer Platzierung aufheben](/help/dsp/campaign-management/placements/placement-archive-unarchive.md)
       + [Platzierungseinstellungen](/help/dsp/campaign-management/placements/placement-settings.md)

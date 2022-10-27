@@ -3,9 +3,9 @@ title: Informationen zur Paketverwaltung in Advertising Cloud DSP
 description: Erfahren Sie mehr über die Paketverwaltung.
 feature: DSP Packages
 exl-id: 06d77698-62ae-466b-8cf7-c9148907ba6d
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Verwenden Sie Pakete, um Platzierungen für die Bereitstellung in einem festgele
 
 Sie können Pakete manuell oder durch Duplizieren vorhandener Pakete erstellen. Sie können Platzierungen auch bearbeiten und an beliebige Pakete anhängen.
 
-## Das Dashboard [!UICONTROL Packages]
+## Die [!UICONTROL Packages] Dashboard
 
-Das Dashboard [!UICONTROL Packages] zentralisiert Leistungs- und Wirtschaftsberichte für alle Paketstrategien und bietet einen schnellen Überblick darüber, wie Ihre Pakete in einem bestimmten Datumsbereich ausgeführt wurden.
+Die [!UICONTROL Packages] Das Dashboard zentralisiert Leistungs- und Wirtschaftsberichte für all Ihre Paketstrategien und bietet einen schnellen Überblick darüber, wie Ihre Pakete in einem bestimmten Datumsbereich ausgeführt wurden.
 
 ![Pakete-Dashboard](/help/dsp/assets/package-dashboard.png)
 
@@ -28,7 +28,7 @@ Er zeigt standardmäßig auch Geschwindigkeit- und Versandmetriken nach Paket an
 
 >[!NOTE]
 >
->Sie können den Inhalt und die Bereitstellung der Paketberichte über [benutzerdefinierte Berichte](/help/dsp/reports/report-about.md) weiter anpassen.
+>Sie können den Inhalt und die Bereitstellung der Paketberichte über [benutzerspezifische Berichte](/help/dsp/reports/report-about.md).
 
 Um alle Platzierungen innerhalb eines Pakets anzuzeigen, klicken Sie auf den Paketnamen.
 
@@ -37,5 +37,6 @@ Um alle Platzierungen innerhalb eines Pakets anzuzeigen, klicken Sie auf den Pak
 >* [Erstellen eines Pakets](package-create.md)
 >* [Bearbeiten eines Pakets](package-edit.md)
 >* [Platzierung an ein Paket anhängen](package-attach-placement.md)
+>* [Anzeigen des Änderungsprotokolls für ein Paket](package-change-log.md)
 >* [Paketeinstellungen](package-settings.md)
 

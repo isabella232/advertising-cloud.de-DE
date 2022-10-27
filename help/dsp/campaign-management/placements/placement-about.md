@@ -3,9 +3,9 @@ title: Informationen zur Platzierungsverwaltung in Advertising Cloud DSP
 description: Erfahren Sie mehr über die Platzierungsverwaltung.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: 0d6d5e807053f042e0da1da65fed5e33a34dd4a9
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Eine Platzierung umfasst Targeting-Parameter für eine oder mehrere Anzeigen des
 
 Nachdem Sie einem aktiven Paket oder einer aktiven Kampagne eine aktive Platzierung zugewiesen haben, sind alle aktiven, genehmigten Anzeigen in der Platzierung berechtigt, basierend auf den Platzierungs-Targeting-Parametern ausgeführt zu werden.
 
-Sie können eine Platzierung manuell oder durch Duplizieren einer vorhandenen Platzierung erstellen. Sie können auch Platzierungsvorlagen erstellen, die entweder manuell oder aus einer vorhandenen Platzierung wiederverwendet werden können. Sie können jeder Platzierung zusätzliche Anzeigen hinzufügen. Sie können auch einzelne Platzierungen bearbeiten, anhalten oder archivieren oder das Massenbearbeitungstool verwenden, um Änderungen vorzunehmen.
+Sie können eine Platzierung manuell oder durch Duplizieren einer vorhandenen Platzierung erstellen. Sie können auch Platzierungsvorlagen erstellen, die entweder manuell oder aus einer vorhandenen Platzierung wiederverwendet werden können. Sie können jeder Platzierung zusätzliche Anzeigen hinzufügen. Sie können auch einzelne Platzierungen bearbeiten, anhalten oder archivieren oder das Massenbearbeitungs-Tool verwenden, um Änderungen vorzunehmen.
 
 ## Verfügbare Platzierungstypen
 
@@ -45,8 +45,9 @@ Für jede Platzierung können Sie eine Detailansicht öffnen ([die [!UICONTROL I
 
 >[!MORELIKETHIS]
 >
->* [Erstellen einer Platzierung](/help/dsp/campaign-management/placements/placement-create.md)
->* [Platzierungseinstellungen](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Erstellen einer Platzierung](placement-create.md)
+>* [Anzeigen des Änderungsprotokolls für eine Platzierung](placement-change-log.md)
+>* [Platzierungseinstellungen](placement-settings.md)
 
    >*[Fehlerbehebung bei der Leistung](/help/dsp/optimization/troubleshooting-performance.md)
 

@@ -3,9 +3,9 @@ title: Paketeinstellungen
 description: Siehe Beschreibungen der verfügbaren Paketeinstellungen.
 feature: DSP Packages
 exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
-source-git-commit: 6331166f563e1404c077eb848eed049b4eb0706d
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '797'
 ht-degree: 0%
 
 ---
@@ -120,5 +120,6 @@ Geben Sie für jeden Flug das Startdatum, das Enddatum und die Zielanzahl der Im
 >* [Erstellen eines Pakets](package-create.md)
 >* [Bearbeiten eines Pakets](package-edit.md)
 >* [Platzierung an ein Paket anhängen](package-attach-placement.md)
+>* [Anzeigen des Änderungsprotokolls für ein Paket](package-change-log.md)
 >* [Häufig gestellte Fragen zu Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 
