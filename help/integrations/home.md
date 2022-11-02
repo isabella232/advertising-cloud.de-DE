@@ -5,7 +5,7 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 0808d101-3c6b-4671-b9e3-6f588427f8b5
-source-git-commit: 9d6177c90fb5507b4e1d281847e7ce3fe89ab9d3
+source-git-commit: 136933f5304edd8f16b8dcb649860f0fb07cf3fb
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -18,6 +18,7 @@ Die folgenden Funktionen sind neu oder kürzlich geändert worden.
 
 | Datum | Funktion | Beschreibung | Weitere Informationen |
 | ---- | ------- | ----------- | -------------------- |
+| 1. November 2022 | Hilfe | In einem neuen Dokument wird erläutert, wie Sie Clickthrough- und Durchsichtssignal-Freigabe zwischen Advertising Cloud DSP und Adobe Target implementieren und eine A/B-Test-Aktivität in [!DNL Target] für Ihre DSP Anzeigen und wie Sie Adobe Analytics Analysis Workspace einrichten, um die Testdaten anzuzeigen. | Siehe[Konfigurieren von A/B-Tests in Adobe Target für Advertising Cloud DSP Ads](/help/integrations/target/overview-ab-tests.md).&quot; |
 | 17. August 2022 | Hilfe | In einem neuen Kapitel werden alle Möglichkeiten erläutert, wie Advertising Cloud in Adobe Audience Manager integriert wird. | Siehe Kapitel &quot;Integration mit Adobe Audience Manager&quot;, einschließlich einer Übersicht über &quot;[Advertising Cloud-Integrationen mit Adobe Audience Manager](/help/integrations/audience-manager/overview.md).&quot; |
 | 27. April 2021 | [!DNL Analytics for Advertising Cloud] | Erfahren Sie, warum und wie Sie [!DNL Analytics for Advertising Cloud] Makros für Ihre [!DNL Google Campaign Manager 360] Anzeigen-Tags zum Senden von Klickdaten an Adobe Analytics. | Siehe[Anhängen [!DNL Analytics for Advertising Cloud] Makros zu [!DNL Google Campaign Manager 360] Anzeigen-Tags](/help/integrations/analytics/macros-google-campaign-manager.md).&quot; |
 | 19. April 2021 | [!DNL Analytics for Advertising Cloud] | Erfahren Sie, warum und wie Sie Makros an Ihre [!DNL Flashtalking] Anzeigen-Tags zum Senden von Klickdaten an Adobe Analytics. | Siehe[Anhängen [!DNL Analytics for Advertising Cloud] Makros zu [!DNL Flashtalking] Anzeigen-Tags](/help/integrations/analytics/macros-flashtalking.md).&quot; |
