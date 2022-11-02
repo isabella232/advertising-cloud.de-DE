@@ -2,9 +2,10 @@
 title: Erstellen von Advertising Cloud-IDs mithilfe [!DNL Marketing Channels] Regeln
 description: Erfahren Sie, wie Sie mit Advertising Cloud IDs Verarbeitungsregeln für [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 4fcdd586-e9c5-4405-a6dc-7799d2bac93e
+source-git-commit: d136b1fe6f6fd3861d0850e07efe7c320da4a7cc
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '767'
 ht-degree: 0%
 
 ---
@@ -83,7 +84,7 @@ Manchmal werden Clickthroughs über die URL verfolgt (Standard). In anderen Fäl
 
 #### Durchsichtsregel anzeigen
 
-Um einen Durchsichtskanal für die Anzeige zu erstellen, erstellen Sie eine Regel, in der die EF-ID mit &quot;:i&quot;endet. Da der Besucher nicht auf die Anzeige geklickt hat, enthält das Durchsichts-Tracking nicht die `ef_id` oder `s_kwcid` in der URL. Daher ist nur eine Bedingung erforderlich.
+Um einen Durchsichtskanal für die Anzeige zu erstellen, erstellen Sie eine Regel, in der die EF-ID mit &quot;:i&quot;endet. Da der Besucher nicht auf die Anzeige geklickt hat, enthält das Durchsichts-Tracking nicht die `ef_id` oder `s_kwcid` in der URL, sodass die Regel nur eine Bedingung erfordert.
 
 ![Beispiel einer Durchsichtsregel für die Anzeige](/help/integrations/assets/a4adc-mc-rule-display-vt.png)
 

@@ -3,9 +3,9 @@ title: Anhängen [!DNL Analytics for Advertising Cloud] Makros zu [!DNL Flashtal
 description: Erfahren Sie, warum und wie Sie [!DNL Analytics for Advertising Cloud] Makros für Ihre [!DNL Flashtalking] Anzeigen-Tags
 feature: Integration with Adobe Analytics
 exl-id: 4b060668-723c-4cd2-b70e-409501ec67de
-source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
+source-git-commit: ae516c1947d2b163ebd97dd05fb4e2870a1450d2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,5 @@ Beispiel:  `https://www.adobe.com/products/photoshop?[%EL:param['AdobeAMO']%]&s_
 >
 >* [Übersicht über [!DNL Analytics for Advertising Cloud]](overview.md)
 >* [Von verwendete Advertising Cloud IDs [!DNL Analytics]](/help/integrations/analytics/ids.md)
+>* [Anhängen [!DNL Analytics for Advertising Cloud] Makros zu [!DNL Google Campaign Manager 360] Anzeigen-Tags](/help/integrations/analytics/macros-google-campaign-manager.md)
 
-
-<!-- >* [Append [!DNL Analytics for Advertising Cloud] Macros to [!DNL Google Campaign Manager 360] Ad Tags](macros-google-campaign-manager.md) -->

@@ -1,34 +1,34 @@
 ---
-source-git-commit: d3e36cef27fce533e9435717d428d54b982fd427
+source-git-commit: 0654347afd1caf5e9bd8ccabf41a8a591e604df5
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
 # Gemeinsame Dokumentation für Advertising Cloud
 
-Dies ist das Dokumentations-Repository für Adobe Advertising Cloud, einschließlich produktübergreifender, DSP und TV-Dokumente. (Später enthält es Dokumente für Kreative und Suche.)
+Dies ist das Dokumentations-Repository für Adobe Advertising Cloud, einschließlich produktübergreifender und DSP Dokumente. (Später werden Dokumente für die Suche und möglicherweise (?) für Kreativ.)
 
 **Hinweis: Diese Seite wird nicht in der kundenorientierten Dokumentation veröffentlicht.**
 
 ## TOC
 
 + `TOC.md` im Stammverzeichnis eines Benutzerhandbuchs finden Sie die Organisation der Themen, die im Handbuch enthalten sind.
-+ Jedes Benutzerhandbuch verfügt über ein eindeutiges `TOC.md`, in dem Sie alle Seiten/Themen nach Bedarf sortieren können.
++ Jedes Benutzerhandbuch verfügt über eine eindeutige `TOC.md`, in dem Sie alle Seiten/Themen nach Bedarf sortieren können.
 
 
 ## Benutzerhandbuch
 
-+ Die Einführung in das Benutzerhandbuch heißt `overview.md`
++ Die Einführung in das Benutzerhandbuch finden Sie unter `overview.md`
 + Jedes Thema im Benutzerhandbuch verfügt über ein eigenes Verzeichnis.
-   + Wenn im Handbuch ein Thema namens *Implementierung* vorkommt, ist der entsprechende Ordner `/implementation`
-+ Alle Bild-Assets werden in `/assets` im Stammverzeichnis des Benutzerhandbuchs gespeichert.
-   + Alle Bilder im Verzeichnis `/assets` werden lokalisiert.
-   + Bilder im Verzeichnis `/no-localize` werden nicht lokalisiert (es gibt eine Überraschung!). Dies kann verwendet werden, um in lokalen Versionen sicherzustellen, dass bestimmte Assets nicht unnötig reproduziert werden.
+   + Wenn ein Thema im Handbuch mit dem Namen *Implementierung*, lautet das entsprechende Verzeichnis . `/implementation`
++ Alle Bild-Assets werden in `/assets` im Stammverzeichnis des Benutzerhandbuchs.
+   + Alle Bilder in `/assets` wird lokalisiert.
+   + Alle Bilder in `/no-localize` -Verzeichnis nicht lokalisiert (es gibt eine Überraschung!). Dies kann verwendet werden, um in lokalen Versionen sicherzustellen, dass bestimmte Assets nicht unnötig reproduziert werden.
 
 ## Metadaten auf Benutzerhandbuchebene
 
-+ Metadaten, die das Benutzerhandbuch beschreiben, werden im Ordner `TOC.md` gespeichert. Dazu gehören:
++ Metadaten, die das Benutzerhandbuch beschreiben, werden im Abschnitt `TOC.md`. Dazu gehören:
    + product - Name des Produkts/der Funktion.
    + cloud - Cloud, zu der dieses Produkt gehört.
    + audience - Zielgruppe oder Archetyp, auf den das Handbuch ausgerichtet ist.
@@ -52,7 +52,7 @@ Dies ist das Dokumentations-Repository für Adobe Advertising Cloud, einschließ
 
 Weitere Veröffentlichungsanweisungen, Stilhandbücher, Beispiele und andere Ressourcen finden Sie unter:
 
-+ [Beiträge zu Autorenrichtlinien  **speziell für Advertising Cloud**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&amp;title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
++ [Beiträge zu Autorenrichtlinien **speziell für Advertising Cloud**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&amp;title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
 + [Gemeinschaftliches Authoring für alle Autoren von Adoben](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html)
 
 Siehe auch:
