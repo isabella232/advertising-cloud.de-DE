@@ -2,9 +2,10 @@
 title: Anzeigen eines Paketänderungsprotokolls
 description: Erfahren Sie, wie Sie Änderungen anzeigen, die am Paket vorgenommen wurden.
 feature: DSP Packages
-source-git-commit: 2f892f1f9521c4768c1cac4bd0cb0c35261ab147
+exl-id: 1d611c20-7857-41db-adf4-743dab44341e
+source-git-commit: 1098fa5fc9207300b5b9c75cf07f24ecfe1dfc69
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +18,7 @@ Sie können die Daten nach einer beliebigen Spalte sortieren, mit Ausnahme von N
 
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Campaigns]**.
 1. Klicken Sie auf den Namen der Kampagne.
-1. Im **[!UICONTROL Placements]** Registerkarte neben dem Paketnamen klicken Sie auf  **[!UICONTROL ...]>[!UICONTROL Change logs]**.
+1. Im **[!UICONTROL Packages]** Registerkarte neben dem Paketnamen klicken Sie auf  **[!UICONTROL ...]>[!UICONTROL Change logs]**.
 
 >[!MORELIKETHIS]
 >
