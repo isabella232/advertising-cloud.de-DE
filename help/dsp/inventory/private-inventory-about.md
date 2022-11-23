@@ -3,9 +3,9 @@ title: Über privates Inventar
 description: Über privates Inventar
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: 7feb0e398c416805b376062d9f3dfec819fac2ee
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Alle Ihre privaten Geschäfte mit einer Deal-ID werden finanziert und in Rechnun
 
 Sie können Deal-IDs auf eine der folgenden Arten verwenden:
 
-* (Optionale Funktion, die aktiviert werden muss) Aus der [!UICONTROL Deal ID Inbox]können Sie Ihre vereinbarten, garantierten und nicht garantierten privaten Inventarangebote von Herausgebern auf den folgenden angebotsseitigen Plattformen (SSPs) überprüfen und schnell akzeptieren: [!DNL FreeWheel], [!DNL Google Authorized Buyers] (früher bekannt als [!DNL AdX]) und [!DNL Magnite DV+] (früher [!DNL Rubicon]) aus dem [!UICONTROL Deal ID inbox].
+* (Optionale Funktion, die aktiviert werden muss) Aus der [!UICONTROL Deal ID Inbox]können Sie Ihre vereinbarten garantierten und nicht garantierten privaten Inventarangebote von Herausgebern auf den folgenden angebotsseitigen Plattformen (SSPs) überprüfen und schnell akzeptieren: [!DNL FreeWheel], [!DNL Google Authorized Buyers] (früher bekannt als [!DNL AdX]) und [!DNL Magnite DV+] (früher [!DNL Rubicon]) aus dem [!UICONTROL Deal ID inbox].
 
    Weitere Informationen finden Sie unter &quot;[Über die [!UICONTROL Deal ID Inbox]](deal-id-inbox-about.md).&quot;
 
@@ -36,7 +36,9 @@ Sie können jedes private Geschäft als Platzierungsziel für mehrere Kampagnen 
 
 Im [!UICONTROL Inventory] > [!UICONTROL Deals] -Ansicht können Sie private Deal-Einstellungen erstellen. Sie können auch einige Deal-Einstellungen bearbeiten. Auflisten der Platzierungen und Anzeigen sowie Hinzufügen zusätzlicher Platzierungen und Anzeigen zu einem privaten Geschäft; Bearbeiten der Advertiser und Konten, die auf einen privaten Deal zugreifen können; einen Leistungsbericht für ein Geschäft zu erstellen; Sie können Einblicke in Auktionen für ein privates Geschäft anzeigen oder ein Geschäft archivieren oder dessen Archivierung aufheben.<!-- ; or edit the attribute tags for a deal -->
 
-Sie können die Darstellung der vorhandenen Transaktionsdaten weiter anpassen, indem Sie Filter anwenden, die sichtbaren Spalten anpassen und optional benutzerdefinierte Ansichten speichern, die Spalten sortieren und die Daten als Diagramme anzeigen.
+Die Spalte &quot;Deal Health&quot; gibt den Gesundheitsstatus jedes privaten Geschäfts an: &quot;Erfolg&quot;, &quot;Warnung&quot;, &quot;Kritisch&quot;oder &quot;Nicht verfügbar&quot;. Sie können auf den Status klicken, um weitere Details anzuzeigen, einschließlich der Gründe, warum ein Deal nicht wie erwartet funktioniert oder Ausgaben ausgibt, und der Schritte zur Behebung potenzieller Probleme.
+
+Sie können anpassen, wie die vorhandenen Transaktionsdaten dargestellt werden, indem Sie Filter anwenden, die sichtbaren Spalten anpassen und optional benutzerdefinierte Ansichten speichern, die Spalten sortieren und die Daten als Diagramme anzeigen.
 
 >[!MORELIKETHIS]
 >

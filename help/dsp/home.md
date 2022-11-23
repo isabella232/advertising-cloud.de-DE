@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 9e1def0c5998ac35dbb2b466ed6ebc31f83fd026
+source-git-commit: b96bb5be747e59beb7bb626152dbab7aa49cb88e
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '998'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Die folgenden Funktionen sind neu oder kürzlich geändert worden.
 
 | Datum | Funktion | Beschreibung | Weitere Informationen |
 | ---- | ------- | ----------- | -------------------- |
+| 23. November 2022 | Angebote | Die Ansicht &quot;Inventar > Angebote&quot;enthält jetzt die Spalte &quot;Deal Health&quot;, die den Gesundheitsstatus jedes privaten Geschäfts angibt: &quot;Erfolg&quot;, &quot;Warnung&quot;, &quot;Kritisch&quot;oder &quot;Nicht verfügbar&quot;. Sie können auf den Status klicken, um weitere Details anzuzeigen, einschließlich der Gründe, warum ein Deal nicht wie erwartet funktioniert oder Ausgaben ausgibt, und der Schritte zur Behebung potenzieller Probleme. | — |
 | 27. Oktober 2022 | Kampagnen | Für jedes Paket und jede Platzierung ist jetzt ein Änderungsprotokoll verfügbar, das die im ausgewählten Datumsbereich vorgenommenen Änderungen anzeigt. | Siehe[Anzeigen des Änderungsprotokolls für ein Paket](/help/dsp/campaign-management/packages/package-change-log.md)&quot; und &quot;[Anzeigen des Änderungsprotokolls für eine Platzierung](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
 |  |  | Sie können jetzt die [!UICONTROL Intraday Pacing] -Einstellung für mehrere Platzierungen gleichzeitig festlegen. | Siehe[Eine Platzierung bearbeiten](/help/dsp/campaign-management/placements/placement-edit.md#edit-multiple-placements)&quot; und &quot;[Platzierungseinstellungen](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
 |  |  | Ein &quot;[!UICONTROL Intraday Pacing]&quot;-Spalte ist in Excel QA-Tabellen verfügbar. | Siehe[Spalten in heruntergeladenen/hochgeladenen Arbeitsblättern](/help/dsp/campaign-management/qa/qa-sheet-columns.md).&quot; |
