@@ -3,9 +3,9 @@ title: Von verwendete Advertising Cloud IDs [!DNL Analytics]
 description: Von verwendete Advertising Cloud IDs [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
+source-git-commit: 525bc48104f928ccf9a3bb792b7e33c7e590cf4a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1194'
 ht-degree: 0%
 
 ---
@@ -132,19 +132,19 @@ Beispiel einer AMO-ID: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
 AMO-IDs für [!DNL Search] für jede Suchmaschine ein bestimmtes Format verwenden. Das Format für alle Suchmaschinen beginnt mit Folgendem:
 
-```AL!{ef_userid}!{ef_sid}```
+```AL!{userid}!{sid}```
 
 wobei:
 
 * `AL` ist die Kanal-ID für den Suchkanal.
-* `{ef_userid}` ist die eindeutige numerische Benutzer-ID, die Advertising Cloud dem Advertiser zuweist.
-* `{ef_sid}` ist die numerische ID, die Advertising Cloud für die angegebene Suchmaschine verwendet, z. B. `3` für [!DNL Google Ads] oder `10` für [!DNL Microsoft Advertising].
+* `{userid}` ist die eindeutige numerische Benutzer-ID, die Advertising Cloud dem Advertiser zuweist.
+* `{sid}` ist die numerische ID, die Advertising Cloud für die angegebene Suchmaschine verwendet, z. B. `3` für [!DNL Google Ads] oder `10` für [!DNL Microsoft Advertising].
 
 Im Folgenden finden Sie die vollständigen AMO ID-Formate für einige Suchmaschinen. Wenden Sie sich bei AMO-ID-Formaten für andere Suchmaschinen an Ihren [!DNL Adobe] Account-Team.
 
 AMO-ID-Format für [!DNL Google Ads]:
 
-```AL!{ef_userid}!{ef_sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}```
+```AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}```
 
 wobei:
 
@@ -156,7 +156,7 @@ wobei:
 
 AMO-ID-Format für [!DNL Microsoft Advertising]:
 
-```AL!{ef_userid}!{ef_sid}!{AdId}!{OrderItemId}```
+```AL!{userid}!{sid}!{AdId}!{OrderItemId}```
 
 wobei:
 
