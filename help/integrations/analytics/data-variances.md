@@ -3,9 +3,9 @@ title: Erwartete Datenabweichungen zwischen [!DNL Analytics] und Advertising Clo
 description: Erwartete Datenabweichungen zwischen [!DNL Analytics] und Advertising Cloud
 feature: Integration with Adobe Analytics
 exl-id: 34685e04-d4f9-4e27-b83e-b56164244b2b
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 76d6e94d69f4bd47d982c36e6c24a0e7031a823c
 workflow-type: tm+mt
-source-wordcount: '3282'
+source-wordcount: '3285'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,7 @@ In Advertising Cloud können Sie Konversionsdaten entweder nach dem zugehörigen
 
 ## Attribution in [!DNL Analytics Marketing Channels]
 
-[[!DNL Analytics Marketing Channels] Berichterstellung](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/marketing-channels-admin.html) ermöglicht es Ihnen, Regeln zu konfigurieren, um verschiedene Marketing-Kanäle basierend auf unterschiedlichen Aspekten der Trefferinformationen zu identifizieren. Sie können von Advertising Cloud verfolgte Kanäle verfolgen ([!UICONTROL Display Click Through], [!UICONTROL Display View Through]und [!UICONTROL Paid Search]) als [!DNL Marketing Channels] durch Verwendung von `ef_id` Abfragezeichenfolgenparameter zur Identifizierung des Kanals. <!-- Move most of the above text to "Marketing Channels" chapter once it's created, and add link here. --> Auch wenn die Variable [!DNL Marketing Channels] -Berichte Advertising Cloud-Kanäle verfolgen können, stimmen die Daten aus verschiedenen Gründen nicht mit den Advertising Cloud-Berichten überein. Weitere Informationen finden Sie in den folgenden Abschnitten.
+[[!DNL Analytics Marketing Channels] Berichterstellung](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/analyze-mc.html) ermöglicht es Ihnen, Regeln zu konfigurieren, um verschiedene Marketing-Kanäle basierend auf unterschiedlichen Aspekten der Trefferinformationen zu identifizieren. Sie können von Advertising Cloud verfolgte Kanäle verfolgen ([!UICONTROL Display Click Through], [!UICONTROL Display View Through]und [!UICONTROL Paid Search]) als [!DNL Marketing Channels] durch Verwendung von `ef_id` Abfragezeichenfolgenparameter zur Identifizierung des Kanals. <!-- Move most of the above text to "Marketing Channels" chapter once it's created, and add link here. --> Auch wenn die Variable [!DNL Marketing Channels] -Berichte Advertising Cloud-Kanäle verfolgen können, stimmen die Daten aus verschiedenen Gründen nicht mit den Advertising Cloud-Berichten überein. Weitere Informationen finden Sie in den folgenden Abschnitten.
 
 >[!NOTE]
 >
@@ -127,7 +127,7 @@ Weitere Informationen dazu, warum die Metriken variieren können, finden Sie unt
 
 ## Datenunterschiede in Adobe Analytics [!DNL Paid Search Detection]
 
-Die [veraltet [!DNL Paid Search Detection]](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html) Funktion in [!DNL Analytics] ermöglicht es Unternehmen, [Definition von Regeln zur Verfolgung von Paid- und organischem Suchverkehr](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/t-paid-search-detection.html) für bestimmte Suchmaschinen. Die [!DNL Paid Search Detection] -Regeln verwenden sowohl eine Abfragezeichenfolge als auch die Referrer-Domäne, um den gebührenpflichtigen und kostenlosen Suchverkehr zu identifizieren. Die [!DNL Paid Search Detection] -Berichte sind Teil der größeren Gruppe von [Suchmethoden](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html) Berichte, die ablaufen, wenn ein bestimmtes Ereignis (z. B. ein Warenkorb zur Kasse) eintritt oder der Besuch endet.
+Die [veraltet [!DNL Paid Search Detection]](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/paid-search-detection/paid-search-detection.html) Funktion in [!DNL Analytics] ermöglicht es Unternehmen, [Definition von Regeln zur Verfolgung von Paid- und organischem Suchverkehr](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/t-paid-search-detection.html) für bestimmte Suchmaschinen. Die [!DNL Paid Search Detection] -Regeln verwenden sowohl eine Abfragezeichenfolge als auch die Referrer-Domäne, um den gebührenpflichtigen und kostenlosen Suchverkehr zu identifizieren. Die [!DNL Paid Search Detection] -Berichte sind Teil der größeren Gruppe von [Suchmethoden](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html) Berichte, die ablaufen, wenn ein bestimmtes Ereignis (z. B. ein Warenkorb zur Kasse) eintritt oder der Besuch endet.
 
 Im Folgenden finden Sie die Benutzeroberfläche zum Erstellen einer [!DNL Paid Search Detection] Regelsatz:
 
@@ -145,7 +145,7 @@ Beachten Sie die beiden folgenden Einschränkungen bei Daten in [!DNL Paid Searc
 
 ### Warum konfigurieren [!DNL Paid Search Detection]?
 
-Die [!DNL Paid Search Detection] Berichte ermöglichen es Ihnen, den natürlichen Suchverkehr im [[!DNL Analytics Marketing Channels] Berichte](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/marketing-channels-admin.html). Die Trennung von Paid Search-Traffic und kostenlosem Suchverkehr ist eine hervorragende Möglichkeit, den Wert zu verstehen, den die natürliche Suche für das gesamte Marketing-Ökosystem bringt.
+Die [!DNL Paid Search Detection] Berichte ermöglichen es Ihnen, den natürlichen Suchverkehr im [[!DNL Analytics Marketing Channels] Berichte](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/analyze-mc.html). Die Trennung von Paid Search-Traffic und kostenlosem Suchverkehr ist eine hervorragende Möglichkeit, den Wert zu verstehen, den die natürliche Suche für das gesamte Marketing-Ökosystem bringt.
 
 ## Validierung von Clickthrough-Daten für [!DNL Analytics for Advertising Cloud] {#data-validation}
 
