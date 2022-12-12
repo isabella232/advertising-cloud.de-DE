@@ -3,9 +3,9 @@ title: Platzierungseinstellungen
 description: Siehe Beschreibungen der verfügbaren Platzierungseinstellungen.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: c8077a2f9cec1dab08f6635024b3b2d5a4a1c90e
 workflow-type: tm+mt
-source-wordcount: '3403'
+source-wordcount: '3422'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 0%
 1. Klicken **[!UICONTROL Apply]**.
 
 **[!UICONTROL Ad specs for forecast]:** (Nur Videoanzeigenformate) Die Anzeigendauer und/oder Anzeigenspezifikationen, die zur Berechnung der Prognoseprojektion auf der rechten Seite verwendet werden. Die Felder variieren je nach Anzeigentyp.
+
+**[!UICONTROL Environment]:** (Nur universelle Videoanzeigenformat) Die Geräteumgebungen (Desktop, Mobil, vernetztes TV), die als Ziele in die Platzierung aufgenommen werden sollen
 
 **[!UICONTROL Placement tags]:** (Optional) Keywords oder Spitznamen, die Sie bei der Suche nach dieser Platzierung unterstützen.
 
