@@ -3,9 +3,9 @@ title: Über die Anzeigenverwaltung in Advertising Cloud DSP
 description: Erfahren Sie mehr über die Anzeigenverwaltung.
 feature: DSP Ads
 exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: 1499d9d86d8c2bafb03b41687c50dbf708c715da
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,8 @@ Alle folgenden Anzeigentypen sind in Advertising Cloud DSP verfügbar. Vollstän
 * **Pre-Roll-Anzeigen (nur Drittanbieter)**: Pre-Roll-Anzeigen (VAST und VPAID) werden vor Premium-Videoinhalten angezeigt und bieten ein interaktives, ansprechendes Benutzererlebnis. Pre-Roll-Videos können interaktiv sein, Rich-Media-Funktionen enthalten und Überlagerungen, Rollover und Aktionsaufrufe enthalten. Zu den wichtigsten Leistungsindikatoren für Pre-Roll-Videoanzeigen gehören [!UICONTROL Video Completion Rate] und [!UICONTROL Viewability Rate].
 
 * **Angeschlossene TV-Anzeigen (nur Drittanbieter)**: Angeschlossene TV-Anzeigen werden vor und während Premium-TV-Videoinhalten angezeigt. Alle angeschlossenen TV-Inventare werden auf TV-Geräten ausgeführt, d. h. das Video wird automatisch in einer Bildschirmumgebung mit schlankem Hintergrund wiedergegeben, die die Betrachter nicht überspringen können. Angeschlossenes Fernsehen ist das beste digitale Videoformat für Fernsehwerbung. Wichtige Leistungsindikatoren für Connected TV sind: [!UICONTROL Completion Rate].
+
+* **Universelle Videoanzeigen (nur Drittanbieter)**: Universelle Videoanzeigen kombinieren alle Funktionen von Connected TV-, Pre-roll- und Mobile Pre-roll-Anzeigen (VAST und VPAID) zu einer und werden vor und während des Videoinhalts angezeigt. Die universelle Videoanzeige kann beim Targeting des Videoinventars aus Desktop-, Mobile- und vernetzten TV-Umgebungen verwendet werden, wodurch die Erstellung mehrerer Videoanzeigen vermieden wird. Zu den wichtigsten Leistungsindikatoren für universelle Videos gehören [!UICONTROL Completion Rate] und [!UICONTROL Viewability Rate].
 
 ## Advertising Cloud DSP-Anzeigengenehmigungen
 
