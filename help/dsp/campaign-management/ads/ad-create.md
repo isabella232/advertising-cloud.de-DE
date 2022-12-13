@@ -3,9 +3,9 @@ title: Einzelne Anzeige erstellen
 description: Erfahren Sie, wie Sie eine einzelne Werbeanzeige eines Drittanbieters erstellen.
 feature: DSP Ads
 exl-id: d93c6a66-a5cb-4117-97e8-424422200fce
-source-git-commit: bf5cb724c51e4a91add7911157bd74c90314d07c
+source-git-commit: 65ae74c2b17f21f143fd7d5e43aff2ec8b05bb85
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Informationen zum Erstellen mehrerer Drittanbieter-Anzeigen auf einmal finden Si
 
 1. Klicken Sie über der Datentabelle auf **[!UICONTROL Create]**. Im [!UICONTROL Ad Types] Klicken Sie im Menü auf die Schaltfläche [Anzeigenart](ad-about.md#ad-types).
 
-1. Geben Sie die Anzeigeneinstellungen für [Audio-Anzeigen](ad-settings-audio.md), [vernetztes Fernsehen](ad-settings-connected-tv.md), [Display-Anzeigen](ad-settings-display.md), [mobile Anzeigen](ad-settings-mobile.md), [native Anzeigen](ad-settings-native.md), [Pre-Roll-Anzeigen](ad-settings-pre-roll.md) oder [universelle Videoanzeigen](ad-settings-universal-video.md):
+1. Geben Sie die Anzeigeneinstellungen für [Audio-Anzeigen](ad-settings-audio.md), [vernetztes Fernsehen](ad-settings-connected-tv.md), [Display-Anzeigen](ad-settings-display.md), [mobile Anzeigen](ad-settings-mobile.md), [native Anzeigen](ad-settings-native.md), [Pre-Roll-Anzeigen](ad-settings-pre-roll.md):
 
    1. Im [!UICONTROL Insert Ad Tag] eingeben, Informationen über die Anzeige von einem zertifizierten Drittanbieter-Adserving-Partner eingeben und klicken Sie dann auf **[!UICONTROL Go]**.
 

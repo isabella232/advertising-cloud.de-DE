@@ -3,9 +3,9 @@ title: Eine Anzeige bearbeiten
 description: Erfahren Sie, wie Sie eine Anzeige bearbeiten.
 feature: DSP Ads
 exl-id: ef140d61-f04e-4c1c-acdd-9985730dfb07
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: 1211a541016836873fd818106ef0593ff42f3c25
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 1. Klicken Sie auf den Namen der Kampagne.
 1. Klicken Sie im Untermenü auf **[!UICONTROL Ads]**.
 1. Klicken Sie neben dem Anzeigennamen auf  **... >[!UICONTROL Edit]**.
-1. Bearbeiten Sie die Anzeigeneinstellungen für [Audio-Anzeigen](ad-settings-audio.md), [vernetztes Fernsehen](ad-settings-connected-tv.md), [Display-Anzeigen](ad-settings-display.md), [mobile Anzeigen](ad-settings-mobile.md), [native Anzeigen](ad-settings-native.md)oder [Pre-Roll-Anzeigen](ad-settings-pre-roll.md).
+1. Bearbeiten Sie die Anzeigeneinstellungen für [Audio-Anzeigen](ad-settings-audio.md), [vernetztes Fernsehen](ad-settings-connected-tv.md), [Display-Anzeigen](ad-settings-display.md), [mobile Anzeigen](ad-settings-mobile.md), [native Anzeigen](ad-settings-native.md), [Pre-Roll-Anzeigen](ad-settings-pre-roll.md).
 
    >[!NOTE]
    >
