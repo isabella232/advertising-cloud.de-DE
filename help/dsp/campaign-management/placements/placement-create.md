@@ -3,7 +3,7 @@ title: Erstellen einer Platzierung
 description: Erfahren Sie, wie Sie eine Platzierung erstellen.
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: cb77fd450db1798f190f3b6eb51054553440bac9
+source-git-commit: 86f8df0c438a68dabba8f5b2abeb106d3320d7ef
 workflow-type: tm+mt
 source-wordcount: '652'
 ht-degree: 1%
@@ -77,7 +77,7 @@ ht-degree: 1%
 
       1. Klicken **[!UICONTROL Create a New Ad].**
 
-      1. Geben Sie die Anzeigeneinstellungen für [Audio-Anzeigen](/help/dsp/campaign-management/ads/ad-settings-audio.md), [vernetztes Fernsehen](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [Display-Anzeigen](/help/dsp/campaign-management/ads/ad-settings-display.md), [mobile Anzeigen](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [native Anzeigen](/help/dsp/campaign-management/ads/ad-settings-native.md), [Pre-Roll-Anzeigen](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)oder [universelle Videoanzeigen](ad-settings-universal-video.md).
+      1. Geben Sie die Anzeigeneinstellungen für [Audio-Anzeigen](/help/dsp/campaign-management/ads/ad-settings-audio.md), [vernetztes Fernsehen](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [Display-Anzeigen](/help/dsp/campaign-management/ads/ad-settings-display.md), [mobile Anzeigen](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [native Anzeigen](/help/dsp/campaign-management/ads/ad-settings-native.md), [Pre-Roll-Anzeigen](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)oder [universelle Videoanzeigen](/help/dsp/campaign-management/ads/ad-settings-universal-video.md).
 
       1. Klicken **[!UICONTROL Save & Submit for Review]**.
 
