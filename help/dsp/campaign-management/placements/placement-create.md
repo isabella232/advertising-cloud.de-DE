@@ -3,9 +3,9 @@ title: Erstellen einer Platzierung
 description: Erfahren Sie, wie Sie eine Platzierung erstellen.
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: cb77fd450db1798f190f3b6eb51054553440bac9
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '652'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 1%
 
       1. Klicken **[!UICONTROL Create a New Ad].**
 
-      1. Geben Sie die Anzeigeneinstellungen für [Audio-Anzeigen](/help/dsp/campaign-management/ads/ad-settings-audio.md), [vernetztes Fernsehen](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [Display-Anzeigen](/help/dsp/campaign-management/ads/ad-settings-display.md), [mobile Anzeigen](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [native Anzeigen](/help/dsp/campaign-management/ads/ad-settings-native.md)oder [Pre-Roll-Anzeigen](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md).
+      1. Geben Sie die Anzeigeneinstellungen für [Audio-Anzeigen](/help/dsp/campaign-management/ads/ad-settings-audio.md), [vernetztes Fernsehen](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [Display-Anzeigen](/help/dsp/campaign-management/ads/ad-settings-display.md), [mobile Anzeigen](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [native Anzeigen](/help/dsp/campaign-management/ads/ad-settings-native.md), [Pre-Roll-Anzeigen](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)oder [universelle Videoanzeigen](ad-settings-universal-video.md).
 
       1. Klicken **[!UICONTROL Save & Submit for Review]**.
 
@@ -87,16 +87,25 @@ ht-degree: 1%
    * So fügen Sie vorhandene Anzeigen in der Kampagne hinzu:
 
       1. Klicken **[!UICONTROL Select an Ad]**.
+
       1. Führen Sie einen der folgenden Schritte aus:
+
          * So fügen Sie jeweils eine Anzeige hinzu:
+
             1. Klicken Sie neben dem Anzeigennamen auf **[!UICONTROL Select].**
+
             1. (Optional) Klicken Sie für jede zusätzliche Anzeige, die Sie anhängen möchten, auf **[!UICONTROL Attach Another Ad]** und wiederholen Sie dann den Prozess.
          * So fügen Sie bis zu 20 Anzeigen gleichzeitig hinzu:
+
             1. Aktivieren Sie das Kontrollkästchen über der Anzeigenliste.
+
             1. Aktivieren Sie das Kontrollkästchen neben jeder hinzuzufügenden Anzeige.
+
             1. Klicken **[!UICONTROL Attach]**.
+
             1. Klicken Sie neben dem Anzeigennamen auf **[!UICONTROL Select]**.
       1. (Optional) So überschreiben Sie die standardmäßige Flugzeit und Anzeigenrotation für bestimmte Anzeigen in der Platzierung:
+
          1. Klicken **[!UICONTROL Custom Schedule Ads]**.
 
          1. Führen Sie einen der folgenden Schritte aus:
@@ -113,6 +122,8 @@ ht-degree: 1%
          1. Klicken Sie oben rechts auf **[!UICONTROL Continue]**.
 
          1. Überprüfen Sie die Flugdetails und klicken Sie dann auf **[!UICONTROL Save & Finish]**.
+
+
 
 
 

@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 678125f88712043fc589aac752e1686be41f2f55
+source-git-commit: c682838f222b99079a5a9d98300e594f82b6c374
 workflow-type: tm+mt
-source-wordcount: '1060'
+source-wordcount: '1063'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Die folgenden Funktionen sind neu oder kürzlich geändert worden.
 
 | Datum | Funktion | Beschreibung | Weitere Informationen |
 | ---- | ------- | ----------- | -------------------- |
-| 14. Dezember 2022 | Platzierungen, Anzeigen | Neu &quot;[!UICONTROL Universal Video]&quot;Platzierungen und Anzeigen ermöglichen es Ihnen, mithilfe einer einzigen Videoplatzierung mehrere Geräteumgebungen für VPAID- und VAST-Inventar anzusprechen.<br><br>Universelle Videoplatzierungen beinhalten die Einstellung &quot;Geräteumgebung&quot;([!UICONTROL Desktop], [!UICONTROL Mobile]und [!UICONTROL Connected TV]). Universelle Videoanzeigen können nur mit universellen Videoplatzierungen verknüpft werden.<br><br>Benutzerspezifische Berichte enthalten die neue Dimension auf Platzierungsebene &quot;Geräteumgebung&quot;. | Siehe[Platzierungseinstellungen](/help/dsp/campaign-management/placements/placement-settings.md)&quot; und &quot;[Verfügbare Berichtsspalten](/help/dsp/reports/report-columns.md).&quot;<br><br>Siehe auch &quot;[Universelle Videoanzeigeneinstellungen](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)&quot; und &quot;[Erstellen einer Anzeige](/help/dsp/campaign-management/ads/ad-create.md).&quot; |
+| 14. Dezember 2022 | Platzierungen, Anzeigen | (Open Beta-Funktion) Neu &quot;[!UICONTROL Universal Video]&quot;Platzierungen und Anzeigen ermöglichen es Ihnen, mithilfe einer einzigen Videoplatzierung mehrere Geräteumgebungen für VPAID- und VAST-Inventar anzusprechen.<br><br>Universelle Videoplatzierungen beinhalten die Einstellung &quot;Geräteumgebung&quot;([!UICONTROL Desktop], [!UICONTROL Mobile]und [!UICONTROL Connected TV]). Universelle Videoanzeigen können nur mit universellen Videoplatzierungen verknüpft werden.<br><br>Benutzerspezifische Berichte enthalten die neue Dimension auf Platzierungsebene &quot;Geräteumgebung&quot;. | Siehe[Platzierungseinstellungen](/help/dsp/campaign-management/placements/placement-settings.md)&quot; und &quot;[Verfügbare Berichtsspalten](/help/dsp/reports/report-columns.md).&quot;<br><br>Siehe auch &quot;[Universelle Videoanzeigeneinstellungen](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)&quot; und &quot;[Erstellen einer Anzeige](/help/dsp/campaign-management/ads/ad-create.md).&quot; |
 | 23. November 2022 | Angebote | Die [!UICONTROL Inventory] > [!UICONTROL Deals] -Ansicht enthält jetzt &quot;[!UICONTROL Deal Health]&quot;-Spalte, die den Gesundheitsstatus jedes privaten Geschäfts angibt: &quot;[!UICONTROL Success], &quot;[!UICONTROL Warning], &quot;[!UICONTROL Critical],&quot;oder &quot;[!UICONTROL Unavailable].&quot; Sie können auf den Status klicken, um weitere Details anzuzeigen, einschließlich der Gründe, warum ein Deal nicht wie erwartet funktioniert oder Ausgaben ausgibt, und der Schritte zur Behebung potenzieller Probleme. | — |
 | 27. Oktober 2022 | [!UICONTROL Campaigns] | Für jedes Paket und jede Platzierung ist jetzt ein Änderungsprotokoll verfügbar, das die im ausgewählten Datumsbereich vorgenommenen Änderungen anzeigt. | Siehe[Anzeigen des Änderungsprotokolls für ein Paket](/help/dsp/campaign-management/packages/package-change-log.md)&quot; und &quot;[Anzeigen des Änderungsprotokolls für eine Platzierung](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
 |  |  | Sie können jetzt die [!UICONTROL Intraday Pacing] -Einstellung für mehrere Platzierungen gleichzeitig festlegen. | Siehe[Eine Platzierung bearbeiten](/help/dsp/campaign-management/placements/placement-edit.md#edit-multiple-placements)&quot; und &quot;[Platzierungseinstellungen](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
