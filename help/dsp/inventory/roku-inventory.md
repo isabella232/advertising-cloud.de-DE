@@ -1,24 +1,24 @@
 ---
 title: Verwenden [!DNL Roku] Bestand
-description: 'Erfahren Sie mehr über DSP Partnerschaft mit [!DNL Roku], einschließlich Lagerbestandsoptionen, genehmigten Drittanbieter-Tracking-Anbietern und Best Practices für [!DNL Roku]-spezifische Platzierungen. '
+description: Erfahren Sie mehr über DSP Partnerschaft mit [!DNL Roku], einschließlich Lagerbestandsoptionen, genehmigten Drittanbieter-Tracking-Anbietern und Best Practices für [!DNL Roku]-spezifische Platzierungen.
 feature: DSP On Demand Inventory, DSP Private Inventory
 exl-id: 0cd42782-f006-4aa8-b879-322f86cfac4b
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '516'
 ht-degree: 0%
 
 ---
 
 # Verwenden [!DNL Roku] Bestand
 
-Advertising Cloud DSP bietet einzigartige Funktionen für Werbung in [!DNL Roku].
+Advertising DSP bietet einzigartige Funktionen für Werbung in [!DNL Roku].
 
-## Die Advertising Cloud DSP und [!DNL Roku] Partnerschaft
+## DSP und [!DNL Roku] Partnerschaft
 
-Roku und Advertising Cloud DSP verfügen über eine einzigartige Partnerschaft, die mit Ihrem [!DNL DSP] Zielgruppen zu [!DNL Roku] IDs für 1:1-deterministisches Zielgruppen-Targeting für [!DNL Roku] Inventar.
+Roku und DSP haben eine einzigartige Partnerschaft, die mit Ihrer [!DNL DSP] Zielgruppen zu [!DNL Roku] IDs für 1:1-deterministisches Zielgruppen-Targeting für [!DNL Roku] Inventar.
 
-Außerhalb der eigenen DSP (OneView) von Roku hat Advertising Cloud DSP ausschließlich Zugriff auf diese Targeting-Funktionen. Advertising Cloud DSP ist auch die einzige DSP mit der Berechtigung zum Messen [!DNL Roku] neben allen anderen angeschlossenen TV-Inventaren (CTV). weil [!DNL Roku] gibt nicht alle standardmäßigen RTB- und Impression-Pixelsignale frei, keine anderen DSP können auf Roku-verkaufte CTV-Geräte abzielen oder diese messen.
+Außerhalb der eigenen DSP (OneView) von Roku hat Advertising DSP ausschließlich Zugriff auf diese Targeting-Funktionen. Advertising DSP ist auch die einzige DSP mit der Berechtigung zum Messen [!DNL Roku] neben allen anderen angeschlossenen TV-Inventaren (CTV). weil [!DNL Roku] gibt nicht alle standardmäßigen RTB- und Impression-Pixelsignale frei, keine anderen DSP können auf Roku-verkaufte CTV-Geräte abzielen oder diese messen.
 
 ## [!DNL Roku] Inventaroptionen
 

@@ -3,9 +3,9 @@ title: Platzierungseinstellungen
 description: Siehe Beschreibungen der verfügbaren Platzierungseinstellungen.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 0f5bdf041c0de60730efe5190d438a6d29752034
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '3422'
+source-wordcount: '3418'
 ht-degree: 0%
 
 ---
@@ -169,7 +169,7 @@ Fügen Sie eine Postleitzahl pro Zeile hinzu oder geben Sie mehrere Werte ein, d
 
 **[!UICONTROL Inventory Sources]:** Inventarquellen, die als Ziele ein- oder ausgeschlossen werden sollen. Bei den meisten Platzierungstypen sind standardmäßig alle Inventartypen und alle Quellen für jeden Typ enthalten. Für [!DNL Roku] Platzierungen, müssen Sie den Inventartyp und die Quellen angeben. Sie können aus den folgenden Lagerbestandsarten wählen:
 
-* [!UICONTROL Public]: (Alle Platzierungstypen außer Roku) Alle offenen Exchange-Inventare, auf die Advertising Cloud Zugriff hat. Sie können das öffentliche Inventar einbeziehen und ausschließen.
+* [!UICONTROL Public]: (Alle Platzierungstypen außer Roku) Alle offenen Exchange-Inventare, auf die DSP Zugriff hat. Sie können das öffentliche Inventar einbeziehen und ausschließen.
 
    Sie können die Liste nach Quelle oder Feed anzeigen. Wenn Sie die Liste nach Feed anzeigen, können Sie nach Feed-Name, Feed-Schlüssel oder einem ausgewählten charakteristischen Tag suchen.
 
@@ -226,7 +226,7 @@ So legen Sie das Inventar-Targeting fest:
 >
 >Für Leistungskampagnen empfiehlt es sich, *[!UICONTROL All Sites]*.
 
-**[!UICONTROL Site Categories]:** (Optional) verfügbar **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Sitekategorien innerhalb der ausgewählten Siteebenen, die entweder als Ziele ein- oder ausgeschlossen werden sollen (aber nicht beide). Wählen Sie aus den vertikalen Site-Listen, die Advertising Cloud basierend auf dem Site-Betreff zugeordnet hat:
+**[!UICONTROL Site Categories]:** (Optional) verfügbar **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Sitekategorien innerhalb der ausgewählten Siteebenen, die entweder als Ziele ein- oder ausgeschlossen werden sollen (aber nicht beide). Wählen Sie aus vertikalen Site-Listen, die DSP basierend auf dem Betreff der Site zugeordnet hat:
 
 1. Klicken ![Bearbeiten](/help/dsp/assets/edit.png).
 1. Geben Sie die Site-Kategorien an, die entweder ein- oder ausgeschlossen werden sollen:
@@ -257,7 +257,7 @@ So legen Sie das Inventar-Targeting fest:
 
 >[!NOTE]
 >
->* Zusätzlich zum Advertising Cloud DSP werden auch Blockierungslisten auf Kontoebene und auf Advertiser-Ebene angewendet. [global gesperrte Site-Liste](/help/dsp/introduction/features/brand-safety-media-quality.md), einschließlich Sites, die für Anzeigen als unsicher gelten.
+>* Zusätzlich zu den DSP werden auch auf Kontoebene und auf Advertiser-Ebene Blockierungssite-Listen angewendet [global gesperrte Site-Liste](/help/dsp/introduction/features/brand-safety-media-quality.md), einschließlich Sites, die für Anzeigen als unsicher gelten.
 >* Listen blockierter Sites überschreiben immer Listen zielgerichteter Sites. Wenn durch eine Platzierung dieselbe Zielgruppe für eine Anzeige ausgeschlossen und einbezogen wird, wird die Zielgruppe ausgeschlossen.
 
 

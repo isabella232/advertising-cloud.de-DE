@@ -3,9 +3,9 @@ title: Kampagneneinstellungen
 description: Siehe Beschreibungen der verfügbaren Kampagnenparameter.
 feature: DSP Campaigns
 exl-id: ff2e22ff-8073-4532-884b-36e0c1f22641
-source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '921'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,9 @@ Wenn Sie *[!UICONTROL Yes],* Geben Sie den Spannungstyp und Betrag an:
 
 * **[!UICONTROL Margin Type]:** Der Typ des Rands. Sobald Sie die Margenverwaltung aktiviert und die Kampagne gespeichert haben, können Sie den Margentyp nicht mehr ändern.
 
-   * *[!UICONTROL Fixed]:* (Standardeinstellung) Ermöglicht Advertising Cloud DSP die automatische Berechnung und Begrenzung der Ausgaben basierend auf einem festen Marge-Prozentsatz der [!UICONTROL Gross Budget].
+   * *[!UICONTROL Fixed]:* (Standardeinstellung) Ermöglicht DSP automatische Berechnung und Begrenzung der Ausgaben basierend auf einem festen Marge-Prozentsatz der [!UICONTROL Gross Budget].
 
-   * *[!UICONTROL Dynamic]:* Ermöglicht die Verwaltung von Rändern bis zur Platzierungsebene durch Angabe eines separaten [!UICONTROL Budget Reserve %] und [!UICONTROL Gross Budget] für jedes Paket und jede Platzierung in der Kampagne. Advertising Cloud DSP optimiert sich auf der Grundlage der finanziellen Effizienz jeder Platzierung, ohne eine bestimmte Marge zu garantieren. Verwenden Sie dies für Einfügeaufträge, die aus mehreren Zeileneinträgen bestehen, für die Sie vereinbart haben, eine feste Menge von Einheiten oder Einheitentypen zu einem festen Preis bereitzustellen.
+   * *[!UICONTROL Dynamic]:* Ermöglicht die Verwaltung von Rändern bis zur Platzierungsebene durch Angabe eines separaten [!UICONTROL Budget Reserve %] und [!UICONTROL Gross Budget] für jedes Paket und jede Platzierung in der Kampagne. DSP optimiert sich auf der Grundlage der finanziellen Effizienz jeder Platzierung, ohne eine bestimmte Marge zu garantieren. Verwenden Sie dies für Einfügeaufträge, die aus mehreren Zeileneinträgen bestehen, für die Sie vereinbart haben, eine feste Menge von Einheiten oder Einheitentypen zu einem festen Preis bereitzustellen.
 
 * **[!UICONTROL Fixed Margin %]:** (Nur Kampagnen mit festen Rändern) Das Standard-Markup für jede Einfügereihenfolge <!-- impression? -->als Prozentsatz. Dieser Betrag wird von der [!UICONTROL Gross Budget] , um das Budget der Kampagne zu bestimmen.
 
@@ -64,11 +64,11 @@ So schätzen Sie die einzubehaltenden Steuern:
 
 1. Aktivieren Sie das Kontrollkästchen neben jedem Gebührentyp, für den Steuern einbehalten werden sollen. Zu den Gebührentypen gehören:
 
-   * *[!UICONTROL Include estimated tax - ads fee]:* Gilt für alle Advertising Cloud DSP-Medienausgaben, einschließlich Steuern auf Kampagnenverwaltungsgebühren.
+   * *[!UICONTROL Include estimated tax - ads fee]:* Gilt für alle Werbeausgaben DSP Medien, einschließlich Steuern auf Kampagnenverwaltungsgebühren.
 
-   * *[!UICONTROL Include estimated tax - ad serving fee]:* Gilt für alle Ausgaben für Advertising Cloud DSP mit Ausnahme von Medien und Daten. Ausgeschlossen sind Steuern für Kampagnenverwaltungsgebühren
+   * *[!UICONTROL Include estimated tax - ad serving fee]:* Gilt für alle Ausgaben für DSP mit Ausnahme von Medien und Daten. Ausgeschlossen sind Steuern für Kampagnenverwaltungsgebühren
 
-   * *[!UICONTROL Include estimated tax - data fee]:* Gilt für alle Datenausgaben für Advertising Cloud DSP.
+   * *[!UICONTROL Include estimated tax - data fee]:* Gilt für alle Datenausgaben für DSP.
 
 1. Klicken **[!UICONTROL Submit]**.
 
@@ -79,7 +79,7 @@ So schätzen Sie die einzubehaltenden Steuern:
 >* Sie können diese Werte auch in den Gebühreneinstellungen des Kontos konfigurieren.<!--[fee settings](/help/dsp/admin/tax-withholdings.md). -->
 
 
-**[!UICONTROL Cross Device Level]:** (Schreibgeschützt für bestehende Kampagnen, die seit dem 22. Juni 2020 erstellt wurden; nicht verfügbar für Kampagnen, die vor dem 22. Juni 2020 erstellt wurden. Die Ebene, auf der Advertising Cloud Anzeigen ansprechen und Frequenzobergrenzen anwenden wird: *Gleiches Gerät* , um ein Gerät auszuwählen, oder *Personen* , um eine Person auf allen ihren bekannten Geräten anzusprechen.
+**[!UICONTROL Cross Device Level]:** (Schreibgeschützt für bestehende Kampagnen, die seit dem 22. Juni 2020 erstellt wurden; nicht verfügbar für Kampagnen, die vor dem 22. Juni 2020 erstellt wurden. Die Ebene, auf der DSP Anzeigen ansprechen und Frequenzobergrenzen anwenden wird: *Gleiches Gerät* , um ein Gerät auszuwählen, oder *Personen* , um eine Person auf allen ihren bekannten Geräten anzusprechen.
 
 **[!UICONTROL Device Graph]:** (Schreibgeschützt für bestehende Kampagnen; Kampagnen mit benutzerspezifischem geräteübergreifendem Targeting) Das Gerätediagramm, das für geräteübergreifendes Targeting und Frequenzmanagement verwendet werden soll:
 

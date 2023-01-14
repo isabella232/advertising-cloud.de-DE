@@ -3,9 +3,9 @@ title: Best Practices zum Erstellen eines benutzerdefinierten Ziels
 description: Lernen Sie die Best Practices zum Erstellen benutzerdefinierter Ziele kennen, um Ihre Erfolgsereignisse zu definieren.
 feature: DSP Optimization, DSP Best Practices
 exl-id: 54b16325-4b72-48a3-a2e0-4e342229211c
-source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '573'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Wenn Ihr Kampagnenziel Umsatz ist ([!UICONTROL Highest ROAS - Custom Goal]), dan
 >
 > A [!UICONTROL Property Weight] von einem entspricht einem Wert von 1 für jeden verfolgten Umsatz von 1 USD.
 >
-> Beispielsweise wird eine Konversion von 250 USD mit einer Gewichtung von 1 als 250 USD gemeldet. Wenn der Konversionsmetrik eine Gewichtung von 0,5 zugewiesen wird, wird die Konversion von 250 USD in Advertising Cloud als 125 USD gemeldet ( 250 USD Konversion * 0,5 [!UICONTROL Property Weight] = 125 USD).
+> Beispielsweise wird eine Konversion von 250 USD mit einer Gewichtung von 1 als 250 USD gemeldet. Wenn der Konversionsmetrik eine Gewichtung von 0,5 zugewiesen wird, wird die Konversion von 250 USD als 125 USD in Adobe Advertising ( 250 USD Konversion * 0,5) gemeldet. [!UICONTROL Property Weight] = 125 USD).
 
 ### Beispiel für eine Kampagne mit dem[!UICONTROL Lowest CPA - Custom Goal]&quot;Optimierungsziel
 
@@ -38,7 +38,7 @@ Wenn Ihr Kampagnenziel die niedrigsten Kosten pro Akquise (CPA) ist und nur ein 
 >
 > A [!UICONTROL Property Weight] von eins entspricht einem Wert für jede verfolgte Konversion.
 >
-> Wenn z. B. 10 Konvertierungen von Antragssendungen verfolgt werden, werden 10 Konversionen von Antragsübermittlungen gemeldet.  Wenn der Konversionsmetrik eine Gewichtung von 0,5 zugewiesen wird, werden die 10 Konversionen in Advertising Cloud als fünf (5) (10 Konversionen * 0,5) gemeldet. [!UICONTROL Property Weight] = 5).
+> Wenn z. B. 10 Konvertierungen von Antragssendungen verfolgt werden, werden 10 Konversionen von Antragsübermittlungen gemeldet.  Wenn der Konversionsmetrik eine Gewichtung von 0,5 zugewiesen wird, werden die 10 Konversionen als fünf (5) in Adobe Advertising (10 Konversionen * 0,5) gemeldet. [!UICONTROL Property Weight] = 5).
 
 ## Benutzerdefinierte Ziele mit mehreren Eigenschaften
 

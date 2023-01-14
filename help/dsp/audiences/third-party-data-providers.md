@@ -1,20 +1,20 @@
 ---
-title: Verfügbare Drittanbieter-Datenanbieter in Advertising Cloud DSP
+title: Verfügbare Drittanbieter-Datenanbieter in Advertising DSP
 description: Sehen Sie sich eine Liste aller verfügbaren Datenanbieter von Drittanbietern an.
 feature: DSP Audiences
 exl-id: f67d81a0-bd31-48d8-9bcf-1888afd43894
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
 <!-- feature: audiences -->
 
-# Verfügbare Drittanbieter-Datenanbieter in Advertising Cloud DSP
+# Verfügbare Drittanbieter-Datenanbieter in Advertising DSP
 
-Datenkategorien und Segmente für die folgenden Drittanbieter sind als Platzierungsziele in verfügbar. [!DNL DSP]. Diese Segmente sind in erster Linie für US-Zielgruppen verfügbar.
+Datenkategorien und Segmente für die folgenden Drittanbieter sind als Platzierungsziele in DSP verfügbar. Diese Segmente sind in erster Linie für US-Zielgruppen verfügbar.
 
 Die Gebühr für die Verwendung der einzelnen Segmente wird neben dem Segmentnamen in den Platzierungseinstellungen und den gespeicherten Zielgruppeneinstellungen angezeigt.
 

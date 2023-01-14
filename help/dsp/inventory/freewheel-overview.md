@@ -3,9 +3,9 @@ title: Übersicht über das Einrichten von PG-Angeboten in [!DNL Freewheel]
 description: Erfahren Sie mehr über die Voraussetzungen und zusätzlichen Schritte, die zum Ausführen von Anzeigen für programmgesteuerte garantierte Angebote für Herausgeber erforderlich sind in [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: acf8351b-88fb-4f18-8fca-9a2d6674cdec
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ Einrichten programmgesteuerter garantierter Angebote für Herausgeber in [!DNL F
 
 >[!PREREQUISITES]
 >
->Arbeiten mit [!DNL Adobe] Kontoteam, um sicherzustellen, dass Ihre [!DNL DSP] hat die folgenden Berechtigungen.
+>Arbeiten mit [!DNL Adobe] Kontoteam, um sicherzustellen, dass Ihre [!DNL DSP] -Konto hat die folgenden Berechtigungen:
 >
->1. Berechtigung zur Verwendung der [!DNL FreeWheel] programmgesteuerter garantierter Workflow, der erforderlich ist, um eine Anzeige für einen programmgesteuerten garantierten Deal zu senden, um [!DNL FreeWheel].
+>* Berechtigung zur Verwendung der [!DNL FreeWheel] programmgesteuerter garantierter Workflow, der erforderlich ist, um eine Anzeige für einen programmgesteuerten garantierten Deal zu senden, um [!DNL FreeWheel].
 >
->1. (Wenn Sie mit britischen Herausgebern arbeiten, die eine [!DNL Clearcast] Uhrennummer mit jeder Anzeige) Erlaubnis, Uhrennummern in Ihre Anzeigen aufzunehmen.
+>* (Wenn Sie mit britischen Herausgebern arbeiten, die eine [!DNL Clearcast] Uhrennummer mit jeder Anzeige) Erlaubnis, Uhrennummern in Ihre Anzeigen aufzunehmen.
 
 
 ## Workflow

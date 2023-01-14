@@ -1,11 +1,11 @@
 ---
-title: '"Erstellen Sie eine [!UICONTROL Simple Ad Serving] Deal"'
-description: '"Erfahren Sie, wie Sie ein Tracking-Pixel für eine [!UICONTROL Simple Ad Serving] handeln."'
+title: "Erstellen Sie eine [!UICONTROL Simple Ad Serving] Deal"
+description: "Erfahren Sie, wie Sie ein Tracking-Pixel für eine [!UICONTROL Simple Ad Serving] handeln."
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 089d91f7d1b06e29d27ac95a46834127d19c141d
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
       1. Klicken **[!UICONTROL Next]**.
    1. Bearbeiten Sie in den Feed-Details die Feed-Details und klicken Sie auf **[!UICONTROL Next]**.
 
-      Advertising Cloud DSP generiert automatisch eine Platzierung mit dem Namen &quot;SAS Placement - &lt;*Name des Deals*>&quot;,&quot;für die Anzeige. In der Platzierung wird der Deal automatisch im [!UICONTROL Inventory Targets] Abschnitt. Alle anderen Targeting-Optionen sind nicht verfügbar.
+      DSP generiert automatisch eine Platzierung mit dem Namen &quot;SAS Placement - &lt;*Name des Deals*>&quot;,&quot;für die Anzeige. In der Platzierung wird der Deal automatisch im [!UICONTROL Inventory Targets] Abschnitt. Alle anderen Targeting-Optionen sind nicht verfügbar.
 
 
 

@@ -3,24 +3,24 @@ title: Benutzerdefiniertes Ziel erstellen
 description: Benutzerdefiniertes Ziel erstellen
 feature: DSP Optimization
 exl-id: 440ded21-92d3-41ad-839f-ebc8376aa932
-source-git-commit: 8aea9eb1358e23a5b25e0353ced80c1550fa0057
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
 
 # Benutzerdefiniertes Ziel erstellen
 
-Sie können benutzerdefinierte Ziele als *Ziele* innerhalb von Advertising Cloud Search.
+Sie können benutzerdefinierte Ziele als *Ziele* Innerhalb [!DNL Adobe Advertising Search].
 
-Um ein benutzerdefiniertes Ziel zu erstellen, muss das Advertising Cloud DSP-Konto mit einem [!DNL Search] -Konto mit derselben Adobe Experience Cloud-Organisations-ID aus der [!DNL Search] Clienteinstellungen. Wenn Ihr DSP-Konto nicht mit einem [!DNL Search] -Konto, kontaktieren Sie Ihre [!DNL Adobe] Account-Team.
+Um ein benutzerdefiniertes Ziel zu erstellen, muss das DSP Konto mit einem [!DNL Search] -Konto mit derselben Adobe Experience Cloud-Organisations-ID aus der [!DNL Search] Clienteinstellungen. Wenn Ihr DSP-Konto nicht mit einem [!DNL Search] -Konto, kontaktieren Sie Ihre [!DNL Adobe] Account-Team.
 
 >[!TIP]
 >
 >Siehe [Best Practices zum Erstellen benutzerdefinierter Ziele](custom-goal-best-practices.md) Tipps zur Konfiguration Ihrer benutzerdefinierten Ziele.
 
-1. Melden Sie sich bei Advertising Cloud Search bei (US-Unternehmen) an. [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) oder (Unternehmen in allen anderen Ländern) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
+1. Anmelden [!DNL Adobe Advertising Search] (US-Unternehmen) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) oder (Unternehmen in allen anderen Ländern) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
 1. Stellen Sie sicher, dass die Metriken, die Sie in Ihr Ziel aufnehmen möchten, verfolgt wurden, im Produkt verfügbar sind und einen Anzeigenamen enthalten:
    1. Klicken Sie im Hauptmenü auf **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Transaction Properties]**.
    1. Suchen Sie die Metrik und stellen Sie sicher, dass **[!UICONTROL Show in UI and Reports]** für die Metrik aktiviert ist.
@@ -31,7 +31,7 @@ Um ein benutzerdefiniertes Ziel zu erstellen, muss das Advertising Cloud DSP-Kon
    1. Geben Sie die Zieleinstellungen ein:
       1. Im **[!UICONTROL Change Objective Name]** Geben Sie den Zielnamen ein.
 
-         Der Zielname wird im [!UICONTROL Custom Goals] in den Advertising Cloud DSP-Paketeinstellungen.
+         Der Zielname wird im [!UICONTROL Custom Goals] in den DSP Paketeinstellungen.
 
       1. Verknüpfen Sie Eigenschaften mit dem Ziel:
 
@@ -65,7 +65,7 @@ Um ein benutzerdefiniertes Ziel zu erstellen, muss das Advertising Cloud DSP-Kon
       1. Klicken Sie unten in den Einstellungen auf **[!UICONTROL Save]**.
 
 
-Nachdem Sie ein Ziel erstellt haben, können Sie es einem Advertising Cloud DSP-Paket als benutzerdefiniertes Ziel zuweisen, wenn das Optimierungsziel lautet:[!UICONTROL Highest ROAS - Custom Goal]&quot; oder &quot;[!UICONTROL Lowest CPA - Custom Goal].&quot;
+Nachdem Sie ein Ziel erstellt haben, können Sie es einem DSP als benutzerdefiniertes Ziel zuweisen, wenn das Optimierungsziel lautet[!UICONTROL Highest ROAS - Custom Goal]&quot; oder &quot;[!UICONTROL Lowest CPA - Custom Goal].&quot;
 
 >[!TIP]
 >

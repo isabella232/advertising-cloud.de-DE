@@ -1,19 +1,19 @@
 ---
-title: Advertising Cloud-Richtlinien und -Richtlinien
-description: Erfahren Sie mehr über Richtlinien und Richtlinien für Advertising Cloud DSP und Advertising Cloud Search.
+title: Grundsätze und Richtlinien für Adobe Advertising
+description: Erfahren Sie mehr über Richtlinien und Richtlinien für Advertising DSP und Advertising Search.
 index: true
 cloud: Experience Cloud
 product: advertising cloud
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 0%
+source-wordcount: '43'
+ht-degree: 23%
 
 ---
 
-# Advertising Cloud-Richtlinien und -Richtlinien
+# Grundsätze und Richtlinien für Adobe Advertising 
 
-Erfahren Sie mehr über Richtlinien und Richtlinien für Advertising Cloud DSP und Advertising Cloud Search:
+Erfahren Sie mehr über Richtlinien und Richtlinien für Advertising DSP und Advertising Search:
 
 * [Richtlinie zu Anzeigenanforderungen](/help/policies/ad-requirements-policy.md)
 * [Richtlinien für zulässige Gesundheitssegmente](/help/policies/health-segment-guidelines.md)

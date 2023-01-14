@@ -4,19 +4,19 @@ role: User, Admin
 cloud: Experience Cloud
 solution: Advertising Cloud
 product: advertising cloud
-user-guide-title: Handbuch zu Advertising Cloud DSP
-user-guide-description: Erfahren Sie mehr über die wichtigsten Funktionen, Aufgaben, Einstellungen und andere Ressourcen, die für die Verwaltung, Optimierung und Berichterstellung für Ihre Strategien rund um Display-Anzeigen mit Advertising Cloud DSP erforderlich sind.
+user-guide-title: Advertising DSP-Handbuch
+user-guide-description: Erfahren Sie mehr über die wichtigsten Funktionen, Aufgaben, Einstellungen und andere Ressourcen, die für die Verwaltung, Optimierung und Berichterstellung für Ihre Strategien rund um Display-Anzeigen mit Advertising DSP erforderlich sind.
 breadcrumb-title: Handbuch zu DSP
 index: true
-source-git-commit: e902deb79c42e8fb13697439198259004a957525
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '954'
-ht-degree: 6%
+source-wordcount: '948'
+ht-degree: 5%
 
 ---
 
 
-# Handbuch zu Advertising Cloud DSP {#dsp}
+# Advertising DSP-Handbuch {#dsp}
 
 <!-- add back to about below "Edit the Advertisers with Access to a Deal ID" when reintroduced:
       + [Edit the Attribute Tags for a Deal ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
@@ -28,7 +28,7 @@ ht-degree: 6%
 
 + [Neue Funktionen](/help/dsp/home.md)
 + Einführung {#introduction}
-   + [Einführung in Adobe Advertising Cloud DSP](/help/dsp/introduction/dsp-about.md)
+   + [Einführung in Adobe Advertising DSP](/help/dsp/introduction/dsp-about.md)
    + Wichtigste Funktionen {#features}
       + [Optimierung](/help/dsp/introduction/features/optimization.md)
       + [Markensicherheit und Medienqualität](/help/dsp/introduction/features/brand-safety-media-quality.md)
@@ -117,7 +117,7 @@ ht-degree: 6%
       + [Platzierungseinstellungen für eine Kampagne herunterladen](/help/dsp/campaign-management/qa/qa-sheet-download.md)
       + [Platzierungseinstellungen für eine Kampagne hochladen](/help/dsp/campaign-management/qa/qa-sheet-upload.md)
       + [Spalten in heruntergeladenen/hochgeladenen Arbeitsblättern](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
-   + [Advertising Cloud DSP Makros](/help/dsp/campaign-management/macros.md)
+   + [DSP Makros](/help/dsp/campaign-management/macros.md)
    + [Tastaturbefehle](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
    + [Häufig gestellte Fragen zu Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 + Optimierung {#optimization}

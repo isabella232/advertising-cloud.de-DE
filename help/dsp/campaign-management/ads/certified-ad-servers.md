@@ -3,9 +3,9 @@ title: Zertifizierte Ad Serving-Partner
 description: Alle zertifizierten Adserver und Anzeigeneinheiten anzeigen.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: ffd88b7f3274740db2d91697b0e208f61b2260d5
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ ht-degree: 0%
 | [!DNL Spirable] |  | X |  |  |  |
 | [!DNL SUBLIME] |  |  | X |  |  |
 | [!DNL SundaySky] |  |  |  | X |  |
-| [!DNL Teads] |  | X |  |  | Advertising Cloud DSP unterstützt VPAID nicht für das Inventar von Outstream. |
+| [!DNL Teads] |  | X |  |  | VPAID wird im Outstream-Inventar nicht unterstützt. |
 | [!DNL Trueffect] |  | X |  |  |  |
 | [!DNL Undertone] |  |  | X |  | Benutzerdefinierte Seitengänger-Anzeigeneinheit, die als 180x150 in DSP hochgeladen wurde</br></br>Wenn Index Exchange eine 180x150-Auktion durchläuft und DSP Gebote auf der Auktion abgibt und einen Impression liefert, wird der Kreativschaffende auf eine ganzseitige Display-Anzeige erweitert.</br></br>Ursprünglich für die Anzeigeneinheiten &quot;Seitenübersicht&quot;, &quot;Erweiterbarer Zusammenhalt&quot;und &quot;Bildschirmverschiebung&quot;zertifiziert. Dies muss neu zertifiziert werden, wobei die Schritte für Prozesse markiert sind. |
 | [!DNL Vox] |  |  | X |  | [!DNL Athena] Anzeigeneinheiten |

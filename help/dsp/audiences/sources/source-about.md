@@ -2,9 +2,10 @@
 title: Informationen zum Aktivieren authentifizierter Segmente aus Zielgruppen-Quellen
 description: Erfahren Sie mehr über die Aufnahme von Erstanbietersegmenten aus einer Kundendatenplattform.
 feature: DSP Audiences
-source-git-commit: aac60e8fddce1db3d0101a617fca3af970043648
+exl-id: 3e6ede23-2b27-4b1d-bfa2-e823824633c4
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -14,7 +15,7 @@ ht-degree: 0%
 <!-- Doesn't specifically explain what you can do in our UI -->
 *Beta-Funktion*
 
-Advertising Cloud DSP kann Erstanbietersegmente erfassen, die aus authentifizierten Signalen bestehen, die in einer Kundendatenplattform (CDP) erstellt wurden. Sie können die aufgenommenen Segmente als Ziele für Ihre Platzierungen verwenden.
+DSP können Erstanbietersegmente erfassen, die aus authentifizierten Signalen bestehen, die in einer Kundendatenplattform (CDP) erstellt wurden. Sie können die aufgenommenen Segmente als Ziele für Ihre Platzierungen verwenden.
 
 ## [!DNL Adobe Real-Time Customer Data Profile]
 
@@ -32,7 +33,7 @@ Weitere Informationen zu Zielen finden Sie in der Experience Platform [Zielhandb
 
 1. [Erstellen einer Zielgruppenquelle](source-create.md) , um Zielgruppen in Ihr DSP- oder Advertiser-Konto zu importieren.
 
-1. [Konfigurieren Sie eine [!DNL Real-Time CDP] Zielverbindung in Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).<!-- Verify URL once it's published. -->
+1. [Konfigurieren Sie eine [!DNL Real-Time CDP] Zielverbindung in Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).
 
 Weitere Unterstützung erhalten Sie bei Ihrem [!DNL Adobe] Kontoteam oder `adcloud-support@adobe.com`.
 
@@ -41,7 +42,7 @@ Weitere Unterstützung erhalten Sie bei Ihrem [!DNL Adobe] Kontoteam oder `adclo
 >* [Authentifizierte Segmente von dauerhaften ID-Partnern aktivieren](source-durable-id.md)
 >* [Erstellen einer Zielgruppenquelle zum Aktivieren von Erstanbieterzielgruppen](source-create.md)
 >* [Einstellungen der Zielgruppenquelle](source-settings.md)
->* [Adobe Advertising Cloud DSP-Verbindung](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* Adobe Experience Platform [Zielkatalog - Übersicht](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html)
 >* [Über Zielgruppen-Management](/help/dsp/audiences/audience-about.md)
 

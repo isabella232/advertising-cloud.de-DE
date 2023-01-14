@@ -1,22 +1,22 @@
 ---
-title: Adobe Advertising Cloud-Anzeigenanforderungsrichtlinie
+title: Adobe Advertising Ad Requirements Policy
 description: Siehe Richtlinien für Anzeigenanforderungen.
 feature: Policies, DSP Ads
 exl-id: 49c990e7-05d7-4fde-a728-d9e8dfb86222
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '2063'
+source-wordcount: '2058'
 ht-degree: 0%
 
 ---
 
-# Adobe Advertising Cloud-Anzeigenanforderungsrichtlinie
+# Adobe Advertising Ad Requirements Policy
 
 *Zuletzt aktualisiert: 12. Juli 2021*
 
-*Für Adobe Advertising Cloud DSP und Adobe Advertising Cloud Search*
+*Für Adobe Advertising DSP und Adobe Advertising Search*
 
-Diese Richtlinie zu Anzeigenanforderungen (&quot;Richtlinie&quot;) legt die Anforderungen für Anzeigen fest, die über On-Demand-Dienste von Adobe für Advertising Cloud (&quot;Dienste&quot;) verteilt werden. Diese Richtlinie wird durch einen Verweis in den Vertrag zwischen der Adobe und dem Kunden (&quot;Sie&quot;) aufgenommen, der die On-Demand-Dienste nutzt. In dieser Richtlinie verwendete großgeschriebene Begriffe, die hier nicht definiert sind, haben die in der Vereinbarung festgelegte Bedeutung.
+In dieser Richtlinie zu Anzeigenanforderungen (&quot;Richtlinie&quot;) werden die Anforderungen für Werbeanzeigen beschrieben, die über On-Demand-Dienste der Adobe für Adobe Advertising (&quot;Services&quot;) verteilt werden. Diese Richtlinie wird durch einen Verweis in den Vertrag zwischen der Adobe und dem Kunden (&quot;Sie&quot;) aufgenommen, der die On-Demand-Dienste nutzt. In dieser Richtlinie verwendete großgeschriebene Begriffe, die hier nicht definiert sind, haben die in der Vereinbarung festgelegte Bedeutung.
 
 Adobe behält sich das Recht vor, allein zu entscheiden, ob eine Anzeige oder die Website(s), auf die die Anzeige umgeleitet oder verlinkt, gegen die Bestimmungen dieser Richtlinie verstößt. In diesem Fall kann die Adobe diese Anzeige ablehnen und/oder den Zugriff auf die Services auf dieser Grundlage beenden oder aussetzen.
 
@@ -26,7 +26,7 @@ Zusätzlich zu den nachfolgend und in der Vereinbarung dargelegten Anforderungen
 
 ### Kreative Anforderungen
 
-Alle Anzeigen, die von Ihnen über die On-Demand-Dienste übertragen, gespeichert, angezeigt, verteilt oder anderweitig zur Verfügung gestellt werden, müssen mit den in den Adobe Advertising Cloud-Anzeigenspezifikationen enthaltenen Werbespezifikationen übereinstimmen, die von Zeit zu Adobe geändert werden können.
+Alle Anzeigen, die von Ihnen über die On-Demand-Dienste übertragen, gespeichert, angezeigt, verteilt oder anderweitig zur Verfügung gestellt werden, müssen mit den in den Werbeanzeigenspezifikationen der Adobe enthaltenen Werbespezifikationen übereinstimmen, die von Zeit zu Adobe geändert werden können.
 
 ### Verbotene Anzeigen
 
@@ -36,13 +36,13 @@ Sie müssen sicherstellen, dass Ihre Anzeigen und die Websites, auf die eine Anz
 
 * **Verletzung der Rechte oder Verträge eines anderen**. Werbeanzeigen dürfen die Rechte oder den Vertrag einer anderen Person nicht verletzen oder verletzen oder Produkte oder Dienstleistungen bewerben, die diese Tätigkeiten ausüben. Dazu gehören die Verletzung von Rechten des geistigen Eigentums und Verletzungen der Privatsphäre, der Werbung oder anderer persönlicher oder proprietärer Rechte, einschließlich der Förderung von Diensten zur Dateiweitergabe, die hauptsächlich zur Verletzung von Urheberrechten verwendet werden.
 
-* **Gewalt oder gefährliche Aktivitäten**. Anzeigen dürfen keine gewalttätigen oder gefährlichen Tätigkeiten oder Materialien fördern oder darstellen, einschließlich schockierender, sensationeller, lächerlicher oder obszöner Inhalte, die physische Verletzungen, Schäden oder Missbrauch, Waffen (einschließlich Waffentransfer oder -zubehör), Munition, Feuerwerkskörper oder andere explosive Materialien fördern oder darstellen.
+* **Gewalt oder gefährliche Tätigkeiten**. Anzeigen dürfen keine gewalttätigen oder gefährlichen Tätigkeiten oder Materialien fördern oder darstellen, einschließlich schockierender, sensationeller, lächerlicher oder obszöner Inhalte, die körperliche Verletzungen, Schäden oder Missbrauch, Waffen (einschließlich Waffentransfer oder -zubehör), Munition, Feuerwerkskörper oder andere explosive Materialien fördern oder darstellen.
 
 * **Falsche oder irreführende Anzeigen**. Anzeigen dürfen keine Inhalte enthalten, die falsch, irreführend oder irreführend sind. Dazu gehören Anzeigen, die unrealistische Erwartungen für Benutzer festlegen, das Ausblenden des tatsächlichen Ziels, an das Benutzer weitergeleitet werden, nachdem sie auf eine Anzeige geklickt haben, Umleiten oder Verknüpfen zu einer Site, die sich als anderer Dienst falsch darstellt, das Nachahmen von Systemwarnungen oder -warnungen (z. B. von einem Betriebssystem oder einer Mobile App) oder das Versehen eines anderen Produkts oder einer anderen Anwendung. Alle Angebote &quot;kostenloser&quot;oder &quot;diskontierter&quot;Produkte oder Dienstleistungen müssen klare und genaue Angaben zu den Vertragsbedingungen oder sonstigen Anforderungen enthalten, die zur Geltendmachung dieser Angebote mit den gesetzlichen Anforderungen vereinbar sind. Alle geltend gemachten Angaben müssen korrekt und wahrheitsgemäß sein.
 
 * **Schädliche Werbeanzeigen.** Anzeigen dürfen keine Viren, Spyware, Malware oder Links zu Websites enthalten, die solche Software oder Produkte enthalten. Dies umfasst die Förderung von Hacking-Software, betrügerischen Diensten und anderen Angeboten, die für nicht autorisierte Aktionen entwickelt wurden. Darüber hinaus dürfen Anzeigen keine Inhalte enthalten, die belästigend, bedrohend, abwertend, diffamierend, diskriminierend, beleidigend oder anderweitig anstößend sind.
 
-* **gefälschte oder gefälschte Produkte**. Anzeigen dürfen keine gefälschten oder gefälschten Produkte, einschließlich gefälschter Dokumente, wie Pässe oder amtliche Papiere, fördern oder darstellen.
+* **gefälschte oder gefälschte Erzeugnisse**. Anzeigen dürfen keine gefälschten oder gefälschten Produkte, einschließlich gefälschter Dokumente, wie Pässe oder amtliche Papiere, fördern oder darstellen.
 
 * **Sexuell ansprechende Inhalte**. Anzeigen dürfen keine Inhalte enthalten, die sexuell ansprechende Inhalte enthalten oder fördern, einschließlich Nacktheit, Pornografie, Erwachsenendienste oder Unterhaltung, oder sinnvolle oder explizite Darstellungen oder Sprache.
 
@@ -58,11 +58,11 @@ Sie müssen sicherstellen, dass Ihre Anzeigen und die Websites, auf die eine Anz
 
 * **Sensible Ereignisse**. Anzeigen dürfen nicht aus Naturkatastrophen, Konflikten, Todesfällen, Epidemien, Pandemien, tragischen Ereignissen oder öffentlicher Angst Kapital schlagen oder ihnen keine angemessene Sensibilität entgegenbringen.
 
-* **Pyramidenprogramme**. Anzeigen fördern möglicherweise keine Pyramidensysteme, mehrstufige Marketingmöglichkeiten, Kettenbriefe oder andere &quot;schnelle Reichweite&quot;-Programme. Alle Anzeigen, die einkommensschaffende Möglichkeiten beinhalten, müssen eine vollständige Erläuterung des Geschäftsmodells enthalten.
+* **Pyramidenregelungen**. Anzeigen fördern möglicherweise keine Pyramidensysteme, mehrstufige Marketingmöglichkeiten, Kettenbriefe oder andere &quot;schnelle Reichweite&quot;-Programme. Alle Anzeigen, die einkommensschaffende Möglichkeiten beinhalten, müssen eine vollständige Erläuterung des Geschäftsmodells enthalten.
 
 * **Verkauf von Körperteilen**. Werbung darf nicht den Verkauf von Körperteilen oder Körperflüssigkeiten fördern.
 
-* **Ablenkende Anzeigen**. Anzeigen dürfen keine ablenkenden, unerwünschten oder unbequemen Funktionen oder Inhalte enthalten, einschließlich Funktionen für die automatische Wiedergabe (z. B. Anzeigen, die automatisch Audio oder Video abspielen), Inhalt, der blinkt, schüttelt, durchsucht, blinkt oder übermäßig animierte Objekte, Text oder Bilder, lokal freigegebene Objekte (einschließlich Flash-Cookies und lokalem HTML5-Speicher) und Anzeigen, die das Benutzererlebnis unterbrechen (z. B. durch Überlagern von anderen Inhalten).
+* **Ablenkende Anzeigen**. Anzeigen dürfen keine ablenkenden, unerwünschten oder unbequemen Funktionen oder Inhalte enthalten, einschließlich Funktionen für die automatische Wiedergabe (z. B. Anzeigen, die automatisch Audio oder Video abspielen), Inhalt, der blinkt, schüttelt, durchsucht, blinkt oder übermäßig animierte Objekte, Text oder Bilder, lokal freigegebene Objekte (einschließlich Flash-Cookies und lokalem Speicher von HTML5) sowie Anzeigen, die das Benutzererlebnis stören (z. B. durch Überlagern anderer Inhalte ).
 
 * **Politischer Inhalt**. Politische Inhalte umfassen Mitteilungen, die Folgendes beinhalten: (1) von jedem Kandidaten für das Amt (föderal, staatlich, lokal oder international) oder für die Kampagne eines Kandidaten bezahlt werden; (2) werden von jeder Organisation bezahlt, die nach dem Kampagnenfinanzierungs-Recht eines Staates (Bundesland, Bundesland, örtlich oder international) registriert ist oder darüber berichtet; (3) ausdrücklich für oder gegen jeden eindeutig identifizierten Kandidaten (föderal, staatlich, lokal oder international) oder (4) sind anderweitig durch das Kampagnenfinanzierungs-Gesetz jedes Staates geregelt. Dieses Verbot umfasst, ist aber nicht darauf beschränkt, Advocacy Ads auszustellen, die direkt oder indirekt mit Wahlen, politischen Kampagnen, Kandidaten für ein öffentliches Amt, Wahlen, Stimmzettel, Gesetzen oder Referenden in Zusammenhang stehen.
 
@@ -74,7 +74,7 @@ Anzeigen, die Inhalte in den folgenden Kategorien enthalten, sind mit den unten 
 
 * **Glücksspiel**. Anzeigen, die Inhalte im Zusammenhang mit Glücksspielen enthalten, einschließlich der Werbung für Casinos, Lotterien und andere Glücksspiele (online oder offline), dürfen nur im Einklang mit den geltenden Gesetzen beworben werden. Allerdings dürfen keine Anzeigen übermäßiges Spielverhalten glamorisieren oder darstellen oder die Chancen oder Risiken des Glücksspiels falsch darstellen.
 
-* **Arzneimittelanzeigen**. Werbung, die verschreibungspflichtige und außerbörsliche Medikamente fördert, muss den geltenden nationalen und lokalen Gesetzen, Vorschriften und Richtlinien entsprechen.
+* **Pharmazeutische Anzeigen**. Werbung, die verschreibungspflichtige und außerbörsliche Medikamente fördert, muss den geltenden nationalen und lokalen Gesetzen, Vorschriften und Richtlinien entsprechen.
 
 * **Finanzprodukte und -dienstleistungen**. Anzeigen, die Finanzprodukte oder -dienstleistungen für Verbraucher bewerben, müssen den geltenden bundesstaatlichen und lokalen Gesetzen, Vorschriften und Richtlinien entsprechen und alle anwendbaren Gebühren offen legen. Die Anzeigen dürfen keine Zahlungsverpflichtungen, Darlehen, für die eine vollständige Rückzahlung in 60 Tagen oder weniger ab dem Tag der Darlehensvergabe erforderlich ist, sowie keine Eigentumsdarlehen oder Pfandgeschäfte fördern. Anzeigen für Hypotheken, Autokredite, Studentendarlehen und revolvierende Kreditlinien sind zulässig, sofern Ziel-URLs wichtige Bedingungen wie die Mindest- und Höchstfrist für die Rückzahlung, den jährlichen Prozentsatz und ein repräsentatives Beispiel für die Gesamtkosten des Darlehens, einschließlich etwaiger Gebühren, deutlich machen.
 
@@ -119,7 +119,7 @@ Die Services dürfen nicht dazu verwendet werden, Benutzer gezielt anzusprechen 
    * Gewerkschaftsmitgliedschaft
    * Sonstige besondere Kategorien personenbezogener Daten
 
-* **gesundheitsbezogenes Targeting**. Sie dürfen die Services nicht verwenden, um sensible Gesundheitsdaten zu sammeln oder um Rückschlüsse auf die sensible Gesundheit oder medizinische Behandlung der Benutzer zu ziehen. Insbesondere dürfen Sie die Dienste nicht verwenden, um Anzeigen für eine der folgenden Aktionen als Ziel auszuwählen: jede Form von Krebs, psychischen Erkrankungen oder sexuell übertragbaren Krankheiten. Es können Anzeigen für nicht empfindliche Gesundheitszustände wie Akne, Allergien, Zahnschmerzen, Sehvermögen, Sodbrennen, Kälte und Grippe, Sinus, Kopfschmerzen, Rückenschmerzen, Erste Hilfe, Halsentzündung, Blutzuckermanagement, Ernährung und Fitness, Haarentfernung sowie Vitamine und Nahrungsergänzungsmittel angeboten werden.
+* **Gesundheitsbezogenes Targeting**. Sie dürfen die Services nicht verwenden, um sensible Gesundheitsdaten zu sammeln oder um Rückschlüsse auf die sensible Gesundheit oder medizinische Behandlung der Benutzer zu ziehen. Insbesondere dürfen Sie die Dienste nicht verwenden, um Anzeigen für eine der folgenden Aktionen als Ziel auszuwählen: jede Form von Krebs, psychischen Erkrankungen oder sexuell übertragbaren Krankheiten. Es können Anzeigen für nicht empfindliche Gesundheitszustände wie Akne, Allergien, Zahnschmerzen, Sehvermögen, Sodbrennen, Kälte und Grippe, Sinus, Kopfschmerzen, Rückenschmerzen, Erste Hilfe, Halsentzündung, Blutzuckermanagement, Ernährung und Fitness, Haarentfernung sowie Vitamine und Nahrungsergänzungsmittel angeboten werden.
 
 ## Keine Diskriminierung
 

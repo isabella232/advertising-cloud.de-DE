@@ -1,9 +1,9 @@
 ---
 title: FAQs
 description: xxx
-source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ## title
 
-https://adobeadcloud.zendesk.com/agent/tickets/14214 Standardmäßig meldet Adobe Analytics alle erfassten Ereignisse in jedem Bericht. &quot;[!UICONTROL Unspecified]&quot;Ereignisse&quot;stellen Ereignisse zum Ausfüllen von Formularen dar, die nicht mit Advertising Cloud verbunden waren. Im Bericht &quot;Anzeigenplattform&quot;würden organische Konversionen oder Konversionen, die von einer E-Mail-Kampagne gesteuert werden, beispielsweise in &quot;nicht angegeben&quot;fallen.
+https://adobeadcloud.zendesk.com/agent/tickets/14214 Standardmäßig meldet Adobe Analytics alle erfassten Ereignisse in jedem Bericht. &quot;[!UICONTROL Unspecified]&quot;events&quot;sind Ereignisse zum Ausfüllen von Formularen, die nicht mit Adobe Advertising verbunden waren. Im Bericht &quot;Anzeigenplattform&quot;würden organische Konversionen oder Konversionen, die von einer E-Mail-Kampagne gesteuert werden, beispielsweise in &quot;nicht angegeben&quot;fallen.
 
 Sie können den Filter verwenden, um nicht angegebene Ereignisse aus Berichten zu entfernen, indem Sie das Häkchen mit der Option &quot;Nicht angegeben einschließen (keine)&quot;entfernen. <!-- Not sure if this is in DSP or in Analytics Workspace -->
 

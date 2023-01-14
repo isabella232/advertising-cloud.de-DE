@@ -3,9 +3,9 @@ title: Anzeigeeinstellungen
 description: Siehe Beschreibungen der verfügbaren Anzeigeneinstellungen für Display-Anzeigen.
 feature: DSP Ads
 exl-id: ae88dfab-0b0c-42ab-9135-422b20a4b6cd
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Die folgenden Einstellungen gelten für standardmäßige Display-Anzeigen.
 
 **[!UICONTROL Display Code]:** (Nur Werbeanzeigen von Drittanbietern) Die URL des kreativen Drittanbieter-Assets. Alle [timestamp] und [[timestamp]] -Parameter durch tatsächliche Werte ersetzt.
 
-**[!UICONTROL Final Display Code]:** (Nur Werbeanzeigen von Drittanbietern) Die URL für das kreative Asset von Drittanbietern mit den erforderlichen [Advertising Cloud DSP-Tracking-Makros](/help/dsp/campaign-management/macros.md) gegebenenfalls eingefügt.
+**[!UICONTROL Final Display Code]:** (Nur Werbeanzeigen von Drittanbietern) Die URL für das kreative Asset von Drittanbietern mit den erforderlichen [Anzeigen DSP Tracking-Makros](/help/dsp/campaign-management/macros.md) gegebenenfalls eingefügt.
 
 **[!UICONTROL Ad Size]:** Die Breite und Höhe der Anzeige. Es muss ein [Unterstützte standardmäßige Anzeigeanzeigengröße](ad-specs.md). Sie können die Anzeigengröße manuell eingeben, bevor Sie die Anzeige hochladen, oder eine [!UICONTROL Display Code]. Wenn Sie die Anzeigengröße nicht eingeben, werden die Dimensionen der hochgeladenen Anzeige oder des Anzeigen-Tags automatisch als schreibgeschützt eingegeben. Beachten Sie, dass die Display-Anzeige nicht gespeichert wird, wenn die Abmessungen nicht der Standardanzeige in der Größe entsprechen - z. B. 301x250 anstelle der Anzeigengröße 300x250.
 
@@ -68,5 +68,5 @@ Die folgenden Einstellungen gelten für jedes Pixel, das Sie erstellen oder bear
 >* [Einzelne Anzeige erstellen](ad-create.md)
 >* [Platzierungen auflisten, die einer Anzeige zugeordnet sind](ad-list-placements.md)
 >* [Anzeigenspezifikationen](ad-specs.md)
->* [Advertising Cloud DSP Makros](/help/dsp/campaign-management/macros.md)
+>* [DSP Makros](/help/dsp/campaign-management/macros.md)
 

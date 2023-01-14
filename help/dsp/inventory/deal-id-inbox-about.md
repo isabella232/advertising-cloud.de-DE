@@ -3,20 +3,20 @@ title: Über die [!UICONTROL Deal ID Inbox]
 description: Erfahren Sie mehr über die [!UICONTROL Deal ID inbox] -Funktion, mit der Sie private Angebote akzeptieren können, über die Sie bereits mit Herausgebern verhandelt haben [!DNL FreeWheel], [!DNL Google Authorized Buyers] (früher bekannt als [!DNL AdX]), and [!DNL Magnite DV+] (früher [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
 
 # Über die [!UICONTROL Deal ID Inbox]
 
-DSP [!UICONTROL Deal ID inbox] ermöglicht Ihnen das schnelle Einrichten von Angeboten, die Advertising Cloud DSP über angebotsseitige Plattformen (SSPs) von Herausgebern importiert hat, sodass Sie nicht jedes Geschäft manuell einrichten müssen. Sie können die garantierten und nicht garantierten privaten Inventarangebote akzeptieren, die Sie bereits mit Herausgebern über [!DNL FreeWheel], [!DNL Google Authorized Buyers] (früher bekannt als [!DNL AdX]) und [!DNL Magnite DV+] (früher [!DNL Rubicon]) aus dem [!UICONTROL Deal ID inbox].
+Die DSP [!UICONTROL Deal ID inbox] ermöglicht es Ihnen, schnell Angebote einzurichten, die DSP über angebotsseitige Plattformen (SSPs) von Herausgebern importiert hat, sodass Sie nicht jedes Geschäft manuell einrichten müssen. Sie können die garantierten und nicht garantierten privaten Inventarangebote akzeptieren, die Sie bereits mit Herausgebern über [!DNL FreeWheel], [!DNL Google Authorized Buyers] (früher bekannt als [!DNL AdX]) und [!DNL Magnite DV+] (früher [!DNL Rubicon]) aus dem [!UICONTROL Deal ID inbox].
 
 >[!NOTE]
 >
->Advertising Cloud DSP ist die erste DSP, die in die [!DNL FreeWheel] API.
+>DSP ist die erste DSP, die in die [!DNL FreeWheel] API.
 
 Im [!UICONTROL Deal ID inbox], können Sie die Details des Deals sehen, wie Ihr Herausgeber sie sieht, Ihre Deal-Einrichtung beschleunigen und manuelle Einstiegsfehler vermeiden.
 

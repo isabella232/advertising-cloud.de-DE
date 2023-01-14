@@ -3,7 +3,7 @@ title: Duplizieren von Platzierungen
 description: Erfahren Sie, wie Sie eine oder mehrere Platzierungen duplizieren.
 feature: DSP Placements
 exl-id: d22a61a8-4f1b-41ee-b4fb-3124bec81a2f
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -24,16 +24,27 @@ Duplizieren Sie eine oder mehrere Platzierungen, um Platzierungen mit ähnlichen
 Siehe[Nicht duplizierte Elemente](#placement-not-duplicated)&quot; für eine Liste der Platzierungseinstellungen, die nicht dupliziert werden.
 
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Campaigns]**.
+
 1. Klicken Sie auf den Namen der Kampagne.
+
 1. Klicken Sie im Untermenü auf **[!UICONTROL Placements]**.
+
 1. Führen Sie einen der folgenden Schritte aus:
+
    * Um eine Platzierung zu duplizieren, klicken Sie auf  **[!UICONTROL ...]>[!UICONTROL Duplicate]** neben dem Paketnamen.
+
    * So duplizieren Sie mehrere Platzierungen:
+
       1. Aktivieren Sie das Kontrollkästchen neben jeder Platzierung, die dupliziert werden soll.
+
       1. Klicken Sie in der Symbolleiste für Massenaktionen auf **[!UICONTROL Duplicate]**.
+
 1. Geben Sie die neuen Platzierungseinstellungen an:
+
    1. (Einzelplatzierungen) Geben Sie den neuen Platzierungsnamen ein.
+
    1. Im **[!UICONTROL Choose Package (Required)]** wählen Sie entweder das übergeordnete Paket oder **[!UICONTROL No package]*.
+
    1. (Optional) Ändern Sie die Standardeinstellungen.
 
    Die Einstellungen gelten für alle ausgewählten Platzierungen.

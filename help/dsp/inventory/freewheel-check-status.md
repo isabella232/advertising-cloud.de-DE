@@ -3,16 +3,16 @@ title: Überprüfen des Status von Anzeigen auf [!DNL [!DNL FreeWheel]] PG-Deal
 description: Erfahren Sie, wie Sie den Status von Anzeigen für [!DNL Freewheel] programmgesteuerte garantierte Angebote.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 57c365f6-41cf-4ab6-b71d-fe9984eaf115
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # Überprüfen des Status von Anzeigen auf [!DNL Freewheel] Gesicherte programmatische Vereinbarungen
 
-Ermitteln, ob Anzeigen an [!DNL Freewheel] erfolgreich waren. Sie können jede beliebige Anzeige bei Bedarf erneut einreichen.
+Überprüfen Sie, ob Ihre Anzeige an [!DNL Freewheel] erfolgreich waren. Sie können jede beliebige Anzeige bei Bedarf erneut einreichen.
 
 Wenden Sie sich bei weiteren Fragen oder Problemen mit der erneuten Einreichung an Ihren [!DNL Adobe] Account-Team.
 

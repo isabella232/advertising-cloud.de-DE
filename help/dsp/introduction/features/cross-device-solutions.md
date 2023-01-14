@@ -3,16 +3,16 @@ title: Geräteübergreifende Lösungen
 description: Erfahren Sie mehr über geräteübergreifende Funktionen.
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '1006'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
 
 # Geräteübergreifende Lösungen
 
-Die Integration von Advertising Cloud DSP mit [!DNL LiveRamp] ermöglicht es Ihnen, Ihre Zielgruppe auf alle bekannten Geräte einer Person zu erweitern, nicht nur auf die Geräte, die Ihre Marke verfolgt hat. Die Integration bietet außerdem Frequenzlimitierung und Attributionsmessung für alle Geräte.
+Die Advertising DSP-Integration mit [!DNL LiveRamp] ermöglicht es Ihnen, Ihre Zielgruppe auf alle bekannten Geräte einer Person zu erweitern, nicht nur auf die Geräte, die Ihre Marke verfolgt hat. Die Integration bietet außerdem Frequenzlimitierung und Attributionsmessung für alle Geräte.
 
 Wenn Sie ein unterstütztes benutzerbasiertes Gerätediagramm verwenden, können Sie:
 
@@ -76,9 +76,9 @@ Sie können die folgenden Metriken in benutzerdefinierte Berichte aufnehmen:
 
 ## Benutzerbasierte Attributionsmessung
 
-*Advertiser mit Advertising Cloud-Konversions-Tracking*
+*Advertiser mit Adobe Advertising Conversion Tracking (nur Konversions-Tracking)*
 
-Mit der benutzerbezogenen Attribution können Sie Konversionen zuordnen, die auf einem anderen Gerät stattgefunden haben als auf dem Gerät, auf dem die Medienbelichtung stattgefunden hat. Die personenbasierte Zuordnungsmessung ist für Advertiser, die Advertising Cloud-Konversionspixel auf ihren Sites implementiert haben, in DSP, Advertising Cloud Search und Advertising Cloud Creative verfügbar.
+Mit der benutzerbezogenen Attribution können Sie Konversionen zuordnen, die auf einem anderen Gerät stattgefunden haben als auf dem Gerät, auf dem die Medienbelichtung stattgefunden hat. Die personenbasierte Attributionsmessung ist DSP verfügbar. [!DNL Adobe Advertising Creative]und [!DNL Adobe Advertising Search] für Advertiser, die Adobe Advertising-Konversionspixel auf ihren Sites implementiert haben.
 
 ### Benutzerbasierte Attributionsmessung aktivieren
 

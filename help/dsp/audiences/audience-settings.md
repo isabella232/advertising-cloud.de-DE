@@ -3,7 +3,7 @@ title: Zielgruppeneinstellungen
 description: Siehe Beschreibungen der verfügbaren Zielgruppeneinstellungen.
 feature: DSP Audiences
 exl-id: 959c1e04-cb09-42f0-a261-580ff98b86be
-source-git-commit: 505944d534e04da8f903c24e7899e7a80cb836e4
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Segmente von Drittanbietern
 
-(Optional) Alle Standardsegmente, die über die Drittanbieter-Datentaxonomie von Advertising Cloud verfügbar sind und in die Zielgruppenkonfiguration aufgenommen werden sollen.
+(Optional) Alle Standardsegmente, die über die Datentaxonomie von Adobe Advertising-Drittanbietern verfügbar sind und in die Zielgruppenkonfiguration aufgenommen werden sollen.
 
 ## Erstanbietersegmente
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## Benutzerdefinierte Segmente
 
-(Optional) Alle vom Benutzer erstellten Segmente, die mithilfe benutzerdefinierter Advertising Cloud-Segmentpixel erfasst werden und in die Zielgruppenkonfiguration aufgenommen werden. Dies kann standardmäßige benutzerspezifische Segmente und CCPA-Opt-out-Kaufsegmente umfassen.
+(Optional) Alle vom Benutzer erstellten Segmente, die mit benutzerdefinierten DSP Segmentpixel erfasst werden, die in die Zielgruppenkonfiguration aufgenommen werden sollen. Dies kann standardmäßige benutzerspezifische Segmente und CCPA-Opt-out-Kaufsegmente umfassen.
 
 ## Gespeicherte Zielgruppen
 

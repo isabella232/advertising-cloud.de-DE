@@ -2,21 +2,21 @@
 title: Unterstützte Währungen
 description: Siehe eine Liste der unterstützten Währungen.
 feature: DSP Custom Reports, DSP Campaign Data Views
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+exl-id: 7cbce17b-12f0-49e5-8acd-adf9b7d01557
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
+# In Adobe Advertising unterstützte Währungen
 
-# In Adobe Advertising Cloud unterstützte Währungen
-
-Advertising Cloud unterstützt die folgenden Währungen.
+Adobe Advertising unterstützt die folgenden Währungen.
 
 >[!NOTE]
 >
->Adobe Analytics unterstützt [einen größeren Satz von Währungen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/currency.html).
+>Adobe Analytics unterstützt [einen größeren Währungssatz](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/currency.html).
 
 ## DSP und Kreativ
 
@@ -46,6 +46,6 @@ Advertising Cloud unterstützt die folgenden Währungen.
 >
 > [!DNL DSP] bietet Abrechnung nur in den folgenden Währungen: CAD, DKK, EUR, GBP, HKD, JPY, NZD, SGD und USD.
 
-## Suche
+## [!DNL Adobe Advertising Search]
 
-Alle von unterstützten Suchmaschinen unterstützten Währungen. Dies entspricht [den von [!DNL Google Ads]](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes) unterstützten Werten.
+Alle von unterstützten Suchmaschinen unterstützten Währungen. Dies entspricht dem [von [!DNL Google Ads]](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes).

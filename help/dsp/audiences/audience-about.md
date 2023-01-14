@@ -1,18 +1,18 @@
 ---
-title: Über Zielgruppen-Management in Advertising Cloud DSP
+title: Über Zielgruppen-Management in Advertising DSP
 description: Erfahren Sie mehr über die Funktionen des Zielgruppen-Managements.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: 3b44e8e019bfc4bab2ee65ac028313752cb4a0e0
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1036'
 ht-degree: 0%
 
 ---
 
-# Über Zielgruppen-Management in Advertising Cloud DSP
+# Über Zielgruppen-Management in Advertising DSP
 
-In Advertising Cloud DSP können Sie Zielgruppensegmente und Zielgruppensätze erstellen und verwalten, die Sie als Ziele für Ihre Platzierungen verwenden können:
+In DSP können Sie Zielgruppensegmente und Zielgruppensätze erstellen und verwalten, die Sie als Ziele für Ihre Platzierungen verwenden können:
 
 * Sie können Ihre eigenen Erstanbieter-Zielgruppendaten erfassen, indem Sie Segmente erstellen und implementieren. Sie können später Benutzer im Segment mit Anzeigen erneut ansprechen oder verhindern, dass Benutzer im Segment Anzeigen empfangen. Sie können die folgenden Segmenttypen erstellen:
 
@@ -20,7 +20,7 @@ In Advertising Cloud DSP können Sie Zielgruppensegmente und Zielgruppensätze e
 
    * [CCPA-Ausschluss von Verkaufssegmenten](/help/dsp/audiences/ccpa-opt-out-segment-create.md) , um die Benutzer-IDs aus Opt-out-Kaufanfragen von Verbrauchern auf Ihrer Website gemäß dem California Consumer Privacy Act (CCPA) zu verfolgen. Sie können monatliche Berichte über die Benutzer-IDs aus Opt-out-Kaufanfragen abrufen.
 
-      Weitere Informationen zur Advertising Cloud-Unterstützung für CCPA-Opt-out-Kaufanfragen finden Sie unter [Adobe Advertising Cloud-Unterstützung für den California Consumer Privacy Act: Opt-out-Support für Verbraucher](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
+      Weitere Informationen zur Adobe Advertising-Unterstützung für CCPA-Opt-out-of-Sale-Anfragen finden Sie unter [Adobe Advertising Support für den California Consumer Privacy Act: Opt-out-Support für Verbraucher](/help/privacy/ad-cloud-ccpa-opt-out-of-sale.md).
 
 * Sie können eine Zielgruppenbibliothek von [Wiederverwendbare Zielgruppen](/help/dsp/audiences/reusable-audience-create.md). Gespeicherte Zielgruppen bestehen aus einem Ihrer verfügbaren Zielgruppensegmente und einer Ihrer anderen gespeicherten Zielgruppen. Alle Änderungen, die Sie an einer gespeicherten Zielgruppe vornehmen, werden automatisch auf alle Platzierungen angewendet, die die Zielgruppe als Ziel angeben oder ausschließen, sowie auf alle anderen Zielgruppen, die die gespeicherte Zielgruppe enthalten.
 
@@ -60,7 +60,7 @@ Sie können Ihre Platzierungen auf alle der folgenden Arten von Zielgruppen ausr
 
    Für Drittanbietersegmente fallen zusätzliche Gebühren an, die neben jedem Segmentnamen angegeben werden.
 
-* (Advertiser mit Adobe Experience Platform und [!DNL Real-Time CDP], Adobe Audience Manager oder Adobe Analytics, die nur JavaScript-Konversions-Tags von Advertising Cloud verwenden) Alle verfügbaren Erst-, Zweit- oder Drittanbieter-Zielgruppensegmente, die in [!DNL Real-Time CDP], die in Audience Manager erstellt oder von Audience Manager aus in Adobe Experience Cloud veröffentlicht wurden, oder [!DNL Analytics].
+* (Advertiser mit Adobe Experience Platform und [!DNL Real-Time CDP], Adobe Audience Manager oder Adobe Analytics, die nur Adobe Advertising JavaScript-Konversions-Tags verwenden) Alle verfügbaren Erst-, Zweit- oder Drittanbieter-Zielgruppensegmente, die in erstellt wurden. [!DNL Real-Time CDP], die in Audience Manager erstellt oder von Audience Manager aus in Adobe Experience Cloud veröffentlicht wurden, oder [!DNL Analytics].
 
    Die Preise für die Verwendung der Segmente werden vorverhandelt und sind in DSP nicht sichtbar.
 

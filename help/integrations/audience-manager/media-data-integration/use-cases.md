@@ -1,21 +1,22 @@
 ---
 title: Nutzungsszenarios
-description: Erfahren Sie mehr über Anwendungsfälle für die Freigabe Ihrer Advertising Cloud DSP-Mediendaten für Audience Manager.
+description: Erfahren Sie mehr über Anwendungsfälle für die Freigabe Ihrer Advertising DSP Mediendaten für Audience Manager.
 feature: Integration with Adobe Audience Manager
-source-git-commit: 3980af19efa785c437cacbf479ca3eabbed73b1b
+exl-id: 21d80cf6-f817-495a-bae4-fc9e44f1eda4
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '791'
 ht-degree: 0%
 
 ---
 
 # Nutzungsszenarios für die Erfassung von Daten zur Exposition von Medien in Adobe Audience Manager
 
-*Advertiser nur mit Advertising Cloud DSP*
+*Advertiser nur mit Advertising DSP*
 
-*Werbetreibende, die nur über eine Advertising Cloud-Adobe Audience Manager-Integration verfügen*
+*Werbetreibende mit nur einer Adobe Advertising-Adobe Audience Manager-Integration*
 
-Im Folgenden finden Sie einige Möglichkeiten, wie Sie von der Erfassung Ihrer Advertising Cloud DSP-Daten zur Medienbelichtung profitieren können <!-- ad impression data? --> in Audience Manager.
+Im Folgenden finden Sie einige Möglichkeiten, wie Sie von der Erfassung Ihrer Daten zur Anzeige DSP Medien profitieren können <!-- ad impression data? --> in Audience Manager.
 
 ## Neuigkeit und Frequenzverwaltung
 
@@ -51,7 +52,7 @@ Gehen Sie wie folgt vor, um dieses Beispiel in Audience Manager auszuführen:<!-
 
 Sobald Kampagnendaten für Impressions- und Klickdaten in Audience Manager verfügbar sind, können Sie Eigenschaften und Benutzersegmente erstellen, die einer bestimmten Kampagne oder Taktik ausgesetzt waren oder damit interagiert wurden. Mit [[!DNL Audience Analytics] Integration](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html), können Ihre Audience Manager-Segmente mit [!DNL Analytics] für weitere Analysen. Mögliche Anwendungsfälle sind:
 
-* **Interaktionsanalyse zwischen DSP und Advertising Cloud Search-Anzeigen:** Der Standard [[!DNL Analytics for Advertising Cloud] Integration](/help/integrations/analytics/overview.md) bietet keine Einblicke in die Interaktion zwischen DSP und [!DNL Search] da beide Kanäle AMO-IDs verwenden, die den AMO-ID-Attributionsregeln entsprechen, für die ein Suchklick eine Durchsicht der Anzeige außer Kraft setzt. Durch Erstellung eines DSP Belichtungssegments in Audience Manager können Sie [!DNL Audience Analytics] zur Analyse der Interaktion zwischen DSP und [!DNL Search] Anzeigen in [!DNL Analytics].
+* **Interaktionsanalyse zwischen DSP und [!DNL Adobe Advertising Search] Anzeigen:** Der Standard [[!DNL Analytics for Advertising] Integration](/help/integrations/analytics/overview.md) bietet keine Einblicke in die Interaktion zwischen DSP und [!DNL [!DNL Search]], da beide Kanäle AMO-IDs verwenden, die den AMO-ID-Attributionsregeln entsprechen, für die ein Suchklick eine Durchsicht der Anzeige außer Kraft setzt. Durch Erstellung eines DSP Belichtungssegments in Audience Manager können Sie [!DNL Audience Analytics] zur Analyse der Interaktion zwischen DSP und [!DNL [!DNL Search]] Anzeigen in [!DNL Analytics].
 
 * **Häufigkeitsanalyse:** Sie können in Audience Manager Segmente erstellen, die darauf basieren, wie oft ein Benutzer einer bestimmten Anzeige oder Kampagne ausgesetzt war. Anschließend können Sie die verschiedenen Belichtungssegmente in Analytics analysieren, um festzustellen, wie sich das Benutzerverhalten in Abhängigkeit von der Anzahl DSP Belichtungen ändert.
 
@@ -81,5 +82,5 @@ Sie können [Audience Manager [!DNL Audience Optimization Reports]](https://expe
 >[!MORELIKETHIS]
 >
 >* [Übersicht über das Senden von DSP-Exposure-Daten an Adobe Audience Manager](overview.md)
->* [Erfassen von Klick- und Impressionsdaten aus Advertising Cloud DSP-Kampagnen](collect.md)
+>* [Erfassen von Klick- und Impressionsdaten aus Advertising DSP Kampagnen](collect.md)
 

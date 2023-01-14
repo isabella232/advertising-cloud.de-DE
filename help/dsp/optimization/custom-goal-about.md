@@ -3,24 +3,24 @@ title: Über benutzerdefinierte Ziele
 description: Erfahren Sie mehr über benutzerdefinierte Ziele, um Ihre Erfolgsereignisse in Paketen zu definieren, die für den niedrigsten CPA oder den höchsten ROAS optimiert sind.
 feature: DSP Optimization
 exl-id: 623cb1ef-85ab-4535-aa3a-8e6ec8ae15ee
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
 # Über benutzerdefinierte Ziele
 
-Benutzerdefinierte Ziele definieren die Erfolgsereignisse, die ein Advertiser benötigt, um seine Geschäftsziele zu erreichen. Jedes Paket, das die Optimierungsziele verwendet &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot; oder &quot;[!UICONTROL Lowest CPA - Custom Goal]&quot; muss ein benutzerdefiniertes Ziel enthalten, das dazu beiträgt, das allgemeine Optimierungsziel zu erreichen. Sie können benutzerdefinierte Ziele als *Ziele* in Advertising Cloud Search.
+Benutzerdefinierte Ziele definieren die Erfolgsereignisse, die ein Advertiser benötigt, um seine Geschäftsziele zu erreichen. Jedes Paket, das die Optimierungsziele verwendet &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot; oder &quot;[!UICONTROL Lowest CPA - Custom Goal]&quot; muss ein benutzerdefiniertes Ziel enthalten, das dazu beiträgt, das allgemeine Optimierungsziel zu erreichen. Sie können benutzerdefinierte Ziele als *Ziele* in [!DNL Adobe Advertising Search].
 
 ![benutzerdefinierte Ziele](/help/dsp/assets/objective-goals.png)
 
-Jedes benutzerdefinierte Ziel besteht aus einer oder mehreren Metriken oder *Transaktionseigenschaften* und die relative Gewichtung dieser Transaktionseigenschaften. Zu den verfügbaren Transaktionseigenschaften gehören alle Metriken, die mit dem Advertising Cloud-Konversionspol und über Adobe Analytics verfolgt werden.
+Jedes benutzerdefinierte Ziel besteht aus einer oder mehreren Metriken oder *Transaktionseigenschaften* und die relative Gewichtung dieser Transaktionseigenschaften. Die verfügbaren Transaktionseigenschaften umfassen alle Metriken, die mit dem Adobe Advertising Conversion-Pixel und über Adobe Analytics verfolgt werden.
 
 >[!NOTE]
 >
->* [!DNL Analytics] -Dimensionen und -segmente stehen nicht zur Advertising Cloud-Optimierung zur Verfügung.
+>* [!DNL Analytics] -Dimensionen und -segmente stehen nicht zur Adobe Advertising-Optimierung zur Verfügung.
 >* Wenn Sie Analytics-Ereignisse in DSP verwenden möchten, arbeiten Sie mit Ihrem [!DNL Adobe] Account-Team , um eine Integration auf Advertiser-Ebene zu konfigurieren.
 >* [!DNL Analytics] Benutzerdefinierte Ereignisse folgen dieser Benennungskonvention: `custom_event_[*event #*]_[*Analytics report suite ID*]`. Beispiel: `custom_event_16_examplersid`
 

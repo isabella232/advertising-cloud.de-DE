@@ -1,16 +1,16 @@
 ---
-title: Informationen zur Paketverwaltung in Advertising Cloud DSP
+title: Informationen zur Paketverwaltung in Advertising DSP
 description: Erfahren Sie mehr über die Paketverwaltung.
 feature: DSP Packages
 exl-id: 06d77698-62ae-466b-8cf7-c9148907ba6d
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
-# Informationen zur Paketverwaltung in Advertising Cloud DSP
+# Informationen zur Paketverwaltung in Advertising DSP
 
 Verwenden Sie Pakete, um Platzierungen für die Bereitstellung in einem festgelegten Budget, Leistungsziel und einer benutzerdefinierten Schrittstrategie zu gruppieren. DSP optimiert Pakete, indem Budgets auf die leistungsstärksten Platzierungen im Paket umgestellt werden. Sie können Pakete nach Platzierungsformat, Inventartyp, Datenanbieter, Persona oder anderen unterscheidbaren Eigenschaften organisieren. Pakete sind optional.
 

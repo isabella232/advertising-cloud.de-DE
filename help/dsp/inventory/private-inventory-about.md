@@ -3,9 +3,9 @@ title: Über privates Inventar
 description: Über privates Inventar
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 7feb0e398c416805b376062d9f3dfec819fac2ee
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Werbetreibende, die über RTB hinausgehen, können private Inventare verwenden, 
 
 ## Deal-IDs
 
-Wenn Sie direkte Beziehungen zu Herausgebern haben, können Sie Ihren Einkauf und Ihren Workflow für Medien optimieren, indem Sie Ihre eigenen privaten Geschäfte mit dem ausgehandelten Inventar und den ausgehandelten Preisen in Ihren Advertising Cloud DSP-Platzierungen verwenden. DSP kann bei der Einrichtung eines Kontos mit all Ihren Herausgebern integriert werden. Wenn Sie später Zugriff auf weitere Herausgeber wünschen, wenden Sie sich an Ihren [!DNL Adobe] Kontoteam , um den Zugriff einzurichten. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
+Wenn Sie direkte Beziehungen zu Herausgebern haben, können Sie Ihren Einkauf und Ihren Workflow für Medien optimieren, indem Sie Ihre eigenen privaten Geschäfte mit dem ausgehandelten Inventar und den ausgehandelten Preisen in Ihren Advertising DSP Platzierungen verwenden. DSP kann bei der Einrichtung eines Kontos mit all Ihren Herausgebern integriert werden. Wenn Sie später Zugriff auf weitere Herausgeber wünschen, wenden Sie sich an Ihren [!DNL Adobe] Kontoteam , um den Zugriff einzurichten. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
 
 Alle Ihre privaten Geschäfte mit einer Deal-ID werden finanziert und in Rechnung gestellt durch [!DNL Adobe].
 

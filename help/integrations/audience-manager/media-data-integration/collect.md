@@ -1,22 +1,22 @@
 ---
-title: Erfassen von Klick- und Impressionsdaten aus Advertising Cloud DSP-Kampagnen
-description: Erfahren Sie, wie Sie Cookie-basierte Impressions- und Klickereignisse aus Advertising Cloud DSP-Anzeigen mit Audience Manager-Pixeln erfassen.
+title: Erfassen von Klick- und Impressionsdaten aus Advertising DSP Kampagnen
+description: Erfahren Sie, wie Sie Cookie-basierte Impressions- und Klickereignisse aus Anzeigen in Advertising DSP mit Audience Manager-Pixeln erfassen.
 feature: Integration with Adobe Audience Manager
 exl-id: eb717148-00ab-428a-97b9-e8396a5c47b0
-source-git-commit: 8de057df8bf2b67f20a915e6e711902f11176747
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '1062'
+source-wordcount: '1055'
 ht-degree: 0%
 
 ---
 
-# Erfassen von Medienbelichtungsdaten aus Advertising Cloud DSP-Kampagnen
+# Erfassen von Medienbelichtungsdaten aus Werbekampagnen DSP
 
-*Advertiser nur mit Advertising Cloud DSP*
+*Advertiser nur mit Advertising DSP*
 
-*Werbetreibende, die nur über eine Advertising Cloud-Adobe Audience Manager-Integration verfügen*
+*Werbetreibende mit nur einer Adobe Advertising-Adobe Audience Manager-Integration*
 
-In diesem Dokument wird beschrieben, wie Sie Advertising Cloud DSP-Anzeigen mit Tags versehen, um Cookie-basierte Impressions- und Klickereignisse mithilfe von Audience Manager-Pixeln zu erfassen, sowie zusätzliche Aufgaben, die zur Verwendung der Daten erforderlich sind.
+In diesem Dokument wird beschrieben, wie Sie Advertising DSP Anzeigen taggen, um Cookie-basierte Impressions- und Klickereignisse mithilfe von Audience Manager-Pixeln zu erfassen, sowie zusätzliche Aufgaben, die zur Verwendung der Daten erforderlich sind.
 
 Die Ereignispixel erfassen keine Ereignisse, die in Cookie-losen Umgebungen wie mobilen Apps und vernetztem TV (CTV) auftreten.
 
@@ -77,7 +77,7 @@ Dabei gilt:
 
 Beide Pixeltypen können zusätzliche Parameter enthalten, da *Schlüssel-Wert-Paare* , um Eigenschaften zu erfassen oder Kampagnen-Metadaten (z. B. einen Platzierungsnamen oder einen Kampagnennamen) für andere Berichte bereitzustellen. Ein Schlüssel-Wert-Paar besteht aus zwei verwandten Elementen: a *key*, eine Konstante, die den Datensatz definiert, und eine *value*, eine Variable, die zum Satz gehört.
 
-Im Schlüssel-Wert-Paar kann die Wertvariable entweder eine fest codierte ID oder eine *macro*: Hierbei handelt es sich um eine kleine Einheit von eigenständigem Code, der dynamisch durch die entsprechenden Werte ersetzt wird, wenn das Anzeigen-Tag zum Kampagnen- und Benutzertracking geladen wird. Für kampagnenbezogene Parameter können Sie [DSP Makros](/help/dsp/campaign-management/macros.md) anstelle von Audience Manager-Makros verwenden, um Kampagnenattribute zusammen mit den entsprechenden Impressions- oder Klickdaten an den Audience Manager zu senden, wobei ein einzelnes Pixel für alle Anzeigen verwendet wird. Die DSP Makros, die Sie in Ihre Ereignispixel einfügen, müssen geeignete Werte für die Schlüssel-Wert-Paare sein, die Sie in die Pixel einschließen. Beispiel: für die `d_placement` Schlüssel verwenden, würden Sie das DSP Makro `${TM_PLACEMENT_ID_NUM}` als Wert zum Erfassen von Platzierungs-IDs, die vom Advertising Cloud-Makro generiert wurden.
+Im Schlüssel-Wert-Paar kann die Wertvariable entweder eine fest codierte ID oder eine *macro*: Hierbei handelt es sich um eine kleine Einheit von eigenständigem Code, der dynamisch durch die entsprechenden Werte ersetzt wird, wenn das Anzeigen-Tag zum Kampagnen- und Benutzertracking geladen wird. Für kampagnenbezogene Parameter können Sie [DSP Makros](/help/dsp/campaign-management/macros.md) anstelle von Audience Manager-Makros verwenden, um Kampagnenattribute zusammen mit den entsprechenden Impressions- oder Klickdaten an den Audience Manager zu senden, wobei ein einzelnes Pixel für alle Anzeigen verwendet wird. Die DSP Makros, die Sie in Ihre Ereignispixel einfügen, müssen geeignete Werte für die Schlüssel-Wert-Paare sein, die Sie in die Pixel einschließen. Beispiel: für die `d_placement` Schlüssel verwenden, würden Sie das DSP Makro `${TM_PLACEMENT_ID_NUM}` als Wert für die Erfassung von Platzierungs-IDs, die vom Adobe Advertising-Makro generiert wurden.
 
 Eine Liste der Makros, die von Audience Manager für Impressionsereignis-Pixel unterstützt werden, finden Sie unter &quot;[Erfassen von Kampagnenimpressionsdaten über Pixelaufrufe](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html#supported-key-value-pairs).&quot;
 
@@ -87,7 +87,7 @@ Eine Liste der Makros, die von Audience Manager für Klickereignis-Pixel unterst
 >
 >* Die Best Practice besteht darin, die Kampagnen-, Platzierungs-, Kreativ- (Anzeigen) und Site-IDs einzubeziehen, damit Sie die Kampagnenattribute verwenden können, um Audience Manager-Eigenschaften zu erstellen.
 >* Zur Erstellung von Audience Optimization-Berichten sind zusätzliche Parameter erforderlich.
->* Ersetzen Sie in den Schlüssel-Wert-Paaren die Werte durch die entsprechenden [DSP Makros](/help/dsp/campaign-management/macros.md) sodass Sie ein einzelnes Pixel für alle Anzeigen in allen Kampagnen verwenden können. Ändern Sie beispielsweise `d_campaign=[%campaignID%]`nach `d_campaign=${TM_CAMPAIGN_ID_NUM}` zum Erfassen von Kampagnen-IDs, die vom Advertising Cloud-Makro generiert wurden.
+>* Ersetzen Sie in den Schlüssel-Wert-Paaren die Werte durch die entsprechenden [DSP Makros](/help/dsp/campaign-management/macros.md) sodass Sie ein einzelnes Pixel für alle Anzeigen in allen Kampagnen verwenden können. Ändern Sie beispielsweise `d_campaign=[%campaignID%]`nach `d_campaign=${TM_CAMPAIGN_ID_NUM}` zum Erfassen von Kampagnen-IDs, die vom Adobe Advertising-Makro generiert wurden.
 >* Sie können bei Bedarf eigene Parameter mit fest programmierten Werten erstellen. Beispiel: `d_DSP=AdCloud`
 
 
@@ -132,7 +132,7 @@ Beispieleigenschaft, mit der Benutzerdaten für Benutzer gefüllt werden, die ei
 
 >[!MORELIKETHIS]
 >
->* [Advertising Cloud DSP Makros](/help/dsp/campaign-management/macros.md)
+>* [DSP Makros](/help/dsp/campaign-management/macros.md)
 >* [Übersicht über das Senden von DSP-Exposure-Daten an Adobe Audience Manager](overview.md)
 >* [Nutzungsszenarios](use-cases.md)
 

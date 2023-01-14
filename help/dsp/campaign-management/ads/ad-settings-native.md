@@ -3,9 +3,9 @@ title: Native Anzeigeanzeigeneinstellungen
 description: Siehe Beschreibungen der verfügbaren Anzeigeneinstellungen für native Display-Anzeigen.
 feature: DSP Ads
 exl-id: 3ae59e63-ae64-41b2-8734-3df2da020c7c
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 **[!UICONTROL Landing Page]:** Die URL, auf der der Viewer landet, wenn er auf die Anzeige klickt.
 
-**[!UICONTROL Final Landing Page]:** Die [!UICONTROL Landing Page] URL mit der erforderlichen [Advertising Cloud DSP-Tracking-Makros](/help/dsp/campaign-management/macros.md) gegebenenfalls eingefügt.
+**[!UICONTROL Final Landing Page]:** Die [!UICONTROL Landing Page] URL mit der erforderlichen [Anzeigen DSP Tracking-Makros](/help/dsp/campaign-management/macros.md) gegebenenfalls eingefügt.
 
 **[!UICONTROL Sponsored By (Advertiser Name)]:** Der Advertiser für die Anzeige.
 
@@ -62,5 +62,5 @@ Die folgenden Einstellungen gelten für jedes Pixel, das Sie erstellen oder bear
 >* [Einzelne Anzeige erstellen](ad-create.md)
 >* [Platzierungen auflisten, die einer Anzeige zugeordnet sind](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Anzeigenspezifikationen](ad-specs.md)
->* [Advertising Cloud DSP Makros](/help/dsp/campaign-management/macros.md)
+>* [DSP Makros](/help/dsp/campaign-management/macros.md)
 

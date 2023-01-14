@@ -3,7 +3,7 @@ title: Erstellen mehrerer Drittanbieteranzeigen
 description: Erfahren Sie, wie Sie mehrere Anzeigen von Drittanbietern auf einmal erstellen.
 feature: DSP Ads
 exl-id: 83d35d27-1ab6-4fcf-877f-650a2dc6975a
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 0%
@@ -41,9 +41,13 @@ Sie können entweder [!DNL DoubleClick] und [!DNL Flashtalking] Tagblätter oder
 1. Überprüfen Sie die Details und den Status jeder Anzeige:
 
    1. Überprüfen Sie den Status jeder Anzeige, der auf Validierungsprüfungen für das hochgeladene Tag basiert.
+
    1. (Optional) Führen Sie für jede Anzeige einen der folgenden Schritte aus:
+
       * Um eine Anzeige in der Vorschau anzuzeigen, klicken Sie auf ![play](/help/dsp/assets/play.png) in der Anzeigenzeile.
+
       * Um die Anzeigendetails zu bearbeiten, klicken Sie auf ![edit](/help/dsp/assets/edit.png), bearbeiten Sie die Details und klicken Sie auf **Speichern**.
+
       * Um eine Anzeige zu entfernen, klicken Sie auf **[!UICONTROL X]** in der Anzeigenzeile.
 
 1. Klicken **[!UICONTROL Create *N *Anzeigen]**.
@@ -53,8 +57,11 @@ Sie können entweder [!DNL DoubleClick] und [!DNL Flashtalking] Tagblätter oder
    * Klicken **[!UICONTROL Done]**.
 
    * (Wenn eine Anzeige abgelehnt wird; optional) So bearbeiten Sie den Anzeigendatensatz und senden die Anzeige erneut zur Überprüfung:
+
       1. Klicken Sie auf den Anzeigennamen.
+
       1. Bearbeiten Sie die Anzeigeneinstellungen.
+
       1. Klicken **[!UICONTROL Save & submit for review]**.
 
 >[!MORELIKETHIS]

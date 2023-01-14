@@ -1,20 +1,20 @@
 ---
-title: Advertising Cloud-Unterstützung für den Kundendatenschutz
-description: Adobe Advertising Cloud bietet Sicherheits- und Datenschutzkontrollen, mit denen Werbekunden bei der Einhaltung der Datenschutzgesetze für Verbraucher unterstützt werden.
+title: Adobe Advertising Support für Verbraucherschutz
+description: Adobe Advertising bietet Sicherheits- und Datenschutzkontrollen, mit denen Werbekunden bei der Einhaltung von Verbraucherdatenschutzgesetzen geholfen werden kann.
 cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: ffc50470-301e-44bc-9f56-63667dd8fb64
-source-git-commit: ec21d8c18bced3fcd635df8b9b2734e028ceb118
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# Advertising Cloud-Unterstützung für den Kundendatenschutz
+# Adobe Advertising Support für Verbraucherschutz
 
-Adobe Advertising Cloud bietet Sicherheits- und Datenschutzkontrollen, mit denen Werbekunden bei der Einhaltung der folgenden Verbraucherdatenschutzgesetze geholfen werden kann:
+Adobe Advertising bietet Sicherheits- und Datenschutzkontrollen, mit denen Werbekunden bei der Einhaltung der folgenden Verbraucherdatenschutzgesetze geholfen werden kann:
 
 * Die Datenschutz-Grundverordnung (DSGVO)
 

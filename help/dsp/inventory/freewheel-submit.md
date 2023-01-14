@@ -2,7 +2,8 @@
 title: Senden einer Anzeige für ein PG-Deal an [!DNL FreeWheel]
 description: Erfahren Sie, wie Sie eine Genehmigung für eine Anzeige für ein programmgesteuertes garantiertes Geschäft mit einem Herausgeber anfordern können in [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 6cb41f3b-29e4-4feb-9c31-578ab40bd4f7
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
@@ -22,8 +23,11 @@ Einmal [akzeptieren programmgesteuertes garantiertes Geschäft mit einem Herausg
 1. Kopieren Sie den Anzeigenschlüssel für die mit der [!DNL Freewheel] handeln:
 
    1. Klicken Sie auf den Namen der Kampagne.
+
    1. Klicken Sie im Untermenü auf **[!UICONTROL Ads]**.
+
    1. Klicken  **[!UICONTROL ...]>[!UICONTROL Edit]** neben dem Anzeigennamen.
+
    1. Kopieren Sie nach dem Öffnen der Anzeigeneinstellungen den alphanumerischen Anzeigenschlüssel in die URL, die in der Adressleiste des Browsers angezeigt wird.
 
       In der folgenden URL lautet beispielsweise der Anzeigenschlüssel `3NtNC5ZbaGZtqbei8jD3`
@@ -35,6 +39,7 @@ Einmal [akzeptieren programmgesteuertes garantiertes Geschäft mit einem Herausg
    1. Führen Sie einen der folgenden Schritte aus:
 
       * Klicken Sie neben dem Anzeigennamen auf  **[!UICONTROL ...]** > **[!UICONTROL submit to FreeWheel]**.
+
       * Klicken Sie im Hauptmenü auf **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**. Klicken Sie in der Zeile &quot;Deal&quot;auf ![Optionen, Menü](/help/dsp/assets/options-menu.png) > **[!UICONTROL submit to FreeWheel]**.
    1. Überprüfen Sie die Deal-ID, geben Sie die **[!UICONTROL Ad Key]** Sie haben in Schritt 1 kopiert und klicken dann auf **[!UICONTROL Submit]**.
 

@@ -3,9 +3,9 @@ title: Info [!DNL On Demand] Premium-Lagerbestand
 description: Erfahren Sie mehr über die Angebote, die DSP mit Premium-Publisher-Partnern vorverhandelt hat.
 feature: DSP On Demand Inventory
 exl-id: d23d4e4e-f29f-4dba-afe3-7198ef4ee544
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,24 @@ ht-degree: 0%
 
 *Für Benutzer mit Kontotypen nicht verfügbar [!UICONTROL Ad Network], [!UICONTROL Publisher Audience Extension]und [!UICONTROL Other]; Advertiser mit der Kategorie [!UICONTROL Other]; und Wiederverkäufer*
 
-Die [!DNL On Demand] Gallery ist ein erstklassiges Tool zur Bestandssuche, um vorab ausgehandelte Geschäfte zu untersuchen, die Advertising Cloud DSP mit Premium-Publisher-Partnern kuratiert hat. Damit können Sie von den Top-Tier-Herausgebern in der Region auf nicht garantierte Bestände zugreifen, ohne dass 1:1-Verhandlungen oder -Verträge erforderlich sind. Sie können einzelne Angebote anfordern und Sie können einen Herausgeber abonnieren, um alle Angebote des Herausgebers gleichzeitig anzufordern.
+Die [!DNL On Demand] Gallery ist ein erstklassiges Inventarfindungstool zur Erforschung von vorab ausgehandelten Angeboten, die DSP mit Premium-Publisher-Partnern kuratiert hat. Damit können Sie von den Top-Tier-Herausgebern in der Region auf nicht garantierte Bestände zugreifen, ohne dass 1:1-Verhandlungen oder -Verträge erforderlich sind. Sie können einzelne Angebote anfordern und Sie können einen Herausgeber abonnieren, um alle Angebote des Herausgebers gleichzeitig anzufordern.
 
-Der Premium-Marketplace von Advertising Cloud DSP ermöglicht Ihnen Folgendes:
+Der DSP Premium-Marketplace ermöglicht Ihnen Folgendes:
 
 * Schnelles und einfaches Aktivieren neuer Inventare für verbesserte Skalierbarkeit und Effizienz
 
    Studien haben gezeigt, dass die Aktivierung privater Marktplatzierungen in [!DNL DSP] -Plattformen sparen Zeit und sind effizienter.
 
 * Neue Herausgeber und Formate kennenlernen
+
 * Neue Zielgruppen und Strategien kennenlernen
+
 * Eindeutige Reichweite erweitern
+
 * Automatisch auf Publisher zugreifen, die nicht auf dem freien Markt verfügbar sind
+
 * Automatischer Zugriff auf Live-Ereignisse (z. B. NBA-, NFL- und NHL-Ereignisse)
+
 * Performance-Tracking mit konsolidierter Berichterstellung
 
 Sobald ein Deal genehmigt wurde, ist er als Ziel für vorhandene Platzierungen verfügbar und wird automatisch als Ziel für neue Platzierungen eingefügt, die alle [!DNL On Demand] Inventar. Wenn eine Deal-Anfrage abgelehnt wird, können Sie mit Ihrem [!DNL Adobe] Account-Team , um das Problem zu lösen und dann den Deal erneut anzufordern.

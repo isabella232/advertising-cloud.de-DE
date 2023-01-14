@@ -1,21 +1,22 @@
 ---
 title: Übersicht über das Senden von DSP-Exposure-Daten an Adobe Audience Manager
-description: Erfahren Sie, wie Sie mit Audience Manager-Ereignispixel Impressions- und Klickdaten aus Advertising Cloud DSP-Kampagnen erfassen können.
+description: Erfahren Sie, wie Sie mit Audience Manager-Ereignispixel Impressions- und Klickdaten aus Advertising DSP Kampagnen erfassen können.
 feature: Integration with Adobe Audience Manager
-source-git-commit: e861fc53ba14d783c763b291cdc618e5f1d4124f
+exl-id: 916b7deb-511e-4fbf-96d9-b274a48dc748
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
 
 # Übersicht über das Senden von DSP-Exposure-Daten an Adobe Audience Manager
 
-*Advertiser nur mit Advertising Cloud DSP*
+*Advertiser nur mit Advertising DSP*
 
-*Werbetreibende, die nur über eine Advertising Cloud-Adobe Audience Manager-Integration verfügen*
+*Werbetreibende mit nur einer Adobe Advertising-Adobe Audience Manager-Integration*
 
-Advertising Cloud DSP-Kunden mit Adobe Audience Manager können Audience Manager-Ereignispixel verwenden, um Impressionsdaten und Klickdaten aus DSP Kampagnen zu erfassen. Die Ereignispixel senden die Daten als umsetzbare Signale an den Audience Manager. Diese Signale ermöglichen verschiedene DSP Anwendungsfälle, z. B. erweiterte Segmentierung, Frequenzverwaltung, Marketing-Analyse und Reporting-Einblicke.
+Advertising DSP Kunden mit Adobe Audience Manager können Audience Manager-Ereignispixel verwenden, um Daten auf Impressionsebene und Klickdaten aus DSP Kampagnen zu erfassen. Die Ereignispixel senden die Daten als umsetzbare Signale an den Audience Manager. Diese Signale ermöglichen verschiedene DSP Anwendungsfälle, z. B. erweiterte Segmentierung, Frequenzverwaltung, Marketing-Analyse und Reporting-Einblicke.
 
 DSP lädt Sie nicht dazu ein, diese Signale an den Audience Manager zu senden. Sie zahlen jedoch die standardmäßigen Audience Manager-Erfassungskosten basierend auf Server-Aufrufen gemäß Ihrem Audience Manager-Vertrag. Audience Manager entfernt doppelte Ereignisse, die auf zwei verschiedene Arten verfolgt werden, sodass jedes Ereignis nur einmal geladen wird.
 
@@ -51,6 +52,6 @@ Audience Manager verfolgt Klicks ähnlich wie Impressionen, allerdings wird das 
 
 >[!MORELIKETHIS]
 >
->* [Erfassen von Klick- und Impressionsdaten aus Advertising Cloud DSP-Kampagnen](collect.md)
+>* [Erfassen von Klick- und Impressionsdaten aus Advertising DSP Kampagnen](collect.md)
 >* [Nutzungsszenarios](use-cases.md)
 

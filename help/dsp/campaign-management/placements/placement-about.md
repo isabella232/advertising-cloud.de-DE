@@ -1,16 +1,16 @@
 ---
-title: Informationen zur Platzierungsverwaltung in Advertising Cloud DSP
+title: Informationen zur Platzierungsverwaltung in Advertising DSP
 description: Erfahren Sie mehr über die Platzierungsverwaltung.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: c6a3d9703d06a44e38aae3bc6ec3f5f77e93082d
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
 
-# Informationen zur Platzierungsverwaltung in Advertising Cloud DSP
+# Informationen zur Platzierungsverwaltung in Advertising DSP
 
 Eine Platzierung umfasst Targeting-Parameter für eine oder mehrere Anzeigen desselben Anzeigentyps. Sie können eine Platzierung für eine einzelne Kampagne oder ein einzelnes Paket erstellen und ihr dann Anzeigen zuweisen. Jede Kampagne oder Platzierung kann mehrere Platzierungen mit einer bestimmten Anzeigenrotation enthalten. Standardmäßig werden Anzeigen gleichmäßig gedreht.
 

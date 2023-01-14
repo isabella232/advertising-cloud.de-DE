@@ -1,21 +1,22 @@
 ---
-title: Adobe Advertising Cloud DSP-Datenverwendungsrichtlinien
+title: Richtlinien zur Adobe Advertising DSP Datennutzung
 description: Siehe Richtlinien für die Datennutzung.
 feature: Policies
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 6b646988-4a53-4092-8bc6-bcd350ee4096
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
 
-# Adobe Advertising Cloud DSP-Datenverwendungsrichtlinien
+# Richtlinien zur Adobe Advertising DSP Datennutzung
 
 *Zuletzt aktualisiert: 5. September 2019*
 
-*Für Adobe Advertising Cloud DSP*
+*Für Adobe Advertising DSP*
 
-Diese Datennutzungsrichtlinien (&quot;Datenrichtlinien&quot;) enthalten die Anforderungen für die Verwendung bestimmter Daten, auf die über die On-Demand-Dienste von Adobe für Advertising Cloud (&quot;Dienste&quot;) zugegriffen wird. Diese Richtlinien werden durch Bezugnahme in die Vereinbarung zwischen der Adobe und dem Kunden, der die On-Demand-Dienste nutzt, aufgenommen. Die in diesen Richtlinien verwendeten großgeschriebenen Begriffe, die hier nicht definiert sind, haben die in dieser Vereinbarung festgelegte Bedeutung.
+Diese Datennutzungsrichtlinien (&quot;Datenrichtlinien&quot;) enthalten die Anforderungen für die Verwendung bestimmter Daten, auf die über die On-Demand-Dienste von Adobe für Advertising DSP (&quot;Services&quot;) zugegriffen wird. Diese Richtlinien werden durch Bezugnahme in die Vereinbarung zwischen der Adobe und dem Kunden, der die On-Demand-Dienste nutzt, aufgenommen. Die in diesen Richtlinien verwendeten großgeschriebenen Begriffe, die hier nicht definiert sind, haben die in dieser Vereinbarung festgelegte Bedeutung.
 
 Adobe behält sich das Recht vor, allein zu entscheiden, ob die Nutzung von Daten durch den Kunden gegen diese Richtlinien verstößt.
 

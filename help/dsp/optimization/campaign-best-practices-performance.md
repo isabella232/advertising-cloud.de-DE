@@ -3,16 +3,16 @@ title: Best Practices zum Einrichten von Leistungskampagnen
 description: Lernen Sie Best Practices für die Einrichtung Ihrer leistungsorientierten Kampagnen kennen, darunter Platzierungen, die für den niedrigsten CPA oder den höchsten ROAS optimiert sind.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: 22821c0fe8c2864ab36d7aa1141a7527cc08a35b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1247'
 ht-degree: 0%
 
 ---
 
 # Best Practices zum Einrichten von Leistungskampagnen
 
-Advertising Cloud kann Ihre leistungsorientierten Kampagnen für Platzierungen mit den niedrigsten Kosten pro Akquise (CPA) oder der höchsten Rendite aus Werbeausgaben (ROAS) optimieren.
+DSP können Ihre leistungsorientierten Kampagnen für Platzierungen mit den niedrigsten Kosten pro Akquise (CPA) oder der höchsten Rendite aus Werbeausgaben (ROAS) optimieren.
 
 Siehe die folgenden Best Practices für Leistungskampagnen:
 
@@ -55,7 +55,7 @@ Niedrigere Trichterpakete enthalten Platzierungen, die Benutzer ansprechen, die 
 
 #### Empfohlene Platzierungsstrategien für Retargeting
 
-* Wenn der Advertiser Adobe Analytics- oder Adobe Audience Manager-Kunde ist, können Sie Erstanbietersegmente (wie Startseitenbesucher, Produktseiten oder Warenkorbabbrüche) erstellen und diese als Platzierungsziele in Advertising Cloud verwenden.
+* Wenn der Advertiser Adobe Analytics- oder Adobe Audience Manager-Kunde ist, können Sie Erstanbietersegmente (wie Startseitenbesucher, Produktseiten oder Warenkorbabbrüche) erstellen und diese als Platzierungsziele in DSP verwenden.
 
 * Vermeiden Sie es, einer zielgruppenorientierten Platzierung zu viel Budget zuzuweisen. In der Regel können Sie ein Budget von 30 $ pro 1.000 Benutzer pro Monat festlegen.
 

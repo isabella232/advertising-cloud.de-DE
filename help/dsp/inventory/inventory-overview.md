@@ -1,18 +1,18 @@
 ---
-title: Übersicht über die Lagerbestandsfunktionen in Advertising Cloud DSP
+title: Übersicht über die Inventarfunktionen in Advertising DSP
 description: Erfahren Sie mehr über die verfügbaren Inventarfunktionen.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: e80eccbf2f87c1ad86a2cb689b44ca67e08248be
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# Übersicht über die Lagerbestandsfunktionen in Advertising Cloud DSP
+# Übersicht über die Inventarfunktionen in Advertising DSP
 
-Advertising Cloud DSP kann Ihre Inventaranforderungen unterstützen, unabhängig davon, ob Sie eine Skalierung mit öffentlichem Inventar finden oder eine Skalierung unter Premium-Herausgebern mit [!DNL On Demand]oder richten Sie einen 1:1-privaten Marketplace (PMP) ein, der sich mit einem Herausgeber befasst, um diese für bestimmte Zielgruppen oder Sites zu aktivieren. Mithilfe Ihrer Kampagnenziele können Sie bestimmen, welcher Lagerbestandstyp den Leistungsanforderungen Ihrer Kampagne am besten entspricht. Integrationen mit SSPs (Top Supply Side Platform) ermöglichen eine nahtlose Einrichtung und Aktivierung Ihrer PMPs.
+DSP können Ihre Lagerbestände unterstützen, unabhängig davon, ob Sie eine Skala mit öffentlichem Inventar finden oder eine Skala unter Premium-Herausgebern mit [!DNL On Demand]oder richten Sie einen 1:1-privaten Marketplace (PMP) ein, der sich mit einem Herausgeber befasst, um diese für bestimmte Zielgruppen oder Sites zu aktivieren. Mithilfe Ihrer Kampagnenziele können Sie bestimmen, welcher Lagerbestandstyp den Leistungsanforderungen Ihrer Kampagne am besten entspricht. Integrationen mit SSPs (Top Supply Side Platform) ermöglichen eine nahtlose Einrichtung und Aktivierung Ihrer PMPs.
 
 Sobald Sie in DSP auf Ihre Inventargeschäfte zugreifen oder diese identifizieren, können Sie sie als Platzierungsziele für Ihre Kampagnen verwenden.
 

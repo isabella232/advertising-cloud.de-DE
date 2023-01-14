@@ -1,12 +1,12 @@
 ---
-source-git-commit: 96620946de8eeeebde6b23b8ef686dbcb544acd6
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '28'
 ht-degree: 0%
 
 ---
-# Dokumentation zu Advertising Cloud-Richtlinien und -Richtlinien
+# Adobe Advertising Policies and Guidelines Documentation
 
-Hier finden Sie die Hilfedokumentation zu Advertising Cloud-übergreifenden Richtlinien und Richtlinien.
+In diesem Ordner finden Sie die Hilfedokumentation zu Richtlinien und Richtlinien für Adobe-übergreifende Werbung.
 
 **Hinweis: Diese Seite wird nicht in der kundenorientierten Dokumentation veröffentlicht.**

@@ -1,18 +1,18 @@
 ---
-title: Advertising Cloud DSP Makros
+title: Advertising DSP Makros
 description: Referenzieren Sie die verfügbaren Makros für das allgemeine Tracking und zur Verfolgung von Klicks auf Display-Anzeigen von Drittanbietern.
 feature: DSP Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
-source-git-commit: b3fc18cf84713adcff5a4208db537b03904cfa08
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
 
-# Advertising Cloud DSP Makros
+# Advertising DSP Makros
 
-Ein Makro ist ein kurzer Befehl oder Kurzbefehl für eine Anweisung und folgt normalerweise dem Format `${MACRO_NAME}`. Makros, die in kreativen Code- oder Clickthrough-URLs enthalten sind, werden in eine längere Code-Zeichenfolge umgewandelt, die der Anzeigenserver verstehen kann. Der Advertising Cloud DSP-Anzeigenserver führt Makros aus, wenn die Anzeige bereitgestellt oder angeklickt wird.
+Ein Makro ist ein kurzer Befehl oder Kurzbefehl für eine Anweisung und folgt normalerweise dem Format `${MACRO_NAME}`. Makros, die in kreativen Code- oder Clickthrough-URLs enthalten sind, werden in eine längere Code-Zeichenfolge umgewandelt, die der Anzeigenserver verstehen kann. Der DSP Adserver führt Makros aus, wenn die Anzeige bereitgestellt oder angeklickt wird.
 
 Anzeigenserver-Makros sind nützlich, um wichtige Informationen an DSP- oder Drittanbieter-Anzeigenserver zu übergeben. Makros werden am häufigsten während des Handels mit kreativem Drittanbieter- und benutzerdefiniertem Code oder Metadaten (z. B. Pixeln von Drittanbietern) verwendet.
 
@@ -80,7 +80,7 @@ Um Klicks für Anzeigen mithilfe von Display-Tags von Drittanbietern genau zu ve
 
 DSP fügt automatisch Klick-Makros in einem Drittanbieter-Display-Tag ein, wenn Sie:
 
-* Anzeigen-Tags von einem Advertising Cloud-Adserver-Partner exportieren <!-- [Needs PM confirmation.] -->
+* Anzeigen-Tags von einem Adserver-Partner exportieren <!-- [Needs PM confirmation.] -->
 * Massen-Upload [!DNL Flashtalking] oder [!DNL Google DoubleClick for Advertisers] Anzeigen-Tags direkt in DSP
 
 Wenn beim Erstellen einer Display-Anzeige ein Klickmakro fehlt, zeigt DSP eine Warnmeldung an, in der Sie aufgefordert werden, das entsprechende Display-Klickmakro manuell in den richtigen Bereich des Tags einzufügen.

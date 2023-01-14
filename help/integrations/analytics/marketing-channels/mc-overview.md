@@ -1,19 +1,20 @@
 ---
 title: Grundlagen [!DNL Marketing Channels]
-description: Wichtige Informationen [!DNL Analytics Marketing Channels] that [!DNL Analytics for Advertising Cloud] -Benutzer sollten dies verstehen.
+description: Wichtige Informationen [!DNL Analytics Marketing Channels] dass [!DNL Analytics for Advertising] -Benutzer sollten dies verstehen.
 feature: Integration with Adobe Analytics
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 27b6fb07-0b63-4ff1-a316-20b9a2b60fe9
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '568'
 ht-degree: 0%
 
 ---
 
 # Grundlagen [!DNL Analytics Marketing Channels]
 
-*Werbetreibende, die nur über eine Advertising Cloud-Adobe Analytics-Integration verfügen*
+*Werbetreibende mit nur einer Adobe Advertising-Adobe Analytics-Integration*
 
-Auf dieser Seite werden wichtige Informationen zu [!DNL Analytics Marketing Channels] dass [!DNL Analytics for Advertising Cloud] -Benutzer müssen dies verstehen.
+Auf dieser Seite werden wichtige Informationen zu [!DNL Analytics Marketing Channels] dass [!DNL Analytics for Advertising] -Benutzer müssen dies verstehen.
 
 Vollständige Dokumentation zu [!DNL Marketing Channels], siehe[Erste Schritte mit [!DNL Marketing Channels]](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html).&quot;
 
@@ -37,13 +38,13 @@ Andere Kanäle verfügen nicht über verfolgbare URL-Pfade und benötigen weiter
 
 Adobe empfiehlt, mit Ihrem Analyseteam zusammenzuarbeiten, um einen umfassenden Satz von [!DNL Marketing Channels] Verarbeitungsregeln zur Verfolgung aller für Ihr Unternehmen relevanten Kanäle. Auf diese Weise können Sie leistungsstarke Attributionsberichte erstellen.
 
-Informationen dazu, wie Advertising Cloud zu den Signalen beitragen kann, die zum Erstellen benutzerdefinierter Marketing-Kanäle erforderlich sind, finden Sie unter &quot;[Erstellen von Advertising-IDs mit [!DNL Marketing Channels] Regeln](mc-ids.md).&quot;
+Informationen dazu, wie Adobe Advertising zu den Signalen beitragen kann, die zum Erstellen benutzerdefinierter Marketingkanäle erforderlich sind, finden Sie unter &quot;[Erstellen von Advertising-IDs mit [!DNL Marketing Channels] Regeln](mc-ids.md).&quot;
 
 >[!MORELIKETHIS]
 >
->* [Erstellen von Advertising Cloud-IDs mithilfe [!DNL Marketing Channels] Verarbeitungsregeln](mc-ids.md)
->* [Warum Kanaldaten zwischen Advertising Cloud und variieren können [!DNL Marketing Channels]](mc-data-variances.md)
->* [Verwenden [!DNL Analytics Marketing Channels] mit Advertising Cloud-Daten](mc-ac-data.md)
->* [Video: Reporting mit Advertising Cloud [!DNL Marketing Channels]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
->* [Übersicht über [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/overview.md)
+>* [Erstellen von Adobe Advertising-IDs mit [!DNL Marketing Channels] Verarbeitungsregeln](mc-ids.md)
+>* [Warum können Kanaldaten zwischen Adobe Advertising und [!DNL Marketing Channels]](mc-data-variances.md)
+>* [Verwenden [!DNL Analytics Marketing Channels] mit Adobe Advertising-Daten](mc-ac-data.md)
+>* [Video: Verwenden [!DNL Marketing Channels] für Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
+>* [Übersicht über [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)
 

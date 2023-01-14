@@ -1,22 +1,23 @@
 ---
-title: Konfigurieren von A/B-Tests für Advertising Cloud DSP-Anzeigen in Adobe Target
-description: Erfahren Sie, wie Sie einen A/B-Test einrichten in [!DNL Target] für Ihre DSP Anzeigen.
-source-git-commit: 465f3c18a7d85d54bca5ff2f565694a9b211a7ed
+title: Konfigurieren von A/B-Tests für Adobe Advertising Ads in Adobe Target
+description: Erfahren Sie, wie Sie einen A/B-Test einrichten in [!DNL Target] für Ihre DSP und [!DNL Search] Anzeigen.
+exl-id: 97055645-4b2f-4795-830d-9ce89ae2ad15
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '1660'
+source-wordcount: '1654'
 ht-degree: 0%
 
 ---
 
-# Konfigurieren von A/B-Tests in Adobe Target für Advertising Cloud DSP Ads
+# Konfigurieren von A/B-Tests in Adobe Target für Advertising DSP und [!DNL Advertising Search] Anzeigen
 
 <!-- Add [!UICONTROL and [!DNL tags throughout as needed. -->
 
 <!-- Break into sub-files, or just leave as one? -->
 
-*Advertiser nur mit Advertising Cloud DSP*
+*Advertiser nur mit Advertising DSP*
 
-Adobe Advertising Cloud DSP und Adobe Target erleichtern es Marketern, personalisierte und vernetzte Erlebnisse für Paid Media und On-site-Nachrichten bereitzustellen. Durch die Freigabe von Signalen zwischen den beiden Produkten haben Sie folgende Möglichkeiten:
+Adobe Advertising und Adobe Target erleichtern Marketingexperten die Bereitstellung eines personalisierten und vernetzten Erlebnisses über Paid Media und On-site-Messaging hinweg. Durch die Freigabe von Signalen zwischen den Produkten können Sie:
 
 * Verringern Sie die Site-Durchfallraten, indem Sie die Anzeigenbelichtung von Kunden aus DSP Kampagnen mit ihren Vor-Ort-Erlebnissen verknüpfen.
 
@@ -34,7 +35,7 @@ Für dieses Anwendungsbeispiel sind die folgenden Produkte und Integrationen erf
 
 * [!DNL Target]
 
-* [[!DNL Analytics] für Advertising Cloud](/help/integrations/analytics/overview.md) Integration<!-- necessary for testing view-throughs, which most advertisers want to do -->
+* [[!DNL Analytics] für Werbung](/help/integrations/analytics/overview.md) Integration<!-- necessary for testing view-throughs, which most advertisers want to do -->
 
 * [[!DNL Analytics] für [!DNL Target]](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html) Integration
 
@@ -50,15 +51,15 @@ Wenn Sie DSP Makros zu einer Clickthrough-URL hinzufügen (die URL, die angezeig
 
 ![An die Landingpage-URL angehängte Clickthrough-URL](/help/integrations/assets/target-ct-url.jpg)
 
-### Hinzufügen DSP Makros zu Ihren Clickthrough-URLS
+### (Nur DSP) Hinzufügen von DSP Makros zu Ihren Clickthrough-URLS
 
 <!-- If we ever write instructions for ads on other ad servers (such as Sizmek ads in DCO), then work that into the following section. -->
 
 Aktualisieren Sie im Flash-Gespräch oder in Google Campaign Manager 360 die Clickthrough-URL für jede Anzeige manuell, um die Makros einzuschließen, die zum Erfassen von AMO-ID-Variablen erforderlich sind. Die AMO-ID-Variablen werden verwendet, um Klickdaten an Adobe Analytics zu senden und Platzierungsschlüssel für A/B-Tests freizugeben. Anweisungen finden Sie auf den folgenden Seiten:
 
-* [Anhängen [!DNL Analytics for Advertising Cloud] Makros zu [!DNL Flashtalking] Anzeigen-Tags](/help/integrations/analytics/macros-flashtalking.md)
+* [Anhängen [!DNL Analytics for Advertising] Makros zu [!DNL Flashtalking] Anzeigen-Tags](/help/integrations/analytics/macros-flashtalking.md)
 
-* [Anhängen [!DNL Analytics for Advertising Cloud] Makros zu [!DNL Google Campaign Manager 360] Anzeigen-Tags](/help/integrations/analytics/macros-google-campaign-manager.md)
+* [Anhängen [!DNL Analytics for Advertising] Makros zu [!DNL Google Campaign Manager 360] Anzeigen-Tags](/help/integrations/analytics/macros-google-campaign-manager.md)
 
 Wenden Sie sich an Ihr DSP Account-Team und die Advertising Solutions Group (aac-advertising-solutions-group@adobe.com), um den erforderlichen Platzierungsschlüssel abzurufen und das Setup abzuschließen und sicherzustellen, dass jede Clickthrough-URL mit dem Platzierungsschlüssel ausgefüllt wird.
 
@@ -72,7 +73,7 @@ Durch Hinzufügen eines Audience Manager-Impressionsereignis-Pixels zu Ihren Anz
 
 1. Implementieren Sie ein Impressionsereignis-Pixel für Audience Manager in Ihre Anzeigen-Tags und DSP Platzierungseinstellungen.
 
-   Weitere Informationen finden Sie unter &quot;[Erfassen von Medienbelichtungsdaten aus Advertising Cloud DSP-Kampagnen](/help/integrations/audience-manager/media-data-integration/collect.md).&quot;
+   Weitere Informationen finden Sie unter &quot;[Erfassen von Medienbelichtungsdaten aus Werbekampagnen DSP](/help/integrations/audience-manager/media-data-integration/collect.md).&quot;
 
    Stellen Sie sicher, dass [DSP Makros](/help/dsp/campaign-management/macros.md) zum Erfassen aller Daten, die das Impressionsereignis-Pixel zurückgeben soll, einschließlich `${TM_PLACEMENT_ID_NUM}` für die numerische Platzierungs-ID.
 
@@ -181,11 +182,11 @@ Konfigurieren Sie in Analysis Workspace die [!DNL Analytics for Target panel] , 
 
 #### Metriken
 
-* Erstellen Sie innerhalb des Arbeitsbereichs einen Bereich, der speziell für die Advertising Cloud-Kampagne, das-Paket oder die Platzierung gilt, für die der Test ausgeführt wurde. Verwenden Sie Zusammenfassungsvisualisierungen, um Advertising Cloud-Metriken im selben Bericht wie die Target-Testleistung anzuzeigen.
+* Erstellen Sie innerhalb des Arbeitsbereichs einen Bereich, der spezifisch für die Adobe Advertising-Kampagne, das -Paket oder die Platzierung ist, für die der Test ausgeführt wurde. Verwenden Sie Zusammenfassende Visualisierungen, um Adobe Advertising-Metriken im selben Bericht wie die Target-Testleistung anzuzeigen.
 
 * Priorisieren Sie die Verwendung von On-site-Metriken (z. B. Besuche und Konversionen), um die Leistung zu messen.
 
-* Beachten Sie, dass aggregierte Medienmetriken aus Advertising Cloud (wie Impressionen, Klicks und Kosten) nicht mit Target-Metriken übereinstimmen können.
+* Beachten Sie, dass aggregierte Medienmetriken aus Adobe Advertising (wie Impressionen, Klicks und Kosten) nicht mit Target-Metriken übereinstimmen können.
 
 #### Dimensionen
 
@@ -219,7 +220,7 @@ Wenn Sie in Analysis Workspace feststellen, dass die Daten zu Aktivitäten und E
 * [Überblick über A/B-Tests](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html) - Beschreibt A/B-Test-Aktivitäten, die Sie mit DSP Anzeigen verwenden können.
 * [Erlebnisse und Angebote](https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html) - Erläuterung [!DNL Target] Tools zur Bestimmung der On-site-Inhalte, denen DSP Testbenutzer ausgesetzt sind.
 * [Signale, Eigenschaften und Segmente](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html) - Definiert einige der Audience Manager-Tools, die beim DSP Durchsichtstest helfen können.
-* [Übersicht über Analytics für Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html) - Einführung in Analytics für Advertising Cloud, mit dem Sie Clickthrough- und Durchsichts-Site-Interaktionen in Ihren Analytics-Instanzen verfolgen können.
+* [Übersicht über Analytics für Advertising](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html) - Einführung in Analytics for Advertising, mit dem Sie Clickthrough- und Durchsichts-Site-Interaktionen in Ihren Analytics-Instanzen verfolgen können.
 
 <!-- 
 >[!MORELIKETHIS]

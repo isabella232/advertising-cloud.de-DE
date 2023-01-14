@@ -3,9 +3,9 @@ title: Einstellungen für mobile Anzeigen
 description: Siehe Beschreibungen der verfügbaren Anzeigeneinstellungen für mobile Anzeigen.
 feature: DSP Ads
 exl-id: f67c4ba0-1011-4ad6-bd36-98c312b81b67
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '620'
+source-wordcount: '616'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 *Nur die neuen Anzeigenformate für mobile Videos*
 
-**[!UICONTROL URL]** or **[!UICONTROL Ad Tag]**: A third-party VAST ad tag or ad tag that contains creative assets and tracking pixels
+**[!UICONTROL URL]** oder **[!UICONTROL Ad Tag]**: Ein VAST-Anzeigen-Tag oder Anzeigen-Tag eines Drittanbieters, das kreative Assets und Tracking-Pixel enthält
 
 **[!UICONTROL Ad Title]** oder **[!UICONTROL Title]**: Ein Name für die Anzeige, die in der [!UICONTROL Ads] Anzeigen und Berichten.
 
@@ -36,11 +36,11 @@ ht-degree: 0%
 >
 > Verwenden Sie einen Namen, der leicht zu finden ist, wenn Sie die Anzeige an eine Platzierung, in der Anzeigen-Ansicht und in Berichten anhängen. Beschreiben Sie beispielsweise den Einheitentyp und einige wichtige Attribute (z. B. die Holiday-Produktvorschau: 300x250 Gamer&quot;).
 
-**\[Ad Source\]**: (Read-only) *[!UICONTROL 3rd party]*.
+**\[Anzeigenquelle\]**: (schreibgeschützt) *[!UICONTROL 3rd party]*.
 
-**[!UICONTROL Display Code]:** The URL of the third-party creative asset. Alle [timestamp] und [[timestamp]] -Parameter durch tatsächliche Werte ersetzt.
+**[!UICONTROL Display Code]:** Die URL des kreativen Drittanbieter-Assets. Alle [timestamp] und [[timestamp]] -Parameter durch tatsächliche Werte ersetzt.
 
-**[!UICONTROL Final Display Code]:** The URL for the third-party creative asset, with the necessary [Advertising Cloud DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
+**[!UICONTROL Final Display Code]:** Die URL für das kreative Asset eines Drittanbieters mit den erforderlichen [Anzeigen DSP Tracking-Makros](/help/dsp/campaign-management/macros.md) gegebenenfalls eingefügt.
 
 ### [!UICONTROL Basic]: Videoanzeigen
 
@@ -72,13 +72,13 @@ Dies entspricht dem **[!UICONTROL Height]** -Feld.
 
 **[!UICONTROL Preserve Aspect Ratio]:** Gibt an, ob die Breite und Höhe des Videos beibehalten werden sollen (*[!UICONTROL Yes]*) oder um das Video so zu dehnen, dass der verfügbare Platz (*[!UICONTROL No]*).
 
-**[!UICONTROL Close Button Delay]:** (Some ad types) The number of seconds to delay the appearance of the close button.
+**[!UICONTROL Close Button Delay]:** (Einige Anzeigentypen) Die Anzahl der Sekunden, um die Anzeige der Schließen-Schaltfläche zu verzögern.
 
-**[!UICONTROL VAST Tag]:** (Ads using VAST tags only; read-only) The third-party VAST tag you entered as the creative asset.
+**[!UICONTROL VAST Tag]:** (Anzeigen, die nur VAST-Tags verwenden; schreibgeschützt) Das VAST-Tag des Drittanbieters, das Sie als kreatives Asset eingegeben haben.
 
-**[!UICONTROL Final VAST Tag]:** (Anzeigen, die nur VAST-Tags verwenden; schreibgeschützt) Das VAST-Tag des Drittanbieters, das Sie als kreatives Asset mit den erforderlichen [Advertising Cloud DSP-Tracking-Makros](/help/dsp/campaign-management/macros.md) gegebenenfalls eingefügt.
+**[!UICONTROL Final VAST Tag]:** (Anzeigen, die nur VAST-Tags verwenden; schreibgeschützt) Das VAST-Tag des Drittanbieters, das Sie als kreatives Asset mit den erforderlichen [Anzeigen DSP Tracking-Makros](/help/dsp/campaign-management/macros.md) gegebenenfalls eingefügt.
 
-**[!UICONTROL Wmode]:** (Some ad types) The window mode: *[!UICONTROL window]*, *[!UICONTROL transparent]*, or *[!UICONTROL opaque]*.
+**[!UICONTROL Wmode]:** (Einige Anzeigentypen) Der Fenstermodus: *[!UICONTROL window]*, *[!UICONTROL transparent]* oder *[!UICONTROL opaque]*.
 
 ### [!UICONTROL Pixel]
 
@@ -106,5 +106,5 @@ Veraltet
 >* [Einzelne Anzeige erstellen](ad-create.md)
 >* [Platzierungen auflisten, die einer Anzeige zugeordnet sind](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Anzeigenspezifikationen](ad-specs.md)
->* [Advertising Cloud DSP Makros](/help/dsp/campaign-management/macros.md)
+>* [DSP Makros](/help/dsp/campaign-management/macros.md)
 

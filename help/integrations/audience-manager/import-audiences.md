@@ -1,17 +1,18 @@
 ---
 title: Importieren von Adobe Audience Manager-Segmenten für Anzeigen-Targeting
-description: Erfahren Sie, wie Sie Ihre [!DNL Adobe] Zielgruppen in Advertising Cloud DSP und Suchen mit Adobe Audience Manager
+description: Erfahren Sie, wie Sie Ihre [!DNL Adobe] Zielgruppen in Advertising DSP und Suche mithilfe von Adobe Audience Manager
 feature: Integration with Adobe Audience Manager
-source-git-commit: 9593400e48f5918850447daacfbdaaa9015e94cd
+exl-id: 08a40148-b7d2-442b-81e8-f3aec4fca7df
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '773'
 ht-degree: 0%
 
 ---
 
 # Importieren von Adobe Audience Manager-Segmenten für Anzeigen-Targeting
 
-Advertising Cloud DSP und Advertising Cloud Search können jeweils Metadaten, Hierarchiedaten und eindeutige Zielgruppendaten für alle Daten eines Advertisers oder einer Agentur abrufen [!DNL Adobe] Zielgruppen<!-- segments or audiences? Standardize terms per AAM's docs -->. Dazu gehören Daten für:
+DSP und [!DNL Advertising Search] kann jedes Mal Metadaten, Hierarchiedaten und eindeutige Zielgruppendaten für alle Daten eines Advertisers oder einer Agentur abrufen [!DNL Adobe] Zielgruppen<!-- segments or audiences? Standardize terms per AAM's docs -->. Dazu gehören Daten für:
 
 * Adobe Audience Manager-Segmente
 
@@ -19,9 +20,9 @@ Advertising Cloud DSP und Advertising Cloud Search können jeweils Metadaten, Hi
 
 * Segmente, die in Adobe Experience Cloud mit dem [!DNL People core service]
 
-* Segmente, die in Adobe Experience Platform erstellt und über Audience Manager an Advertising Cloud gesendet werden
+* Segmente, die in Adobe Experience Platform erstellt und über Audience Manager an Adobe Advertising gesendet werden
 
-So greifen Sie auf [!DNL Adobe] Zielgruppen in DSP oder [!DNL Creative], müssen Sie die Zielgruppen in DSP importieren. So greifen Sie auf [!DNL Adobe] Zielgruppen in [!DNL Search], müssen Sie die Zielgruppen in [!DNL Search].
+So greifen Sie auf [!DNL Adobe] Zielgruppen in DSP oder [!DNL Creative], müssen Sie die Zielgruppen in DSP importieren. So greifen Sie auf [!DNL Adobe] Zielgruppen in [!DNL [!DNL Search]], müssen Sie die Zielgruppen in [!DNL [!DNL Search]].
 
 ## Voraussetzungen
 
@@ -39,7 +40,7 @@ So greifen Sie auf [!DNL Adobe] Zielgruppen in DSP oder [!DNL Creative], müssen
 
 * (Wird empfohlen, wenn der Advertiser sowohl Audience Manager als auch [!DNL Analytics]) Um die Aufrufe auf jeder Webseite zu reduzieren, entfernen Sie vorhandenen Audience Manager [!DNL Data Integration Library] Code für die Datenerfassung und Aktivierung der serverseitigen Weiterleitung für jede [!DNL Analytics] Report Suite . Weitere Informationen finden Sie unter &quot;[Übersicht über die serverseitige Weiterleitung](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
 
-* (Empfohlen) Für höhere Übereinstimmungsraten senden Sie nur Erstanbieter-Website-Daten an Advertising Cloud. Wenn der Advertiser Drittanbieterdaten oder Offline-Daten aus einem Customer Relationship Management-System bündelt, kann die Datenleckage die Übereinstimmungsraten reduzieren.
+* (Empfohlen) Für höhere Übereinstimmungsraten senden Sie nur Erstanbieter-Website-Daten an Adobe Advertising. Wenn der Advertiser Drittanbieterdaten oder Offline-Daten aus einem Customer Relationship Management-System bündelt, kann die Datenleckage die Übereinstimmungsraten reduzieren.
 
 ## Importieren von Audience Manager-Zielgruppen in DSP
 
@@ -49,7 +50,7 @@ Die [!DNL Adobe] Teams für Konto- und Datenoperationen führen die folgenden Sc
 
 1. Die [!DNL Adobe] Account-Team sollte die Einstellung auf Advertiser-Ebene konfigurieren &quot;[!UICONTROL Adobe Analytics Cloud].&quot;
 
-1. Die [!DNL Adobe] Kontoteam sollte eine Anfrage senden<!-- Submit a request as a JIRA task? --> an das Dateneinsatzteam<!-- implementation team? --> , um die Audience Manager-Segmente des Unternehmens mithilfe der nativen Advertising Cloud DSP-API-Integration zu importieren.
+1. Die [!DNL Adobe] Kontoteam sollte eine Anfrage senden<!-- Submit a request as a JIRA task? --> an das Dateneinsatzteam<!-- implementation team? --> , um mithilfe der Advertising DSP nativen API-Integration die Audience Manager-Segmente des Unternehmens zu importieren.
 
 ### Welche Veränderungen führen zu Audience Manager?
 
@@ -107,7 +108,7 @@ Der erste Import dauert etwa 24 Stunden. Nach dem ersten Import werden die Daten
 <!--
 ### How DSP Syncs the Data
 
-DSP syncs the data automatically using the [!DNL Adobe Experience Cloud Identity (ECID) Service]. During synchronization, the [!DNL ECID Service] calls Advertising Cloud at [!DNL cm.eversttech.net]. Because Advertising Cloud is a trusted domain, ID syncs take place from parent pages rather than within the destination publishing iframes, as they do with most third-party activation partners. Audience Manager identifies unique users by device IDs, using the [Audience Manager [!DNL Unique User ID (AAM UUID)]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/ids-in-aam.html#global-device-ids), also called the [!DNL Device ID].
+DSP syncs the data automatically using the [!DNL Adobe Experience Cloud Identity (ECID) Service]. During synchronization, the [!DNL ECID Service] calls Adobe Advertising at [!DNL cm.eversttech.net]. Because Adobe Advertising is a trusted domain, ID syncs take place from parent pages rather than within the destination publishing iframes, as they do with most third-party activation partners. Audience Manager identifies unique users by device IDs, using the [Audience Manager [!DNL Unique User ID (AAM UUID)]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/ids-in-aam.html#global-device-ids), also called the [!DNL Device ID].
  
 ![Synchronization of [!DNL Adobe] audiences in DSP](/help/integrations/assets/audience-manager-sync.png)
 
@@ -119,13 +120,13 @@ Segment membership data is sent only after one of the following events occurs:
 
 * (Advertisers with DSP):
 
-  * The segment is targeted in an Advertising Cloud display ad.
+  * The segment is targeted in an Adobe Advertising display ad.
 
   * The segment is added to the [!DNL Adobe AdCloud Cross-Channel] batch and real-time destinations within the Audience Manager user interface.
 
 * (Advertisers with [!DNL Search]):
 
-  * The segment is targeted in an Advertising Cloud search ad.
+  * The segment is targeted in an Adobe Advertising search ad.
 
   * The segment is added to the [!DNL Adobe Media Optimizer] batch and HTTP destinations within the Audience Manager user interface.
  -->
@@ -141,17 +142,17 @@ In DSP werden Segmentnamen nach der Audience Manager-Taxonomie organisiert und s
 
 * In [Zielgruppeneinstellungen](/help/dsp/audiences/audience-settings.md): Im [!UICONTROL Adobe Segments] Registerkarte.
 
-### In Advertising Cloud Creative
+### In Advertising Creative
 
 In [!DNL Creative], sind die Segmente in den Erlebniseinstellungen für Zielknoten verfügbar.
 
-### In [!DNL Search]
+### In [!DNL Advertising Search]
 
-In [!DNL Search], sind die Segmente verfügbar, wenn Sie eine [!DNL Google] Zielgruppe, die [!UICONTROL Data Source] &quot;[!UICONTROL Adobe Audience]&quot; von [!UICONTROL Campaigns] > [!UICONTROL Audiences] > [!UICONTROL Library].
+In [!DNL [!DNL Search]], sind die Segmente verfügbar, wenn Sie eine [!DNL Google] Zielgruppe, die [!UICONTROL Data Source] &quot;[!UICONTROL Adobe Audience]&quot; von [!UICONTROL Campaigns] > [!UICONTROL Audiences] > [!UICONTROL Library].
 
 Für jeden [!DNL Google] von Ihnen erstellte Zielgruppen, [!DNL Google] stellt die Zielgruppengröße bereit.
 
 >[!MORELIKETHIS]
 >
->* [Advertising Cloud-Integrationen mit Adobe Audience Manager](/help/integrations/audience-manager/overview.md)
+>* [Adobe Advertising-Integrationen mit Adobe Audience Manager](/help/integrations/audience-manager/overview.md)
 

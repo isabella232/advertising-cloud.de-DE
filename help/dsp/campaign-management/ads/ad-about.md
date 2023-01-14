@@ -1,20 +1,20 @@
 ---
-title: Über die Anzeigenverwaltung in Advertising Cloud DSP
+title: Über Anzeigen-Management in Advertising DSP
 description: Erfahren Sie mehr über die Anzeigenverwaltung.
 feature: DSP Ads
 exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
-source-git-commit: 1499d9d86d8c2bafb03b41687c50dbf708c715da
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '722'
 ht-degree: 0%
 
 ---
 
-# Über die Anzeigenverwaltung in Advertising Cloud DSP
+# Über Anzeigen-Management in Advertising DSP
 
 <!-- add "The Ads View (Dashboard?)" section -->
 
-Advertising Cloud DSP unterstützt die Bereitstellung von Anzeigen über Werbeanzeigen von Drittanbietern (z. B. Google, Flashspeak oder Sizmek) für verschiedene Anzeigentypen und den direkten Asset-Upload für native Display-Anzeigen. Sie können Drittanbieter-Tags einzeln oder stapelweise hochladen. Massen-Uploads verwenden Partner-Tag-Arbeitsblätter oder eine Massen-Tag-Vorlage.
+DSP unterstützt die Bereitstellung von Anzeigen über Werbeanzeigen von Drittanbietern (z. B. Google, Flashspeak oder Sizmek) für verschiedene Anzeigentypen und den direkten Asset-Upload für native Display-Anzeigen. Sie können Drittanbieter-Tags einzeln oder stapelweise hochladen. Massen-Uploads verwenden Partner-Tag-Arbeitsblätter oder eine Massen-Tag-Vorlage.
 
 <!-- The bulk upload feature requires you to either a) upload DoubleClick and Flashtalking tag sheets or b) download a template, input your tags into the template, and then re-upload the template. -->
 <!-- need a list of all supported third-party ad servers; see file in future-tbd folder -->
@@ -23,7 +23,7 @@ Nachdem Sie Ihre Anzeigen eingerichtet haben, müssen Sie jede Anzeige an eine P
 
 ## Verfügbare Anzeigentypen {#ad-types}
 
-Alle folgenden Anzeigentypen sind in Advertising Cloud DSP verfügbar. Vollständige Spezifikationen für jeden Anzeigentyp finden Sie im Abschnitt [Anzeigenspezifikationen](ad-specs.md).
+Alle folgenden Anzeigentypen sind in DSP verfügbar. Vollständige Spezifikationen für jeden Anzeigentyp finden Sie im Abschnitt [Anzeigenspezifikationen](ad-specs.md).
 
 * **Audioanzeigen (nur Drittanbieter)**: Audioanzeigen spielen zwischen Inhalten auf digitalen Herausgeberseiten und können als Audiodateien oder zusammen mit begleitenden Bannern eigenständig ausgeführt werden. Audio wird am besten verwendet, um das Markenbewusstsein zu fördern und unterwegs mit Zielgruppen zu interagieren. Zu den wichtigsten Leistungsindikatoren für Audio gehören [!UICONTROL Completion Rate] und [!UICONTROL Cost per Completion].
 
@@ -39,9 +39,9 @@ Alle folgenden Anzeigentypen sind in Advertising Cloud DSP verfügbar. Vollstän
 
 * **Universelle Videoanzeigen (nur Drittanbieter)**: Universelle Videoanzeigen kombinieren alle Funktionen von Connected TV-, Pre-roll- und Mobile Pre-roll-Anzeigen (VAST und VPAID) zu einer und werden vor und während des Videoinhalts angezeigt. Die universelle Videoanzeige kann beim Targeting des Videoinventars aus Desktop-, Mobile- und vernetzten TV-Umgebungen verwendet werden, wodurch die Erstellung mehrerer Videoanzeigen vermieden wird. Zu den wichtigsten Leistungsindikatoren für universelle Videos gehören [!UICONTROL Completion Rate] und [!UICONTROL Viewability Rate].
 
-## Advertising Cloud DSP-Anzeigengenehmigungen
+## Genehmigungen DSP Anzeigen
 
-Wenn Sie eine Anzeige erstellen, prüft Advertising Cloud DSP sie auf sensible Kategorien, klickt auf URL-Funktionalität und zeigt die Vorschau an.
+Wenn Sie eine Anzeige erstellen, DSP sie für vertrauliche Kategorien überprüft, klicken Sie auf URL-Funktion und zeigen Sie eine Vorschau des Renderings an.
 
 Zunächst wird ein roter Punkt im [!UICONTROL Status] Spalte. Der Überprüfungsprozess dauert normalerweise 24 bis 48 Stunden. Eine fehlerhafte Anzeige kann jedoch länger als 48 Stunden den Status &quot;Ausstehend&quot;aufweisen, sodass Sie Zeit haben, Fehler zu beheben, bevor die Anzeige abgelehnt wird. Abgelehnte Anzeigen enthalten einen Grund für die Ablehnung.
 

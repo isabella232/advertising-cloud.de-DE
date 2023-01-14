@@ -1,29 +1,30 @@
 ---
-title: Akzeptable Adobe Advertising Cloud-Konsistenzsegmente
+title: Adobe Advertising Acceptable Health Segments
 description: Siehe Richtlinien für akzeptable gesundheitsbezogene Zielgruppensegmente und -taktiken, die als Alternativen zum Targeting gesundheitsbezogener Zielgruppensegmente verwendet werden.
 feature: Policies
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: fd4fdf5e-9159-4a89-8447-12051deae61b
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
 
-# Richtlinien für zulässige Gesundheitssegmente in Adobe Advertising Cloud
+# Richtlinien für Adobe Advertising Acceptable Health Segment
 
-*Für Adobe Advertising Cloud DSP und Adobe Advertising Cloud Search*
+*Für Adobe Advertising DSP und[!DNL Adobe Advertising Search]*
 
 Die folgenden Richtlinien enthalten inakzeptable und akzeptable gesundheitsbezogene Zielgruppensegmente. Außerdem wird empfohlen, Taktiken als Alternativen zum Targeting gesundheitsbezogener Zielgruppensegmente zu verwenden.
 
 Diese Leitlinien werden aus dem [!DNL Network Advertising Alliance (NAI)].
 
-Siehe auch [Advertising Cloud Ads Requirements Policy](/help/policies/ad-requirements-policy.md) , um zu bestimmen, ob ein gesundheitsbezogenes Zielgruppensegment gemäß der Targeting-Richtlinie von Adobe Advertising Cloud verwendet werden kann.
+Siehe auch [Adobe Advertising Ads-Anforderungsrichtlinie](/help/policies/ad-requirements-policy.md) um zu bestimmen, ob ein gesundheitsbezogenes Zielgruppensegment pro Adobe Advertising-Targeting-Richtlinie verwendet werden kann.
 
 ## Nicht zu verwendende Gesundheitssegmente
 
 * Segmente, die auf geschützte Gesundheitsinformationen (PHI)\*, medizinische Aufzeichnungen auf Benutzerebene, pharmazeutische Verschreibungen oder ähnliche medizinische Quellen angewiesen sind, die tatsächliche Kenntnisse über den Zustand oder die Behandlung dieses Benutzers vermitteln.
 
-   \* Adobe Advertising Cloud ist keine [!DNL HIPAA]-fertige Lösung.
+   \* Adobe Advertising ist keine [!DNL HIPAA]-fertige Lösung.
 
 * Segmente, die auf Gesundheitsbedingungen (oder verwandte Behandlungen) abzielen, wie Krebs, psychische Gesundheit, Drogensucht, sexuell übertragbare Krankheiten, Bedingungen, die hauptsächlich Kinder betreffen, oder andere sensible Gesundheitszustände, die nicht mit Präparaten behandelt werden können (z. B. Diabetes, Psoriasis, rheumatoide Arthritis oder Fibromyalgie).
 

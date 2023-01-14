@@ -3,7 +3,7 @@ title: Eine Kampagne duplizieren
 description: Erfahren Sie, wie Sie eine Kampagne duplizieren.
 feature: DSP Campaigns
 exl-id: 2bb4030d-22b0-4a16-aeed-35f64a19df6a
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
@@ -20,12 +20,16 @@ Duplizieren Sie eine Kampagne, um eine neue Kampagne mit ähnlichen Einstellunge
 * Optional Duplizieren Sie die Originalpakete und -platzierungen
 * Ändern der Flugdaten der neuen Kampagne
 
-Eine Liste der nicht duplizierten Platzierungseinstellungen finden Sie unter &quot;[Was nicht dupliziert wird](#campaign-not-duplicated)&quot;.
+Siehe[Nicht duplizierte Elemente](#campaign-not-duplicated)&quot; für eine Liste der Platzierungseinstellungen, die nicht dupliziert werden.
 
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Campaigns]**.
+
 1. Klicken Sie neben dem Kampagnennamen auf **... >[!UICONTROL Duplicate]**.
+
 1. Geben Sie die neuen Kampagneneinstellungen an:
+
    1. Geben Sie den neuen Kampagnennamen und das Endflugdatum ein.
+
    1. (Optional) Ändern Sie die Standardeinstellungen.
 
       Standardmäßig wird die neue Kampagne dem ursprünglichen Advertiser zugewiesen, hat einen Flugplan, der am aktuellen Tag beginnt, und enthält die ursprünglichen Pakete und Platzierungen.
@@ -39,12 +43,12 @@ Alle Einstellungen der ursprünglichen Platzierungen werden dupliziert, mit Ausn
 * Experimenteinstellungen
 * (Wenn Sie die Flugdaten ändern) Benutzerdefinierte Anzeigenplanung
 * (Wenn Sie keine Anzeigen anhängen) Benutzerdefinierte Anzeigengewichtung und -planung
-* Standardplatzierungen für programmgesteuerte (PG)-Angebote und Platzierungen für [!UICONTROL Simple Ad Serving]-Angebote
+* Standardplatzierungen für programmatisch garantierte (PG) Angebote und Platzierungen für [!UICONTROL Simple Ad Serving] Angebote
 * (Wenn Sie Platzierungen in eine andere Kampagne kopieren):
    * Geo-Ziele
    * Ereignispixel
    * Anzeigen
-   * Segmente auf Platzierungsebene [!DNL DoubleVerify Authentic Brand Safety] (die die Segmente auf Advertiser-Ebene überschreiben)
+   * Platzierungsebene [!DNL DoubleVerify Authentic Brand Safety] Segmente (die die Segmente auf Advertiser-Ebene überschreiben)
 
 >[!MORELIKETHIS]
 >

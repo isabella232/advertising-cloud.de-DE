@@ -1,51 +1,51 @@
 ---
-title: Von verwendete Advertising Cloud IDs [!DNL Analytics]
-description: Von verwendete Advertising Cloud IDs [!DNL Analytics]
+title: Von [!DNL Analytics]
+description: Von [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 525bc48104f928ccf9a3bb792b7e33c7e590cf4a
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1186'
 ht-degree: 0%
 
 ---
 
-# Von verwendete Advertising Cloud IDs [!DNL Analytics]
+# Von [!DNL Analytics]
 
-*Werbetreibende, die nur über eine Advertising Cloud-Adobe Analytics-Integration verfügen*
+*Werbetreibende mit nur einer Adobe Advertising-Adobe Analytics-Integration*
 
-*Gilt für Advertising Cloud DSP und Advertising Cloud Search*
+*Anwendbar auf Advertising DSP und[!DNL Advertising Search]*
 
-Advertising Cloud verwendet zwei IDs für das On-site-Leistungs-Tracking: die *EF ID* und *AMO-ID*.
+Adobe Advertising verwendet zwei IDs für das On-site-Performance-Tracking: die *EF ID* und *AMO-ID*.
 
-Wenn eine Ad-Impression auftritt, erstellt Advertising Cloud die AMO-ID- und EF-ID-Werte und speichert sie. Wenn ein Besucher, der eine Anzeige gesehen hat, auf die Site gelangt, ohne auf eine Anzeige zu klicken, [!DNL Analytics] ruft diese Werte von Advertising Cloud über [!DNL Analytics for Advertising Cloud] JavaScript-Code. Für Durchsichts-Traffic: [!DNL Analytics] generiert eine zusätzliche ID (`SDID`), das zum Zuordnen der EF ID und AMO ID zu verwendet wird [!DNL Analytics]. Für Clickthrough-Traffic werden diese IDs mithilfe der `s_kwcid` und `ef_id` Abfragezeichenfolgenparameter.
+Wenn eine Ad-Impression auftritt, erstellt Adobe Advertising die AMO-ID- und EF-ID-Werte und speichert sie. Wenn ein Besucher, der eine Anzeige gesehen hat, auf die Site gelangt, ohne auf eine Anzeige zu klicken, [!DNL Analytics] ruft diese Werte aus der Adobe Advertising über die [!DNL Analytics for Advertising] JavaScript-Code. Für Durchsichts-Traffic: [!DNL Analytics] generiert eine zusätzliche ID (`SDID`), das zum Zuordnen der EF ID und AMO ID zu verwendet wird [!DNL Analytics]. Für Clickthrough-Traffic werden diese IDs mithilfe der `s_kwcid` und `ef_id` Abfragezeichenfolgenparameter.
 
-Advertising Cloud unterscheidet mithilfe der folgenden Kriterien zwischen einem Clickthrough- oder Durchsichtseintrag auf der Website:
+Adobe Advertising unterscheidet mithilfe der folgenden Kriterien zwischen einem Clickthrough- oder Durchsichtseintrag auf der Website:
 
 * Ein Durchsichtseintrag wird erfasst, wenn ein Benutzer die Site besucht, nachdem er eine Anzeige angesehen, aber nicht darauf geklickt hat. [!DNL Analytics] erfasst eine Durchsicht, wenn zwei Bedingungen erfüllt sind:
    * Der Besucher hat keine Clickthroughs für eine [!DNL DSP] oder [!DNL Search] Anzeige während der [Klick-Lookback-Fenster](#lookback-a4adc).
    * Der Besucher hat mindestens eine [!DNL DSP] Anzeige während der [Impression-Lookback-Fenster](#lookback-a4adc). Die letzte Impression wird als Durchsicht übergeben.
 * Ein Clickthrough-Eintrag wird erfasst, wenn ein Site-Besucher auf eine Anzeige klickt, bevor er die Site betritt. [!DNL Analytics] erfasst einen Clickthrough, wenn eine der folgenden Bedingungen eintritt:
-   * Die URL enthält eine EF ID und eine AMO ID, die von Advertising Cloud zur Landingpage-URL hinzugefügt wurden.
-   * Die URL enthält keine Trackingcodes, aber der Advertising Cloud-JavaScript-Code erkennt einen Klick innerhalb der letzten zwei Minuten.
+   * Die URL enthält eine EF ID und eine AMO ID, die von Adobe Advertising zur Landingpage-URL hinzugefügt wurden.
+   * Die URL enthält keine Trackingcodes, aber der JavaScript-Code für Adobe Advertising erkennt einen Klick innerhalb der letzten zwei Minuten.
 
-![Ansichtsbasierte Advertising Cloud-Ansicht [!DNL Analytics] Integration](/help/integrations/assets/a4adc-view-through-process.png)
+![Adobe Advertising-Ansicht-basiert [!DNL Analytics] Integration](/help/integrations/assets/a4adc-view-through-process.png)
 
-*Abbildung 1: Ansichtsbasierte Advertising Cloud-Ansicht [!DNL Analytics] Integration*
+*Abbildung 1: Adobe Advertising-Ansicht-basiert [!DNL Analytics] Integration*
 
-![Advertising Cloud klickt auf URL-basiert [!DNL Analytics] Integration](/help/integrations/assets/a4adc-click-through-process.png)
+![Adobe Advertising-Klick-URL-basiert [!DNL Analytics] Integration](/help/integrations/assets/a4adc-click-through-process.png)
 
-*Abbildung 2: Advertising Cloud klickt auf URL-basiert [!DNL Analytics] Integration*
+*Abbildung 2: Adobe Advertising-Klick-URL-basiert [!DNL Analytics] Integration*
 
-## Advertising Cloud EF IDs
+## Adobe Advertising EF IDs
 
-Die EF ID ist ein eindeutiges Token, mit dem Advertising Cloud Aktivitäten mit einem Online-Klick oder einer Anzeige verknüpft. Die EF ID wird in einer [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) oder die rVar-Dimension (reservierte eVar) (Advertising Cloud EF ID) und verfolgt jeden Anzeigenklick oder jede Anzeige auf der Browser- oder Geräteebene. EF-IDs dienen hauptsächlich als Schlüssel zum Senden [!DNL Analytics] Daten an Advertising Cloud zur Berichterstellung und Angebotsoptimierung in Advertising Cloud.
+Die EF ID ist ein eindeutiges Token, mit dem Adobe Advertising Aktivitäten mit einem Online-Klick oder einer Anzeige in Verbindung setzt. Die EF ID wird in einer [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) oder die rVar-Dimension (reservierte eVar) (Adobe Advertising EF ID) und verfolgt jeden Anzeigenklick oder jede Anzeige auf der Browser- oder Geräteebene. EF-IDs dienen hauptsächlich als Schlüssel zum Senden [!DNL Analytics] Daten an Adobe Advertising zur Berichterstellung und Angebotsoptimierung in Adobe Advertising.
 
 ### EF ID Format
 
 >[!NOTE]
 >
->Bei EF IDs wird zwischen Groß- und Kleinschreibung unterschieden. Wenn eine [!DNL Analytics] -Implementierung erzwingt das URL-Tracking in Kleinbuchstaben. Anschließend erkennt Advertising Cloud die EF-ID nicht. Dies wirkt sich auf Gebote und Berichte von Advertising Cloud aus, hat jedoch keine Auswirkungen auf die Berichterstellung von Advertising Cloud innerhalb von [!DNL Analytics].
+>Bei EF IDs wird zwischen Groß- und Kleinschreibung unterschieden. Wenn eine [!DNL Analytics] -Implementierung erzwingt das URL-Tracking in Kleinbuchstaben. Dann erkennt Adobe Advertising die EF-ID nicht. Dies wirkt sich auf das Gebot und die Berichterstellung für Adobe Advertising aus, hat jedoch keine Auswirkungen auf die Berichterstellung für Adobe Advertising innerhalb von [!DNL Analytics].
 
 #### [!DNL Google Ads] Suchanzeigen
 
@@ -67,13 +67,11 @@ wobei:
 
 #### Anzeigen und Suchanzeigen in anderen Suchmaschinen
 
-```<Advertising Cloud visitor ID>:<timestamp>:<channel type>```
-
-<!-- <*Advertising Cloud visitor ID*>:<*timestamp*>:<*channel type*> -->
+```<Adobe Advertising visitor ID>:<timestamp>:<channel type>```
 
 wobei:
 
-* &lt;*Advertising Cloud-Besucher-ID*> ist eine eindeutige ID pro Besucher (z. B. &quot;ÄhKVaAAABCkJ0mDt&quot;). Auch als *Surfer-ID*.
+* &lt;*Adobe Advertising-Besucher-ID*> ist eine eindeutige ID pro Besucher (z. B. &quot;ÄhKVaAAABCkJ0mDt&quot;). Auch als *Surfer-ID*.
 
 * &lt;*timestamp*> ist die Zeit im Format JJJJMMTDDHHMMSS (z. B. 20190821192533 für Jahr 2019, Monat 08, Tag 21, Zeit 19).:25:33).
 
@@ -91,9 +89,9 @@ In [!DNL Analytics] Berichte, können Sie EF ID-Daten finden, indem Sie nach der
 
 EF-IDs unterliegen in Analysis Workspace der Grenze von 500.000 eindeutigen Kennungen. Sobald der Wert von 500.000 erreicht ist, werden alle neuen Trackingcodes unter dem einzeiligen Elementtitel gemeldet.[!UICONTROL Low Traffic].&quot; Da die Möglichkeit besteht, dass die Berichtstreue fehlt, werden die EF-IDs nicht klassifiziert und sollten Sie sie nicht für Segmente oder Berichte in [!DNL Analytics].
 
-## Advertising Cloud AMO-IDs
+## Adobe Advertising AMO-IDs
 
-Die AMO-ID verfolgt jede eindeutige Anzeigenkombination auf einer weniger detaillierten Ebene und wird für [!DNL Analytics] Datenklassifizierung und Erfassung von Werbemetriken (wie Impressionen, Klicks und Kosten) aus Advertising Cloud. Die AMO-ID wird in einer [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) oder rVar-Dimension (AMO-ID) und wird ausschließlich für die Berichterstellung in [!DNL Analytics].
+Die AMO-ID verfolgt jede eindeutige Anzeigenkombination auf einer weniger detaillierten Ebene und wird für [!DNL Analytics] Datenklassifizierung und Erfassung von Werbemetriken (wie Impressionen, Klicks und Kosten) aus Adobe Advertising. Die AMO-ID wird in einer [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) oder rVar-Dimension (AMO-ID) und wird ausschließlich für die Berichterstellung in [!DNL Analytics].
 
 Die AMO-ID wird auch als `s_kwcid`, der manchmal als &quot;[!DNL the squid].&quot;
 
@@ -105,26 +103,12 @@ wobei:
 
 * &lt;*Kanal-ID*> kann sein:
 
-   * `AC` = Advertising Cloud DSP
-   * `AL` für Advertising Cloud Search
+   * `AC` = DSP
+   * `AL` für [!DNL Advertising Search]
 
-* &lt;*Anzeigen-ID*> wird eine von Advertising Cloud generierte eindeutige Kennung für eine Anzeige verwendet. Sie dient als Schlüssel für die Übersetzung von Advertising Cloud-Entitätsmetadaten in lesbare [!DNL Analytics] Dimensionen.
+* &lt;*Anzeigen-ID*> wird eine durch Werbung generierte eindeutige Adobe für eine Anzeige verwendet. Sie dient als Schlüssel für die Übersetzung von Adobe Advertising-Entitätsmetadaten in lesbare [!DNL Analytics] Dimensionen.
 
-* &lt;*Platzierungs-ID*> ist eine von Advertising Cloud generierte eindeutige Kennung für eine Platzierung. Sie dient als Schlüssel für die Übersetzung von Advertising Cloud-Entitätsmetadaten in lesbare [!DNL Analytics] Dimensionen.
-
-<!-- <*Channel ID*>!<*Ad ID*>!<*Placement ID*>
-
-where:
-
-* <*Channel ID*> may be:
-
-    * `AC` = Advertising Cloud DSP
-    * `AL` for Advertising Cloud Search
-
-* <*Ad ID*> is used an Advertising Cloud-generated unique identifier for an ad. It serves as a key for translating Advertising Cloud entity metadata into readable [!DNL Analytics] dimensions.
-
-* <*Placement ID*> is an Advertising Cloud-generated unique identifier for an placement. It serves as a key for translating Advertising Cloud entity metadata into readable [!DNL Analytics] dimensions.
- -->
+* &lt;*Platzierungs-ID*> ist eine Adobe Advertising-generierte eindeutige Kennung für eine Platzierung. Sie dient als Schlüssel für die Übersetzung von Adobe Advertising-Entitätsmetadaten in lesbare [!DNL Analytics] Dimensionen.
 
 Beispiel einer AMO-ID: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
@@ -136,11 +120,11 @@ AMO-IDs für [!DNL Search] für jede Suchmaschine ein bestimmtes Format verwende
 
 wobei:
 
-* `AL` ist die Kanal-ID für den Suchkanal.
-* `{userid}` ist die eindeutige numerische Benutzer-ID, die Advertising Cloud dem Advertiser zuweist.
-* `{sid}` ist die numerische ID, die Advertising Cloud für die angegebene Suchmaschine verwendet, z. B. `3` für [!DNL Google Ads] oder `10` für [!DNL Microsoft Advertising].
+* `AL` ist die Kanal-ID für das Anzeigennetzwerk.
+* `{userid}` ist die eindeutige numerische Benutzer-ID, die Adobe Advertising dem Advertiser zuweist.
+* `{sid}` ist die numerische ID, die Adobe Advertising für das angegebene Werbenetzwerk verwendet, z. B. `3` für [!DNL Google Ads] oder `10` für [!DNL Microsoft Advertising].
 
-Im Folgenden finden Sie die vollständigen AMO ID-Formate für einige Suchmaschinen. Wenden Sie sich bei AMO-ID-Formaten für andere Suchmaschinen an Ihren [!DNL Adobe] Account-Team.
+Im Folgenden finden Sie die vollständigen AMO ID-Formate für einige Werbenetzwerke. Wenden Sie sich bei AMO-ID-Formaten für andere Werbenetzwerke an Ihren [!DNL Adobe] Account-Team.
 
 AMO-ID-Format für [!DNL Google Ads]:
 
@@ -167,14 +151,14 @@ wobei:
 
 In Analytics-Berichten können Sie AMO-ID-Daten finden, indem Sie nach der [!UICONTROL AMO ID] Dimension und unter Verwendung der [!UICONTROL AMO ID Instance] Metrik. Die [!UICONTROL AMO ID] -Dimension enthält alle erfassten AMO-ID-Werte, während die [!UICONTROL AMO ID Instance] gibt an, wie oft ein AMO-ID-Wert von der Site erfasst wurde. Wenn beispielsweise dieselbe Suchanzeige viermal angeklickt wurde, Analytics jedoch sieben Site-Einträge verfolgt hat, wird [!UICONTROL AMO ID Instance] wäre sieben (7) und [!UICONTROL Clicks] wäre vier (4).
 
-Für alle Berichte oder Prüfungen innerhalb von [!DNL Analytics]Best Practice ist, die AMO-ID zusammen mit der entsprechenden Instanz zu verwenden. Weitere Informationen finden Sie unter &quot;[Datenvalidierung für [!DNL Analytics for Advertising Cloud]](data-variances.md#data-validation)&quot;in &quot;Erwartete Datenabweichungen zwischen [!DNL Analytics] und Advertising Cloud.&quot;
+Für alle Berichte oder Prüfungen innerhalb von [!DNL Analytics]Best Practice ist, die AMO-ID zusammen mit der entsprechenden Instanz zu verwenden. Weitere Informationen finden Sie unter &quot;[Datenvalidierung für [!DNL Analytics for Advertising]](data-variances.md#data-validation)&quot;in &quot;Erwartete Datenabweichungen zwischen [!DNL Analytics] und Adobe Advertising.&quot;
 
 ## Informationen zu Analytics Classifications
 
-In [!DNL Analytics], [Classification](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) ist ein Metadatenelement für einen bestimmten Trackingcode, z. B. Konto, Kampagne oder Anzeige. Advertising Cloud kategorisiert Advertising Cloud-Rohdaten mithilfe von Klassifizierungen, damit Sie die Daten beim Generieren von Berichten auf unterschiedliche Weise anzeigen können (z. B. nach Anzeigentyp oder Kampagne). Klassifizierungen bilden die Grundlage für die Advertising Cloud-Berichterstellung in [!DNL Analytics] und kann mit den AMO-Metriken verwendet werden, z. B. [!UICONTROL AMO Cost], [!UICONTROL AMO Impressions]und [!UICONTROL AMO Clicks]sowie mit benutzerspezifischen und standardmäßigen On-site-Ereignissen wie [!UICONTROL Visits], [!UICONTROL Leads], [!UICONTROL Orders]und [!UICONTROL Revenue].
+In [!DNL Analytics], [Classification](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) ist ein Metadatenelement für einen bestimmten Trackingcode, z. B. Konto, Kampagne oder Anzeige. Adobe Advertising kategorisiert Werbedaten zu Rohdaten für Adoben mithilfe von Klassifizierungen, damit Sie die Daten beim Generieren von Berichten auf unterschiedliche Weise anzeigen können (z. B. nach Anzeigentyp oder Kampagnen). Klassifizierungen bilden die Grundlage für Adobe Advertising Reporting in [!DNL Analytics] und kann mit den AMO-Metriken verwendet werden, z. B. [!UICONTROL AMO Cost], [!UICONTROL AMO Impressions]und [!UICONTROL AMO Clicks]sowie mit benutzerspezifischen und standardmäßigen On-site-Ereignissen wie [!UICONTROL Visits], [!UICONTROL Leads], [!UICONTROL Orders]und [!UICONTROL Revenue].
 
 >[!MORELIKETHIS]
 >
->* [Übersicht über [!DNL Analytics for Advertising Cloud]](overview.md)
->* [Erwartete Datenabweichungen zwischen [!DNL Analytics] und Advertising Cloud](data-variances.md)
+>* [Übersicht über [!DNL Analytics for Advertising]](overview.md)
+>* [Erwartete Datenabweichungen zwischen [!DNL Analytics] und Adobe Advertising](data-variances.md)
 

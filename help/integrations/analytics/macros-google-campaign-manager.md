@@ -1,32 +1,32 @@
 ---
-title: Anhängen [!DNL Analytics for Advertising Cloud] Makros zu [!DNL Google Campaign Manager 360] Anzeigen-Tags
-description: Erfahren Sie, warum und wie Sie [!DNL Analytics for Advertising Cloud] Makros für Ihre [!DNL Google Campaign Manager 360] Anzeigen-Tags
+title: Anhängen [!DNL Analytics for Advertising] Makros zu [!DNL Google Campaign Manager 360] Anzeigen-Tags
+description: Erfahren Sie, warum und wie Sie [!DNL Analytics for Advertising] Makros für Ihre [!DNL Google Campaign Manager 360] Anzeigen-Tags
 feature: Integration with Adobe Analytics
 exl-id: 05084a85-5890-4a82-b3eb-4520f44f9d66
-source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
+source-git-commit: 7c467f7a6eb2522fb998539ba01ceef8c89c3853
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
 
-# Anhängen [!DNL Analytics for Advertising Cloud] Makros zu [!DNL Google Campaign Manager 360] Anzeigen-Tags
+# Anhängen [!DNL Analytics for Advertising] Makros zu [!DNL Google Campaign Manager 360] Anzeigen-Tags
 
-*Werbetreibende, die nur über eine Advertising Cloud-Adobe Analytics-Integration verfügen*
+*Werbetreibende mit nur einer Adobe Advertising-Adobe Analytics-Integration*
 
-*Gilt nur für Advertising Cloud DSP*
+*Gilt nur für Advertising DSP*
 
-Wenn Sie Anzeigen-Tags aus [!DNL Google Campaign Manager 360] Fügen Sie für Ihre Advertising Cloud DSP-Anzeigen Analytics für Advertising Cloud-Parameter mithilfe der [`%p` macro](https://support.google.com/campaignmanager/table/6096962). Der Parameterdatensatz `s_kwcid` und `ef_id` Abfragezeichenfolgenparameter in der Landingpage-URL, sodass Advertising Cloud Klickdaten für die Anzeigen an Adobe Analytics senden kann.
+Wenn Sie Anzeigen-Tags aus [!DNL Google Campaign Manager 360] für Ihre Advertising DSP Anzeigen anhängen [!DNL Analytics for Advertising] Parameter zu Ihren Landingpage-URLs mithilfe der [`%p` macro](https://support.google.com/campaignmanager/table/6096962). Der Parameterdatensatz `s_kwcid` und `ef_id` Abfragezeichenfolgenparameter in der Landingpage-URL, sodass Adobe Advertising Klickdaten für die Anzeigen an Adobe Analytics senden kann.
 
-Verwenden Sie Makros für [!DNL Campaign Manager 360] Anzeigen und Videoanzeigen für die folgenden Typen [!DNL Analytics for Advertising Cloud] Implementierungen:
+Verwenden Sie Makros für [!DNL Campaign Manager 360] Anzeigen und Videoanzeigen für die folgenden Typen [!DNL Analytics for Advertising] Implementierungen:
 
-* **Werbetreibende mit [!DNL Adobe] [!DNL Analytics for Advertising Cloud] Auf ihren Websites implementierter JavaScript-Code**: Der JavaScript-Code zeichnet bereits die `s_kwcid` und `ef_id` Abfragezeichenfolgenparameter. Durch die Verwendung von Makros wird das Tracking jedoch auch auf klickbasierte Konversionen erweitert, wenn Drittanbieter-Cookies nicht unterstützt werden. Es empfiehlt sich, die Makros in den folgenden Abschnitten zu Ihren Anzeigen-Tags hinzuzufügen, um zusätzliche Clickthrough-Daten zu erfassen, die nicht über den JavaScript-Code erfasst werden.
+* **Werbetreibende mit [!DNL Adobe] [!DNL Analytics for Advertising] Auf ihren Websites implementierter JavaScript-Code**: Der JavaScript-Code zeichnet bereits die `s_kwcid` und `ef_id` Abfragezeichenfolgenparameter. Durch die Verwendung von Makros wird das Tracking jedoch auch auf klickbasierte Konversionen erweitert, wenn Drittanbieter-Cookies nicht unterstützt werden. Es empfiehlt sich, die Makros in den folgenden Abschnitten zu Ihren Anzeigen-Tags hinzuzufügen, um zusätzliche Clickthrough-Daten zu erfassen, die nicht über den JavaScript-Code erfasst werden.
 
 >[!NOTE]
 >
 >Der JavaScript-Code ist eine Lösung für Klick-Tracking, während Cookies weiterhin verfügbar sind. Sobald Cookies beendet sind, ist die Implementierung der folgenden Makros erforderlich.
 
-* **Advertiser, deren Websites die [!DNL Analytics for Advertising Cloud] JavaScript-Code verwenden und stattdessen auf [!DNL Analytics] Serverseitige Weiterleitung nur für Clickthrough-Daten** (ohne Durchsichtsdaten): Die folgenden Makros sind erforderlich, um Klick-Aktivitäten vor Ort über Anzeigen zu melden, die Sie über Advertising Cloud kaufen.
+* **Advertiser, deren Websites die [!DNL Analytics for Advertising] JavaScript-Code verwenden und stattdessen auf [!DNL Analytics] Serverseitige Weiterleitung nur für Clickthrough-Daten** (ohne Durchsichtsdaten): Die folgenden Makros sind erforderlich, um Klick-Aktivitäten auf der Site zu melden, die von Anzeigen gesteuert werden, die Sie über Adobe Advertising kaufen.
 
 ## Hängen Sie die Makros an Ihre [!DNL Google Campaign Manager 360] Anzeigen
 
@@ -49,34 +49,22 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 
 ### Konfigurieren des Advertiser-Level-URL-Suffixes der Landingpage
 
-1. Klicken Sie im Hauptmenü auf die Schaltfläche [!UICONTROL Advertisers] Registerkarte.
-1. Klicken Sie auf den Namen des Advertisers.
+1. Siehe [Anweisungen zum Öffnen der Advertiser-Eigenschaften](https://support.google.com/campaignmanager/answer/2829344).
 1. Im [!UICONTROL Landing page URL suffix] Einstellungen, einschließen `%pamo!;` im [!UICONTROL URL suffix] -Feld.
-
-![Einstellungen auf Advertiser-Ebene](/help/integrations/assets/macro-ggl360-advertiser.png)
 
 ### URL-Suffix auf Kampagnenebene konfigurieren
 
-1. Klicken Sie im Hauptmenü auf die Schaltfläche [!UICONTROL Campaigns] Registerkarte.
-1. Klicken Sie auf den Kampagnennamen.
-1. Klicken [!UICONTROL Properties].
+1. Siehe [Anweisungen zum Öffnen der Kampagneneigenschaften](https://support.google.com/campaignmanager/answer/2838056#set).
 1. Im [!UICONTROL Landing page URL suffix] Einstellungen, einschließen `%pamo!;` im [!UICONTROL URL suffix] -Feld.
-
-![Einstellungen auf Kampagnenebene](/help/integrations/assets/macro-ggl360-campaign.png)
 
 ### Konfigurieren des URL-Suffixes der kreativen Einstiegsseite
 
-1. Klicken Sie im Hauptmenü auf die Schaltfläche [!UICONTROL Campaigns] Registerkarte.
-1. Klicken Sie auf den Kampagnennamen.
-1. Im [!UICONTROL Views] Menü auswählen [!UICONTROL Creatives].
-1. Klicken Sie auf den Kreativnamen.
+1. Öffnen Sie die kreativen Eigenschaften.
 1. Im [!UICONTROL Click tags] Einstellung, einschließen `%pamo!;` im [!UICONTROL Landing page] Spalte für das Klick-Tag.
 
-![Einstellungen auf kreativer Ebene](/help/integrations/assets/macro-ggl360-creative.png)
+## How [!DNL Analytics for Advertising] Makros werden in DSP erweitert
 
-## How [!DNL Analytics for Advertising Cloud] Makros werden in DSP erweitert
-
-DSP, wenn Sie eine Anzeige erstellen, die die [!DNL Analytics for Advertising Cloud] Parameter (`amo`), die `ef_id` und `s_kwcid` -Makros werden automatisch an die Klick-URL angehängt. Es empfiehlt sich, das Tag in DSP zu überprüfen, um sicherzustellen, dass die Variable `ef_id` und `s_kwcid` Makros sind vorhanden.
+DSP, wenn Sie eine Anzeige erstellen, die die [!DNL Analytics for Advertising] Parameter (`amo`), die `ef_id` und `s_kwcid` -Makros werden automatisch an die Klick-URL angehängt. Es empfiehlt sich, das Tag in DSP zu überprüfen, um sicherzustellen, dass die Variable `ef_id` und `s_kwcid` Makros sind vorhanden.
 
 Im Folgenden finden Sie ein Beispiel für eine [!DNL Google Campaign Manager 360] [ins-Tag](https://support.google.com/campaignmanager/answer/6080468) wie in DSP angezeigt.
 
@@ -94,10 +82,9 @@ data-dcm-param-amo='ef_id=${TM_USER_ID}:${TM_DATETIME}:d&s_kwcid=AC!${TM_AD_ID}!
 
 Wenn ein Benutzer auf die Anzeige klickt, [!DNL Google Campaign Manager 360] seen `%pamo` im URL-Suffix und fügt den Wert der `amo` in die URL ein.
 
-
 >[!MORELIKETHIS]
 >
->* [Übersicht über [!DNL Analytics for Advertising Cloud]](overview.md)
->* [Von verwendete Advertising Cloud IDs [!DNL Analytics]](/help/integrations/analytics/ids.md)
->* [Anhängen [!DNL Analytics for Advertising Cloud] Makros zu [!DNL Flashtalking] Anzeigen-Tags](macros-flashtalking.md)
+>* [Übersicht über [!DNL Analytics for Advertising]](overview.md)
+>* [Von [!DNL Analytics]](/help/integrations/analytics/ids.md)
+>* [Anhängen [!DNL Analytics for Advertising] Makros zu [!DNL Flashtalking] Anzeigen-Tags](macros-flashtalking.md)
 
