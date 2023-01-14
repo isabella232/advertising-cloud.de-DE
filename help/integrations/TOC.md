@@ -3,7 +3,7 @@ user-guide-title: Integrationen mit Adobe Experience Cloud
 user-guide-description: Erfahren Sie mehr über die Integration von Advertising DSP und Advertising Search mit anderen Adobe Experience Cloud-Produkten und -Services.
 breadcrumb-title: Integrationen mit Experience Cloud
 index: true
-source-git-commit: b00fd99b90efe7eff3e8d633422917a74ebbb66e
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 12%
@@ -27,8 +27,8 @@ ht-degree: 12%
          + [Anhängen [!DNL Analytics for Advertising] Makros zu [!DNL Flashtalking] Anzeigen-Tags](/help/integrations/analytics/macros-flashtalking.md)
          + [Anhängen [!DNL Analytics for Advertising] Makros zu [!DNL Google Campaign Manager 360] Anzeigen-Tags](/help/integrations/analytics/macros-google-campaign-manager.md)
    + Datenaustausch {#data}
-      + [Adobe Advertising-Metriken in Analysis Workspace](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
-      + [[!DNL Analytics] Daten in Adobe Advertising](/help/integrations/analytics/analytics-data-in-advertising-cloud.md)
+      + [Adobe Advertising-Metriken in Analysis Workspace](/help/integrations/analytics/advertising-metrics-in-analytics.md)
+      + [[!DNL Analytics] Daten in Adobe Advertising](/help/integrations/analytics/analytics-data-in-advertising.md)
       + [Erwartete Datenabweichungen zwischen [!DNL Analytics] und Adobe Advertising](/help/integrations/analytics/data-variances.md)
    + Arbeiten in [!DNL Analytics Marketing Channels] {#mc}
       + [Grundlagen [!DNL Marketing Channels]](/help/integrations/analytics/marketing-channels/mc-overview.md)

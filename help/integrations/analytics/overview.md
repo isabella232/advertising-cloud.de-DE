@@ -3,7 +3,7 @@ title: Übersicht über [!DNL Analytics for Advertising]
 description: Übersicht über [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 31367c8b-3410-4110-9ae6-11defe625355
-source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Verwendung [!DNL Analytics] als Reporting-Tool für gebührenpflichtige Medien b
 
 [Adobe Advertising-IDs in [!DNL Analytics]](ids.md) funktioniert wie andere eVars mit einem benutzerdefinierten, beständigen Ablauf. Standardmäßig ist das Attributions-Lookback-Fenster während der Adobe Advertising-Implementierung auf 60 Tage eingestellt. Wenden Sie sich an Ihre [!DNL Adobe] Account-Team.
 
-Adobe Advertising-Dimensionen werden mit dem Suffix &quot;(AMO-ID)&quot;angehängt (z. B. &quot;Anzeigentyp (AMO-ID)&quot;). Siehe[Adobe Advertising-Metriken in Analysis Workspace](advertising-cloud-metrics-in-analytics.md)&quot; für eine Liste der verfügbaren Dimensionen.
+Adobe Advertising-Dimensionen werden mit dem Suffix &quot;(AMO-ID)&quot;angehängt (z. B. &quot;Anzeigentyp (AMO-ID)&quot;). Siehe[Adobe Advertising-Metriken in Analysis Workspace](advertising-metrics-in-analytics.md)&quot; für eine Liste der verfügbaren Dimensionen.
 
 >[!NOTE]
 >
@@ -78,7 +78,7 @@ Sie können Ihre Standardereignisse und benutzerspezifischen Ereignisse aus [!DN
 
 Ihr Adobe Advertising-Team hilft Ihnen dabei, die für die gebührenpflichtige Medienleistung relevanten Ereignisse zu identifizieren und sie der Adobe Advertising zuzuordnen, wo sie erscheinen werden in [!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Transaction Properties].
 
-Siehe[Analytics-Metriken in Adobe Advertising](analytics-data-in-advertising-cloud.md)für eine Liste der verfügbaren Metriken.
+Siehe[Analytics-Metriken in Adobe Advertising](analytics-data-in-advertising.md)für eine Liste der verfügbaren Metriken.
 
 ### Analytics-Segmente für Site-Retargeting
 
@@ -111,6 +111,6 @@ Informationen dazu, wie Sie einen Site-Einstiegsbericht für Adobe Advertising e
 >* [Von Analytics verwendete Adobe Advertising-IDs](ids.md)
 >* [JavaScript-Code für Analytics für Advertising](/help/integrations/analytics/javascript.md)
 >* [Erwartete Datenabweichungen zwischen [!DNL Analytics] und Adobe Advertising](data-variances.md)
->* [Adobe Advertising-Metriken in Analysis Workspace](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
->* [[!DNL Analytics] Daten in Adobe Advertising](/help/integrations/analytics/analytics-data-in-advertising-cloud.md)
+>* [Adobe Advertising-Metriken in Analysis Workspace](/help/integrations/analytics/advertising-metrics-in-analytics.md)
+>* [[!DNL Analytics] Daten in Adobe Advertising](/help/integrations/analytics/analytics-data-in-advertising.md)
 

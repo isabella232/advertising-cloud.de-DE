@@ -2,9 +2,9 @@
 title: Konfigurieren von A/B-Tests für Adobe Advertising Ads in Adobe Target
 description: Erfahren Sie, wie Sie einen A/B-Test einrichten in [!DNL Target] für Ihre DSP und [!DNL Search] Anzeigen.
 exl-id: 97055645-4b2f-4795-830d-9ce89ae2ad15
-source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '1654'
+source-wordcount: '1647'
 ht-degree: 0%
 
 ---
@@ -220,7 +220,7 @@ Wenn Sie in Analysis Workspace feststellen, dass die Daten zu Aktivitäten und E
 * [Überblick über A/B-Tests](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html) - Beschreibt A/B-Test-Aktivitäten, die Sie mit DSP Anzeigen verwenden können.
 * [Erlebnisse und Angebote](https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html) - Erläuterung [!DNL Target] Tools zur Bestimmung der On-site-Inhalte, denen DSP Testbenutzer ausgesetzt sind.
 * [Signale, Eigenschaften und Segmente](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html) - Definiert einige der Audience Manager-Tools, die beim DSP Durchsichtstest helfen können.
-* [Übersicht über Analytics für Advertising](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html) - Einführung in Analytics for Advertising, mit dem Sie Clickthrough- und Durchsichts-Site-Interaktionen in Ihren Analytics-Instanzen verfolgen können.
+* [Übersicht über Analytics für Advertising](/help/integrations/analytics/overview.md) - Einführung in Analytics for Advertising, mit dem Sie Clickthrough- und Durchsichts-Site-Interaktionen in Ihren Analytics-Instanzen verfolgen können.
 
 <!-- 
 >[!MORELIKETHIS]

@@ -8,7 +8,7 @@ user-guide-title: Advertising DSP-Handbuch
 user-guide-description: Erfahren Sie mehr über die wichtigsten Funktionen, Aufgaben, Einstellungen und andere Ressourcen, die für die Verwaltung, Optimierung und Berichterstellung für Ihre Strategien rund um Display-Anzeigen mit Advertising DSP erforderlich sind.
 breadcrumb-title: Handbuch zu DSP
 index: true
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
 source-wordcount: '948'
 ht-degree: 5%
@@ -36,10 +36,10 @@ ht-degree: 5%
    + [Kontofinanzierung](/help/dsp/introduction/billing/account-funding.md)
    + [Unterstützte Währungen](/help/dsp/currency.md)
    + Unterstützung für den Kundendatenschutz {#privacy}
-      + [Unterstützung der Datenschutz-Grundverordnung](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-gdpr.html)
+      + [Unterstützung der Datenschutz-Grundverordnung](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/gdpr.html)
       + Unterstützung für CCPA {#ccpa}
-         + [Unterstützung des California Consumer Privacy Act: Zugriff auf Verbraucherdaten und Löschen](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-access-delete.html)
-         + [Unterstützung des California Consumer Privacy Act: Opt-out aus dem Verkauf für Verbraucher](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-opt-out-of-sale.html)
+         + [Unterstützung des California Consumer Privacy Act: Zugriff auf Verbraucherdaten und Löschen](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-access-delete.html)
+         + [Unterstützung des California Consumer Privacy Act: Opt-out aus dem Verkauf für Verbraucher](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html)
    + Grundsätze und Richtlinien {#policies}
       + [Richtlinie zu Anzeigenanforderungen](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
       + [Richtlinien für zulässige Gesundheitssegmente](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)

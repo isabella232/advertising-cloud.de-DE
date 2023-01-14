@@ -3,9 +3,9 @@ title: Abruf von Kundenabmeldeberichten
 description: Erfahren Sie, wie Sie Berichte zu IDs abrufen, die für Opt-out-Kaufanfragen gesendet wurden.
 feature: CCPA, DSP Segments
 exl-id: 8ada787a-6dcf-455b-88f4-701743e68292
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Sie können monatliche Berichte zu IDs abrufen, die Kunden für Opt-out-Kaufanfr
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Support für den California Consumer Privacy Act: Opt-out-Support für Verbraucher](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
+>* [Adobe Advertising Support für den California Consumer Privacy Act: Opt-out-Support für Verbraucher](/help/privacy/ccpa-opt-out-of-sale.md)
 >* [Info [!UICONTROL CCPA Opt-out-of-Sale] Segmente und Berichte](ccpa-opt-out-about.md)
 >* [Erstellen und Implementieren eines [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Über Zielgruppen-Management](audience-about.md)

@@ -2,13 +2,13 @@
 title: Berichtsziel-Einstellungen
 description: Sehen Sie sich die für Ihre Berichtsziele erforderlichen Details nach Zieltyp an.
 feature: DSP Custom Reports
-source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
+exl-id: 584c9c69-7b94-4e5c-bcc1-277ac2689d8e
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
 
 ---
-
 
 # Berichtsziel-Einstellungen
 
@@ -22,7 +22,7 @@ Die für Nicht-E-Mail-Berichtsziele erforderlichen Details variieren je nach Zie
 
 **[!UICONTROL Name]:** Ein Name, der Ihnen bei der Identifizierung des Ziels hilft.
 
-**[!UICONTROL S3 Bucket URL]:** Der vollständige Pfad zum Ordner auf der [!DNL Amazon Simple Storage Service] (S3), in den der Bericht hochgeladen wird. Beispiel: `s3://adcloud_account/reports`
+**[!UICONTROL S3 Bucket URL]:** Der vollständige Pfad zum Ordner auf der [!DNL Amazon Simple Storage Service] (S3), in den der Bericht hochgeladen wird. Beispiel: `s3://dsp_account/reports`
 
 **[!UICONTROL Access Key ID]:** Die Zugriffsschlüssel-ID für ([!DNL Amazon S3]) Behälter (bereitgestellt von [!DNL Amazon]).
 
