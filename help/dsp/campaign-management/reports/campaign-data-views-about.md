@@ -2,8 +2,7 @@
 title: Über Datenansichten in Campaign
 description: Erfahren Sie, wie Sie die Datenansichten für Kampagnen, Pakete, Platzierungen und Anzeigen anpassen können.
 feature: DSP Campaign Data Views
-exl-id: acc312b9-2de4-4e2f-9b59-b91f23d82357
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -45,6 +44,6 @@ In allen Kampagnenverwaltungsansichten ([!UICONTROL Campaigns], [!UICONTROL Pack
 >* [Datenvisualisierungen verwalten](campaign-data-visualization-manage.md)
 >* [Anzeigen von Sites, Anzeigen und Frequenzdetails für eine Platzierung](placement-details-view.md)
 >* [Anzeigen der platzierungsdiagnostischen Berichte](placement-diagnostics.md)
->* [Daten aus einer Kampagnenverwaltungsansicht exportieren](campaign-export-data.md)
+>* [Daten aus einer Campaign Management-Ansicht exportieren](campaign-export-data.md)
 >* [Video: DSP Kontostruktur und Benutzeroberfläche](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)
 

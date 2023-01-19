@@ -2,8 +2,7 @@
 title: Anzeigen von Sites, Anzeigen, Häufigkeit und Inventardetails für eine Platzierung
 description: Erfahren Sie, wie Sie die zielgerichteten Sites, Anzeigen, Häufigkeit und Inventardaten für eine Platzierung anzeigen.
 feature: DSP Placements
-exl-id: 99bb4a4e-dc52-4130-87c4-5458e25bbc1e
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%

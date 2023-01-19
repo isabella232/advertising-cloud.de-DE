@@ -2,8 +2,7 @@
 title: Platzierungseinstellungen für eine Kampagne herunterladen
 description: Erfahren Sie, wie Sie die Platzierungseinstellungen für eine Kampagne mithilfe von Excel QA-Tabellen herunterladen können.
 feature: DSP Placements
-exl-id: c3b0cbf2-7095-4608-977a-9a5dd0bbd585
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -14,7 +13,7 @@ ht-degree: 0%
 
 Sie können die Platzierungseinstellungen für eine Kampagne im XLSX-Format (Excel-Tabelle) herunterladen.
 
-Bei Bedarf können Sie die [Felder](qa-sheet-columns.md) später in der heruntergeladenen Datei bearbeiten und [die Änderungen](qa-sheet-upload.md) in DSP hochladen.
+Bei Bedarf können Sie die [Felder auswählen](qa-sheet-columns.md) in der heruntergeladenen Datei und [die Änderungen hochladen](qa-sheet-upload.md) DSP.
 
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Campaigns]**.
 
@@ -28,10 +27,10 @@ Bei Bedarf können Sie die [Felder](qa-sheet-columns.md) später in der herunter
 
 1. Führen Sie einen der folgenden Schritte aus:
 
-   * Klicken Sie in der Benachrichtigungsmeldung auf **[!UICONTROL Download].**.
+   * Klicken Sie in der Benachrichtigung auf **[!UICONTROL Download].**
 
-   * Klicken Sie rechts oben in der Menüleiste auf ![Aufträge](/help/dsp/assets/downloads.png). Klicken Sie neben dem Auftrag auf **[!UICONTROL Download]** .
-   Die Datei wird im Ordner Download des Browsers gespeichert. Eine Liste der eingeschlossenen Spalten finden Sie unter &quot;[Spalten in heruntergeladenen/hochgeladenen Arbeitsblättern](qa-sheet-columns.md)&quot;.
+   * Klicken Sie rechts oben in der Menüleiste auf ![Aufträge](/help/dsp/assets/downloads.png). Klicken **[!UICONTROL Download]** neben dem Auftrag.
+   Die Datei wird im Ordner Download des Browsers gespeichert. Siehe[Spalten in heruntergeladenen/hochgeladenen Arbeitsblättern](qa-sheet-columns.md)&quot; für eine Liste der enthaltenen Spalten.
 
 >[!MORELIKETHIS]
 >

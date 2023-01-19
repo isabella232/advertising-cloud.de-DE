@@ -2,8 +2,7 @@
 title: Daten aus einer Campaign Management-Ansicht exportieren
 description: Erfahren Sie, wie Sie die Daten aus einer beliebigen Kampagnenverwaltungsansicht in eine Tabellendatei exportieren.
 feature: DSP Campaign Data Views
-exl-id: 393b0726-d26c-4d0b-8926-98fc27259286
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

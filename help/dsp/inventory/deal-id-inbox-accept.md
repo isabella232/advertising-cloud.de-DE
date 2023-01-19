@@ -2,10 +2,9 @@
 title: Akzeptieren eines Angebots im [!UICONTROL Deal ID Inbox]
 description: Erfahren Sie, wie Sie ein privates Geschäft akzeptieren, das Sie bereits mit einem Herausgeber ausgehandelt haben in [!DNL FreeWheel], [!DNL Google Authorized Buyers] (früher bekannt als [!DNL AdX]), and [!DNL Magnite DV+] (früher [!DNL Rubicon]) über den Posteingang der Angebots-ID.
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: 55e8ca50-05f5-4f38-9fd5-afaed71315dc
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---

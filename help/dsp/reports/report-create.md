@@ -2,8 +2,7 @@
 title: Benutzerspezifischen Bericht erstellen
 description: Erfahren Sie, wie Sie einen benutzerspezifischen Bericht erstellen.
 feature: DSP Custom Reports
-exl-id: 07ab797f-4c9e-4241-a9a5-fd7d006b5e5a
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 4%
@@ -14,7 +13,7 @@ ht-degree: 4%
 
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Reports]**.
 1. Klicken **[!UICONTROL New Custom Report]**.
-1. Geben Sie die [Berichtseinstellungen](/help/dsp/reports/report-settings.md) an.
+1. Geben Sie die [Berichtseinstellungen](/help/dsp/reports/report-settings.md).
 1. Klicken **[!UICONTROL Create Custom Report]**.
 
 >[!MORELIKETHIS]

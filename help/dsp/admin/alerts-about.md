@@ -1,7 +1,7 @@
 ---
 title: Über Abonnements für Warnhinweise
 description: Erfahren Sie mehr über automatische E-Mail-Warnungen.
-source-git-commit: de1ad6e1cfeefc4ac1e8264c3063b550b6548446
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%

@@ -2,7 +2,7 @@
 title: Duplizieren einer wiederverwendbaren Zielgruppe
 description: Erfahren Sie, wie Sie eine wiederverwendbare Zielgruppe duplizieren.
 feature: DSP Audiences
-source-git-commit: a88ced7a895ada05eae44973b7f9a7790a947265
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%

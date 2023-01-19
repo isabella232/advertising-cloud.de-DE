@@ -2,10 +2,9 @@
 title: Anzeigen von Ereignispixel für eine [!UICONTROL Simple Ad Serving] Deal
 description: Erfahren Sie, wie Sie eine Kopie der Ereignis-Tracking-Pixel für eine [!UICONTROL Simple Ad Serving] handeln.
 feature: DSP Simple Ad Serving
-exl-id: 88d18ddd-98ba-4e36-890c-d6ddfb7d59e5
-source-git-commit: a29019ee7af0124ad9182f0578811c4d0e666937
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---

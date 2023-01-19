@@ -1,16 +1,15 @@
 ---
-title: Häufig gestellte Fragen zur Kampagnenverwaltung
+title: Häufig gestellte Fragen zu Campaign Management
 description: Erfahren Sie mehr über das Kampagnenmanagement, einschließlich der Wartezeit für Änderungen und was passiert, wenn Sie während eines Fluges Budgetänderungen vornehmen.
 feature: DSP Packages, DSP Placements
-exl-id: 9034ab2c-b8b0-4759-bc87-5f73857bb062
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 0%
 
 ---
 
-# Häufig gestellte Fragen zur Kampagnenverwaltung
+# Häufig gestellte Fragen zu Campaign Management
 
 <!-- Most of this information should be moved into the relevant topics (especially editing topics). -->
 
@@ -36,11 +35,11 @@ ht-degree: 0%
 
    Wenn Sie eine Platzierung aus einem Paket entfernen, hat das Paket keinen Verlauf der Platzierungsausgaben mehr. Das Package-Budget wird (Package-Budget - entferntes Platzierungs-Budget) / verbleibendes Zeitintervall im Flug sein. Das Paket-Budget wird dann den Platzierungen zugewiesen, die im Paket verbleiben.
 
-   Wenn Sie dieselbe Platzierung zu einem anderen Paket hinzufügen, berücksichtigt DSP den Ausgabenverlauf der Platzierung, wenn das Budget für alle Platzierungen im neuen Paket zugewiesen wird.
+   Wenn Sie dieselbe Platzierung zu einem anderen Paket hinzufügen, berücksichtigt DSP den Verlaufsverlauf der Platzierung, wenn das Budget für alle Platzierungen im neuen Paket zugewiesen wird.
 
 * Wie ändert sich das Package-Tempo am letzten Tag eines Fluges?
 
-   Am letzten Tag eines Fluges wird der Tag von 24 Stunden auf 23 Stunden verkürzt, sodass das Budget des Pauschalangebots nicht überschritten wird. Außerdem ändert sich die Strategie für das Abfüllen des Pakets automatisch in &quot;[!UICONTROL Frontload]&quot;, auch wenn sie auf &quot;[!UICONTROL even]&quot;festgelegt ist. Das bedeutet, dass 65 % des täglichen Budgets bis 11:30 Uhr EST bereitgestellt werden sollten.
+   Am letzten Tag eines Fluges wird der Tag von 24 Stunden auf 23 Stunden verkürzt, sodass das Budget des Pauschalangebots nicht überschritten wird. Außerdem ändert sich die Strategie für das Ausfüllen des Pakets automatisch in &quot;[!UICONTROL Frontload],&quot;auch wenn auf &quot;[!UICONTROL even].&quot; Das bedeutet, dass 65 % des täglichen Budgets bis 11:30 Uhr EST bereitgestellt werden sollten.
 
 >[!MORELIKETHIS]
 >

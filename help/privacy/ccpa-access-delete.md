@@ -2,8 +2,7 @@
 title: 'Adobe Advertising-Unterstützung für den California Consumer Privacy Act : Unterstützung für Zugriff auf Kundendaten und Löschung'
 description: Erfahren Sie mehr über die unterstützten Datenanforderungstypen, die erforderliche Einrichtung und Feldwerte sowie Beispiele für API-Zugriffsanfragen mit veralteten Produkt-IDs und zurückgegebenen Datenfeldern.
 feature: CCPA
-exl-id: 1330da6c-a944-4bb5-8539-488d97f56175
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 0%

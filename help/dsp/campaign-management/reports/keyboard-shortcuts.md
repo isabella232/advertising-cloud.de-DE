@@ -2,8 +2,7 @@
 title: Tastaturbefehle
 description: Referenzieren Sie die in den Platzierungseinstellungen verfügbaren Tastaturbefehle.
 feature: DSP Placements
-exl-id: bef0406c-9c10-48ec-b069-b887ef8f66ae
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -12,18 +11,18 @@ ht-degree: 0%
 
 # Tastaturbefehle
 
-Verwenden Sie in den Platzierungseinstellungen Tastaturbefehle, um schnell zu navigieren<!-- and to create ads and placements -->.
+Verwenden Sie in den Platzierungseinstellungen Tastaturbefehle, um schnell zu navigieren.<!-- and to create ads and placements -->.
 
 | Gültige Seite(n) | Tastaturbefehl | Beschreibung |
 | ---------------| ----------- | ---------------------- |
-| Platzierungseinstellungen | o | Verschiebt Sie in die [!UICONTROL Goals]-Einstellungen. |
-| Platzierungseinstellungen | g | Verschiebt Sie in die [!UICONTROL Geos]-Einstellungen. |
-| Platzierungseinstellungen | i | Verschiebt Sie in die [!UICONTROL Inventory]-Einstellungen. |
-| Platzierungseinstellungen | s | Verschiebt Sie in die [!UICONTROL Sites]-Einstellungen. |
-| Platzierungseinstellungen | a | Verschiebt Sie in die [!UICONTROL Audience]-Einstellungen. |
-| Platzierungseinstellungen | b | Verschiebt Sie in die [!UICONTROL Brand Safety]-Einstellungen. |
-| Platzierungseinstellungen | t | Verschiebt Sie in die [!UICONTROL Tracking]-Einstellungen. |
-| Platzierungseinstellungen | l | Verschiebt Sie in die [!UICONTROL Adobe Labs]-Einstellungen. |
+| Platzierungseinstellungen | o | Verschiebt euch zum [!UICONTROL Goals] settings |
+| Platzierungseinstellungen | g | Verschiebt euch zum [!UICONTROL Geos] settings |
+| Platzierungseinstellungen | i | Verschiebt euch zum [!UICONTROL Inventory] settings |
+| Platzierungseinstellungen | s | Verschiebt euch zum [!UICONTROL Sites] settings |
+| Platzierungseinstellungen | a | Verschiebt euch zum [!UICONTROL Audience] settings |
+| Platzierungseinstellungen | b | Verschiebt euch zum [!UICONTROL Brand Safety] settings |
+| Platzierungseinstellungen | t | Verschiebt euch zum [!UICONTROL Tracking] settings |
+| Platzierungseinstellungen | l | Verschiebt euch zum [!UICONTROL Adobe Labs] settings |
 
 {style=&quot;table-layout:auto&quot;}
 

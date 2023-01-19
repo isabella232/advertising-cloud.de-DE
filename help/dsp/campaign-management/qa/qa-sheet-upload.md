@@ -2,8 +2,7 @@
 title: Platzierungseinstellungen für eine Kampagne hochladen
 description: Erfahren Sie, wie Sie mithilfe von Excel QA-Tabellen Änderungen an wichtigen Platzierungseinstellungen für eine Kampagne hochladen können.
 feature: DSP Placements
-exl-id: 0f5fdc7e-3a90-4b4b-a23c-75bed7703100
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -12,11 +11,11 @@ ht-degree: 0%
 
 # Platzierungseinstellungen für eine Kampagne hochladen
 
-Um Änderungen an einigen Platzierungseinstellungen für eine Kampagne zu posten, können Sie eine Tabelle hochladen, die Sie zuvor [heruntergeladen haben](qa-sheet-download.md) und die Sie bearbeitet haben. Änderungen sind nur in den [bearbeitbaren Spalten](qa-sheet-columns.md) zulässig.
+Um Änderungen an einigen Platzierungseinstellungen für eine Kampagne zu posten, können Sie eine zuvor von Ihnen erstellte Tabelle hochladen [heruntergeladen](qa-sheet-download.md) und haben bearbeitet. Änderungen sind nur im [bearbeitbare Spalten](qa-sheet-columns.md).
 
 >[!TIP]
 >
->Um umfangreichere Änderungen an den Platzierungseinstellungen vorzunehmen, verwenden Sie die Massenbearbeitungsfunktion.<!-- add link once we have help on it -->
+>Verwenden Sie die Massenbearbeitungsfunktion, um umfangreiche Änderungen an den Platzierungseinstellungen vorzunehmen.<!-- add link once we have help on it -->
 
 1. Klicken Sie im Hauptmenü auf **[!UICONTROL Campaigns]**.
 
@@ -26,13 +25,13 @@ Um Änderungen an einigen Platzierungseinstellungen für eine Kampagne zu posten
 
    * Klicken Sie auf den Kampagnennamen, um die Kampagnendetails anzuzeigen. Klicken Sie oben rechts auf **[!UICONTROL ...]>[!UICONTROL Upload Excel QA sheet]**.
 
-1. Im Dialogfeld [!UICONTROL Edit in Excel] :
+1. Im [!UICONTROL Edit in Excel] dialog:
 
    1. Ziehen Sie eine Datei in das Feld oder klicken Sie in das Feld, um eine Datei aus Ihrem Gerät oder Netzwerk auszuwählen.
 
    1. Klicken **[!UICONTROL Upload]**.
 
-1. (Optional) Um sicherzustellen, dass die Aktualisierungen verarbeitet wurden, klicken Sie rechts oben in der Menüleiste auf ![Aufträge](/help/dsp/assets/downloads.png) .
+1. (Optional) Um zu überprüfen, ob die Aktualisierungen verarbeitet wurden, klicken Sie auf ![Aufträge](/help/dsp/assets/downloads.png) rechts von der oberen Menüleiste.
 
 >[!MORELIKETHIS]
 >

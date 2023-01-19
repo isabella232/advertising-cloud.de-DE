@@ -2,7 +2,7 @@
 title: Exportieren von Details zu einer wiederverwendbaren Zielgruppe
 description: Erfahren Sie, wie Sie die Konfiguration, die Zielgruppengröße und zielgerichtete Platzierungen für eine wiederverwendbare Zielgruppe anzeigen.
 feature: DSP Audiences
-source-git-commit: 0a437213957f914643b4eff63aba65cf582824c6
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
