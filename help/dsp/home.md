@@ -4,9 +4,10 @@ description: Erfahren Sie mehr über die neuesten Updates und neuen Funktionen i
 cloud: Experience Cloud
 product: advertising cloud
 index: true
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
+source-git-commit: 03e395432ff3d840a895f4e5d65843e3ac4c11a5
 workflow-type: tm+mt
-source-wordcount: '1064'
+source-wordcount: '1089'
 ht-degree: 0%
 
 ---
@@ -17,6 +18,7 @@ Die folgenden Funktionen sind neu oder kürzlich geändert worden.
 
 | Datum | Funktion | Beschreibung | Weitere Informationen |
 | ---- | ------- | ----------- | -------------------- |
+| 25. Januar 2023 | Angebote | Eine neue Ausgabespalte für &quot;PG-Impression-Geschwindigkeit&quot;in der Ansicht &quot;Inventar&quot;> &quot;Angebote&quot;für garantierte Angebote sieht Berichte in Geschwindigkeit vor. | Siehe[Bearbeiten einer benutzerdefinierten Spaltenansicht](/help/dsp/campaign-management/reports/column-view-edit.md).&quot; |
 | 14. Dezember 2022 | Platzierungen, Anzeigen | (Open Beta-Funktion) Neu &quot;[!UICONTROL Universal Video]&quot;Platzierungen und Anzeigen ermöglichen es Ihnen, mithilfe einer einzigen Videoplatzierung mehrere Geräteumgebungen für VPAID- und VAST-Inventar anzusprechen.<br><br>Universelle Videoplatzierungen enthalten die Einstellung &quot;Geräteumgebung&quot;, mit der Gerätetypziele ([!UICONTROL Desktop], [!UICONTROL Mobile]und [!UICONTROL Connected TV]). Universelle Videoanzeigen können nur mit universellen Videoplatzierungen verknüpft werden.<br><br>Benutzerspezifische Berichte enthalten die neue Dimension auf Platzierungsebene &quot;Geräteumgebung&quot;. | Siehe[Platzierungseinstellungen](/help/dsp/campaign-management/placements/placement-settings.md)&quot; und &quot;[Verfügbare Berichtsspalten](/help/dsp/reports/report-columns.md).&quot;<br><br>Siehe auch &quot;[Universelle Videoanzeigeneinstellungen](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)&quot; und &quot;[Erstellen einer Anzeige](/help/dsp/campaign-management/ads/ad-create.md).&quot; |
 | 23. November 2022 | Angebote | Die [!UICONTROL Inventory] > [!UICONTROL Deals] -Ansicht enthält jetzt &quot;[!UICONTROL Deal Health]&quot;-Spalte, die den Gesundheitsstatus jedes privaten Geschäfts angibt: &quot;[!UICONTROL Success], &quot;[!UICONTROL Warning], &quot;[!UICONTROL Critical],&quot;oder &quot;[!UICONTROL Unavailable].&quot; Sie können auf den Status klicken, um weitere Details anzuzeigen, einschließlich der Gründe, warum ein Deal nicht wie erwartet funktioniert oder Ausgaben ausgibt, und der Schritte zur Behebung potenzieller Probleme. | — |
 | 27. Oktober 2022 | [!UICONTROL Campaigns] | Für jedes Paket und jede Platzierung ist jetzt ein Änderungsprotokoll verfügbar, das die im ausgewählten Datumsbereich vorgenommenen Änderungen anzeigt. | Siehe[Anzeigen des Änderungsprotokolls für ein Paket](/help/dsp/campaign-management/packages/package-change-log.md)&quot; und &quot;[Anzeigen des Änderungsprotokolls für eine Platzierung](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
