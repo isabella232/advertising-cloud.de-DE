@@ -8,9 +8,9 @@ user-guide-title: Advertising DSP-Handbuch
 user-guide-description: Erfahren Sie mehr über die wichtigsten Funktionen, Aufgaben, Einstellungen und andere Ressourcen, die für die Verwaltung, Optimierung und Berichterstellung für Ihre Strategien rund um Display-Anzeigen mit Advertising DSP erforderlich sind.
 breadcrumb-title: Handbuch zu DSP
 index: true
-source-git-commit: d928b19b868ffc87d5962391f06d765f9da7c13a
+source-git-commit: 62966cd8d903d20b42444ac65d7c70a3a3806a1e
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '881'
 ht-degree: 5%
 
 ---
@@ -35,15 +35,8 @@ ht-degree: 5%
       + [Geräteübergreifende Lösungen](/help/dsp/introduction/features/cross-device-solutions.md)
    + [Kontofinanzierung](/help/dsp/introduction/billing/account-funding.md)
    + [Unterstützte Währungen](/help/dsp/currency.md)
-   + Unterstützung für den Kundendatenschutz {#privacy}
-      + [Unterstützung der Datenschutz-Grundverordnung](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/gdpr.html)
-      + Unterstützung für CCPA {#ccpa}
-         + [Unterstützung des California Consumer Privacy Act: Zugriff auf Verbraucherdaten und Löschen](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-access-delete.html)
-         + [Unterstützung des California Consumer Privacy Act: Opt-out aus dem Verkauf für Verbraucher](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html)
-   + Grundsätze und Richtlinien {#policies}
-      + [Richtlinie zu Anzeigenanforderungen](/help/policies/ad-requirements-policy.md)
-      + [Richtlinien für zulässige Gesundheitssegmente](/help/policies/health-segment-guidelines.md)
-      + [[!DNL DSP] Richtlinien zur Datennutzung](/help/policies/data-usage-guidelines.md)
+   + [Unterstützung für den Kundendatenschutz](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [Grundsätze und Richtlinien](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
    + [Erweiterte Messlösungen](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
    + [Übersicht über die Campaign Management-Struktur](/help/dsp/campaign-management/campaign-management-overview.md)
@@ -231,6 +224,6 @@ ht-degree: 5%
    + Benachrichtigungen {#notifications}
       + [Über Abonnements für Warnhinweise](/help/dsp/admin/alerts-about.md)
       + [Verwalten von Warnungsanmeldungen](/help/dsp/admin/alerts-manage.md)
-+ [Integrationen mit Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
++ [Integrationen mit Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
 + [Support](https://helpx.adobe.com/de/contact/enterprise-support.ec.html)
 + [Versionshinweise zu Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
