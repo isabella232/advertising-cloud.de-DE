@@ -2,7 +2,8 @@
 title: Über Zielgruppen-Management in Advertising DSP
 description: Erfahren Sie mehr über die Funktionen des Zielgruppen-Managements.
 feature: DSP Audiences, DSP Segments
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 44cfe67e-e495-447f-b08f-d3789bd4dd09
+source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
 workflow-type: tm+mt
 source-wordcount: '1036'
 ht-degree: 0%
@@ -19,7 +20,7 @@ In DSP können Sie Zielgruppensegmente und Zielgruppensätze erstellen und verwa
 
    * [CCPA-Ausschluss von Verkaufssegmenten](/help/dsp/audiences/ccpa-opt-out-segment-create.md) , um die Benutzer-IDs aus Opt-out-Kaufanfragen von Verbrauchern auf Ihrer Website gemäß dem California Consumer Privacy Act (CCPA) zu verfolgen. Sie können monatliche Berichte über die Benutzer-IDs aus Opt-out-Kaufanfragen abrufen.
 
-      Weitere Informationen zur Adobe Advertising-Unterstützung für CCPA-Opt-out-of-Sale-Anfragen finden Sie unter [Adobe Advertising Support für den California Consumer Privacy Act: Opt-out-Support für Verbraucher](/help/privacy/ccpa-opt-out-of-sale.md).
+      Weitere Informationen zur Adobe Advertising-Unterstützung für CCPA-Opt-out-of-Sale-Anfragen finden Sie unter [Adobe Advertising Support für den California Consumer Privacy Act: Opt-out-Support für Verbraucher](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 
 * Sie können eine Zielgruppenbibliothek von [Wiederverwendbare Zielgruppen](/help/dsp/audiences/reusable-audience-create.md). Gespeicherte Zielgruppen bestehen aus einem Ihrer verfügbaren Zielgruppensegmente und einer Ihrer anderen gespeicherten Zielgruppen. Alle Änderungen, die Sie an einer gespeicherten Zielgruppe vornehmen, werden automatisch auf alle Platzierungen angewendet, die die Zielgruppe als Ziel angeben oder ausschließen, sowie auf alle anderen Zielgruppen, die die gespeicherte Zielgruppe enthalten.
 

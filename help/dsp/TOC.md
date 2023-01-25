@@ -8,7 +8,7 @@ user-guide-title: Advertising DSP-Handbuch
 user-guide-description: Erfahren Sie mehr über die wichtigsten Funktionen, Aufgaben, Einstellungen und andere Ressourcen, die für die Verwaltung, Optimierung und Berichterstellung für Ihre Strategien rund um Display-Anzeigen mit Advertising DSP erforderlich sind.
 breadcrumb-title: Handbuch zu DSP
 index: true
-source-git-commit: f04fdb7f4f9787804e526b49da2aad0f4e15679a
+source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
 workflow-type: tm+mt
 source-wordcount: '910'
 ht-degree: 5%
@@ -36,10 +36,10 @@ ht-degree: 5%
    + [Kontofinanzierung](/help/dsp/introduction/billing/account-funding.md)
    + [Unterstützte Währungen](/help/dsp/currency.md)
    + Unterstützung für den Kundendatenschutz {#privacy}
-      + [Unterstützung der Datenschutz-Grundverordnung](/help/privacy/advertising-gdpr.md)
+      + [Unterstützung der Datenschutz-Grundverordnung](/help/privacy/gdpr.md)
       + Unterstützung für CCPA {#ccpa}
-         + [Unterstützung des California Consumer Privacy Act: Zugriff auf Verbraucherdaten und Löschen](/help/privacy/ccpa-access-delete.md)
-         + [Unterstützung des California Consumer Privacy Act: Opt-out aus dem Verkauf für Verbraucher](/help/privacy/ccpa-opt-out-of-sale.md)
+         + [Unterstützung des California Consumer Privacy Act: Zugriff auf Verbraucherdaten und Löschen](/help/privacy/ccpa/ccpa-access-delete.md)
+         + [Unterstützung des California Consumer Privacy Act: Opt-out aus dem Verkauf für Verbraucher](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
    + Grundsätze und Richtlinien {#policies}
       + [Richtlinie zu Anzeigenanforderungen](/help/policies/ad-requirements-policy.md)
       + [Richtlinien für zulässige Gesundheitssegmente](/help/policies/health-segment-guidelines.md)

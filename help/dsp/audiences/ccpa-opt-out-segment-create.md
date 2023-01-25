@@ -2,9 +2,10 @@
 title: Erstellen und Implementieren eines CCPA-Opt-out-of-Sale-Segments
 description: Erfahren Sie, wie Sie ein Segment erstellen und implementieren, um Benutzer-IDs aus Kunden-Opt-out-Kaufanfragen zu verfolgen.
 feature: CCPA, DSP Segments
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 0623c52e-02ea-4e06-bc54-8abb7a87765a
+source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -17,7 +18,7 @@ Sobald das Segmentpixel-Tag implementiert ist, beginnt Adobe Advertising mit der
 
 >[!NOTE]
 >
->* Informationen dazu, wie Sie CCPA-Opt-out-of-Sale-Anfragen mithilfe der Adobe Experience Platform Privacy Service-API an Adobe Advertising senden, finden Sie unter [https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa-opt-out-of-sale.html](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa-opt-out-of-sale.html).
+>* Informationen dazu, wie Sie CCPA-Opt-out-of-Sale-Anfragen mithilfe der Adobe Experience Platform Privacy Service-API an Adobe Advertising senden, finden Sie unter [https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 >* Um Benutzer zu verfolgen, die Webseiten zu Zwecken besuchen, die nicht mit dem Tracking von CCPA-Opt-out-Kaufereignissen in Verbindung stehen, sowie Benutzer, die Anzeigen von Desktop-, Mobil- und CTV-Geräten ausgesetzt sind, erstellen Sie eine [benutzerspezifisches Segment](/help/dsp/audiences/custom-segment-create.md).
 
 
@@ -60,7 +61,7 @@ Sobald das Segmentpixel-Tag implementiert ist, beginnt Adobe Advertising mit der
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Support für den California Consumer Privacy Act: Opt-out-Support für Verbraucher](/help/privacy/ccpa-opt-out-of-sale.md)
+>* [Adobe Advertising Support für den California Consumer Privacy Act: Opt-out-Support für Verbraucher](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
 >* [Info [!UICONTROL CCPA Opt-out-of-Sale] Segmente und Berichte](ccpa-opt-out-about.md)
 >* [Abruf von Kundenabmeldeberichten](ccpa-opt-out-segment-report-retrieve.md)
 >* [Erstellen und Implementieren eines benutzerdefinierten Segments](custom-segment-create.md)
