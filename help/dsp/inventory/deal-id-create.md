@@ -3,9 +3,9 @@ title: Manuelles Erstellen von Details zur Angebots-ID
 description: Erfahren Sie, wie Sie Details für eine Angebots-ID manuell eingeben.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 20a57919-c68f-4c9d-a8e1-f49484f74655
-source-git-commit: bc5f05faf96d455bd8954e7f7f44cc9fe849e562
+source-git-commit: c2b83922ba5d4b40ad5a436f0ea052d051fb1d37
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    1. Im [!UICONTROL Deal ID basics] Geben Sie die Details des Angebots sowie die Advertiser an, die auf den Deal zugreifen können. Für garantierte Angebote müssen Sie auch die geplanten Flugdaten und die geschätzte Anzahl der Impressionen angeben, und zwar ausschließlich zu Tracking-Zwecken.
 
-      Sie können das garantierte Deal-Geschwindigkeit verfolgen, indem Sie die Ausgabespalte &quot;PG Impression Pacing&quot;in die Ansicht &quot;Inventar&quot;> &quot;Angebote&quot;einbeziehen.
+      Sie können das Tempo der garantierten Angebote verfolgen, indem Sie die Ausgabespalte &quot;PG Impression Pacing&quot;in die Ansicht &quot;Inventar&quot;> &quot;Angebote&quot;einbeziehen.
 
    1. (Nur Administrator-Benutzer; optional) Im [!UICONTROL Technical] ändern Sie die Standardeinstellungen nach Bedarf.
 
